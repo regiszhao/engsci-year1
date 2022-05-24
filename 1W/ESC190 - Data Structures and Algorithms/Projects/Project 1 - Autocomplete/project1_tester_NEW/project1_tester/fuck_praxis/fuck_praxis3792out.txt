@@ -1,0 +1,65 @@
+20
+kw 0
+Q 0
+bPz 0
+nl 0
+uq 0
+hh 0
+GP 0
+D 4
+Deteriorates
+Despatch
+Drinks
+Deserve
+ce 1
+cement
+po 1
+pored
+uf 0
+yGN 0
+lq 0
+xIs 0
+xsm 0
+ci 2
+citron
+civility
+p 14
+pored
+pinafore
+purest
+peas
+places
+passionate
+panzer
+placental
+parental
+pasteurised
+playgrounds
+pantheon
+paradise
+principalities
+c 22
+capriciously
+citron
+complimentary
+chunks
+corneas
+cosmic
+creditability
+counsel
+counteracts
+cartouche
+comparator
+cleavages
+cajole
+cement
+computable
+correlative
+crumpet
+charles
+calcutta
+cubs
+cartwheel
+civility
+yp 0
+ip 0

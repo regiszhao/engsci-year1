@@ -1,0 +1,11 @@
+7
+t 1
+tapdance
+fy 0
+m 2
+metalled
+mechanicals
+tr 0
+rF 0
+nng 0
+dcv 0

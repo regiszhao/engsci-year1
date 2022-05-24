@@ -1,0 +1,25 @@
+4
+b 20
+banker
+bedclothes
+baffles
+baddy
+backstairs
+bay
+bemusement
+boarding
+burbling
+blinker
+brim
+blacken
+barleycorns
+bedridden
+bumble
+broking
+betraying
+baklavas
+barracking
+breadline
+bZg 0
+sd 0
+op 0

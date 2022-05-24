@@ -1,0 +1,87 @@
+7
+p 26
+prisoners
+pixel
+prague
+perpendiculars
+perfects
+persisted
+panga
+packet
+premieres
+pasturing
+palaeontological
+plainly
+pebbles
+polyhedral
+palaeontological
+prevaricated
+primer
+prompting
+pythons
+pawnshop
+protested
+parameters
+principled
+preciousness
+phototypesetter
+purls
+tw 0
+D 8
+Delphi
+Dwindling
+Deliberately
+Daisies
+Demote
+Drooped
+Dowagers
+Displayed
+g 17
+gunfight
+geraniums
+gypsum
+germinating
+galloped
+gymkhana
+gravitating
+greensward
+gum
+guessable
+glosses
+gropers
+geared
+gruel
+gainful
+glorying
+gaudiness
+wp 0
+w 8
+waggle
+wheelwrights
+wellgrounded
+whence
+wetsuits
+whetstone
+wallaby
+wiliest
+d 20
+dynamical
+dispute
+devisal
+dourly
+declamatory
+designations
+disintegrate
+demolitions
+defections
+deliverers
+drawl
+depraves
+doubling
+dihedral
+different
+decimalisation
+dominion
+dedication
+deponent
+dislike

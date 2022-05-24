@@ -1,0 +1,182 @@
+25
+y 0
+io 1
+iota
+Jr 0
+h 15
+headlock
+hop
+hider
+had
+hookers
+hostel
+habits
+hornets
+hugging
+holdalls
+hundred
+hatching
+hunchbacked
+headboard
+headphones
+oE 0
+s 50
+spacesuits
+snooping
+sarcasms
+simple
+slackest
+sidling
+slant
+shapers
+sleep
+setter
+samovar
+syndicates
+screwing
+seascapes
+saloons
+swamping
+systematically
+starring
+spaghetti
+structural
+stretcher
+sufferer
+swordsmen
+shyest
+stooping
+scar
+scotfree
+shared
+silkiness
+scrunched
+sinecures
+subtitling
+scholar
+stowage
+surcharged
+stopping
+seances
+skinheads
+swallower
+slugged
+spenders
+sting
+skaters
+subroutine
+salubrious
+suppositories
+speeded
+swarthy
+spaceage
+sidecar
+Q 1
+Quality
+dcq 0
+xt 0
+me 1
+mercury
+oa 0
+oJu 0
+Ti 1
+Tildes
+gmi 0
+tk 0
+th 2
+thermochemical
+theorist
+us 1
+usher
+QX 0
+lgi 0
+tq 0
+n 7
+nullify
+nice
+notaries
+nosily
+nuclear
+nap
+nectar
+t 15
+toys
+trunnions
+thermochemical
+traverses
+transcribes
+tracts
+topic
+tamed
+torchlit
+tethered
+trampled
+toby
+taramasalata
+tetrameters
+theorist
+s 50
+spacesuits
+snooping
+sarcasms
+simple
+slackest
+sidling
+slant
+shapers
+sleep
+setter
+samovar
+syndicates
+screwing
+seascapes
+saloons
+swamping
+systematically
+starring
+spaghetti
+structural
+stretcher
+sufferer
+swordsmen
+shyest
+stooping
+scar
+scotfree
+shared
+silkiness
+scrunched
+sinecures
+subtitling
+scholar
+stowage
+surcharged
+stopping
+seances
+skinheads
+swallower
+slugged
+spenders
+sting
+skaters
+subroutine
+salubrious
+suppositories
+speeded
+swarthy
+spaceage
+sidecar
+f 12
+forever
+fonder
+formulae
+fanbelt
+fruitlessly
+frizzy
+figment
+forbiddingly
+fledglings
+flipflop
+freelancer
+furriest
+wr 0

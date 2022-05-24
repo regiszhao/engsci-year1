@@ -1,0 +1,124 @@
+19
+uc 0
+ui 0
+Zp 0
+v 7
+vortex
+vestal
+visas
+variety
+vandalise
+vectorised
+vise
+k 5
+kaftan
+kale
+knows
+kneel
+kennels
+u 15
+underwent
+undefended
+user
+untied
+unfirm
+unpronounced
+unexplainable
+unspeakable
+underplayed
+unnaturally
+unergonomic
+unmanageably
+unselfconscious
+untied
+uncomplaining
+kx 0
+jn 0
+F 5
+Fantastic
+Fastened
+Fabricating
+Fractionating
+Factorisable
+v 7
+vortex
+vestal
+visas
+variety
+vandalise
+vectorised
+vise
+v 7
+vortex
+vestal
+visas
+variety
+vandalise
+vectorised
+vise
+m 22
+motorcycling
+monocular
+macrophages
+millipedes
+maidservant
+monroe
+marshgas
+mortgages
+magistrate
+magical
+misjudged
+milieu
+meandering
+motlier
+mediate
+mismanaged
+modishly
+mastered
+materials
+magnificently
+misprints
+mire
+zy 0
+U 4
+Unaided
+Uninhibitedly
+Unescorted
+Unfix
+u 15
+underwent
+undefended
+user
+untied
+unfirm
+unpronounced
+unexplainable
+unspeakable
+underplayed
+unnaturally
+unergonomic
+unmanageably
+unselfconscious
+untied
+uncomplaining
+t 17
+transitive
+topple
+tilled
+tenantry
+thoughts
+trigonometric
+tapioca
+talks
+tingled
+twofaced
+threefold
+trellised
+tangy
+throng
+tautological
+turn
+truculently
+Y 0
+uk 0
+unv 0

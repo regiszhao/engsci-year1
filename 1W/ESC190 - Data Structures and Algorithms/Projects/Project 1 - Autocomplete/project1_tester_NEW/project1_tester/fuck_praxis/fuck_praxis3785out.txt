@@ -1,0 +1,240 @@
+29
+Ag 0
+hn 0
+oz 0
+aw 0
+jx 0
+d 32
+discourses
+distension
+disenfranchise
+denotations
+diehards
+demander
+destroy
+dogfish
+dormice
+drinker
+dry
+damascus
+diamond
+declamatory
+diaspora
+dockyard
+derailment
+disassembler
+dawns
+dressmaking
+detentions
+detonating
+danced
+distrusted
+dissenting
+descriptively
+delineated
+digitisers
+demagogue
+disulphide
+difficulties
+dragged
+co 23
+conflating
+condoles
+colonialist
+cookbooks
+colonial
+convicts
+conciliating
+computability
+cognoscenti
+contenting
+coercible
+cockier
+condenses
+copilot
+cot
+conclusively
+comments
+cornering
+costed
+covalent
+complemented
+compatriots
+copious
+ma 12
+madeira
+masted
+marines
+magma
+markings
+mathematician
+mass
+malady
+macromolecular
+matchable
+magnetosphere
+marquee
+b 50
+bush
+bandstand
+buried
+basaltic
+bashfulness
+bluntest
+balms
+browbeating
+buns
+baroness
+bullies
+belles
+balderdash
+bloodthirstiest
+brooding
+bottleneck
+buys
+bookbinder
+bemoans
+bettered
+byelaw
+bail
+beheld
+boneless
+bating
+bequeath
+beforehand
+blase
+bluffing
+braking
+binders
+blights
+berserk
+beige
+bustard
+brusquely
+boastfully
+bosun
+bureaucracy
+bloodier
+bloodstream
+bluster
+bravado
+belles
+burglary
+beset
+belch
+bedsore
+botswana
+bumble
+rh 1
+rheumatism
+G 5
+Gallons
+Gridlock
+Gyration
+Galls
+Gallant
+c 45
+cravings
+champagnes
+conflating
+condoles
+cadence
+colonialist
+chars
+cannery
+charlady
+customs
+calibrated
+cookbooks
+colonial
+civilising
+convicts
+conciliating
+creel
+computability
+cognoscenti
+chuff
+contenting
+coercible
+ceremonials
+cockier
+chauvinists
+celestially
+condenses
+crunchy
+capitalised
+copilot
+cot
+cravats
+closeups
+conclusively
+comments
+cerebellum
+cornering
+causing
+costed
+covalent
+complemented
+clemency
+crest
+compatriots
+copious
+wh 3
+whetted
+wholesaler
+whalebone
+hR 0
+bk 0
+O 6
+Oil
+Obstructive
+Ophthalmologists
+Oversights
+Ooze
+Opinions
+ot 0
+uP 0
+xsm 0
+ca 5
+cadence
+cannery
+calibrated
+capitalised
+causing
+az 0
+Nui 0
+Dtz 0
+Xo 0
+Hp 0
+t 28
+transfusions
+telemetry
+temporary
+tramcars
+tempests
+termite
+teardrop
+tongues
+together
+thor
+theologian
+tallying
+tasked
+teases
+thaw
+trundle
+tantrums
+tachycardia
+texts
+tangles
+theorems
+thunderbolt
+terrestrial
+tractable
+typicality
+thronging
+trope
+trainees
+jp 0
+rwI 0
+jcv 0

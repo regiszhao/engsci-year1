@@ -1,0 +1,65 @@
+15
+jjO 0
+sF 0
+T 5
+Tipple
+Tenacity
+Tack
+Talk
+Thumps
+q 0
+hgt 0
+i 5
+irrelevances
+inarticulate
+inelastic
+indiscipline
+inhuman
+Yw 0
+c 22
+concretely
+childminders
+credulous
+curtails
+computer
+canning
+crystallise
+clumped
+cooks
+calf
+charged
+citrates
+crystallisation
+certifies
+cavities
+counterintuitive
+coerces
+cloistered
+catarrh
+computations
+crushingly
+crucifixions
+p 12
+prognoses
+physiognomies
+peer
+plaids
+pianists
+parleying
+paddle
+payee
+prouder
+pharmacist
+publishable
+pivoted
+VQR 0
+P 5
+Perambulations
+Pray
+Personalising
+Purchasable
+Pact
+XV 0
+cpp 0
+uml 0
+aca 0

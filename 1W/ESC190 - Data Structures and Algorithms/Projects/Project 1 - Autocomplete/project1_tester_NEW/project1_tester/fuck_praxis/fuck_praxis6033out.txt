@@ -1,0 +1,12 @@
+9
+rty 0
+Sq 0
+db 0
+eq 2
+equalised
+equaliser
+aN 0
+mx 0
+cb 0
+Stf 0
+Vv 0

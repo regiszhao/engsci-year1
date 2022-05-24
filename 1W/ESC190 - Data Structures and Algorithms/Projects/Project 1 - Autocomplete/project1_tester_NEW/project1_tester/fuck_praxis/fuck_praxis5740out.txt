@@ -1,0 +1,182 @@
+24
+B 9
+Brook
+Bicycling
+Bantamweight
+Brainless
+Bystander
+Baulk
+Beauty
+Backing
+Bundling
+gum 0
+J 0
+Wa 2
+Wader
+Wanderers
+Mx 0
+g 19
+grouch
+grudging
+glottal
+generalisations
+grain
+grammatical
+guard
+guppy
+gleam
+granddad
+gritted
+gasper
+guy
+gloss
+grasslands
+grapeshot
+graft
+gravy
+groping
+nE 0
+gvU 0
+oyy 0
+ms 0
+ZA 0
+f 30
+foundering
+feasted
+feels
+floozy
+freefalling
+fencings
+foreclose
+fawningly
+fatally
+frilly
+fatigues
+forelock
+freshman
+fadeout
+fundraising
+flotsam
+firebombs
+fairer
+fuchsia
+flashes
+forecasters
+fours
+furnishers
+finial
+fluoridation
+forewarning
+furriest
+firmest
+fuzz
+filings
+q 6
+quaintly
+quietly
+quietness
+quadrophonic
+quietening
+quantised
+V 3
+Viewfinder
+Vibrationally
+Visuals
+f 30
+foundering
+feasted
+feels
+floozy
+freefalling
+fencings
+foreclose
+fawningly
+fatally
+frilly
+fatigues
+forelock
+freshman
+fadeout
+fundraising
+flotsam
+firebombs
+fairer
+fuchsia
+flashes
+forecasters
+fours
+furnishers
+finial
+fluoridation
+forewarning
+furriest
+firmest
+fuzz
+filings
+L 8
+Loftiness
+Largo
+Loops
+Lexicographic
+Lilliputian
+Lanky
+Limber
+Locating
+xk 0
+gx 0
+T 15
+Transporting
+Tallied
+Truest
+Tent
+Trekking
+Testify
+Timetable
+Tug
+Tableaux
+Tar
+Translates
+Twain
+Twenties
+Totalising
+Tithes
+ys 0
+o 19
+originality
+outrun
+ordination
+operettas
+owl
+openly
+obtaining
+ornithological
+overindulgence
+oscillator
+orthorhombic
+overstate
+overrepresented
+outhouses
+outpacing
+overlaps
+order
+outlawing
+obtrusive
+YrV 0
+Zv 0
+w 16
+weightlifting
+waist
+wards
+welldefined
+waggling
+watchable
+worries
+wardrobes
+wrenching
+whirligig
+withholding
+wilds
+weirder
+wealthier
+worldliness
+wronger

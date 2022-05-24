@@ -1,0 +1,90 @@
+17
+k 1
+koreans
+wh 2
+wholesalers
+whip
+q 3
+queues
+quasar
+quarries
+uQm 0
+g 9
+grosser
+gobbledegook
+glory
+grille
+gaol
+goading
+gradualist
+gunning
+glitzy
+a 18
+acquiescence
+alleviating
+aqueducts
+accepted
+accountant
+accrual
+aggressors
+aisles
+astuteness
+accept
+atrial
+aggravate
+airless
+assert
+alternatives
+athletics
+accessories
+attention
+pS 0
+pKh 0
+QS 0
+Ci 0
+e 14
+enfranchised
+evasions
+eccentricity
+embankments
+elks
+eaters
+emotionality
+emotion
+epigraph
+extravagantly
+engraver
+escorting
+evaluator
+elicits
+R 7
+Ravine
+Rigged
+Ribosomes
+Riotously
+Resprayed
+Rainforests
+Restorers
+gku 0
+w 9
+wholesalers
+windowing
+wrathful
+wittily
+walk
+whip
+warlike
+workstations
+wineglasses
+nu 1
+nutritional
+C 8
+Claustrophobic
+Cusp
+Clever
+Confusing
+Cadaverous
+Crispness
+Catalyses
+Culled
+Fb 0

@@ -1,0 +1,17 @@
+15
+brr 0
+y 0
+xx 0
+dx 0
+bI 0
+i 1
+inviolable
+qt 0
+a 0
+LW 0
+Wfs 0
+q 0
+lT 0
+tv 0
+a 0
+ktq 0

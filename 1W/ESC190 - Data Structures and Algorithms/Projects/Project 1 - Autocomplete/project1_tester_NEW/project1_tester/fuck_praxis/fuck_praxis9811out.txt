@@ -1,0 +1,10 @@
+3
+t 4
+transposed
+tahiti
+touches
+tastes
+nD 0
+i 2
+irony
+identifiable

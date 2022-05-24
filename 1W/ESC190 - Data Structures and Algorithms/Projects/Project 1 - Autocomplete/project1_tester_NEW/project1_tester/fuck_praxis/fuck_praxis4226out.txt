@@ -1,0 +1,16 @@
+8
+qsc 0
+tu 1
+tumbrils
+h 3
+hunts
+hangs
+hindbrain
+qa 0
+E 0
+h 3
+hunts
+hangs
+hindbrain
+V 0
+oen 0

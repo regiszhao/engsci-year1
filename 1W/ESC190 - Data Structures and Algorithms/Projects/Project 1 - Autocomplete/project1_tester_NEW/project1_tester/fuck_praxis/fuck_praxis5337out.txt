@@ -1,0 +1,22 @@
+13
+h 1
+harp
+VX 0
+sm 0
+fpe 0
+hh 0
+Pr 0
+By 0
+AP 0
+T 3
+Tiptoe
+Tethers
+Truthfully
+Q 1
+Quarry
+j 3
+jittery
+juniper
+joystick
+nb 0
+Fzy 0

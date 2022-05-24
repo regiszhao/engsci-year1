@@ -1,0 +1,28 @@
+12
+n 0
+V 1
+Viaducts
+is 0
+H 0
+lo 1
+louche
+jr 0
+dzL 0
+X 0
+Cd 0
+gn 0
+Oh 0
+f 13
+fountain
+friar
+folded
+forepaws
+festoons
+foretastes
+forefather
+fence
+federalism
+felicities
+fullness
+feasible
+flossy

@@ -1,0 +1,58 @@
+22
+p 10
+pickerels
+psychosomatic
+pressurised
+palisade
+pickpockets
+perpetuated
+pipelines
+purgatory
+pundit
+proprietorial
+oVL 0
+NP 0
+R 3
+Reiterates
+Reincarnations
+Rehashes
+ja 0
+i 4
+intellect
+incompetents
+imposed
+intercept
+VB 0
+g 3
+gushing
+gastric
+gatehouses
+uf 0
+N 0
+jh 0
+a 12
+apparel
+aquarium
+await
+anecdotes
+anaemia
+agonies
+affinity
+airbase
+appear
+audible
+apply
+anger
+ib 0
+BJ 0
+Xf 0
+f 3
+fatcat
+folklore
+ford
+D 0
+tT 0
+Ary 0
+nuv 0
+Oa 0
+q 0

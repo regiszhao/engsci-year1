@@ -1,0 +1,201 @@
+21
+wa 3
+wavelengths
+waggishly
+warmers
+t 21
+tabloids
+tassel
+tonsure
+touring
+tintings
+twiggy
+tutorial
+tethering
+technology
+truest
+transcend
+traitorous
+tassel
+trespasses
+tailplane
+turbulence
+toughs
+theodolite
+trenched
+tartan
+textured
+vsC 0
+toy 0
+n 7
+niggles
+nonchalance
+nonintervention
+nymphomania
+nationalists
+novelty
+nonetheless
+env 0
+t 21
+tabloids
+tassel
+tonsure
+touring
+tintings
+twiggy
+tutorial
+tethering
+technology
+truest
+transcend
+traitorous
+tassel
+trespasses
+tailplane
+turbulence
+toughs
+theodolite
+trenched
+tartan
+textured
+ly 0
+Wt 0
+Q 3
+Quaver
+Quintet
+Quieting
+d 30
+discernible
+deltoid
+determiner
+download
+draconian
+discomfited
+defiled
+drilled
+devilry
+decommissioned
+declamatory
+disclaim
+destroyable
+dancing
+downwards
+disconnects
+downtrodden
+drakes
+descriptiveness
+durable
+denominations
+deprecatingly
+drub
+dotting
+decriminalise
+darters
+decrease
+degraded
+demigods
+dado
+Gmh 0
+r 30
+responds
+reminisces
+ripples
+restarting
+recondite
+roam
+rasing
+rankers
+rheumatism
+ruefulness
+recalled
+rhetorical
+reviling
+retransmitted
+rattling
+resurgent
+reprint
+recombined
+retype
+repeatability
+recanted
+recurs
+redefinition
+ringless
+rearrangement
+radiology
+rockery
+resettled
+revolted
+ranging
+g 14
+gorgon
+guillemots
+gorgon
+groper
+greasing
+gnaws
+genres
+groves
+gnu
+growler
+gaunt
+gallivanted
+gunboats
+green
+I 10
+Injokes
+Ignominious
+Inclusive
+Idiocies
+Interjectional
+Interviewee
+Inaction
+Indignities
+Incorporating
+Irascibly
+tqs 0
+F 10
+Filling
+Foursome
+Foolproof
+Formulae
+Flaxen
+Flattening
+Flop
+Fraudster
+Foreground
+Fulminant
+oq 0
+ZlO 0
+r 30
+responds
+reminisces
+ripples
+restarting
+recondite
+roam
+rasing
+rankers
+rheumatism
+ruefulness
+recalled
+rhetorical
+reviling
+retransmitted
+rattling
+resurgent
+reprint
+recombined
+retype
+repeatability
+recanted
+recurs
+redefinition
+ringless
+rearrangement
+radiology
+rockery
+resettled
+revolted
+ranging
+Du 0

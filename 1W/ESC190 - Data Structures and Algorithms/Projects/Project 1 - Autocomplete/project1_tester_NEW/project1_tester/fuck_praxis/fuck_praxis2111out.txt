@@ -1,0 +1,114 @@
+26
+qn 0
+N 2
+Networking
+Norway
+pl 5
+plumbs
+playfulness
+playgroups
+plait
+playfellows
+a 27
+algae
+aides
+apportions
+artifice
+agoraphobic
+archdukes
+agglomeration
+arbitrating
+awls
+angler
+airwaves
+acquittal
+admiringly
+apparition
+analgesic
+alerts
+absorbs
+addictive
+agonise
+asthmatics
+aromaticity
+acknowledged
+aunties
+admirers
+advised
+automata
+antelope
+vt 0
+goa 1
+goatees
+ltW 0
+bf 0
+Auz 0
+tL 0
+UI 0
+rp 0
+xx 0
+b 30
+blemish
+boxers
+burrowed
+brassy
+benefactors
+brandy
+bypass
+bladder
+brutalities
+beginnings
+bilharzia
+bend
+baobab
+bungle
+blown
+bridges
+booting
+brans
+birth
+bather
+bug
+battlement
+boneless
+brontosaurus
+blackness
+bucketing
+bit
+baulk
+badges
+bordeaux
+f 17
+finalist
+fatherless
+forsook
+fizz
+faring
+fatted
+friary
+frankfurter
+fretsaws
+flammability
+fire
+fortress
+flaked
+fussily
+fluids
+furtively
+flatteringly
+ne 2
+newspapers
+negativeness
+tw 1
+tweaked
+tz 0
+Qq 0
+iut 0
+z 2
+zigzag
+zenith
+X 0
+yby 0
+Tn 0
+sV 0
+x 0

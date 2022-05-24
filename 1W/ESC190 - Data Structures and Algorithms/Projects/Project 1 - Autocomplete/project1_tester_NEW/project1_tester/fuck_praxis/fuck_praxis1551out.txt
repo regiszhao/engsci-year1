@@ -1,0 +1,69 @@
+12
+m 15
+mastoids
+mistrusts
+meted
+meddlers
+magnetohydrodynamics
+ministerial
+misdirection
+monarchical
+misprints
+masquerade
+matchless
+map
+maidservant
+mildewed
+martians
+x 1
+xenon
+rz 0
+s 38
+smelliest
+scrape
+singlehandedly
+shoeless
+stricture
+stethoscope
+shabby
+slaughtering
+slimmest
+slaters
+sprayers
+starved
+slackens
+sparseness
+screwing
+saints
+slavering
+smooch
+stropping
+scaremonger
+segment
+satirises
+structuralism
+superintendents
+scaffolds
+stoolpigeon
+stanzas
+signposting
+syndromes
+selfrespecting
+sabre
+stubbly
+simplification
+sabotaging
+solaces
+seething
+stall
+sale
+rw 0
+Ldw 0
+X 0
+z 1
+zeal
+dow 1
+downcast
+PhN 0
+Gv 0
+hp 0

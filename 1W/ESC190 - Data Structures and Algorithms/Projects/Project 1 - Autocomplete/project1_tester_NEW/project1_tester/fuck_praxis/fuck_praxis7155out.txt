@@ -1,0 +1,152 @@
+16
+n 10
+newsletter
+numerator
+northerners
+notions
+nogging
+negotiates
+normality
+nines
+nudity
+nudeness
+dam 0
+B 15
+Bonny
+Baskets
+Bunyan
+Busybody
+Beaus
+Basins
+Backstage
+Backchat
+Baldness
+Book
+Blackguard
+Baffler
+Blue
+Blister
+Boomerangs
+g 20
+glaucous
+glycerine
+geopolitical
+greed
+germinated
+gunshots
+guarded
+gossip
+gaskets
+glutted
+gnarling
+gander
+grotesquely
+glassy
+gate
+germinal
+guttering
+glutamate
+goons
+galleon
+h 30
+hang
+huffily
+hemlock
+hepatitis
+hermeneutics
+half
+hyaena
+hockey
+harvester
+hipbone
+husk
+here
+hut
+hypoglycaemia
+hooped
+hostage
+humid
+hikers
+heretic
+highlands
+hustler
+heifer
+herbage
+humbler
+humanely
+heresy
+hereafter
+hells
+hale
+headed
+wL 0
+nh 0
+uJ 0
+ji 0
+Z 1
+Zigzags
+q 6
+quoter
+quiff
+quiescent
+quadrangular
+quenches
+quondam
+y 2
+yielded
+yawls
+r 38
+rapports
+retest
+reaching
+rushes
+regularisation
+revolutionises
+receipted
+remotely
+repulsively
+recopy
+ranchers
+recount
+rarely
+rhapsodies
+revolutions
+rustics
+reasonable
+repast
+resorted
+realises
+replying
+random
+reads
+repressed
+rhetoric
+romany
+retraces
+reticules
+regicide
+recitations
+renewal
+relieves
+racketeering
+reclassified
+resize
+reawaken
+rhea
+raiser
+tr 9
+transits
+troupe
+trespassed
+tranquilliser
+transported
+trilingual
+trumps
+transforming
+tremors
+pl 4
+placates
+playings
+plagiarist
+plaits
+tD 0

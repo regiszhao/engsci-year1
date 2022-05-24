@@ -1,0 +1,10 @@
+5
+E 4
+Esthete
+Enzymes
+Enlightenment
+Erudite
+pc 0
+WI 0
+dkP 0
+WA 0

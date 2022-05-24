@@ -1,0 +1,11 @@
+8
+Dp 0
+jy 0
+G 1
+Gatepost
+Ns 0
+h 1
+hermaphrodite
+Xx 0
+Eeq 0
+nm 0

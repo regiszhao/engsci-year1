@@ -1,0 +1,25 @@
+7
+bx 0
+cw 0
+w 17
+wires
+wolf
+worm
+walked
+wash
+wails
+wicketkeeper
+whalebone
+willingly
+wends
+wunderkind
+wagged
+wretches
+whole
+wax
+whiteboards
+whether
+X 0
+uu 0
+LwK 0
+vn 0

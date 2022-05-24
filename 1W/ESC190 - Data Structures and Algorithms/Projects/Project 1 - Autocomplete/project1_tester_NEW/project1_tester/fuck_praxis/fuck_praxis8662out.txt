@@ -1,0 +1,219 @@
+23
+bjn 0
+pup 0
+j 5
+jumpers
+jostle
+jocularity
+jewsharp
+jungle
+lq 0
+gL 0
+Q 1
+Quadrupole
+ad 4
+addendum
+adjudicators
+admittedly
+adder
+i 28
+inflictions
+impermissible
+iranian
+improve
+inveigle
+inadequacies
+instruction
+incombustible
+idling
+italics
+impinging
+idiom
+indemnify
+interactions
+inconsistent
+inverse
+indeterminacy
+incompatibility
+immigrated
+impersonator
+industrious
+intuition
+investigate
+insensitivity
+interplays
+invading
+imprudently
+itched
+cj 0
+V 5
+Volume
+Voters
+Validation
+Vibrant
+Viability
+Fr 1
+Fretboard
+w 13
+winsome
+warts
+warehousing
+wailed
+whiskies
+wilderness
+whirring
+wrapped
+wood
+weed
+weighing
+watersoluble
+warders
+Va 1
+Validation
+W 3
+Wittiest
+Whack
+Waxwork
+ra 2
+rap
+ranker
+nl 0
+b 34
+byelection
+buts
+beetroot
+bards
+belgrade
+booboo
+bedbug
+bring
+babbles
+banal
+bloat
+bowed
+blackmailing
+besmirch
+befitting
+bender
+bothered
+blankly
+bloodhound
+bluebirds
+betokened
+bow
+beneath
+befallen
+bindery
+beefburger
+biomedical
+blackbird
+brunet
+blunderings
+belch
+bulged
+blackguard
+brooch
+w 13
+winsome
+warts
+warehousing
+wailed
+whiskies
+wilderness
+whirring
+wrapped
+wood
+weed
+weighing
+watersoluble
+warders
+m 32
+milieu
+murmurer
+millers
+meats
+missives
+matriarch
+module
+meson
+maladjustment
+misdirected
+musty
+marshalled
+mire
+miosis
+monetarism
+moisturisers
+masks
+malformation
+minstrels
+midship
+mayas
+mentioned
+murderers
+multicolour
+musculature
+milkier
+mantle
+mites
+masts
+masthead
+minutely
+mayoral
+f 25
+frictions
+fidget
+forsakes
+flapper
+fretboard
+fetter
+festoon
+fatal
+flukier
+fend
+fireproof
+filthier
+falsely
+flanges
+fighting
+fission
+feldspars
+furtive
+fanaticism
+firsthand
+foolproof
+freebooters
+forts
+frolic
+fratricide
+i 28
+inflictions
+impermissible
+iranian
+improve
+inveigle
+inadequacies
+instruction
+incombustible
+idling
+italics
+impinging
+idiom
+indemnify
+interactions
+inconsistent
+inverse
+indeterminacy
+incompatibility
+immigrated
+impersonator
+industrious
+intuition
+investigate
+insensitivity
+interplays
+invading
+imprudently
+itched
+qMP 0
+HjN 0

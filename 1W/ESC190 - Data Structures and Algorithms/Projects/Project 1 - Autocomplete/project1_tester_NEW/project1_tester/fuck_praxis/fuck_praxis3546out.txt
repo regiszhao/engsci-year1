@@ -1,0 +1,215 @@
+25
+pi 2
+pipings
+pinafore
+rk 0
+vm 0
+j 3
+jubilantly
+jarring
+jockey
+w 5
+wrongdoing
+wanderers
+wordiest
+white
+wraparound
+tx 0
+b 17
+bamboozles
+basis
+bigheads
+boards
+baseball
+bullies
+bedsit
+bedroom
+badgering
+bled
+binge
+benefactions
+buff
+barbels
+bakery
+blah
+banal
+il 0
+v 2
+veal
+vogue
+z 0
+I 4
+Instillation
+Incorrigibly
+Inflect
+Iberian
+p 44
+patroness
+pretexts
+psycholinguists
+phototypesetter
+pansy
+padres
+palates
+pacifies
+perspicuity
+pipings
+polytheism
+pouffes
+pavlov
+perspire
+preoccupying
+promised
+paraplegic
+prolapsed
+paltry
+paedophiles
+proportionate
+petrify
+plentiful
+prefixes
+proofreaders
+poltergeists
+plumbing
+pent
+pagers
+pureness
+plasterwork
+panted
+periphrastic
+playback
+parries
+pejorative
+pinafore
+paleface
+peptides
+psychoses
+pup
+parentage
+postboxes
+pantographs
+hs 0
+bzo 0
+a 22
+airway
+arson
+archer
+automaton
+anthems
+amoeba
+astronomer
+alteration
+athletic
+arms
+asymptotic
+arab
+aspirins
+alleviations
+avowals
+ascetic
+addressing
+anger
+antipathetic
+agreements
+allures
+agent
+re 20
+reiterates
+reclaims
+recoded
+recopied
+resurrect
+reformulated
+rebellious
+recital
+revolt
+retroviruses
+recommendations
+recitals
+reprove
+recuperates
+rejecting
+relents
+restricted
+reactivity
+recapitalisation
+reversibly
+ga 1
+galvanometric
+ST 0
+eb 0
+nL 0
+wl 0
+n 7
+nutrient
+negligently
+nudging
+neutrals
+nineteen
+newest
+notifies
+y 2
+yodels
+yeas
+g 10
+gurgling
+grog
+guider
+gravies
+genomic
+galvanometric
+guanine
+gloominess
+gosling
+grinner
+s 50
+seasick
+sensitivity
+sight
+spiking
+sensitivities
+settee
+scrambling
+sofas
+suspended
+seashore
+serenader
+sixth
+steeplechaser
+seeps
+sears
+swordsman
+stop
+strip
+simulates
+south
+sirens
+swearer
+suppers
+staircase
+salivary
+squaw
+salubrity
+stimulation
+scrappiest
+scathed
+stenographer
+semicircular
+salads
+spokeswoman
+shakeable
+stressing
+scraping
+subjected
+slightly
+stickiness
+serological
+slender
+sweat
+spiced
+slenderest
+shaggiest
+strangle
+slips
+sipping
+stout

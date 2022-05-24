@@ -1,0 +1,282 @@
+27
+ig 1
+ignorable
+xn 0
+K 1
+Kitchens
+Ex 1
+Experiences
+g 16
+grotesque
+garotte
+grinning
+gleeful
+growth
+grieving
+gleaming
+geodesic
+glare
+gracing
+gobbledygook
+guesswork
+governed
+garret
+governmental
+greener
+qr 0
+p 41
+properties
+panics
+peacemaker
+prevaricating
+paternity
+provisioning
+presume
+purer
+photographer
+porkchop
+pinhead
+pertinacious
+ptarmigan
+preconceptions
+parasol
+propellers
+provincial
+proffer
+pianist
+proboscis
+prowling
+portmanteau
+passers
+palaeontologist
+proclivities
+peeked
+personifies
+piping
+polluters
+pickerel
+principalities
+pals
+pettifogging
+parleying
+prescribe
+persuaded
+prided
+preparations
+piecemeal
+profile
+palliative
+jeI 0
+r 40
+retreated
+recursively
+recycles
+reworks
+risking
+refunds
+relocating
+russia
+repartitioned
+reservists
+raring
+replicators
+restricted
+refinish
+recollection
+renumbered
+rayon
+residues
+recklessly
+rickety
+reoccupying
+reflectivity
+rulers
+rocking
+resurrected
+repetitive
+reconcile
+resuscitate
+rerunning
+redirect
+reburied
+resourced
+rebuking
+rye
+resistivity
+reformatted
+royals
+responsibly
+results
+reinvention
+T 10
+Turtle
+Tyrannise
+Tench
+The
+Thuggery
+Thronged
+Towed
+Twinkles
+Tiresomely
+Typologies
+oz 0
+cj 0
+tr 4
+trombones
+triteness
+translucency
+truculently
+s 52
+stuff
+sticks
+stropping
+spicier
+stipulations
+slacked
+solve
+scimitar
+saturnalia
+seller
+scholasticism
+solving
+spanked
+smiths
+seaports
+scone
+signposting
+servicemen
+sorting
+superiors
+secateurs
+scapegoats
+solicited
+scribbler
+stardom
+sawing
+stir
+specifically
+spry
+seraphs
+sheaves
+spotlights
+shoplifters
+squirmed
+swarmed
+swooning
+saxophonist
+shag
+strictness
+sago
+shuttled
+smokestack
+sledge
+spiritless
+stepchildren
+sifters
+sketchier
+santiago
+silicate
+sublimed
+senility
+selfgovernment
+Qw 0
+ym 0
+ssh 0
+l 18
+littleness
+linguistics
+lugged
+levitated
+labelling
+leer
+lynxes
+linkup
+ledges
+lowlier
+lengthiest
+leave
+lay
+latent
+logicality
+lessees
+laburnum
+loganberries
+j 4
+jewish
+jezebel
+jetlagged
+jurisdictional
+Ze 0
+p 41
+properties
+panics
+peacemaker
+prevaricating
+paternity
+provisioning
+presume
+purer
+photographer
+porkchop
+pinhead
+pertinacious
+ptarmigan
+preconceptions
+parasol
+propellers
+provincial
+proffer
+pianist
+proboscis
+prowling
+portmanteau
+passers
+palaeontologist
+proclivities
+peeked
+personifies
+piping
+polluters
+pickerel
+principalities
+pals
+pettifogging
+parleying
+prescribe
+persuaded
+prided
+preparations
+piecemeal
+profile
+palliative
+qhh 0
+n 6
+narcissism
+necessitate
+nightwear
+negligible
+nastiness
+nitpicking
+ur 0
+wC 0
+wyr 0
+e 19
+elderly
+enfeeble
+exonerating
+exmember
+emotively
+epithet
+evidential
+exploration
+elysee
+enrols
+email
+enumerated
+epicycloid
+exhibitions
+exposes
+embryo
+enforcements
+evocative
+enforce

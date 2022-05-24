@@ -1,0 +1,64 @@
+14
+bx 0
+ta 1
+taunt
+Ba 2
+Bacterium
+Balletic
+C 11
+Chiropractor
+Catchment
+Colossally
+Competitive
+Criticising
+Corticosteroid
+Clannish
+Crofting
+Constituent
+Commute
+Ceaselessly
+kM 0
+vn 0
+yy 0
+CC 0
+YdM 0
+f 23
+farmsteads
+faked
+fishing
+frostiest
+foetid
+formulas
+fifthly
+furnishers
+fiction
+forested
+fractious
+feels
+fuzzy
+fussily
+floorboards
+firepower
+foreknowledge
+flexibly
+fouling
+flareup
+fizzing
+flab
+feebleminded
+uG 0
+jp 0
+g 12
+gasses
+gowns
+giddy
+graciousness
+gardener
+generalising
+gradations
+gleams
+grabbers
+geneticist
+glasgow
+gabled
+Op 0

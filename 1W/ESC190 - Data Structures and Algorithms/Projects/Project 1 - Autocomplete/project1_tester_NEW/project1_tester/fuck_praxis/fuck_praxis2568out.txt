@@ -1,0 +1,60 @@
+20
+uc 0
+yi 0
+wv 0
+E 4
+Enchanter
+Engrained
+Elixirs
+Exquisite
+En 2
+Enchanter
+Engrained
+lr 0
+aOY 0
+mYh 0
+oL 0
+qv 0
+Q 0
+os 0
+v 9
+vestige
+visualisation
+voyage
+vulcanise
+valets
+viewfinders
+vocalisation
+vacates
+velodrome
+xDp 0
+im 3
+implicit
+improvising
+impracticable
+F 11
+Fabrications
+Firework
+Fruitless
+Fragments
+Finances
+Florin
+Fugitives
+Finch
+Finetunes
+Forked
+Foresee
+M 6
+Motels
+Meshing
+Mattresses
+Masquerade
+Militias
+Modulated
+cd 0
+E 4
+Enchanter
+Engrained
+Elixirs
+Exquisite
+Oct 0

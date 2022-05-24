@@ -1,0 +1,243 @@
+25
+mc 0
+fL 0
+uX 0
+b 31
+bud
+bop
+breakpoint
+birds
+brew
+barnstorming
+beleaguered
+bound
+blinds
+briefcase
+baleen
+blotter
+bloodied
+bystanders
+bemused
+bleachers
+bandaging
+brassy
+boaster
+babblers
+boosting
+browses
+burlesque
+bathetic
+bathtubs
+beggings
+bathetic
+brings
+brace
+bolder
+banshees
+L 4
+Lovers
+Listings
+Luther
+Landladies
+p 46
+pestering
+preoccupied
+prober
+potently
+peacetime
+prosaic
+prisoner
+postboxes
+popmusic
+pornography
+puffs
+provinces
+purposive
+pinches
+pedantically
+platonic
+professionals
+polemics
+putting
+polkas
+prejudiced
+prominent
+punctual
+pylons
+poolside
+priest
+primroses
+photovoltaic
+prohibitive
+paperback
+promoters
+pianist
+putt
+plywood
+priestess
+profiteroles
+pitting
+psychotically
+placentas
+processional
+perestroika
+pervades
+peckish
+poles
+prioritised
+pontoons
+epl 0
+p 46
+pestering
+preoccupied
+prober
+potently
+peacetime
+prosaic
+prisoner
+postboxes
+popmusic
+pornography
+puffs
+provinces
+purposive
+pinches
+pedantically
+platonic
+professionals
+polemics
+putting
+polkas
+prejudiced
+prominent
+punctual
+pylons
+poolside
+priest
+primroses
+photovoltaic
+prohibitive
+paperback
+promoters
+pianist
+putt
+plywood
+priestess
+profiteroles
+pitting
+psychotically
+placentas
+processional
+perestroika
+pervades
+peckish
+poles
+prioritised
+pontoons
+ar 4
+arose
+argues
+arbitration
+arid
+gA 0
+g 19
+gravels
+groom
+grandiose
+ghastliest
+goats
+guts
+grimy
+gooseberries
+glinted
+golly
+gladness
+gurgled
+geared
+grovels
+grouting
+girlishness
+geriatric
+gradually
+gentians
+pz 0
+g 19
+gravels
+groom
+grandiose
+ghastliest
+goats
+guts
+grimy
+gooseberries
+glinted
+golly
+gladness
+gurgled
+geared
+grovels
+grouting
+girlishness
+geriatric
+gradually
+gentians
+suc 0
+g 19
+gravels
+groom
+grandiose
+ghastliest
+goats
+guts
+grimy
+gooseberries
+glinted
+golly
+gladness
+gurgled
+geared
+grovels
+grouting
+girlishness
+geriatric
+gradually
+gentians
+NKp 0
+F 6
+Fishers
+Formalism
+Fetishism
+Flaw
+Feckless
+Fevered
+al 3
+alchemical
+alumnus
+album
+Itd 0
+u 16
+unwaveringly
+unanticipated
+unmodified
+unlikeable
+uncompressed
+unchecked
+uprise
+undone
+unsafely
+unsubstantial
+unclimbable
+unbooked
+uninhibitedly
+unadjusted
+underneath
+unguided
+pp 0
+du 3
+dustily
+dualist
+duckings
+bP 0
+mNF 0
+bi 1
+birds

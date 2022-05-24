@@ -1,0 +1,12 @@
+10
+y 0
+n 0
+gZ 0
+f 1
+flickering
+GDb 0
+Bt 0
+NV 0
+L 0
+gw 0
+vw 0

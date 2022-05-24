@@ -1,0 +1,105 @@
+14
+iyz 0
+ia 1
+iatrogenic
+wv 0
+vx 0
+a 24
+anaesthetist
+apostle
+appertained
+awning
+addictiveness
+astonishment
+audits
+aided
+accents
+ambled
+absenteeism
+antonym
+ambiguity
+aspirants
+amalgam
+alarmed
+allegories
+achievement
+apiary
+americium
+assessors
+adapts
+arcadia
+amenity
+xK 0
+fV 0
+o 11
+overturn
+overdone
+opus
+outlawry
+overstepped
+outdoor
+outlives
+oldtimer
+organise
+osteopathy
+okays
+mk 0
+k 3
+knuckling
+khoisan
+kinsfolk
+l 16
+longingly
+landslide
+likeability
+longsuffering
+lifeboat
+lily
+ladyships
+loathsomely
+lime
+lunchpack
+leaping
+lobotomising
+list
+latticed
+lovelorn
+licking
+p 35
+prospectors
+progenitors
+pizza
+permanent
+phone
+profitably
+persecution
+playfellow
+prescriptions
+pejoratively
+poising
+postman
+peatlands
+penguin
+pile
+perspicuously
+parka
+pranced
+pig
+profusion
+perturbation
+preclude
+perihelion
+persecutors
+playings
+pervasive
+pioneer
+pacifism
+prevaricate
+precipitating
+profitable
+perverseness
+platform
+professing
+pranksters
+llp 0
+gi 0

@@ -1,0 +1,24 @@
+17
+pWe 0
+fx 0
+Sz 0
+o 1
+objects
+uDo 0
+u 0
+hrh 0
+h 1
+hundredth
+e 1
+electroluminescent
+w 0
+kVf 0
+o 1
+objects
+wDV 0
+k 0
+uv 0
+hpe 0
+c 2
+compromised
+cursed

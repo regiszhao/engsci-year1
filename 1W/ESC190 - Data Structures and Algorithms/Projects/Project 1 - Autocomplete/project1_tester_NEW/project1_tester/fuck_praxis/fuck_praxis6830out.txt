@@ -1,0 +1,142 @@
+22
+G 7
+Groveller
+Gravities
+Glowered
+Geese
+Garnets
+Gimmick
+Gumboots
+x 0
+de 13
+desk
+decapitate
+demoralising
+deanery
+demotion
+depreciate
+defaulted
+descriptor
+defibrillator
+desaturated
+depose
+delegates
+demystifying
+pf 0
+bFc 0
+U 4
+Ungovernable
+Unchristened
+Unfolded
+Undigested
+us 1
+usurp
+Zb 0
+dYM 0
+aI 0
+i 13
+inquirers
+infirmary
+intolerance
+implacably
+inactive
+interferon
+incant
+interleaving
+invokes
+illustrative
+impermeable
+internal
+infinitely
+a 20
+avail
+admissions
+abutments
+architectonic
+appallingly
+aloofness
+abbeys
+acrimoniously
+actionable
+athletes
+assure
+avoiding
+auxiliary
+applicable
+anvils
+architectures
+anginal
+abdomens
+architrave
+admitted
+l 17
+lorryloads
+lodging
+lateralisation
+lipsticks
+lending
+logistic
+lonesomeness
+legislator
+lady
+lessor
+luncheons
+locations
+lipservice
+lodgement
+load
+lubbers
+lured
+E 4
+Endlessly
+Extreme
+Embellishing
+Engineers
+Q 1
+Quarrels
+lx 0
+ov 2
+ovation
+overfull
+sew 0
+pT 0
+l 17
+lorryloads
+lodging
+lateralisation
+lipsticks
+lending
+logistic
+lonesomeness
+legislator
+lady
+lessor
+luncheons
+locations
+lipservice
+lodgement
+load
+lubbers
+lured
+obj 0
+a 20
+avail
+admissions
+abutments
+architectonic
+appallingly
+aloofness
+abbeys
+acrimoniously
+actionable
+athletes
+assure
+avoiding
+auxiliary
+applicable
+anvils
+architectures
+anginal
+abdomens
+architrave
+admitted

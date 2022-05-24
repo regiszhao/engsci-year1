@@ -1,0 +1,99 @@
+9
+g 12
+goalies
+groaner
+guzzlers
+gruffness
+gourds
+goodies
+greeted
+gun
+gnash
+guide
+gropes
+guineas
+c 40
+conciliating
+coveralls
+caption
+cargo
+checkmate
+calligrapher
+craftiest
+clasps
+capitalistic
+coniferous
+curb
+centurions
+contentions
+copout
+cringing
+confessionals
+conflicted
+commode
+coasting
+custom
+checkpoints
+ceases
+caddying
+casing
+crassly
+capsules
+crossreferenced
+cyberpunk
+circularise
+crunches
+complains
+constituency
+continuities
+cartoonists
+cycling
+certain
+cravat
+coyly
+cosset
+complaint
+cr 6
+craftiest
+cringing
+crassly
+crossreferenced
+crunches
+cravat
+x 0
+v 8
+voluble
+vegetables
+voraciously
+vacancy
+vindication
+verticals
+vindicates
+voidable
+PU 0
+eIw 0
+r 23
+rusted
+righting
+radiation
+reproof
+routes
+raw
+reactor
+radiator
+rib
+realigning
+reflooring
+reversing
+requited
+repairers
+repercussions
+religiosity
+regiment
+ratifying
+redraft
+reorganised
+rashness
+reflexiveness
+replacements
+Np 0

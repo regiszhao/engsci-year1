@@ -1,0 +1,82 @@
+11
+nn 0
+ty 0
+qn 0
+q 5
+quivered
+quips
+quelled
+quartiles
+quarterback
+C 16
+Chad
+Communally
+Criticised
+Cocoon
+Coaching
+Catalogue
+Clumsiness
+Coronet
+Confessional
+Craven
+Copyrighting
+Cape
+Carpeted
+Crusher
+Cohabitees
+Clothing
+lU 0
+b 15
+brute
+bulbous
+buffoons
+barrow
+billowed
+breeze
+bleakly
+beater
+beryllium
+bussed
+bijou
+bulges
+bungalow
+bollards
+blokes
+sA 0
+ud 0
+u 8
+uplifted
+understandability
+unsliced
+unimplementable
+unclad
+untaxed
+unpardonable
+undesired
+m 26
+mall
+massage
+malady
+misanalysed
+minimalism
+mufti
+magnetohydrodynamics
+mamba
+mosaics
+metastases
+manipulates
+marginalised
+mosquito
+mildmannered
+moribund
+manacle
+machines
+mannequins
+meadow
+mechanisms
+mannerist
+menstruation
+mopeds
+mountainous
+misdeeds
+massaged

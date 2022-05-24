@@ -1,0 +1,225 @@
+\documentclass[10pt, letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[margin=0.75in]{geometry}
+\makeatletter
+\newcommand*{\rom}[1]{\expandafter\@slowromancap\romannumeral #1@}
+\makeatother
+
+\title{Assignment 1}
+\author{Regis Zhao 1007070660}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+% QUESTION 1
+
+\section{Question 1}
+
+% PART 1A
+\subsection{Part a}
+Axioms ii and ix from the "Peano system" are not present in the definition
+of a vector space.
+
+% PART 1B
+\subsection{Part b}
+Axioms A\rom{3} and A\rom{4} in Medici's definition of a vector space are not
+present in the "Peano system".
+
+% PART 1C
+\subsection{Part c}
+Since the only axioms that are not included in the definition of a "Peano system"
+are A\rom{3} and A\rom{4}, we must prove that a "Peano system" satisfies
+these two axioms.
+
+% Proof for AIII
+\textbf{A\rom{3})} Prove there exists a zero vector $\textbf{0} \in V$ such that 
+$ \textbf{x} + \textbf{0} = \textbf{x} $:
+%
+\begin{align*}
+    \textbf{x} + \textbf{0} &= \textbf{x} + 0\textbf{x} \qquad \text{by axiom ix}\\
+    &= 1\textbf{x} + 0\textbf{x} \qquad \text{by axiom viii}\\
+    &= (1+0)\textbf{x} \qquad \text{by axiom vi}\\
+    &= 1\textbf{x} \qquad \text{by arithmetic}\\
+    &= \textbf{x} \qquad \text{by axiom viii}
+\end{align*}
+$\therefore$ Axiom A\rom{3} holds.
+
+%Proof for AIV
+\textbf{A\rom{4})} Prove there exists a negative $\textbf{-x} \in V$ such that 
+$ \textbf{x} + (\textbf{-x}) = \textbf{0} $:
+%
+\begin{align*}
+    \textbf{0} &= 0\textbf{x} \qquad \text{by axiom ix}\\
+    &= (1+(-1))\textbf{x} \qquad \text{by arithmetic}\\
+    &= 1\textbf{x} + (-1) \textbf{x} \qquad \text{by axiom vi}\\
+    &= \textbf{x} + (-1) \textbf{x} \qquad \text{by axiom viii}
+\end{align*}
+%
+We have shown that there exists a vector $\textbf{-x} \in V$ such 
+that $ \textbf{x} + (\textbf{-x}) = \textbf{0} $, where 
+$\textbf{-x} = (-1) \textbf{x} $. $\therefore$ Axiom A\rom{4} holds.
+
+%------------------------------------------------------------------%
+
+% QUESTION 2
+
+\section{Question 2}
+
+The given differential equation (DE) that the set of all $x(t)$ must satisfy is a second order homogeneous linear DE. 
+From calculus, we know that if two linearly independent functions, say $f$ and $g$, are both 
+solutions to such an equation, then the general solution is any linear 
+combination of $f$ and $g$, i.e. $x(t) = c_1f + c_2g, \text{where scalars} \ c_1, c_2 \in \mathbb{R} $.
+
+We prove that all 8 axioms that define a vector space hold for this set of all $x$:
+
+Let
+\begin{gather*}
+    \textbf{u} = a_1f + a_2g \in V \\
+    \textbf{v} = b_1f + b_2g \in V \\
+    \textbf{w} = c_1f + c_2g \in V
+\end{gather*}
+where scalars $a_1, a_2, b_1, b_2, c_1, c_2 \in \mathbb{R}$.
+
+% Proof for AI
+\textbf{A\rom{1})} \textsc{Additive Closure}
+\begin{align*}
+    \textbf{u} + \textbf{v} &= (a_1f + a_2g) + (b_1f + b_2g) \\
+    &= a_1f + a_2g + b_1f + b_2g \\
+    &= (a_1 + b_1)f + (a_2 + b_2)g 
+\end{align*}
+Since $a_1 + b_1, a_2 + b_2 \in \mathbb{R}$:
+\begin{gather*}
+    (a_1 + b_1)f + (a_2 + b_2)g \in V \\
+    \therefore \textbf{u} + \textbf{v} \in V
+\end{gather*}
+
+% Proof for AII
+\textbf{A\rom{2})} \textsc{Additive Associativity} \\
+We show that $ ( \textbf{u} + \textbf{v} ) + \textbf{w} = \textbf{u} + (\textbf{v} + \textbf{w})$
+by evaluating the left and right hand side of the equation.\\
+The left hand side gives:
+\begin{align*}
+    ( \textbf{u} + \textbf{v} ) + \textbf{w} &= ((a_1f + a_2g) + (b_1f + b_2g)) + (c_1f + c_2g) \\
+    &= (a_1f + a_2g) + (b_1f + b_2g) + (c_1f + c_2g)
+\end{align*}
+The right hand side gives:
+\begin{align*}
+    \textbf{u} + (\textbf{v} + \textbf{w}) &= (a_1f + a_2g) + ((b_1f + b_2g) + (c_1f + c_2g)) \\
+    &= (a_1f + a_2g) + (b_1f + b_2g) + (c_1f + c_2g)
+\end{align*}
+\begin{displaymath}
+    \therefore ( \textbf{u} + \textbf{v} ) + \textbf{w} = \textbf{u} + (\textbf{v} + \textbf{w})
+\end{displaymath}
+
+% Proof for AIII
+\textbf{A\rom{3})} \textsc{Zero Vector} \\
+Let $ \textbf{0} = z_1f + z_2g \in V $ be an arbitrary vector. 
+We pretend it satisfies the axiom $\textbf{u} + \textbf{0} = \textbf{u}$ and 
+see if a solution exists:
+\begin{align*}
+    \textbf{u} + \textbf{0} &= \textbf{u} \\
+    (a_1f + a_2g) + (z_1f + z_2g) &= (a_1f + a_2g) \\
+    a_1f + a_2g + z_1f + z_2g &= a_1f + a_2g \\
+    (a_1 + z_1)f + (a_2 + z_2)g &= a_1f + a_2g \\
+\end{align*}
+It follows that
+\begin{gather*}
+    a_1 + z_1 = a_1 \\
+    \therefore z_1 = 0
+\end{gather*}
+and
+\begin{gather*}
+    a_2 + z_2 = a_2 \\
+    \therefore z_2 = 0
+\end{gather*}
+Therefore the zero vector exists, and $ \textbf{0} = 0f + 0g \in V $.
+
+% Proof for AIII
+\textbf{A\rom{4})} \textsc{Additive Inverse} \\
+Let $ \textbf{-u} = n_1f + n_2g \in V $ be an arbitrary vector. 
+We pretend it satisfies the axiom $\textbf{u} + (\textbf{-u}) = \textbf{0}$ and 
+see if a solution exists:
+\begin{align*}
+    \textbf{u} + (\textbf{-u}) &= \textbf{u} \\
+    (a_1f + a_2g) + (n_1f + n_2g) &= 0f + 0g \\
+    a_1f + a_2g + n_1f + n_2g &= 0f + 0g \\
+    (a_1 + n_1)f + (a_2 + n_2)g &= 0f + 0g \\
+\end{align*}
+It follows that
+\begin{gather*}
+    a_1 + n_1 = 0 \\
+    \therefore n_1 = -a_1
+\end{gather*}
+and
+\begin{gather*}
+    a_2 + n_2 = 0 \\
+    \therefore n_2 = -a_2
+\end{gather*}
+Therefore the additive inverse of a vector $\textbf{u}$ exists, and $ \textbf{-u} = -a_1f + -a_2g \in V $.
+
+% Proof for MI
+\textbf{M\rom{1})} \textsc{Scalar Closure} \\
+Let $\alpha \in \mathbb{R}$ be a scalar:
+\begin{align*}
+    \alpha \textbf{u} &= \alpha(a_1f + a_2g) \\
+    &= \alpha a_1f + \alpha a_2g  \\
+\end{align*}
+Since $\alpha a_1, \alpha a_2 \in \mathbb{R}$:
+\begin{gather*}
+    \alpha a_1f + \alpha a_2g \in V \\
+    \therefore \alpha \textbf{u} \in V
+\end{gather*}
+
+% Proof of MII
+\textbf{M\rom{2})} \textsc{Scalar Associativity} \\
+Let $\beta \in \mathbb{R}$ be a scalar:
+\begin{align*}
+    \alpha (\beta \textbf{u}) &= \alpha(\beta a_1f + \beta a_2g) \\
+    &= \alpha \beta a_1f + \alpha \beta a_2g
+\end{align*}
+Also:
+\begin{align*}
+    (\alpha \beta) \textbf{u} &= \alpha \beta (a_1f + a_2g) \\
+    &= \alpha \beta a_1f + \alpha \beta a_2g
+\end{align*}
+\begin{displaymath}
+    \therefore \alpha (\beta \textbf{u}) = (\alpha \beta) \textbf{u}
+\end{displaymath}
+
+% Proof of MII
+\textbf{M\rom{3})} \textsc{Distributivity} \\
+Distributivity of scalar addition:
+\begin{align*}
+    (\alpha+\beta) \textbf{u} &= (\alpha+\beta)(a_1f + a_2g) \\
+    &= \alpha a_1f + \alpha a_2g + \beta a_1f + \beta a_2g \\
+    &= \alpha(a_1f + a_2g) + \beta(a_1f + a_2g) \\
+    &= \alpha \textbf{u} + \beta \textbf{u}
+\end{align*}
+Distributivity of vector addition:
+\begin{align*}
+    \alpha(\textbf{u} + \textbf{v}) &= \alpha((a_1f + a_2g) + (b_1f + b_2g)) \\
+    &= \alpha(a_1f + a_2g + b_1f + b_2g) \\
+    &= \alpha a_1f + \alpha a_2g + \alpha b_1f + \alpha b_2g \\
+    &= \alpha(a_1f + a_2g) + \alpha(b_1f + b_2g) \\
+    &= \alpha \textbf{u} + \alpha \textbf{v}
+\end{align*}
+
+% Proof of MII
+\textbf{M\rom{4})} \textsc{Identity} \\
+\begin{align*}
+    1\textbf{u} &= 1(a_1f + a_2g) \\
+    &= 1a_1f + 1a_2g \\
+    &= a_1f + a_2g \\
+    &= \textbf{u}
+\end{align*}
+\begin{displaymath}
+    \therefore 1\textbf{u} = \textbf{u}
+\end{displaymath}
+
+Sherry Zhang 1007145297
+
+\end{document}

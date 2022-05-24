@@ -1,0 +1,11 @@
+8
+wx 0
+gan 0
+iz 0
+vT 0
+fbg 0
+ho 0
+gr 1
+gram
+j 1
+jackdaw

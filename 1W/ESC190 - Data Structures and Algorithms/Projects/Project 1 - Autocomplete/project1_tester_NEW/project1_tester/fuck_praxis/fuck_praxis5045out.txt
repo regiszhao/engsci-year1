@@ -1,0 +1,13 @@
+11
+eg 0
+O 0
+Bp 0
+rXg 0
+ds 0
+vw 0
+Vdl 0
+ab 1
+absorbers
+bap 0
+cJ 0
+hi 0

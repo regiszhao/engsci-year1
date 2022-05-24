@@ -1,0 +1,75 @@
+12
+ep 0
+w 8
+wound
+wheelwrights
+wavebands
+whiff
+wends
+withdrawing
+watermills
+whiskies
+h 14
+heartless
+hugs
+hijackings
+heed
+hydrographic
+hermeneutics
+hinderer
+headwords
+hasted
+holiest
+harmonium
+healing
+hazy
+honeydew
+Fd 0
+h 14
+heartless
+hugs
+hijackings
+heed
+hydrographic
+hermeneutics
+hinderer
+headwords
+hasted
+holiest
+harmonium
+healing
+hazy
+honeydew
+EA 0
+i 24
+inhomogeneities
+inaccuracies
+ideally
+isothermally
+innocence
+impertinently
+inserting
+immigrate
+intruders
+inescapable
+ineptitude
+idol
+inessential
+inventive
+ivories
+inadvisedly
+improbability
+idolised
+influenza
+intimidating
+inflection
+improbability
+interferer
+incorporated
+B 2
+Batsmen
+Barman
+mj 0
+Chm 0
+rx 0
+igp 0

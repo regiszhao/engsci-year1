@@ -1,0 +1,144 @@
+25
+dK 0
+w 15
+wastages
+wage
+walkover
+warily
+widowed
+weed
+wilful
+warlocks
+waveform
+wringing
+whetting
+weirs
+wants
+winemakers
+whirring
+t 21
+temporality
+tranquil
+tightfisted
+tortures
+twitches
+tearing
+terrains
+twain
+toil
+twins
+trinity
+tribespeople
+tennis
+thrived
+testdrive
+threadbare
+translation
+tankard
+terraces
+trademark
+tubercular
+id 0
+vo 2
+voted
+voodoo
+kf 0
+xiD 0
+vq 0
+Pm 0
+Z 0
+gc 0
+fc 0
+k 5
+kestrels
+kitbag
+kinfolk
+kittenish
+kittiwakes
+ag 1
+agonised
+v 15
+vespers
+vulgarly
+vainest
+videotape
+vertically
+vindicating
+vexes
+valour
+vamp
+ventured
+voted
+vitriolic
+voodoo
+vixens
+vanquished
+dn 0
+y 1
+yesterday
+d 51
+declination
+dulness
+dukedom
+desirabilia
+deader
+distinguished
+doorknob
+doctrinal
+despisal
+dissipates
+decathlon
+deprivations
+duplicator
+delineating
+drachm
+disrobing
+demount
+demoralised
+dime
+disassembly
+daintier
+discredits
+depravity
+disjoin
+dieselelectric
+detent
+dyslexia
+disaggregated
+draped
+daddies
+drop
+drives
+dissector
+decayed
+disbars
+designs
+desecrated
+dispensed
+disconnect
+dawdling
+designating
+denigrate
+disingenuously
+differentiation
+documented
+deriving
+deflectors
+dimes
+discernibly
+dimpled
+drop
+kj 0
+k 5
+kestrels
+kitbag
+kinfolk
+kittenish
+kittiwakes
+bI 0
+z 2
+zenith
+zoned
+ez 0
+iVp 0
+cL 0

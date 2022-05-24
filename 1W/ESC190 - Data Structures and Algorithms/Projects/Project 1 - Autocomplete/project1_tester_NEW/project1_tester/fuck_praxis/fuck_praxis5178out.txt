@@ -1,0 +1,156 @@
+15
+ids 0
+cB 0
+b 40
+banner
+baloney
+baffle
+bather
+broomsticks
+basketful
+breezily
+buttonholed
+batsmen
+bulk
+bouncers
+bromine
+brace
+belligerence
+bid
+babysitter
+bury
+blowdrying
+buffoon
+bourbon
+benefice
+burns
+blasphemers
+bulb
+bodily
+bullet
+brushed
+bugbears
+byte
+broods
+beasts
+boundedness
+bristled
+becomes
+backstage
+brunette
+batting
+bitterness
+boy
+brotherhood
+nrC 0
+Gh 0
+ij 0
+r 25
+repelling
+replacements
+removal
+revisiting
+recuperated
+revisionists
+ruts
+rephrasing
+reword
+reanimating
+reapplying
+regulates
+rockfalls
+romanticises
+rebut
+retook
+reinterpretation
+roadshow
+restlessness
+restating
+retentions
+repulsiveness
+riddles
+recapitulates
+repainting
+t 22
+tediously
+tubs
+topheavy
+tuns
+transmutation
+throwers
+threats
+turnabout
+tides
+travellers
+tending
+transfixed
+trekker
+teleprinter
+turtleneck
+televisions
+tolerates
+transmission
+take
+theocracies
+tastelessness
+taperecorded
+uq 0
+bF 0
+u 22
+urbane
+upheaval
+uncompressed
+unimaginable
+unfeelingly
+unnerve
+unseen
+unfeeling
+userfriendliness
+unity
+unexceptionable
+uneasily
+unauthorised
+unstacked
+unstrapped
+unforgiven
+unriddle
+unbolted
+upcoming
+underlain
+unmade
+unmnemonic
+w 17
+workfare
+washerwomen
+wobble
+willpower
+whimper
+wearied
+whimper
+warlords
+warheads
+washboard
+witch
+wellformed
+waring
+wither
+wash
+whereupon
+wharves
+oF 0
+ot 0
+R 14
+Repeatability
+Recreation
+Retinue
+Rabats
+Raised
+Refrigerant
+Regulators
+Rainstorm
+Robin
+Ratatouille
+Redefined
+Rosary
+Relevance
+Reintroduced

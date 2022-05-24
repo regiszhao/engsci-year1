@@ -1,0 +1,9 @@
+4
+V 2
+Vandalise
+Venting
+k 2
+kinswoman
+kosher
+op 0
+bg 0

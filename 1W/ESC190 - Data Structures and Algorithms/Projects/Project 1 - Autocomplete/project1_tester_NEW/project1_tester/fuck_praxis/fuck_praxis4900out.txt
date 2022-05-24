@@ -1,0 +1,63 @@
+18
+ue 0
+lZ 0
+hs 0
+srs 0
+Dsp 0
+Qd 0
+g 10
+guilt
+giraffe
+geoscientific
+gassing
+gapingly
+gale
+glowers
+generality
+gerontology
+gruesomeness
+NcC 0
+iIx 0
+zaH 0
+fp 0
+A 2
+Apoplectic
+Anxiety
+O 9
+Overreaching
+Onager
+Obelisks
+Offensiveness
+Orienteering
+Oversteps
+Ovaries
+Outnumbering
+Obedient
+g 10
+guilt
+giraffe
+geoscientific
+gassing
+gapingly
+gale
+glowers
+generality
+gerontology
+gruesomeness
+erL 0
+T 6
+Tape
+Trusted
+Transmuting
+Tightening
+Tolerating
+Trustfully
+hlt 0
+v 7
+vote
+vinyls
+voltage
+viciously
+vastness
+vacuity
+vinyls

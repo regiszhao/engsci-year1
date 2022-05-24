@@ -1,0 +1,154 @@
+25
+k 5
+knob
+keels
+knob
+kitten
+kerbs
+v 11
+velvets
+vigorous
+vindicating
+volleys
+viewpoint
+visuals
+venture
+vice
+viceroy
+vamp
+vegetate
+q 4
+quicker
+quincentenary
+quondam
+quieting
+G 4
+Gleams
+Gamut
+Gillie
+Given
+cn 0
+y 1
+yon
+x 0
+xw 0
+kjf 0
+Tm 0
+HeZ 0
+rq 0
+kzF 0
+f 21
+fluctuation
+freak
+frauds
+foxholes
+finch
+fried
+foxhole
+fixes
+flickering
+flatmates
+faller
+fervent
+flabby
+fortified
+friskier
+fondues
+fraying
+fallibility
+fettered
+freestyle
+functionalist
+jW 0
+e 32
+eagles
+envied
+erects
+ennobles
+exactness
+exchanged
+examiners
+editions
+expanses
+enraging
+examine
+entailment
+enthuse
+earphones
+eels
+evacuation
+entertain
+erosions
+encroaches
+extirpate
+embalmer
+ecstasy
+embrocation
+exteriors
+ecological
+envisage
+emulator
+excursus
+election
+ethereally
+emboldened
+experiences
+feT 0
+ty 0
+bi 1
+birth
+h 25
+hungered
+hydrophobia
+heavenly
+hugely
+hattricks
+hamstrings
+helplessness
+herb
+homage
+hummer
+hitchhike
+household
+hurtled
+hornets
+herdsman
+hypnotherapists
+highpoint
+heavily
+hardback
+hawked
+honey
+haughtiest
+hardpressed
+honeysuckle
+hydrocarbons
+z 1
+zees
+R 16
+Remembering
+Reprocess
+Rabbits
+Rejoices
+Reassembly
+Rambling
+Resumed
+Redesigns
+Reproachfulness
+Retort
+Recommenced
+Referent
+Repliers
+Refractions
+Retailers
+Residing
+ev 1
+evacuation
+Wpj 0
+W 6
+Weedy
+Wristbands
+Wholesomely
+Woodlands
+Wipes
+Waterskiing

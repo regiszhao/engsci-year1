@@ -1,0 +1,54 @@
+10
+wb 0
+Gd 0
+x 0
+Ws 0
+h 19
+headway
+hattricks
+heckle
+hindquarters
+harkened
+hierarchical
+handing
+halfhearted
+hallucination
+helpline
+hardship
+handouts
+hiker
+hippies
+hiking
+handkerchiefs
+handset
+heathery
+hold
+h 19
+headway
+hattricks
+heckle
+hindquarters
+harkened
+hierarchical
+handing
+halfhearted
+hallucination
+helpline
+hardship
+handouts
+hiker
+hippies
+hiking
+handkerchiefs
+handset
+heathery
+hold
+it 1
+itself
+ms 0
+Ph 2
+Physiognomy
+Phenol
+y 2
+yelped
+yak

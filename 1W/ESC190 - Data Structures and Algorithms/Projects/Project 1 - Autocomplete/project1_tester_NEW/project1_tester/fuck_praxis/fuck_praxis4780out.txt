@@ -1,0 +1,59 @@
+12
+ki 1
+kitchenware
+Q 1
+Quadrophonic
+i 13
+integrands
+interim
+illustrating
+illustrators
+individually
+impassable
+inconsiderate
+incomprehension
+ingathered
+indecent
+installation
+icicles
+inside
+o 8
+optoelectronic
+orchestral
+offensiveness
+opposite
+overwhelming
+origination
+overlooking
+ospreys
+chX 0
+uPr 0
+HL 0
+m 12
+moults
+mangles
+moron
+mintier
+millinery
+molestation
+multifunctional
+mourns
+mazier
+megaphone
+mountaineer
+megabytes
+y 3
+yolks
+yeomen
+yearning
+mv 0
+cb 0
+o 8
+optoelectronic
+orchestral
+offensiveness
+opposite
+overwhelming
+origination
+overlooking
+ospreys

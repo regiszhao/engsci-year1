@@ -1,0 +1,276 @@
+\documentclass[10pt]{exam}
+
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage[margin=0.6in]{geometry}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage[hidelinks, urlcolor=blue, linkcolor=blue, colorlinks=true]{hyperref}
+\usepackage{tcolorbox}
+
+\DeclarePairedDelimiterX\set[1]\lbrace\rbrace{\def\given{\;\delimsize\vert\;}#1}
+
+\newcommand{\bcent}{\begin{center}}
+\newcommand{\ecent}{\end{center}}
+\newcommand{\tb}{\textbf}
+\newcommand{\noin}{\noindent}
+\newcommand{\benum}{\begin{enumerate}}
+\newcommand{\eenum}{\end{enumerate}}
+\newcommand{\bitem}{\begin{itemize}}
+\newcommand{\eitem}{\end{itemize}}
+%%% This command makes a framed box of a chosen height.
+\newcommand{\makenonemptybox}[2]{%
+\par\nobreak\vspace{\ht\strutbox}\noindent
+\setlength{\fboxrule}{0pt} % set this to 0pt to make invisible
+\fbox{%
+\parbox[c][#1][t]{\dimexpr\linewidth-2\fboxsep}{
+  \hrule width \hsize height 0pt
+  #2
+ }%
+}%
+}
+\makeatother
+
+
+
+\begin{document}
+
+{\bcent\fontfamily{cmss}\selectfont
+\begin{tabular}{c}
+\textbf{}~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\textbf{Due: 11:59pm ET, Friday March 5, 2021}\\\hline
+\end{tabular}\ecent
+}
+
+{\fontfamily{cmss}\selectfont
+\large\bcent\tb{}\\
+\tb{}\\
+\vspace{0pt}
+
+\tb{\Large MAT185 Linear Algebra}\\
+
+\tb{Assignment 3}
+\ecent}
+
+
+
+\noin{\fontfamily{cmss}\selectfont\tb{\large Instructions:}} \\ %% Fairly standard and designed to save time; however, tweak as necessary.
+
+\noindent Please read the {\color{red}Assignment Policies, FAQ, and Rubric} document for details on submission policies, collaboration rules and academic integrity, and general instructions.
+
+\benum
+
+
+\item {\bf Submissions are only accepted by} \href{https://www.gradescope.ca}{Gradescope}. Do not send anything by email.  Late submissions are not accepted under any circumstance. Remember you can resubmit anytime before the deadline.
+
+\item  {\bf Submit your polished solutions using only this template pdf}.  Your submission should be a single pdf with your full written solutions for each question. If your solution is not written using this template pdf (scanned print or digital) then your submission will not be assessed. Organize your work neatly in the space provided.  Do not submit rough work.
+
+\item  {\bf Show your work and justify your steps} on every question but do not include extraneous information.  Put your final answer in the box provided, if necessary.  We recommend you write draft solutions on separate pages and afterwards write your polished solutions here on this template.
+
+\item  {\bf You must fill out and sign the academic integrity statement below}; otherwise, you will receive zero for this assignment.
+
+
+\eenum
+
+\vspace{30pt}
+
+
+\noin{\fontfamily{cmss}\selectfont\tb{\large Academic Integrity Statement:}} \\
+
+%%% Student information
+
+% Student 1
+\fbox{
+\begin{minipage}{\textwidth}
+{
+\vspace{0.2in}
+
+\makebox[\textwidth]{\sffamily Full Name: Regis Zhao\enspace\hrulefill}
+
+\vspace{0.2in}
+
+\makebox[\textwidth]{\sffamily Student number: 1007070660\enspace\hrulefill}
+
+\vspace{0.1in}
+}
+\end{minipage}
+}
+
+\vspace*{0.1in}
+
+% Student 2
+\fbox{
+\begin{minipage}{\textwidth}
+{
+\vspace{0.2in}
+
+\makebox[\textwidth]{\sffamily Full Name:\enspace\hrulefill}
+
+\vspace{0.2in}
+
+\makebox[\textwidth]{\sffamily Student number:\enspace\hrulefill}
+
+\vspace{0.1in}
+}
+\end{minipage}
+}
+~
+
+I confirm that:
+
+\begin{itemize}
+	\item I have read and followed the policies described in the document {\color{red} Assignment Policies, FAQ, and Rubric}.
+	\item In particular, I have read and understand the rules for collaboration, and permitted resources on assignments as described in subsection II of the  aforementioned document. I have not violated these rules while completing and writing this assignment.
+	\item I understand the consequences of violating the University's academic integrity policies as outlined in the \href{http://www.governingcouncil.utoronto.ca/policies/behaveac.htm}{Code of Behaviour on Academic Matters}. I have not violated them while completing and writing this assignment.
+\end{itemize}
+By signing this document, I agree that the statements above are true.
+
+% You should sign this PDF after compiling. Do not write your signature using LaTeX.
+\vspace{0.2in}
+{\large
+\makebox[\textwidth]{\sffamily Signatures: 1)\enspace\hrulefill}
+
+\vspace{0.2in}
+
+\makebox[\textwidth]{\sffamily \hspace*{20mm} 2)\enspace\hrulefill}
+
+}
+
+\vfill
+
+
+\pagebreak
+
+%%% Questions
+
+\noin {\tb 1.}  Let $A\in {^k}\mathbb R^n$, and let $B\in {^l}\mathbb R^n$.  Consider the matrix $C=\begin{bmatrix} A\\ B \end{bmatrix} \in {^{k+l}}\mathbb R^n$.  In other words, the matrix $C$ is formed by stacking the matrices $A$ and $B$ on top of one another.   Prove that
+$$\mathrm{null}\, C = \mathrm{null}\, A \cap \mathrm{null}\, B$$
+
+
+
+
+
+
+		\fullwidth{
+			\vspace*{-10pt}
+			%%% Do not change the height of this box. Your work must fit inside it.
+			\makenonemptybox{550pt}{
+
+
+			%%% Your work goes here!
+
+			Let $A = \begin{bmatrix}\textbf{a}_1 & \textbf{a}_2 & \dots & \textbf{a}_n \end{bmatrix}$ and $B = \begin{bmatrix}\textbf{b}_1 & \textbf{b}_2 & \dots & \textbf{b}_n \end{bmatrix}$, where $\textbf{a}_1, \textbf{a}_2, \dots \textbf{a}_n$ and $\textbf{b}_1, \textbf{b}_2, \dots \textbf{b}_n$ are the columns of the matrices, respectively.\\
+
+			First, we show that $\mathrm{null}\, C \subseteq  \mathrm{null}\, A \cap \mathrm{null}\, B$. For any vector $\textbf{x} \in {^n}\mathbb R$, if $\textbf{x} \in \mathrm{null}\, C$:
+
+			\begin{align*}
+				C\textbf{x} &= \textbf{0}\\
+				\begin{bmatrix} A\\ B \end{bmatrix}\textbf{x} &= \textbf{0}\\
+				\begin{bmatrix}
+					\textbf{a}_1 & \textbf{a}_2 & \dots & \textbf{a}_n \\
+					\textbf{b}_1 & \textbf{b}_2 & \dots & \textbf{b}_n
+				\end{bmatrix} \textbf{x} &= \textbf{0} \in {^{k+l}}\mathbb R\\
+				\iff \begin{bmatrix}\textbf{a}_1 & \textbf{a}_2 & \dots & \textbf{a}_n \end{bmatrix} \textbf{x} = A\textbf{x} = \textbf{0} \in {^{k}}\mathbb R \quad &\text{and} \quad \begin{bmatrix}\textbf{b}_1 & \textbf{b}_2 & \dots & \textbf{b}_n \end{bmatrix} \textbf{x} = B\textbf{x} = \textbf{0} \in {^{l}}\mathbb R
+			\end{align*}
+			Therefore, $\mathrm{null}\, C \subseteq  \mathrm{null}\, A \cap \mathrm{null}\, B$.\\
+
+			Now, we show $\mathrm{null}\, C \supseteq  \mathrm{null}\, A \cap \mathrm{null}\, B$. For any vector $\textbf{x} \in {^n}\mathbb R$, if $\textbf{x} \in \mathrm{null}\, A \cap \mathrm{null}\, B$:
+
+			\begin{align*}
+				A\textbf{x} = \textbf{0} \quad &\text{and} \quad B\textbf{x} = \textbf{0}\\
+				\begin{bmatrix}\textbf{a}_1 & \textbf{a}_2 & \dots & \textbf{a}_n \end{bmatrix} \textbf{x} = \textbf{0} \quad &\text{and} \quad \begin{bmatrix}\textbf{b}_1 & \textbf{b}_2 & \dots & \textbf{b}_n \end{bmatrix} \textbf{x} = \textbf{0}\\
+				\begin{bmatrix}
+					\textbf{a}_1 & \textbf{a}_2 & \dots & \textbf{a}_n \\
+					\textbf{b}_1 & \textbf{b}_2 & \dots & \textbf{b}_n
+				\end{bmatrix} \textbf{x} &= \textbf{0} \in {^{k+l}}\mathbb R\\
+				\begin{bmatrix} A\\ B \end{bmatrix}\textbf{x} &= \textbf{0}\\
+				C\textbf{x} &= \textbf{0}
+			\end{align*}
+
+			Therefore, $\mathrm{null}\, C \supseteq  \mathrm{null}\, A \cap \mathrm{null}\, B$.\\
+
+			Since $\mathrm{null}\, C \subseteq  \mathrm{null}\, A \cap \mathrm{null}\, B$ and $\mathrm{null}\, C \supseteq  \mathrm{null}\, A \cap \mathrm{null}\, B$, we have that $\mathrm{null}\, C = \mathrm{null}\, A \cap \mathrm{null}\, B$.
+
+
+			}
+		}
+	
+
+
+
+
+
+\pagebreak
+
+	% Question 2	
+
+\noin {\bf 2.}  Let $W$ be a subspace of ${}^n\mathbb R$ and define
+\begin{equation*}
+    U = \{{\bf x} \in {}^n\mathbb{R}\,|\, {\bf w}^T{\bf x} = 0~\text{for all}~{\bf w} \in W\}
+\end{equation*}
+Show that $\mbox{dim}\,U = n - \mbox{dim}\,W$.  
+
+
+
+
+		\fullwidth{
+			\vspace*{-10pt}
+			%%% Do not change the height of this box. Your work must fit inside it.
+			\makenonemptybox{550pt}{
+
+
+			%%% Your work goes here!
+
+			Say $W$ has $k$ basis vectors, $\textbf{w}_1, \textbf{w}_2, \dots \textbf{w}_k \in {}^n\mathbb R$. Now we define a matrix $A \in {^n}\mathbb R^k$ where the columns are the basis vectors of $W$, and we take the transpose of this matrix:
+			\begin{gather*}
+				A = \begin{bmatrix}\textbf{w}_1 & \textbf{w}_2 & \dots & \textbf{w}_k \end{bmatrix}\\
+				A^T = \begin{bmatrix}\textbf{w}_1^T \\ \textbf{w}_2^T \\ \vdots \\ \textbf{w}_k^T \end{bmatrix} \in {^k}\mathbb R^n
+			\end{gather*}
+
+			where $\textbf{w}_1^T, \textbf{w}_2^T, \dots \textbf{w}_k^T \in {}\mathbb R^n$ are the rows of $A^T$.\\
+
+			By the Dimension Formula (Medici 7.4), $\mbox{dim}\,\mathrm{null}\,A^T = m - \mbox{rank}\,A^T$, where $m$ is the number of columns in $A^T$. We will prove $\mbox{dim}\,U = n - \mbox{dim}\,W$ by showing that $\mbox{dim}\,U = \mbox{dim}\,\mathrm{null}\,A^T$, $n$ = number of columns in $A^T$, and $\mbox{dim}\,W = \mbox{rank}\,A^T$.\\
+
+			First, we have already shown above that $n$ is the number of columns in $A^T$ (since $A^T \in {^k}\mathbb R^n$).\\
+
+			Next, we show that $\mbox{dim}\,W = \mbox{rank}\,A^T$. Since $W$ has $k$ basis vectors:
+			\begin{align*}
+				\mbox{dim}\,W &= k\\
+				&= \mbox{rank}\,A\\
+				&= \mbox{rank}\,A^T \quad \text{(BY SOME THEOREM)}
+			\end{align*}
+
+			Finally, we will show that $\mbox{dim}\,U = \mbox{dim}\,\mathrm{null}\,A^T$, by showing that $U = \mathrm{null}\,A^T$. To do this we first show that $U \subseteq \mathrm{null}\,A^T$. For any $\textbf{x} \in U$:
+			\begin{gather*}
+				\textbf{w}^T \textbf{x} = 0 \quad \forall \;\textbf{w} \in W\\
+				\textbf{w}_1^T \textbf{x} = \textbf{w}_2^T \textbf{x} = \dots = \textbf{w}_k^T \textbf{x} = 0\\
+				\begin{bmatrix}\textbf{w}_1^T \\ \textbf{w}_2^T \\ \vdots \\ \textbf{w}_k^T \end{bmatrix} \textbf{x} = \textbf{0} \in {}\mathbb R^k\\
+				A^T \textbf{x} = \textbf{0}\\
+				\therefore U \subseteq \mathrm{null}\,A^T
+			\end{gather*}
+			We then show $U \supseteq \mathrm{null}\,A^T$. For any $\textbf{x} \in \mathrm{null}\,A^T$ and any $\textbf{w} \in W$:
+			\begin{align*}
+				\textbf{w}^T \textbf{x} &= (c_1\textbf{w}_1 + c_2\textbf{w}_2 + \dots + c_k\textbf{w}_k)^T \textbf{x} \quad c_1, c_2, \dots , c_k \in \mathbb{R}\\
+				&= (c_1\textbf{w}_1^T + c_2\textbf{w}_2^T + \dots + c_k\textbf{w}_k^T) \textbf{x} \quad \text{(Medici 1.4, Property II of transposes)}\\
+				&= c_1\textbf{w}_1^T \textbf{x} + c_2\textbf{w}_2^T \textbf{x} + \dots + c_k\textbf{w}_k^T \textbf{x}\\
+				&= c_1(0) + c_2(0) + \dots + c_k(0)\\
+				&= 0\\
+				\therefore U \supseteq \mathrm{null}\,A^T
+			\end{align*}
+			
+			Since $U \subseteq \mathrm{null}\,A^T$ and $U \supseteq \mathrm{null}\,A^T$, we have that $U = \mathrm{null}\,A^T$, and so $\mbox{dim}\,U = \mbox{dim}\,\mathrm{null}\,A^T$.\\
+
+			We have shown that $\mbox{dim}\,U = \mbox{dim}\,\mathrm{null}\,A^T$, $n$ = number of columns in $A^T$, and $\mbox{dim}\,W = \mbox{rank}\,A^T$. Therefore by the Dimension Formula:
+			\begin{displaymath}
+				\therefore \mbox{dim}\,U = n - \mbox{dim}\,W
+			\end{displaymath}
+
+
+			}
+		}
+
+
+
+\end{document}

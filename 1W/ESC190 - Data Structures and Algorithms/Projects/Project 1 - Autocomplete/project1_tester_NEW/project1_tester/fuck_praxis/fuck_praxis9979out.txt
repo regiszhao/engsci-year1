@@ -1,0 +1,132 @@
+16
+gs 0
+r 44
+riboflavin
+reopening
+radices
+reprovingly
+ramparts
+riled
+reform
+refraction
+rewrote
+rumble
+rumours
+refurbishments
+rapid
+resonantly
+recording
+ratings
+relativism
+renegotiate
+resided
+reruns
+reshow
+rapist
+revealingly
+repugnance
+radioactivity
+reliant
+revitalised
+revivifying
+requited
+reapply
+ruffles
+recruiter
+rearmament
+rimmed
+refraining
+resounding
+ratios
+remap
+requisitioned
+rationing
+robes
+reselect
+relapsed
+robbers
+ar 5
+archery
+artificiality
+arousing
+armament
+arts
+YN 0
+pd 0
+C 14
+Conspecific
+Constraints
+Combustibles
+Coddling
+Containment
+Cleaning
+Curvaceous
+Cartoonist
+Crotchet
+Cocksure
+Chants
+Courageously
+Conversationalists
+Certainty
+XS 0
+Fhu 0
+if 0
+kh 0
+kv 0
+r 44
+riboflavin
+reopening
+radices
+reprovingly
+ramparts
+riled
+reform
+refraction
+rewrote
+rumble
+rumours
+refurbishments
+rapid
+resonantly
+recording
+ratings
+relativism
+renegotiate
+resided
+reruns
+reshow
+rapist
+revealingly
+repugnance
+radioactivity
+reliant
+revitalised
+revivifying
+requited
+reapply
+ruffles
+recruiter
+rearmament
+rimmed
+refraining
+resounding
+ratios
+remap
+requisitioned
+rationing
+robes
+reselect
+relapsed
+robbers
+bij 0
+nU 0
+yy 0
+U 8
+Unburned
+Unintuitive
+Utilises
+Unethically
+Unfavourable
+Unhyphenated
+Unbidden
+Undesired

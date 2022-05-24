@@ -1,0 +1,23 @@
+7
+Fue 0
+P 1
+Planetesimals
+A 2
+Agitations
+Alkalic
+b 4
+buck
+blocked
+button
+bollards
+s 8
+swept
+squarish
+seafront
+spooks
+strapping
+supermarkets
+supersede
+student
+Xm 0
+ep 0

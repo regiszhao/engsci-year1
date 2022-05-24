@@ -1,0 +1,80 @@
+22
+vcp 0
+hz 0
+za 0
+lc 0
+v 2
+vignette
+visibility
+lk 0
+mz 0
+e 12
+elixirs
+expressiveness
+emptiness
+enthusiasts
+embittered
+evilness
+eulogises
+edifice
+eden
+emigrant
+emotive
+effaced
+j 2
+junkmail
+jurisdictions
+vo 0
+sR 0
+f 11
+fungal
+facilitates
+fobbing
+fizzled
+feelingly
+followers
+flea
+fords
+fledge
+familiarly
+franking
+Y 0
+Zo 0
+o 5
+objectives
+operatic
+orchestrations
+officious
+oceanic
+vhj 0
+u 11
+unrehearsed
+undoing
+underpins
+uncertainty
+uptotheminute
+upsurges
+unenthusiastically
+umbra
+uncreated
+uncommon
+untrappable
+jd 0
+p 10
+patiently
+polo
+perceptible
+pressmen
+panels
+psychotherapists
+pits
+patten
+prebendary
+pageboy
+X 0
+w 4
+worn
+winker
+washable
+weakminded
+ep 0

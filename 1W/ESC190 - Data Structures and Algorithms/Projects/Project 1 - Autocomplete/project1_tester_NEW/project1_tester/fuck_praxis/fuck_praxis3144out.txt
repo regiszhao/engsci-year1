@@ -1,0 +1,92 @@
+18
+uf 0
+jlb 0
+qg 0
+l 14
+legislative
+legging
+lassoed
+lug
+lacquered
+leniency
+literature
+loneliness
+legalise
+lurking
+lard
+luxuriance
+licensed
+lifeless
+dw 1
+dwindled
+cp 0
+pjh 0
+ou 2
+outclassed
+outlets
+ai 0
+A 7
+Accompany
+Afford
+Aurorae
+Assembling
+Articulates
+Analysed
+Automating
+T 10
+Tongues
+Turns
+Then
+Topheavy
+Thunderstorm
+Toned
+Timepiece
+Taken
+Tunable
+Thoughtfully
+lg 0
+yZ 0
+a 33
+anti
+anachronism
+autumnal
+amine
+alphanumeric
+analogy
+abstain
+act
+atrocious
+administratively
+awkwardly
+apprenticeships
+adverb
+allots
+admiration
+ascertains
+admirer
+adobe
+actuating
+addendum
+attorneys
+atonal
+attune
+affliction
+average
+accusatory
+accusingly
+archers
+affable
+acid
+abdicates
+axiomatic
+adulteresses
+cO 0
+v 6
+vitally
+variant
+vulgar
+visualised
+village
+vest
+yI 0
+gy 0

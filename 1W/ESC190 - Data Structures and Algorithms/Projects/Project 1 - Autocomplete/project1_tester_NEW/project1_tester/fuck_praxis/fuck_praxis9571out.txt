@@ -1,0 +1,165 @@
+16
+S 32
+Sententious
+Sheiks
+Stratification
+Supersaturated
+Sniffed
+Strongmen
+Suppresses
+Statehood
+Swamplands
+Success
+Squiggle
+Straws
+Sentence
+Shrieking
+Sticking
+Sobering
+Speedy
+Snivel
+Sleek
+Substitutions
+Seismologists
+Slimming
+Supreme
+Supplanting
+Supposed
+Snorted
+Scavengers
+Surging
+Spoon
+Superintendent
+Sew
+Scold
+J 1
+Jousts
+sm 1
+smearing
+cv 0
+vqC 0
+O 9
+Obedient
+Oppressively
+Outset
+Overspending
+Overcomplexity
+Overturned
+Ovary
+Operators
+Ox
+i 21
+indorsed
+instigate
+identifications
+intimidated
+implacable
+invoiced
+intend
+intensifying
+inhabiting
+ironed
+invertible
+induct
+island
+inaccuracy
+installed
+identically
+infringed
+intermolecular
+intermediate
+impelling
+initialised
+w 16
+wombats
+weakest
+wicker
+wheezes
+warlords
+wringing
+weeding
+walnut
+wheelbarrow
+waiter
+whoops
+wrangling
+workbook
+wrested
+wordings
+wants
+x 1
+xraying
+eR 0
+m 33
+mirrors
+maisonette
+mutinies
+maintenance
+molar
+malt
+moralised
+miscarriage
+merchantman
+moments
+manifesting
+maladjustment
+manatee
+militating
+marl
+misconceived
+misquoting
+mustache
+minority
+maw
+minorities
+mathematics
+missing
+momentary
+mellifluousness
+malformations
+millstones
+multilateral
+mounties
+meaty
+misspent
+mellowed
+multiphase
+kt 0
+lp 0
+w 16
+wombats
+weakest
+wicker
+wheezes
+warlords
+wringing
+weeding
+walnut
+wheelbarrow
+waiter
+whoops
+wrangling
+workbook
+wrested
+wordings
+wants
+va 2
+valencies
+vanilla
+w 16
+wombats
+weakest
+wicker
+wheezes
+warlords
+wringing
+weeding
+walnut
+wheelbarrow
+waiter
+whoops
+wrangling
+workbook
+wrested
+wordings
+wants

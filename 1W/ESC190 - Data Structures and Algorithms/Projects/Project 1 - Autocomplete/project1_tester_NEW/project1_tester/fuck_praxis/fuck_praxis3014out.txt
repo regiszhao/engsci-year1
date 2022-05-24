@@ -1,0 +1,94 @@
+9
+xl 0
+v 11
+voices
+vernal
+vase
+vandals
+viciously
+voles
+variate
+verges
+vagrant
+vanishing
+verbose
+w 21
+widowhood
+wrangle
+washington
+walkover
+womanish
+whiter
+winch
+wildlife
+wasteful
+wondrously
+warlocks
+wailing
+welter
+wands
+wittiness
+waistline
+wheeling
+wellthoughtout
+warty
+wafted
+wobbly
+K 2
+Kingpin
+Krill
+o 19
+outdone
+overcome
+openly
+optoelectronic
+outgrew
+outcrops
+overhauling
+orgies
+observations
+oiling
+obstetrician
+overrated
+outfitters
+outlawing
+official
+ones
+outworking
+offprint
+operand
+y 2
+yes
+yap
+py 1
+pyroxene
+m 25
+muscles
+manoeuvre
+muffling
+mantled
+mending
+marshy
+microwaveable
+misconceptions
+mastiff
+meaningfulness
+meditation
+microorganisms
+minuted
+modifications
+milt
+martini
+mixtures
+misrepresentation
+manometer
+madman
+mix
+meantime
+macron
+muddiest
+marquees
+ov 3
+overcome
+overhauling
+overrated

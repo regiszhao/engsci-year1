@@ -1,0 +1,74 @@
+20
+Q 1
+Quartiles
+wc 0
+fj 0
+ts 1
+tsunami
+iwb 0
+Ad 0
+n 3
+newsreels
+natives
+neurologists
+y 0
+rwg 0
+wS 0
+cu 0
+m 15
+misfit
+multiprocessors
+mascara
+malarial
+mature
+machinist
+moorhens
+microprogram
+meet
+midden
+magnifier
+mounted
+mislabelled
+missteps
+magnums
+nx 0
+ef 0
+ed 0
+HV 0
+i 8
+insecure
+imbecility
+insufficiency
+ingredient
+inertia
+infections
+incenses
+insincerely
+Dd 0
+c 25
+caudal
+coronas
+casanova
+contort
+candies
+crushingly
+chivvied
+carrots
+captain
+compactly
+chronicles
+crossfertilisation
+colds
+caricature
+conventionalist
+cleaner
+cahoots
+chores
+countrymen
+cassettes
+counterfeiters
+champagne
+consummate
+cardiologist
+carotin
+Zp 0

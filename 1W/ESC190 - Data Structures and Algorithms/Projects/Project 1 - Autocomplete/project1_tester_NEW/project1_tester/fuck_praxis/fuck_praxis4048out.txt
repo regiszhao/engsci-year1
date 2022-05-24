@@ -1,0 +1,123 @@
+27
+Y 1
+Yellowed
+ra 2
+railwayman
+racks
+m 24
+minerals
+manically
+melee
+masterwork
+meted
+metamorphic
+murkier
+magnates
+miners
+monopolistic
+maim
+mound
+monarchy
+medial
+measurement
+mannerisms
+mechanistic
+mutual
+moose
+maximisation
+moorhens
+milieux
+monarchist
+manifesto
+Sp 1
+Specialist
+b 22
+blouses
+bitterly
+bridge
+bickering
+baseball
+barring
+bunching
+beeper
+biter
+boneless
+binds
+bathes
+basketful
+bagpiper
+befriending
+baud
+boastfulness
+bird
+bitch
+bridles
+blaze
+besmirch
+ucs 0
+rw 0
+ax 0
+jel 0
+bd 0
+uyf 0
+Ps 0
+Xp 0
+yAf 0
+Cue 0
+qwB 0
+v 7
+venders
+verve
+viewings
+varnish
+veld
+vaguely
+ventricles
+m 24
+minerals
+manically
+melee
+masterwork
+meted
+metamorphic
+murkier
+magnates
+miners
+monopolistic
+maim
+mound
+monarchy
+medial
+measurement
+mannerisms
+mechanistic
+mutual
+moose
+maximisation
+moorhens
+milieux
+monarchist
+manifesto
+HIi 0
+ji 0
+Kei 0
+fw 0
+sqo 0
+wZ 0
+mI 0
+of 2
+offhand
+offending
+g 12
+getaway
+glaziers
+gluttony
+gearstick
+glenn
+gulley
+glorying
+glare
+godfather
+greying
+giggled
+gobbles

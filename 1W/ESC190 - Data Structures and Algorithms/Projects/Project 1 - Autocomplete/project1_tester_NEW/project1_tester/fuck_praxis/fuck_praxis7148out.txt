@@ -1,0 +1,13 @@
+12
+udp 0
+ka 0
+P 0
+es 0
+hn 0
+pVm 0
+brc 0
+ksm 0
+lS 0
+tIn 0
+WB 0
+kCb 0

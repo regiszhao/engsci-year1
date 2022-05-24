@@ -1,0 +1,115 @@
+25
+pF 0
+B 9
+Bouncier
+Bayonets
+Boring
+Bombasts
+Byes
+Backwoods
+Bottles
+Blockbuster
+Baobab
+qC 0
+w 4
+waiting
+waterproofs
+woodcuts
+wallets
+dug 0
+oo 0
+Em 0
+N 2
+Napalm
+Newer
+p 27
+pageboy
+penology
+petrifying
+pea
+promenader
+positionable
+propellant
+propose
+packers
+pushes
+parapsychology
+presumes
+parametrised
+padding
+proficiencies
+philosophy
+prism
+pond
+panthers
+puritans
+plumtree
+plush
+parasol
+port
+potted
+pasteur
+porosity
+ph 1
+philosophy
+bon 2
+bonds
+bonding
+wo 1
+woodcuts
+RKl 0
+E 7
+Enhancing
+Eyeglasses
+Eventing
+Easel
+Elephants
+Entertains
+Effective
+He 2
+Heroics
+Heartbreak
+q 2
+quarries
+quitting
+Fdz 0
+ri 3
+rile
+ripostes
+ridiculed
+gck 0
+fyr 0
+Sn 0
+q 2
+quarries
+quitting
+p 27
+pageboy
+penology
+petrifying
+pea
+promenader
+positionable
+propellant
+propose
+packers
+pushes
+parapsychology
+presumes
+parametrised
+padding
+proficiencies
+philosophy
+prism
+pond
+panthers
+puritans
+plumtree
+plush
+parasol
+port
+potted
+pasteur
+porosity
+W 0
+az 0

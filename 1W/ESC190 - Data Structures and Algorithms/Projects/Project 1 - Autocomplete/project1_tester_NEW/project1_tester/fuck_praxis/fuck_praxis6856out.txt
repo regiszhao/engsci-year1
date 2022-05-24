@@ -1,0 +1,12 @@
+8
+lN 0
+Wt 0
+Mg 0
+j 1
+junkmail
+vA 0
+ru 0
+hdu 0
+W 2
+Walkable
+Workspace

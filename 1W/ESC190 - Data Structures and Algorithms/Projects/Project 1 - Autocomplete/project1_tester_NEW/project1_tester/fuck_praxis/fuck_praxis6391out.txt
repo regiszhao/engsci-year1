@@ -1,0 +1,9 @@
+6
+yr 0
+nq 0
+ih 0
+O 1
+Offprint
+Ud 0
+o 1
+ocean

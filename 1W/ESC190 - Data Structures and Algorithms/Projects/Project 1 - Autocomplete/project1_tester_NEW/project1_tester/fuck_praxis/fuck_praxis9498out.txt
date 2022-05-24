@@ -1,0 +1,96 @@
+27
+fi 2
+fitter
+fissions
+Dv 0
+ny 0
+Oh 0
+w 3
+wrung
+waterworks
+wellconnected
+xW 0
+c 11
+cuttlefish
+czech
+centaur
+closer
+cuba
+cataracts
+cutters
+cruel
+crispier
+cost
+contemplations
+bs 0
+yX 0
+Cp 0
+Btv 0
+PNi 0
+yc 0
+bzk 0
+gig 0
+fw 0
+cj 0
+xyx 0
+El 1
+Electrodes
+j 1
+jolliest
+ae 1
+aerobics
+m 14
+majors
+microphones
+milliseconds
+muzak
+mentally
+multiprogramming
+macrophages
+mournfulness
+misbehaves
+mobilised
+mispronounced
+masterful
+modishly
+mantelshelf
+t 8
+tarring
+typographical
+taxidermy
+tinged
+toolmaking
+timid
+trinkets
+terminology
+b 12
+blissfully
+banister
+bib
+butters
+bavaria
+boobies
+beaded
+brush
+brainstorming
+blinkering
+baron
+broadway
+u 12
+undergrowth
+useable
+unlined
+ulcers
+unpredictable
+untarnished
+unheroic
+unforeseen
+undeveloped
+uniformly
+unengaged
+unnerved
+ju 0
+F 3
+Farseeing
+Fragmented
+Fasts

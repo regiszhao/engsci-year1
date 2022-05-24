@@ -1,0 +1,254 @@
+24
+mig 0
+Kf 0
+xD 0
+ln 0
+fio 0
+gz 0
+ox 1
+oxides
+ic 0
+Bf 0
+ez 0
+c 54
+capitulation
+comport
+crank
+coupe
+claret
+cheekily
+choke
+conducts
+commission
+competitors
+coping
+constrictive
+crossword
+choreographer
+confoundedly
+calif
+cattery
+censors
+captivating
+copycats
+castigating
+conclave
+creator
+cittern
+cashes
+communed
+clattered
+culls
+codifies
+confiscatory
+chantries
+concerti
+caution
+clambering
+crows
+carding
+contravene
+convergence
+congruence
+concerted
+committal
+conjecturing
+chaste
+cleared
+costarring
+credentials
+chargers
+coax
+coincidences
+crossover
+commercially
+combativeness
+continence
+courtesans
+Oo 0
+uZp 0
+Mi 3
+Militarised
+Minify
+Mistyping
+r 26
+rearranges
+ruler
+revoked
+redo
+recession
+reinterpreted
+relevancy
+recidivists
+recruits
+riskier
+recruits
+rainwater
+remiss
+removal
+redeveloping
+ringers
+retaliating
+reflections
+redbreast
+regulated
+restrictive
+ruminations
+revelry
+racist
+require
+rials
+a 43
+abaft
+asbestosis
+aperiodically
+aforesaid
+andrew
+academics
+accelerometer
+architect
+adipose
+aping
+asperity
+academical
+accommodate
+accumulated
+addicts
+asynchronously
+aloneness
+appendages
+appertain
+authoritarians
+acknowledgment
+awestruck
+aeronautic
+actually
+articulating
+arenas
+australian
+accented
+aplomb
+alleviation
+ablative
+aerodromes
+agoraphobia
+away
+albino
+acutest
+armenia
+affiliated
+architectural
+anticipation
+acrimoniously
+appellations
+aeons
+Nm 0
+Lvy 0
+en 7
+engels
+endorsement
+engraver
+environmentalist
+enquiries
+encapsulation
+enclose
+Gw 0
+nQ 0
+p 52
+pagodas
+printable
+pronounce
+pocketful
+preserving
+poisoner
+pities
+photocopier
+proposing
+peat
+poorest
+precaution
+popmusic
+portrayal
+pastes
+paeans
+polices
+piqued
+portable
+prickliest
+phobic
+pull
+patters
+pursuers
+pedant
+peas
+pimpernel
+prophylaxis
+postoperative
+pajamas
+participated
+perish
+precessing
+pintsized
+panicked
+parsings
+page
+principle
+pleasanter
+pope
+penguins
+propositional
+posterior
+policeman
+parlours
+pounding
+powdered
+proficiencies
+pointedly
+padlock
+panning
+piercingly
+Tk 0
+a 43
+abaft
+asbestosis
+aperiodically
+aforesaid
+andrew
+academics
+accelerometer
+architect
+adipose
+aping
+asperity
+academical
+accommodate
+accumulated
+addicts
+asynchronously
+aloneness
+appendages
+appertain
+authoritarians
+acknowledgment
+awestruck
+aeronautic
+actually
+articulating
+arenas
+australian
+accented
+aplomb
+alleviation
+ablative
+aerodromes
+agoraphobia
+away
+albino
+acutest
+armenia
+affiliated
+architectural
+anticipation
+acrimoniously
+appellations
+aeons

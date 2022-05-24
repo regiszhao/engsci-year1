@@ -1,0 +1,135 @@
+28
+cQh 0
+qc 0
+vcf 0
+XC 0
+pw 0
+w 10
+work
+wooded
+welldeveloped
+weathers
+wayout
+wheelhouse
+whereto
+winders
+watermills
+willing
+I 4
+Impenetrably
+Inflamed
+Interviewed
+Iotas
+D 6
+Dominantly
+Disrepute
+Doormats
+Dessicated
+Demands
+Didactic
+g 8
+grit
+gambits
+graver
+grandpa
+groove
+glowered
+greedy
+gestures
+kK 0
+a 14
+apartments
+avenger
+agriculturalist
+autocue
+ants
+abdominal
+abbreviating
+aperitifs
+away
+ably
+astrophysicists
+acquiesced
+automobile
+anatomies
+i 10
+inflections
+intrudes
+iciest
+intelligible
+isomer
+interments
+issue
+issuing
+ineradicable
+interactional
+U 2
+Utensils
+Untiring
+Pg 0
+g 8
+grit
+gambits
+graver
+grandpa
+groove
+glowered
+greedy
+gestures
+zyd 0
+Pl 0
+Tw 0
+qt 0
+t 20
+traceable
+timidly
+terrifyingly
+tenures
+temptingly
+tenths
+talons
+toyed
+thine
+technical
+tittering
+thyme
+thermal
+typographical
+torch
+tyrants
+tremendous
+taste
+tripwires
+telegraphic
+z 0
+fx 0
+b 21
+bureaux
+barristers
+bonded
+badminton
+broadcasts
+buildups
+baronets
+buts
+barrow
+blackthorn
+bucked
+baggages
+bloating
+bogged
+bibles
+burg
+benefited
+boney
+breaststroke
+blacklists
+beaver
+gsa 0
+prz 0
+plG 0
+V 3
+Vocationally
+Versed
+Vexation
+rV 0

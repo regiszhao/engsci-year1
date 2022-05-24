@@ -1,0 +1,125 @@
+15
+n 6
+neurons
+numerical
+navel
+nervelessness
+northmen
+neuroscientists
+n 6
+neurons
+numerical
+navel
+nervelessness
+northmen
+neuroscientists
+XI 0
+bf 0
+dt 0
+Apz 0
+b 32
+bunched
+breaking
+bounders
+blocs
+blunder
+boulders
+busy
+bastardisation
+beery
+blocking
+briefcases
+brief
+broils
+bussing
+bevelled
+bribers
+backstairs
+baths
+busied
+bedfellow
+bloodcurdling
+bullion
+banging
+bridals
+buglers
+boozes
+bumped
+bawdy
+banknote
+baling
+bankruptcy
+boroughs
+wl 0
+qq 0
+Rcg 0
+pT 0
+a 47
+auction
+apex
+adulthood
+assimilates
+airier
+astigmatic
+attractions
+adjournment
+atonal
+abroad
+abnormally
+anionic
+arrears
+autumns
+antlions
+assailants
+aimed
+asymmetry
+apprehends
+abstrusely
+atombomb
+apportions
+ally
+amoeba
+artful
+another
+acetone
+acrimony
+apotheosis
+able
+ankara
+affiliating
+abstinent
+airfield
+ashtray
+appraiser
+apathetic
+archetypal
+appropriates
+attentions
+aerobe
+amputees
+algorithmic
+aided
+appraise
+asked
+atomisation
+f 18
+father
+fetus
+fortuitous
+freya
+furry
+fritters
+floods
+foraged
+fictitious
+formalistic
+fetishist
+fluctuated
+farseeing
+fractures
+flesher
+formulation
+fevered
+farms
+ANj 0
+x 0

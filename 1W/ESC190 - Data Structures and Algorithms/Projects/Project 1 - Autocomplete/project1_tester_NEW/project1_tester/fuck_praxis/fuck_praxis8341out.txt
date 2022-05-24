@@ -1,0 +1,56 @@
+8
+bd 0
+dw 0
+l 10
+litigating
+leotard
+lanyard
+lingua
+lobelia
+letter
+librarians
+latrine
+leagues
+loyalties
+u 16
+unceasingly
+unselfishly
+unforeseen
+unshared
+ugliness
+unravels
+undiscriminating
+unvarying
+unpacks
+unlikeable
+unquantified
+unsterilised
+upshot
+unforgettable
+unapologetic
+unprintable
+v 5
+voicing
+vats
+vibratory
+vacantly
+velour
+uki 0
+bm 0
+u 16
+unceasingly
+unselfishly
+unforeseen
+unshared
+ugliness
+unravels
+undiscriminating
+unvarying
+unpacks
+unlikeable
+unquantified
+unsterilised
+upshot
+unforgettable
+unapologetic
+unprintable

@@ -1,0 +1,25 @@
+9
+lc 0
+y 0
+g 5
+goodtempered
+geiger
+graft
+gasping
+goad
+g 5
+goodtempered
+geiger
+graft
+gasping
+goad
+TTk 0
+mp 0
+g 5
+goodtempered
+geiger
+graft
+gasping
+goad
+uj 0
+cH 0

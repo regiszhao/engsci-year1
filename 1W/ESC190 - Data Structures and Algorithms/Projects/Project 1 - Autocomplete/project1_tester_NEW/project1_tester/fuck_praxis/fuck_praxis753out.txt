@@ -1,0 +1,142 @@
+14
+g 13
+guardhouse
+grenadier
+gaining
+gouging
+ghastliest
+gospels
+genteelly
+grumpily
+genitive
+gaging
+guttural
+gores
+grasping
+b 37
+battling
+battlements
+behavioural
+biosphere
+ballbearing
+breaches
+bramble
+babyface
+button
+barony
+backlogs
+bluffing
+brambles
+balloonist
+backyard
+bridles
+bushel
+burbling
+balustrade
+barrage
+braced
+basal
+babblers
+blemished
+banks
+bloodthirsty
+banger
+bigot
+blondhaired
+bestiality
+brute
+buzzard
+blemished
+barred
+bleeding
+biles
+brassiere
+AF 0
+Fv 0
+q 2
+quintessential
+quietness
+z 1
+zombie
+ul 0
+qT 0
+Ima 0
+Uwl 0
+cRf 0
+r 37
+rhythms
+recursive
+refurbishing
+reorganisation
+refugee
+reselect
+rejoice
+repentantly
+recovers
+roomiest
+rein
+redshift
+revivals
+refrigeration
+relink
+roubles
+repining
+recipient
+reclaimer
+recursive
+rosettes
+resale
+rap
+resorting
+readers
+rescinding
+reverberate
+rewritings
+recklessness
+responsibility
+reassemble
+reviewed
+reverberant
+reclassification
+rickshas
+restrictive
+reset
+of 0
+b 37
+battling
+battlements
+behavioural
+biosphere
+ballbearing
+breaches
+bramble
+babyface
+button
+barony
+backlogs
+bluffing
+brambles
+balloonist
+backyard
+bridles
+bushel
+burbling
+balustrade
+barrage
+braced
+basal
+babblers
+blemished
+banks
+bloodthirsty
+banger
+bigot
+blondhaired
+bestiality
+brute
+buzzard
+blemished
+barred
+bleeding
+biles
+brassiere

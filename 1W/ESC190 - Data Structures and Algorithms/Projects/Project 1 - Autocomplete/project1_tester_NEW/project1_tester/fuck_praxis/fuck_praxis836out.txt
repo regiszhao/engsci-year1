@@ -1,0 +1,66 @@
+19
+wx 0
+Gm 0
+bk 0
+x 0
+dR 0
+p 16
+pearly
+propagation
+pronouncements
+passages
+prevalence
+paeony
+papering
+pray
+porters
+potentate
+precis
+pathetic
+procreation
+paralysing
+productively
+proven
+rAG 0
+p 16
+pearly
+propagation
+pronouncements
+passages
+prevalence
+paeony
+papering
+pray
+porters
+potentate
+precis
+pathetic
+procreation
+paralysing
+productively
+proven
+Q 1
+Quivered
+At 0
+m 1
+mashed
+i 2
+innervation
+intermarriage
+Gz 0
+w 3
+wailed
+waken
+witchhunts
+di 2
+differentiation
+dives
+kg 0
+CR 0
+rG 0
+b 5
+bracket
+baronies
+biding
+barking
+bovine

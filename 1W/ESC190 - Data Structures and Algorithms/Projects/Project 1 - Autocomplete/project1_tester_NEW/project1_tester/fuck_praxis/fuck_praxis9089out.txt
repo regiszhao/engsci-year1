@@ -1,0 +1,26 @@
+19
+F 1
+Faltered
+asH 0
+ld 0
+M 0
+T 0
+phk 0
+pn 0
+hJ 0
+E 0
+X 0
+R 2
+Rookery
+Rural
+kx 0
+pt 0
+W 2
+Wickedness
+Waring
+jy 0
+F 1
+Faltered
+rt 0
+vG 0
+nc 0

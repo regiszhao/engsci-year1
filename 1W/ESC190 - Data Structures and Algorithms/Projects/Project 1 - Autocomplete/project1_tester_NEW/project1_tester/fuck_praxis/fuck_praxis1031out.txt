@@ -1,0 +1,101 @@
+10
+hmI 0
+p 42
+psychoanalysts
+pries
+polite
+party
+procures
+plateau
+prearranged
+piggery
+pickpocket
+perforations
+plantain
+poseidon
+patentable
+paginated
+positivism
+profitability
+pallbearers
+pathfinder
+propriety
+parishioners
+petitions
+pore
+peri
+pipelines
+precepts
+profuseness
+pre
+panellist
+photocopying
+primaeval
+peaceably
+pretensions
+placers
+patchily
+parodied
+proceeds
+professes
+pumps
+poring
+protruded
+privation
+prow
+ln 0
+j 3
+jitter
+jell
+january
+rl 0
+L 6
+Locations
+Lamb
+Lest
+Lozenges
+Lama
+Levi
+vc 0
+a 22
+apprise
+anyhow
+actors
+again
+apples
+aurorae
+atmospherics
+ablate
+aptest
+aimless
+arrowheads
+asbestosis
+atheist
+aromaticity
+acanthus
+assuaged
+adhesions
+acceptances
+autobiographies
+asset
+address
+abundance
+P 17
+Pints
+Plain
+Patriarch
+Promises
+Pollinator
+Platelet
+Proves
+Posy
+Pedantically
+Peripherally
+Provost
+Poled
+Polemic
+Piquancy
+Precondition
+Physiotherapy
+Preyed
+gv 0

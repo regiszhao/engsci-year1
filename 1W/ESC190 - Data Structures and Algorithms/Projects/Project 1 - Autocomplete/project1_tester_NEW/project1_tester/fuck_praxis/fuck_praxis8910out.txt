@@ -1,0 +1,192 @@
+18
+wu 0
+ib 0
+K 1
+Knifepoint
+rs 0
+z 1
+zaps
+lm 0
+zyz 0
+m 33
+miscarried
+micron
+matures
+mockingbird
+milkyway
+muscling
+maniacal
+marbled
+magnetohydrodynamical
+mist
+magneto
+mums
+manures
+meataxe
+metatarsal
+mingles
+misplaced
+massager
+manuscripts
+munificent
+maintainability
+magnetisation
+maids
+moments
+macaroons
+millilitres
+mourned
+maydays
+mountable
+murky
+mollify
+montages
+manufacturers
+q 6
+quartz
+quartermaster
+quadrilles
+qualities
+quenched
+quarrymen
+Rw 0
+Oj 0
+pc 0
+Pr 6
+Prints
+Prunings
+Presentations
+Pragmatic
+Prohibitively
+Prickled
+Jf 0
+pkS 0
+p 63
+pastel
+pins
+paratroops
+polyhedra
+puerperal
+pinches
+pathway
+pressups
+parapsychology
+peacekeepers
+paraded
+padlocks
+palette
+pothole
+pharmacy
+postscript
+parochialism
+passed
+puree
+perused
+proofed
+parader
+parvenu
+pugilistic
+pardonable
+postfixes
+protestor
+picnics
+playtime
+pauper
+plastics
+publishable
+pacer
+postpones
+peters
+pounce
+prodding
+providers
+papaw
+palmy
+peasantry
+pressmen
+procrastinators
+parentinlaw
+punster
+patterns
+perpetrating
+peasants
+planter
+pincushion
+policeman
+punning
+performs
+periodicals
+peaks
+pastors
+portico
+pluralists
+perpetuated
+prosaist
+patriot
+poached
+pleasures
+p 63
+pastel
+pins
+paratroops
+polyhedra
+puerperal
+pinches
+pathway
+pressups
+parapsychology
+peacekeepers
+paraded
+padlocks
+palette
+pothole
+pharmacy
+postscript
+parochialism
+passed
+puree
+perused
+proofed
+parader
+parvenu
+pugilistic
+pardonable
+postfixes
+protestor
+picnics
+playtime
+pauper
+plastics
+publishable
+pacer
+postpones
+peters
+pounce
+prodding
+providers
+papaw
+palmy
+peasantry
+pressmen
+procrastinators
+parentinlaw
+punster
+patterns
+perpetrating
+peasants
+planter
+pincushion
+policeman
+punning
+performs
+periodicals
+peaks
+pastors
+portico
+pluralists
+perpetuated
+prosaist
+patriot
+poached
+pleasures
+lsz 0

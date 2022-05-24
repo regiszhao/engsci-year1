@@ -1,0 +1,114 @@
+18
+as 3
+assign
+assignments
+assembly
+H 8
+Heptagon
+Homonyms
+Hustling
+Honeysuckles
+Hotair
+Homogeneity
+Hydroxides
+Hemlines
+k 2
+keystrokes
+keening
+t 24
+toothmarks
+testes
+tenners
+treating
+tariff
+touristic
+talks
+thyme
+tidies
+teleprinter
+trodden
+thwarts
+tarpaulin
+tuns
+tamest
+tomato
+television
+turbulence
+trustee
+typewritten
+tuck
+toddy
+tugged
+teat
+WV 0
+Ndf 0
+y 2
+yelled
+yielded
+ios 0
+C 13
+Cure
+Conservations
+Capsized
+Complexioned
+Cottage
+Clan
+Camps
+Costumed
+Checked
+Contentedly
+Consulting
+Creakiest
+Cruellest
+n 8
+nonconformity
+natal
+nutty
+norms
+napkin
+nagging
+noticed
+nominated
+f 22
+fruitlessly
+foodstuff
+fruitiest
+freeway
+firecontrol
+footlights
+flatly
+fluted
+frothing
+fondant
+flaying
+feeler
+fateful
+fab
+forecast
+flute
+fume
+funnelling
+flamed
+fig
+fixtures
+fullgrown
+kc 0
+sp 4
+spluttered
+spikier
+spatter
+spyglass
+up 0
+tp 0
+rK 0
+Aa 0
+E 9
+Expend
+Election
+Embroider
+Exact
+Estimations
+Ecology
+Employees
+Exactness
+Eyelets

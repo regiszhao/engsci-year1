@@ -1,0 +1,286 @@
+27
+q 3
+quavered
+quartic
+quilted
+nl 0
+u 17
+unpopular
+universe
+understandingly
+uneconomic
+unrewarded
+unshod
+uttermost
+unwrapped
+unaffiliated
+unsticking
+unmutilated
+uncharacteristic
+uninvited
+uncertainty
+unexpurgated
+unpicking
+unarmed
+R 16
+Revivalism
+Radius
+Recidivist
+Rotating
+Roller
+Rollers
+Raciest
+Rostrums
+Receiving
+Roughened
+Refract
+Rubble
+Realm
+Republicanism
+Retail
+Resurrected
+dl 0
+ne 1
+newfangled
+qY 0
+s 63
+sociologist
+simply
+salty
+strippers
+shooters
+sieves
+seating
+sexily
+starved
+scour
+shipwright
+sheet
+strapless
+snaking
+side
+satisfactorily
+smouldering
+spears
+subtropics
+spit
+shutter
+solicit
+sifters
+slavered
+skewers
+swirling
+slinking
+sloppiest
+specialism
+servitude
+skid
+stirs
+steadiness
+shallows
+spoilt
+successes
+scriptwriting
+sapient
+schistosomiasis
+stalker
+safely
+socialistic
+straighter
+signer
+shaming
+sealants
+speculatively
+stridency
+sweetmeats
+sickly
+semaphore
+sensationalistic
+supermodels
+sleeveless
+slobbering
+showground
+siberian
+sociocultural
+special
+specialised
+spanker
+scarring
+snatches
+BFc 0
+X 0
+m 28
+medallions
+madcap
+maltreat
+misled
+midships
+motiveless
+motive
+materialised
+monograph
+meditation
+mums
+maziest
+morn
+malpractice
+meteorology
+mincer
+manifestation
+misalignment
+moisten
+myself
+manse
+modality
+mural
+microprogram
+morns
+minicomputers
+mountable
+mealies
+Ttb 0
+h 18
+hilltop
+hindmost
+hanger
+harassers
+hotchpotch
+hefting
+hereditary
+housekeeping
+heel
+hinted
+hankers
+hardly
+history
+hidings
+hereabouts
+halve
+havana
+humanely
+ofb 0
+o 13
+orca
+outflow
+overallocation
+ontological
+orientate
+overnight
+overdose
+officially
+outweighs
+open
+outclassed
+obscurities
+organics
+oj 0
+uc 0
+vc 0
+Wk 0
+q 3
+quavered
+quartic
+quilted
+w 15
+wayward
+wise
+witchery
+wages
+wallchart
+waterresistant
+wenches
+widowhood
+wrote
+withdrawals
+winter
+wheezes
+workings
+whelked
+weaned
+f 31
+flaps
+frisk
+fooled
+fix
+festoon
+finite
+fatigue
+fuelled
+flatfish
+founds
+forthcoming
+freefalling
+federalists
+famish
+fasts
+fabricator
+fecundity
+fossilised
+fifthly
+fingertips
+fillies
+famously
+flora
+fledges
+freighter
+flammability
+forever
+fishiest
+frankest
+fliting
+furtherance
+wud 0
+f 31
+flaps
+frisk
+fooled
+fix
+festoon
+finite
+fatigue
+fuelled
+flatfish
+founds
+forthcoming
+freefalling
+federalists
+famish
+fasts
+fabricator
+fecundity
+fossilised
+fifthly
+fingertips
+fillies
+famously
+flora
+fledges
+freighter
+flammability
+forever
+fishiest
+frankest
+fliting
+furtherance
+l 19
+licenses
+lyra
+legend
+lasing
+larches
+limps
+lavas
+ligand
+laundries
+laminate
+leavings
+limply
+lotto
+located
+locality
+legitimise
+legman
+lonesome
+leeks
+PWg 0
+bv 0

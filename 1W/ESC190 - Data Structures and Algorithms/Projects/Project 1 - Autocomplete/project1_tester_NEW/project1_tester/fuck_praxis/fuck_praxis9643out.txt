@@ -1,0 +1,32 @@
+21
+HV 0
+j 1
+jackboots
+ih 0
+gz 0
+od 0
+pt 0
+j 1
+jackboots
+N 2
+Neonatal
+Nimble
+sm 2
+smudges
+smoked
+iu 0
+Sc 1
+Scoff
+GX 0
+EJ 0
+jn 0
+orC 0
+he 2
+heterogeneous
+hesitate
+CS 0
+FC 0
+rg 0
+UCt 0
+Op 1
+Optimists

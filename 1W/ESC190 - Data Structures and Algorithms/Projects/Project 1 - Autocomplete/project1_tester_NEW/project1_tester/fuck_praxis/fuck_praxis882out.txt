@@ -1,0 +1,14 @@
+6
+Rxn 0
+yc 0
+zD 0
+bu 3
+bunked
+buoyancy
+bulges
+ld 0
+k 4
+keening
+kingfisher
+kindergarten
+kleptomania

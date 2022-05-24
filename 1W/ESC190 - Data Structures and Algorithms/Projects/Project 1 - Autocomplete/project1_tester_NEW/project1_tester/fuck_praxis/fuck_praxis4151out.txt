@@ -1,0 +1,64 @@
+13
+tj 0
+d 30
+dimension
+dispenser
+dee
+diarist
+dubbing
+dozen
+declension
+disallowed
+disembarked
+detracting
+defending
+dosed
+distinguishable
+disappointing
+decoder
+demean
+dive
+decompress
+diffuses
+diametric
+degree
+dulls
+deliver
+desideratum
+discounting
+diverges
+detroit
+daemons
+disbandment
+disengaged
+nsl 0
+q 3
+quashed
+quaver
+quickwitted
+aP 0
+qg 0
+hs 0
+Cf 0
+ftA 0
+w 16
+wildcats
+weathered
+watchmakers
+worry
+wineglass
+waterworks
+windows
+water
+width
+watermarks
+waiting
+wending
+warthog
+weeping
+wifely
+wimple
+mj 0
+ml 0
+Eq 1
+Equitably

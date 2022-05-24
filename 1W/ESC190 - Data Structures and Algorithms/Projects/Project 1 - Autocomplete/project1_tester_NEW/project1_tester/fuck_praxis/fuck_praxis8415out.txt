@@ -1,0 +1,13 @@
+8
+vgt 0
+wa 1
+wake
+ff 0
+or 0
+bO 0
+Zlt 0
+pu 3
+purported
+punctuation
+pugs
+rZ 0

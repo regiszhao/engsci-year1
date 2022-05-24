@@ -1,0 +1,9 @@
+8
+lu 0
+emc 0
+Qh 0
+IS 0
+fx 0
+ue 0
+Va 0
+SPg 0

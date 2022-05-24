@@ -1,0 +1,31 @@
+16
+mm 0
+ni 0
+C 3
+Corks
+Corslet
+Chamberpot
+Q 0
+pc 0
+xL 0
+qd 0
+h 6
+highheeled
+headstones
+hairstyle
+hardhit
+headline
+herding
+U 2
+Undertaking
+Understandable
+Zy 0
+Fq 0
+I 1
+Informatory
+B 1
+Balustrade
+bt 0
+q 0
+I 1
+Informatory

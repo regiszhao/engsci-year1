@@ -1,0 +1,16 @@
+10
+g 0
+ch 1
+chickens
+oX 0
+E 0
+cq 0
+zm 0
+Db 0
+i 3
+inversions
+imams
+infiltrators
+S 1
+Sacristy
+km 0

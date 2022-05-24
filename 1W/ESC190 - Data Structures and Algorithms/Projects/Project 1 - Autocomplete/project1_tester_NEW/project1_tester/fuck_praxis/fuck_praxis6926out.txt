@@ -1,0 +1,141 @@
+25
+qtU 0
+t 32
+transept
+thoroughbred
+torques
+true
+thriving
+tench
+timidity
+truss
+traverses
+trilateral
+teeter
+thresh
+tackier
+treat
+tripods
+trumpet
+towed
+tidied
+tenderest
+timescale
+tracings
+tabulates
+touchdowns
+totalising
+titillating
+talents
+taunts
+thereabouts
+transposition
+tetrahedra
+transduction
+thermostatic
+Xk 0
+id 0
+Oxb 0
+h 17
+handcart
+hatchback
+handmaiden
+hours
+haha
+hostages
+header
+habits
+holier
+hangars
+hoardings
+herpes
+haircuts
+harass
+hiccough
+heyday
+heterogeneous
+l 19
+londoner
+leathers
+lenient
+locks
+limb
+leapfrog
+lousy
+lengthened
+logistics
+latest
+lawsuit
+laconic
+levy
+loads
+legend
+latrine
+libation
+latch
+looney
+R 7
+Rotatory
+Roughage
+Reintroductions
+Rhododendron
+Revaluations
+Romanticises
+Retrievers
+j 7
+juniper
+jurisdictional
+juice
+juicy
+jinks
+jackpots
+jetsetting
+gn 0
+P 9
+Pummelling
+Policyholders
+Pavlov
+Pacer
+Pancakes
+Photocopiers
+Palpitating
+Pipe
+Politicising
+mg 0
+jj 0
+Pn 0
+myt 0
+dru 0
+v 2
+vicissitudes
+veritable
+ar 0
+U 2
+Unspoken
+Unarmed
+oy 0
+l 19
+londoner
+leathers
+lenient
+locks
+limb
+leapfrog
+lousy
+lengthened
+logistics
+latest
+lawsuit
+laconic
+levy
+loads
+legend
+latrine
+libation
+latch
+looney
+z 1
+zaniest
+nl 0
+bk 0
+Yh 0

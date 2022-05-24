@@ -1,0 +1,18 @@
+10
+O 1
+Oversimplify
+Up 0
+SD 0
+j 3
+javelins
+jarring
+jetsam
+geu 0
+bc 0
+oI 0
+j 3
+javelins
+jarring
+jetsam
+Y 0
+ep 0

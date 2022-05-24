@@ -1,0 +1,123 @@
+15
+V 1
+Vigour
+z 0
+a 15
+arbour
+adverbs
+aldrin
+aced
+ambuscade
+abstaining
+ahead
+avowals
+alignment
+accustom
+amiably
+appraisees
+adjectival
+aloof
+appraisers
+iZ 0
+oX 0
+LbL 0
+d 17
+deported
+derates
+diversely
+dim
+dirtiest
+discoverer
+deltoid
+dubious
+delineation
+dietician
+distinctive
+dime
+dimensionality
+distributed
+den
+demarcated
+defects
+rwt 0
+c 26
+churn
+chlorate
+conspiring
+convoy
+colonnade
+cursorily
+carer
+climatologists
+cadaverous
+cheep
+czars
+captained
+consolation
+compacts
+contemptuous
+capes
+clays
+condole
+cancer
+counsels
+cation
+conservative
+conductor
+costings
+cupful
+confrontational
+MF 0
+j 2
+junket
+joiners
+bte 0
+yx 0
+s 20
+sagest
+schoolroom
+saltiest
+syntactic
+syllable
+secede
+steriliser
+sparklers
+stones
+scraping
+shrank
+soloists
+skimmer
+scalpel
+stands
+stingray
+switchgear
+sucks
+songbook
+scones
+c 26
+churn
+chlorate
+conspiring
+convoy
+colonnade
+cursorily
+carer
+climatologists
+cadaverous
+cheep
+czars
+captained
+consolation
+compacts
+contemptuous
+capes
+clays
+condole
+cancer
+counsels
+cation
+conservative
+conductor
+costings
+cupful
+confrontational

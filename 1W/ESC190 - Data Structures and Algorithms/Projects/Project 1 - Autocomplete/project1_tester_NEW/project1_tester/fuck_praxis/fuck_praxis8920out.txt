@@ -1,0 +1,244 @@
+27
+udc 0
+bg 0
+cD 0
+lfp 0
+cp 0
+S 24
+Seaward
+Sulks
+Steamiest
+Stockbroker
+Smilers
+Stews
+Stringency
+Steelwork
+Swirl
+Shoes
+Stayers
+Spectroscopy
+Sacrificial
+Solarium
+Softboiled
+Sulked
+Sinfulness
+Souffle
+Scissors
+Scourges
+Starryeyed
+Soundness
+Surprises
+Steppes
+Zn 0
+Xg 0
+Tk 0
+eE 0
+lC 0
+t 32
+testable
+timbered
+transom
+teats
+truly
+thereabouts
+torchbearer
+tampered
+treeless
+treasurers
+traditionalists
+trident
+tethering
+tern
+tuck
+toppings
+tinsel
+talkings
+treadmills
+thatching
+troll
+thirst
+theorises
+totem
+tempter
+tussock
+technologies
+textually
+theists
+toughly
+torrid
+trainload
+fG 0
+oK 0
+z 0
+c 79
+chronological
+clasping
+cutlass
+caressing
+compositions
+constituent
+clutching
+childishness
+childlessness
+concrete
+conserved
+crushed
+commandeer
+crimp
+currencies
+contraindication
+crystallising
+chortled
+cultivar
+completes
+childminders
+contest
+carrying
+convinced
+corporals
+clitoris
+chillier
+chow
+cruelties
+congo
+censured
+countered
+covalently
+campfire
+chinked
+chorales
+coaxingly
+corrections
+certificate
+cram
+coolest
+cultivar
+cabals
+corporeally
+caramelised
+competitiveness
+cantaloupe
+caved
+clansmen
+consign
+chesterfield
+clouded
+coppice
+crossreference
+cuttlefish
+countdown
+clings
+contemporary
+clubbing
+corgi
+cartoonists
+cetacean
+confessionals
+costumed
+contribution
+cortical
+checking
+chequebooks
+cryptically
+clergymen
+couched
+confidentiality
+colourised
+compactly
+cripples
+chainsaw
+carbohydrate
+clearup
+cultivating
+sx 0
+qe 0
+O 8
+Occludes
+Overcomes
+Oft
+Ornaments
+Outshines
+Obsolescent
+Oblivion
+Originators
+xs 0
+kdu 0
+Dc 0
+z 0
+t 32
+testable
+timbered
+transom
+teats
+truly
+thereabouts
+torchbearer
+tampered
+treeless
+treasurers
+traditionalists
+trident
+tethering
+tern
+tuck
+toppings
+tinsel
+talkings
+treadmills
+thatching
+troll
+thirst
+theorises
+totem
+tempter
+tussock
+technologies
+textually
+theists
+toughly
+torrid
+trainload
+do 2
+domesticated
+dolphins
+W 7
+Wheatears
+Workweek
+Welshman
+Wrap
+Weakkneed
+Waiver
+Weathervane
+t 32
+testable
+timbered
+transom
+teats
+truly
+thereabouts
+torchbearer
+tampered
+treeless
+treasurers
+traditionalists
+trident
+tethering
+tern
+tuck
+toppings
+tinsel
+talkings
+treadmills
+thatching
+troll
+thirst
+theorises
+totem
+tempter
+tussock
+technologies
+textually
+theists
+toughly
+torrid
+trainload

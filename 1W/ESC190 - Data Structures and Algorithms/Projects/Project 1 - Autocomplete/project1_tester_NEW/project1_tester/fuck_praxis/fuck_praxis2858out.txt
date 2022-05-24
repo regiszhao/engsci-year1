@@ -1,0 +1,191 @@
+20
+oqv 0
+La 0
+Ip 0
+pt 0
+qxx 0
+j 9
+jackdaw
+jackpot
+jackal
+jug
+java
+jeopardised
+jubilees
+jukeboxes
+jaw
+ho 4
+hoggs
+hottest
+homely
+howdy
+P 14
+Proofread
+Potencies
+Podgy
+Potentially
+Pumps
+Photometric
+Prudential
+Pondered
+Pistol
+Pale
+Presenter
+Patriot
+Paintwork
+Professorship
+Jw 0
+N 5
+Navigators
+Neurosurgery
+Neutrino
+Nosiness
+Nebulousness
+s 71
+semitic
+smattering
+selfcentred
+surf
+singleminded
+slender
+sealant
+sabotage
+sump
+spanners
+sewing
+starker
+subsystems
+scorecard
+sketchbook
+squall
+seasick
+satrap
+stuffy
+sightseers
+sloth
+stagflation
+spankings
+saleswoman
+steep
+submarine
+stings
+sinister
+seafood
+speculated
+salute
+snuff
+stretchy
+seacow
+soldiery
+spectrophotometers
+sightseers
+spirants
+showrooms
+spillage
+skilled
+superstar
+slid
+sorry
+swum
+synergy
+satisfactorily
+scriptural
+sporrans
+sunburst
+syphoned
+saddle
+sonata
+suppress
+stickiness
+scribed
+shortened
+signwriter
+succeeded
+shrubbery
+shoestring
+sonny
+supersaturation
+suggesting
+snappy
+suggestiveness
+shame
+scrupulousness
+spurted
+scruffy
+soloist
+T 10
+Tokenistic
+Trussed
+Threaded
+Thorn
+Triffids
+Typists
+Throbbing
+Tramps
+Trill
+Tsetse
+i 33
+install
+inhibition
+itchy
+innkeeper
+idiotic
+inverters
+intimacies
+incommoding
+incoherently
+ideals
+irritable
+icecap
+instant
+incompatibilities
+indelible
+increase
+idols
+infiltrated
+interferometers
+inhomogeneous
+initially
+intent
+immaturity
+invokers
+indrawn
+indentations
+instrumentation
+inspectors
+interoperable
+islanders
+interlace
+interlocking
+impreciseness
+lv 0
+h 24
+hissings
+handlebars
+hindquarters
+harvard
+haunch
+headboards
+hoggs
+hippocampus
+hydrochloride
+hardliners
+hinge
+hottest
+homely
+hearken
+hinged
+humanist
+howdy
+hardier
+habitat
+hacksaw
+hypotension
+hilt
+hallow
+hirsuteness
+sx 0
+fY 0
+IoT 0
+cet 0
+fx 0

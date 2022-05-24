@@ -1,0 +1,6 @@
+5
+hp 0
+zc 0
+bwi 0
+Aa 0
+gq 0

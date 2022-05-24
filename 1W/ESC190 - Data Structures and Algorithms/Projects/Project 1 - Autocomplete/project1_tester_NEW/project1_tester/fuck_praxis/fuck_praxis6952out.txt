@@ -1,0 +1,20 @@
+12
+F 1
+Fibroblast
+xbo 0
+SwY 0
+m 1
+moralities
+sl 0
+dm 0
+dEK 0
+I 1
+Interpretively
+lw 0
+e 3
+elementarily
+easiness
+enveloping
+D 0
+u 1
+unspanned

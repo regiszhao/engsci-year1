@@ -1,0 +1,129 @@
+15
+ru 0
+px 0
+D 15
+Dim
+Dairyman
+Displease
+Dimwit
+Demonstrated
+Delphiniums
+Dopy
+Drenched
+Driven
+Disassembling
+Disobeying
+Defrosted
+Despotism
+Devour
+Docks
+mc 0
+at 1
+attitudes
+b 35
+birthrate
+babysitting
+bolsters
+bibliography
+busting
+bribers
+biker
+broadsword
+befriended
+bedecks
+babel
+bagman
+buffetings
+blackcurrant
+baker
+bumps
+blenders
+bevels
+bother
+bulimic
+bailed
+bespectacled
+busmen
+bader
+buffs
+billy
+bookwork
+blocks
+bramble
+broadest
+banisters
+bemused
+beachhead
+blanching
+bolt
+Wn 0
+x 0
+rPp 0
+x 0
+cC 0
+TE 0
+p 59
+pupated
+prophylaxis
+politeness
+parliamentary
+paramount
+prowl
+precession
+profanity
+poacher
+predicament
+photolytic
+purdah
+possibilities
+perfidiously
+prospectus
+possessors
+pancake
+pulsars
+perpetrate
+prophesy
+providable
+philanthropy
+personalities
+prefigured
+presupposes
+propelling
+proxies
+patron
+pistol
+piecemeal
+pose
+perversity
+procrastinating
+paludal
+porker
+prickliness
+possible
+pencilling
+purposed
+pottery
+perching
+participant
+private
+portugal
+pedagogically
+praises
+primitive
+pursuer
+ptarmigans
+poised
+pilgrim
+parquet
+proneness
+phone
+playthings
+participated
+pope
+photosynthetically
+passport
+fc 0
+ap 3
+aphrodisiacs
+appeasement
+appropriating

@@ -1,0 +1,8 @@
+5
+Szb 0
+xh 0
+Gno 0
+k 2
+knocker
+kampong
+ok 0

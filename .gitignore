@@ -1,0 +1,12 @@
+# large files and pdfs
+*.pdf
+*.mp4
+
+# output files from tex
+*.aux
+*.fdb_latexmk
+*.fls 
+*.gz
+*.out
+*.toc
+*.log

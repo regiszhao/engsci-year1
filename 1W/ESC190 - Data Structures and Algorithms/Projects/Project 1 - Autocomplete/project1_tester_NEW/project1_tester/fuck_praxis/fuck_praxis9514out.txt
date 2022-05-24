@@ -1,0 +1,9 @@
+7
+pi 0
+E 0
+zz 0
+so 0
+o 1
+ohmic
+KW 0
+YxQ 0

@@ -1,0 +1,228 @@
+26
+xy 0
+Irr 0
+Xye 0
+S 19
+Sorter
+Satirising
+Sleuth
+Suffuse
+Spaceships
+Screechier
+Science
+Suppliants
+Sputtered
+Sightedness
+Subsurface
+Sires
+Stimulus
+Slavish
+Selfsacrificing
+Sidelines
+Signpost
+Sparsest
+Serene
+t 26
+tswana
+terminologies
+trays
+thermodynamic
+torchlight
+tonal
+tigers
+tangible
+tearing
+tweeter
+telex
+terminally
+tyrannically
+toggle
+teammate
+thirty
+transition
+tortuously
+tempest
+tinfoil
+tonne
+tripods
+tusk
+taverna
+tuners
+truest
+vO 0
+hm 0
+AN 0
+i 22
+inventors
+inducts
+inlaid
+ineluctable
+impregnation
+inoculating
+intersected
+import
+intractably
+inaugurating
+into
+implementing
+interpersonal
+importunity
+idealists
+infirmities
+implicit
+indexers
+invading
+intoning
+interpret
+informativeness
+pf 0
+i 22
+inventors
+inducts
+inlaid
+ineluctable
+impregnation
+inoculating
+intersected
+import
+intractably
+inaugurating
+into
+implementing
+interpersonal
+importunity
+idealists
+infirmities
+implicit
+indexers
+invading
+intoning
+interpret
+informativeness
+u 14
+upended
+undoubtedly
+upper
+unacceptability
+upsilon
+underemployment
+unobliging
+unevenly
+unipolar
+uprise
+upfront
+underpass
+unblinking
+ultramarine
+f 19
+fanfare
+fax
+flannelette
+flowing
+frilled
+funky
+frugally
+fluxes
+focally
+forsake
+fronting
+forswore
+frauds
+fomented
+feldspar
+fobs
+flimsy
+fakery
+flaunting
+dzV 0
+t 26
+tswana
+terminologies
+trays
+thermodynamic
+torchlight
+tonal
+tigers
+tangible
+tearing
+tweeter
+telex
+terminally
+tyrannically
+toggle
+teammate
+thirty
+transition
+tortuously
+tempest
+tinfoil
+tonne
+tripods
+tusk
+taverna
+tuners
+truest
+l 11
+lordly
+listlessly
+longwindedness
+lore
+lightweights
+laryngeal
+lantern
+liqueurs
+lookouts
+lancers
+locking
+k 2
+korean
+knee
+mu 0
+it 0
+e 23
+excerpted
+encoders
+enchanting
+exporter
+equivocations
+emasculated
+environs
+existentially
+extravagant
+enchants
+equipping
+electroluminescent
+extractable
+easier
+entreating
+eigenvalue
+enhances
+expecting
+enemas
+erasable
+eyelid
+edgewise
+enfeebled
+ih 0
+zw 0
+ko 1
+korean
+u 14
+upended
+undoubtedly
+upper
+unacceptability
+upsilon
+underemployment
+unobliging
+unevenly
+unipolar
+uprise
+upfront
+underpass
+unblinking
+ultramarine
+ot 0
+y 2
+yaws
+yarn

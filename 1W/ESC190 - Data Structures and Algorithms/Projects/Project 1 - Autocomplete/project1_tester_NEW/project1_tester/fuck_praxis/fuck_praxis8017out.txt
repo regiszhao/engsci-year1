@@ -1,0 +1,43 @@
+11
+mx 0
+oUp 0
+A 7
+Accelerations
+Assign
+Accentuate
+Allude
+Aliens
+Actor
+Aestheticism
+ncL 0
+ls 0
+o 8
+oust
+oxygenation
+overturn
+override
+offal
+orientations
+oceanography
+oxtails
+or 1
+orientations
+ph 3
+photosensitive
+physiognomies
+photosphere
+E 11
+Escaping
+Endungeoned
+Exemptions
+Explore
+Educationally
+Etal
+Epitaphs
+Express
+Especial
+Elimination
+Exercising
+Kw 0
+y 1
+yelled

@@ -1,0 +1,29 @@
+6
+b 10
+banish
+boarding
+bamboo
+brothel
+bubbled
+biorhythm
+bald
+bloods
+buttercup
+bleeper
+l 2
+loving
+lock
+x 0
+paA 0
+b 10
+banish
+boarding
+bamboo
+brothel
+bubbled
+biorhythm
+bald
+bloods
+buttercup
+bleeper
+mcn 0

@@ -1,0 +1,5 @@
+3
+Z 1
+Zealots
+qI 0
+Mf 0

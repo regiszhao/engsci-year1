@@ -1,0 +1,129 @@
+29
+v 1
+verbose
+NN 0
+xk 0
+w 5
+wreckers
+whey
+wideranging
+woodcock
+witter
+uT 0
+fFn 0
+m 18
+maoists
+middleaged
+milkier
+misspell
+menfolk
+mimes
+mirror
+melancholy
+misplace
+maoists
+murderer
+materialising
+morpheus
+mohairs
+miscue
+macrophages
+marginal
+missteps
+u 14
+unrecognised
+untrustworthy
+ultimacy
+universals
+unmagnified
+unilateralism
+unassigned
+uptake
+ups
+uncelebrated
+unpolluted
+unscaled
+unimpressed
+unpredicted
+n 8
+necessities
+newness
+nosiest
+none
+nutritive
+nationalities
+necrophiliac
+notationally
+Fe 2
+Feet
+Ferrets
+g 14
+girlfriends
+guppies
+genteelly
+glittery
+gambits
+gumshoe
+grasps
+gatecrashers
+garrotted
+gravitated
+greenhouses
+genets
+gnashes
+grownup
+vc 0
+aTr 0
+x 0
+dK 0
+o 7
+overlords
+ordinariness
+oust
+odorous
+offcut
+overambitious
+orbited
+lzS 0
+bB 0
+Ha 1
+Hattrick
+rc 0
+lr 0
+a 29
+aback
+algae
+astral
+amass
+adolescence
+ambient
+accommodating
+ailing
+antlions
+astounds
+amen
+armour
+attaining
+archly
+anarchical
+ashtrays
+anergy
+adolescents
+answer
+abetting
+arthritis
+acetate
+acquisitiveness
+agitation
+approachability
+arbitration
+ancient
+adenomas
+aerator
+x 0
+bcd 0
+teg 0
+yH 0
+vEj 0
+fXx 0
+zI 0

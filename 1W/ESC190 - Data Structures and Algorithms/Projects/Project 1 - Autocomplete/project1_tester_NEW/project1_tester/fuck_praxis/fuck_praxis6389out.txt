@@ -1,0 +1,164 @@
+28
+p 31
+puzzling
+peaty
+persist
+proletarians
+passivity
+puffy
+postmasters
+prohibitively
+planters
+pilchards
+punctually
+principality
+promptitude
+pooh
+perpetrating
+pouches
+pinpricks
+perceptible
+prototypes
+permanganate
+prophylactics
+parser
+primrose
+peacemaker
+perambulator
+popularise
+pettishly
+prophylactic
+parameter
+prejudiced
+ploughmen
+zv 0
+wN 0
+D 4
+Draughtsmen
+Dehorn
+Doles
+Daub
+qA 0
+t 20
+thrifts
+tighten
+teaming
+titan
+trendier
+thither
+turmoil
+teabags
+turncoat
+thermodynamics
+trotter
+trainee
+turns
+thirty
+triples
+translucent
+typology
+triage
+tinker
+tankards
+o 16
+obtrude
+outsold
+overlain
+overgeneralised
+overfull
+octogenarian
+objects
+oldtimers
+occurrence
+outbreaks
+outfoxed
+osteopaths
+obverse
+obscured
+outgoings
+overseer
+i 15
+incline
+internalise
+invectives
+infatuate
+influential
+istanbul
+irrigating
+incarcerated
+interlocutors
+inadequate
+inverse
+irritates
+interjected
+icecap
+institutionalism
+vz 0
+cD 0
+irI 0
+cj 0
+R 13
+Ragamuffin
+Reshaped
+Roundabout
+Reunified
+Roadster
+Rowdyism
+Ringing
+Revealed
+Resolute
+Replication
+Reassembling
+Radioactively
+Recompense
+rOa 0
+Z 2
+Zooplankton
+Zees
+W 5
+Writhes
+Wanes
+Washout
+Warehousing
+Wholeheartedly
+y 1
+yachtsman
+oz 0
+nsI 0
+oD 0
+lY 0
+t 20
+thrifts
+tighten
+teaming
+titan
+trendier
+thither
+turmoil
+teabags
+turncoat
+thermodynamics
+trotter
+trainee
+turns
+thirty
+triples
+translucent
+typology
+triage
+tinker
+tankards
+g 6
+grandmothers
+greediest
+geoscientific
+goldsmiths
+grease
+griffon
+zr 0
+y 1
+yachtsman
+gj 0
+do 1
+dour
+Bk 0

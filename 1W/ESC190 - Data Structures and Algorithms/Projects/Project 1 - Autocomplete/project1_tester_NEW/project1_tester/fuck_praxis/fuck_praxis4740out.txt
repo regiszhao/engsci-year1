@@ -1,0 +1,5 @@
+3
+Hwa 0
+n 1
+nincompoop
+ps 0

@@ -1,0 +1,73 @@
+21
+j 2
+jumpier
+jails
+b 8
+boatmen
+bulged
+buoyancy
+busybody
+balletic
+bootleg
+bubbled
+buoyant
+rU 0
+rt 0
+W 2
+Wellwisher
+Widow
+i 9
+interment
+inquisitor
+icepick
+inbound
+illiberal
+ionising
+inhaler
+inhaling
+immunise
+bs 0
+ung 0
+lf 0
+o 5
+obscenity
+observation
+observer
+oxalate
+orb
+Pod 0
+pdj 0
+p 17
+pipping
+pierces
+pruned
+persecutions
+politicisation
+perinatal
+prowess
+peccary
+possessing
+palatinate
+politic
+parrots
+pining
+putt
+provoke
+planet
+privacy
+Sp 0
+u 7
+unmet
+unusable
+unselfconsciously
+updater
+untarnished
+unrepairable
+unbelievers
+Y 0
+nQ 0
+ba 1
+balletic
+sd 0
+Oz 0
+zr 0

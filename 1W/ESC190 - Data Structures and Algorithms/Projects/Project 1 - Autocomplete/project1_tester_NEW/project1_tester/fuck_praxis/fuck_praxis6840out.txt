@@ -1,0 +1,90 @@
+28
+n 4
+native
+nip
+nostalgia
+noddle
+F 4
+Fact
+Fortify
+Feedings
+Flits
+Q 1
+Quality
+n 4
+native
+nip
+nostalgia
+noddle
+ma 3
+malefaction
+mandates
+maps
+tm 0
+xKf 0
+j 7
+jerkin
+juniors
+jams
+jarl
+journalistic
+jumbled
+judgemental
+eV 0
+ko 0
+Oic 0
+xl 0
+lzd 0
+vN 0
+tsz 0
+nQV 0
+ai 1
+aides
+pt 0
+y 1
+yardsticks
+QO 0
+na 1
+native
+oH 0
+qv 0
+u 11
+unidentified
+urgings
+unexceptional
+unlocks
+unpacked
+unprecedentedly
+unmistakable
+undiscriminated
+unarticulated
+undefined
+unambiguously
+q 4
+quavered
+qualms
+quadrupeds
+quaff
+z 1
+zoologists
+h 19
+horrifyingly
+hovels
+hankie
+hinged
+hippodrome
+heavies
+hailing
+hermaphroditic
+hemmed
+hangings
+harped
+hijacked
+handrails
+haulage
+headman
+hydrogenated
+hawsers
+hags
+herbicide
+jx 0

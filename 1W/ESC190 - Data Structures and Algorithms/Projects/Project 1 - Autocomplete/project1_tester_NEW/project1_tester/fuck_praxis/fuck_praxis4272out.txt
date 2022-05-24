@@ -1,0 +1,72 @@
+16
+Kn 1
+Knacks
+wp 0
+PcC 0
+kki 0
+l 21
+latched
+loth
+ladders
+lotto
+loosens
+laboratories
+lunge
+leaders
+louvre
+legacy
+legged
+lashed
+lucidity
+lambskin
+leipzig
+livelier
+lissome
+listens
+lingers
+loincloth
+legate
+SbN 0
+Q 1
+Quarries
+db 0
+yA 0
+n 4
+noughts
+noticeable
+nameable
+null
+i 24
+insalubrious
+interchanging
+installer
+immortally
+inflected
+installer
+itemises
+itchier
+intemperate
+inversions
+imperfect
+identifiers
+installed
+ingested
+immunology
+inactivated
+inexpedient
+ingrown
+icon
+iglu
+insulant
+ingenuity
+info
+inconsistently
+Nt 0
+v 4
+veiled
+vocalist
+valance
+vestigial
+jIT 0
+X 0
+mwK 0

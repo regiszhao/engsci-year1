@@ -1,0 +1,17 @@
+13
+x 0
+ysm 0
+O 1
+Omitting
+t 1
+tickler
+sd 0
+wkg 0
+t 1
+tickler
+j 0
+F 0
+gI 0
+s 0
+gm 0
+hs 0

@@ -1,0 +1,150 @@
+27
+tI 0
+lr 0
+u 12
+unburdened
+unifies
+unlawful
+unrehearsed
+upstream
+unstructured
+unprofitably
+unbooked
+unhappily
+unwrapped
+upbringing
+unnerve
+kf 0
+eO 0
+oq 0
+b 25
+beget
+baptise
+bastards
+burgeoning
+bogeyman
+beltings
+blatant
+broomstick
+ballpen
+breathes
+bubble
+bobtail
+barking
+byways
+balm
+bulb
+bears
+boyscout
+booming
+buts
+baggiest
+blighted
+biologists
+buffoonery
+burmese
+v 4
+victors
+ventings
+validity
+values
+qjo 0
+e 21
+effluxion
+eritrea
+embezzling
+explosives
+ethylene
+entails
+eligibly
+exploration
+emoluments
+emancipation
+encourage
+emboldened
+evaluations
+ensnarl
+excitedly
+expropriate
+emigrated
+excitation
+extendability
+evangelicals
+eta
+w 7
+wineglasses
+wear
+wording
+worse
+whetstone
+windowed
+wed
+Tz 0
+ehA 0
+haY 0
+vb 0
+jK 0
+w 7
+wineglasses
+wear
+wording
+worse
+whetstone
+windowed
+wed
+xPs 0
+o 6
+operable
+ounces
+onus
+oscillatory
+oppression
+outlay
+uz 0
+he 4
+headwind
+helots
+header
+helicopters
+e 21
+effluxion
+eritrea
+embezzling
+explosives
+ethylene
+entails
+eligibly
+exploration
+emoluments
+emancipation
+encourage
+emboldened
+evaluations
+ensnarl
+excitedly
+expropriate
+emigrated
+excitation
+extendability
+evangelicals
+eta
+Vo 0
+h 13
+headwind
+helots
+hard
+homosexuals
+hatching
+hook
+hidden
+header
+humerus
+humerus
+hotels
+hatted
+helicopters
+Mtl 0
+fVe 0
+fl 2
+flurries
+flusher

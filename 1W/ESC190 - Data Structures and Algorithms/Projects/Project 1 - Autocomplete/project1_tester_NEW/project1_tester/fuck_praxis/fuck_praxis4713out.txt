@@ -1,0 +1,180 @@
+23
+LRT 0
+Lc 0
+y 0
+pM 0
+j 6
+jostle
+juniper
+joys
+judged
+jewel
+jonathan
+o 15
+overtime
+obscures
+overlaying
+overcrowd
+oat
+obstetrics
+overshadows
+oleanders
+obligatorily
+oppressing
+overeats
+ocular
+orchestrates
+occlusion
+oxen
+e 30
+elects
+exoderm
+elven
+enfolds
+emptier
+exonerates
+extrinsic
+eucalyptus
+eludes
+expand
+equestrianism
+eared
+everybody
+eardrops
+effusive
+equilibrium
+encase
+extortionate
+electorate
+exclusive
+exterminations
+embalmer
+eradicate
+exported
+enabled
+elongations
+eightpence
+enchanting
+err
+emaciation
+mX 0
+isY 0
+Lpz 0
+o 15
+overtime
+obscures
+overlaying
+overcrowd
+oat
+obstetrics
+overshadows
+oleanders
+obligatorily
+oppressing
+overeats
+ocular
+orchestrates
+occlusion
+oxen
+sgo 0
+or 1
+orchestrates
+X 0
+l 17
+liferafts
+lido
+lovers
+lamb
+likable
+larking
+ludo
+logical
+lubricate
+loosing
+laid
+livelihood
+lurex
+localised
+led
+leashing
+lumber
+oe 0
+fq 0
+oqs 0
+lSy 0
+zD 0
+N 4
+Nepal
+Numberplate
+Negligence
+Nor
+s 68
+swooping
+satirist
+stench
+soils
+souring
+sensationalism
+sheepdogs
+sewing
+sector
+studiousness
+stinking
+skaters
+sulk
+sherry
+scoreline
+selfconsciousness
+sandy
+signora
+shanks
+snuff
+stubbed
+shoelaces
+sunking
+structures
+superficially
+shamrock
+suite
+stationary
+streets
+seating
+sufficiently
+swines
+splitting
+suggestiveness
+stoves
+sever
+suburbia
+seconder
+starlight
+squealed
+slayer
+sedates
+storing
+storylines
+seraphic
+students
+skeletons
+stables
+singable
+scuds
+skein
+sunflowers
+signifier
+shutter
+sacrificing
+sandwiches
+sienna
+saves
+stimulated
+sundried
+spectacle
+satinwood
+spotlessness
+shacks
+suppressive
+spectroscopes
+scripting
+symphony
+UI 0

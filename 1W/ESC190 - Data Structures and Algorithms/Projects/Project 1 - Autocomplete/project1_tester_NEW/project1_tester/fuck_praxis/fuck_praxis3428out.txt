@@ -1,0 +1,24 @@
+12
+mdj 0
+xE 0
+vna 0
+h 4
+handshaking
+handbrake
+hymnal
+hornet
+l 7
+lumber
+louder
+locked
+logistical
+lavatorial
+lithium
+lineaments
+cen 0
+zp 0
+E 0
+Td 0
+Mm 0
+oxy 0
+gM 0

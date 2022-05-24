@@ -1,0 +1,28 @@
+14
+gp 0
+G 4
+Grabber
+Gatherings
+Golfing
+Gaiters
+cl 3
+clattering
+clinked
+clenching
+V 2
+Virulent
+Valid
+yx 0
+FF 0
+qh 0
+xh 0
+fI 0
+znd 0
+Gg 0
+as 3
+ascendency
+assuredly
+ascend
+Af 1
+Afar
+Hir 0

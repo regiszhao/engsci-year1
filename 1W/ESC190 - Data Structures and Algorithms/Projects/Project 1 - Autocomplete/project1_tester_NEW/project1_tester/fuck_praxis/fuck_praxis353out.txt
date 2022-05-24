@@ -1,0 +1,53 @@
+12
+vl 0
+Al 1
+Alehouse
+Eq 0
+pb 0
+ge 2
+generates
+geometer
+rt 0
+ez 0
+w 15
+woods
+wigging
+wellloved
+woolliness
+withdraws
+werewolves
+walkways
+wellinformed
+witchdoctor
+wrinkled
+wastelands
+worser
+waspish
+welding
+worms
+ac 6
+accumulator
+acuter
+actualise
+actionable
+accruing
+acquire
+P 16
+Porters
+Photo
+Preys
+Platypuses
+Petulant
+Planter
+Pock
+Passenger
+Philanthropists
+Pointers
+Prussia
+Penguin
+Placatory
+Pinpointing
+Playhouse
+Privately
+vb 0
+Hz 0

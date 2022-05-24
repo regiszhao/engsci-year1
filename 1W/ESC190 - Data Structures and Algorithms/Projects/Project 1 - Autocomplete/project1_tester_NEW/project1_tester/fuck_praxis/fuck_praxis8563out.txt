@@ -1,0 +1,151 @@
+21
+p 42
+pods
+pigs
+pianistic
+pinker
+prospector
+pasted
+piper
+protozoans
+prologues
+phytoplankton
+penalty
+pelts
+probes
+parsnip
+ponder
+prepares
+purgative
+pincers
+parrots
+paperweights
+postage
+pipe
+pincered
+punching
+psychology
+placeholder
+pictural
+pouffes
+porns
+polymerases
+pulsed
+proportional
+prowled
+pointillism
+pit
+pipeline
+provincial
+partially
+poorspirited
+potty
+prompts
+prefects
+fv 0
+mu 2
+mushroom
+mummify
+l 20
+limericks
+lashings
+lava
+liquefaction
+lengthen
+loadings
+lengthways
+lapwing
+lacquered
+lexemes
+longitudinal
+lacy
+ladybird
+lapdog
+lasts
+luck
+lays
+latrines
+languor
+lineally
+H 5
+Hedonistic
+Hermaphrodite
+Hackneyed
+Hasty
+Helen
+v 7
+verities
+vacuums
+voracity
+valueadded
+valency
+verdant
+viscosity
+nF 0
+r 28
+receptivity
+remunerate
+ringing
+retentivity
+roomful
+road
+recanting
+revenged
+reordering
+rectilinear
+rustier
+refuses
+reluctance
+remedied
+rubbishing
+refolding
+recapitalisation
+roughs
+repute
+respectability
+rouged
+religious
+renumber
+romantically
+retails
+roguish
+redefined
+reabsorb
+vg 0
+qdn 0
+x 0
+no 3
+nomadic
+nodal
+nourishes
+hp 0
+bQk 0
+zv 0
+wW 0
+Gbr 0
+S 22
+Stodge
+Satanic
+Staunch
+Sprints
+Supportable
+Stranglehold
+Swotting
+Slaughterhouses
+Synoptic
+Suture
+Swoop
+Swerved
+Survivable
+Sceptred
+Sculpture
+Solicitude
+Smite
+Stereoscopic
+Slayer
+Seacow
+Sleazy
+Scorches
+ziq 0
+ly 0
+TW 0

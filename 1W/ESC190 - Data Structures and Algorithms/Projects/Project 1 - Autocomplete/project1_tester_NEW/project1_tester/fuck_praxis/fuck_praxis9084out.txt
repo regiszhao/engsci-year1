@@ -1,0 +1,19 @@
+3
+fc 0
+g 15
+groups
+grill
+grasshoppers
+giants
+gavotte
+gaits
+gorges
+ghastly
+garnets
+goons
+gawking
+germ
+grander
+glorious
+gestate
+oao 0

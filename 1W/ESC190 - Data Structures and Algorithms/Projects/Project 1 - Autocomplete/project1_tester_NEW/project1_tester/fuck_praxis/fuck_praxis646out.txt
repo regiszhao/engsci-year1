@@ -1,0 +1,145 @@
+29
+qi 0
+wi 0
+Iud 0
+I 9
+Insulator
+Initiators
+Instructs
+Ingenuity
+Incomprehensibility
+Impersonal
+Instruct
+Intoning
+Isosceles
+w 13
+worked
+watchdogs
+womanising
+whys
+wets
+whack
+weakened
+worryingly
+waived
+worser
+weeded
+weightlifting
+whetted
+q 6
+quantum
+quirkiness
+quakes
+quiesce
+quell
+quilt
+Du 0
+O 9
+Oedipus
+Objected
+Overcast
+Outgo
+Organises
+Ordinarily
+Obnoxiousness
+Overtightened
+Often
+w 13
+worked
+watchdogs
+womanising
+whys
+wets
+whack
+weakened
+worryingly
+waived
+worser
+weeded
+weightlifting
+whetted
+mh 0
+eS 0
+lbl 0
+dt 0
+qd 0
+zFr 0
+r 38
+repossess
+retreating
+recontribute
+rowing
+rile
+reds
+renal
+recomputable
+regiments
+rumoured
+rebalanced
+respray
+redoubtable
+ramshackle
+reality
+region
+rainbows
+refurbish
+rosy
+respiration
+readably
+renovated
+reposed
+retrieval
+reducer
+replanted
+resumed
+ruts
+relevance
+rivals
+rave
+renowned
+reinvented
+redirection
+redemptions
+relationally
+raiders
+resurgent
+qgv 0
+ogV 0
+O 9
+Oedipus
+Objected
+Overcast
+Outgo
+Organises
+Ordinarily
+Obnoxiousness
+Overtightened
+Often
+Ypl 0
+lsh 0
+dq 0
+ekd 0
+BA 0
+f 17
+flicked
+flashpoint
+flay
+furrows
+frustrating
+flounces
+fills
+flaky
+feverish
+feebleness
+forecaster
+ferric
+facilitation
+flouted
+fliting
+fixative
+flossy
+ms 0
+yI 0
+Ph 0
+Sh 1
+Shell

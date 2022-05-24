@@ -1,0 +1,149 @@
+22
+MGE 0
+bd 0
+se 6
+sellable
+servility
+seam
+seamed
+severed
+seawards
+gi 0
+Gpi 0
+agx 0
+f 27
+fees
+fumbled
+fasting
+father
+feat
+feathers
+foreknowledge
+functioning
+frigid
+fearfully
+finale
+fearfully
+fantastic
+floors
+facsimiles
+fatless
+federated
+fortissimo
+forested
+freeholders
+flax
+forehand
+forepaws
+flights
+foundered
+freshness
+forelimbs
+nx 0
+h 15
+harked
+hornpipe
+hopefuls
+halts
+hefting
+hones
+hobbled
+hydrophobia
+hirings
+hornpipe
+horizontal
+hallelujah
+hives
+hyphenate
+heifer
+iig 0
+VCr 0
+vx 0
+CX 0
+Wd 0
+sqw 0
+j 11
+jangle
+joyfully
+jumbo
+jetty
+juggernauts
+jetting
+jazziest
+jubilate
+jester
+junkyard
+jotter
+f 27
+fees
+fumbled
+fasting
+father
+feat
+feathers
+foreknowledge
+functioning
+frigid
+fearfully
+finale
+fearfully
+fantastic
+floors
+facsimiles
+fatless
+federated
+fortissimo
+forested
+freeholders
+flax
+forehand
+forepaws
+flights
+foundered
+freshness
+forelimbs
+sif 0
+n 10
+noiselessly
+nettles
+naturalness
+niches
+navigator
+notional
+necropsy
+narrate
+numerology
+nibs
+f 27
+fees
+fumbled
+fasting
+father
+feat
+feathers
+foreknowledge
+functioning
+frigid
+fearfully
+finale
+fearfully
+fantastic
+floors
+facsimiles
+fatless
+federated
+fortissimo
+forested
+freeholders
+flax
+forehand
+forepaws
+flights
+foundered
+freshness
+forelimbs
+jK 0
+q 3
+quantified
+quantify
+quadratics

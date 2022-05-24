@@ -1,0 +1,20 @@
+16
+gdi 0
+F 0
+fx 0
+f 2
+fanlight
+fullish
+hha 0
+hy 0
+os 0
+qxr 0
+t 1
+tube
+y 0
+Xf 0
+z 0
+bm 0
+w 0
+x 0
+ru 0

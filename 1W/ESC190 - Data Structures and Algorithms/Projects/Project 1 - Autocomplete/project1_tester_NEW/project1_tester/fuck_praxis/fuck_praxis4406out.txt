@@ -1,0 +1,172 @@
+26
+ng 0
+on 1
+onagers
+W 7
+Wellknown
+With
+Wilts
+Weal
+Warmup
+Wild
+Workhorses
+h 16
+hornpipes
+hovel
+helpmates
+hydrodynamic
+heritable
+huddling
+hearable
+helsinki
+hospitalised
+hoarser
+houseboats
+hideous
+hydrophobia
+helicopter
+handkerchiefs
+hydrated
+eZ 0
+y 3
+yankee
+yokes
+yachtsmen
+Cb 0
+MSn 0
+VFp 0
+Tx 0
+qRi 0
+tc 0
+kp 0
+gl 4
+glueing
+glimmerings
+glim
+gluttonous
+je 4
+jerkins
+jellies
+jerkiest
+jeopardising
+a 52
+apathy
+attacked
+amok
+anacondas
+attributive
+abutting
+afros
+atavism
+airmail
+accusers
+amalgamation
+audacious
+admission
+affluent
+anticipates
+autumns
+apish
+analogue
+anecdote
+anniversaries
+aping
+alighted
+altars
+attendants
+annotates
+assort
+apparelled
+aborting
+acceded
+afield
+appearing
+attempted
+aptly
+artist
+acquiescent
+arranger
+accelerated
+averse
+additions
+arid
+antipathies
+accusation
+authorises
+abysmal
+airraid
+attestation
+advisedly
+accrediting
+aphoristic
+annexed
+artiste
+agitator
+uJ 0
+EEx 0
+juq 0
+hyG 0
+m 41
+multiprocessing
+mademoiselle
+mix
+miniaturises
+mighty
+mechanising
+medieval
+materiality
+measurably
+muffed
+multiracial
+mutinies
+multiplex
+mornings
+mothballed
+matching
+meson
+mathematics
+magnifies
+meditations
+monkeying
+magnetically
+marital
+mothball
+merciful
+mediatory
+mourn
+macroscopic
+mall
+modernisations
+methodologies
+modelling
+maintain
+mistiest
+muddling
+misquotes
+maximise
+malady
+malfunctioning
+munificence
+mares
+wP 0
+kMu 0
+py 1
+pyroxene
+PM 0
+h 16
+hornpipes
+hovel
+helpmates
+hydrodynamic
+heritable
+huddling
+hearable
+helsinki
+hospitalised
+hoarser
+houseboats
+hideous
+hydrophobia
+helicopter
+handkerchiefs
+hydrated

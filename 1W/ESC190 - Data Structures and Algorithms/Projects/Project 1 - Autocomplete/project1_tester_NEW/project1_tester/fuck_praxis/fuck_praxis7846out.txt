@@ -1,0 +1,145 @@
+22
+QUG 0
+z 1
+zero
+UL 0
+FP 0
+iMF 0
+c 51
+consuls
+confederates
+cloakrooms
+cluster
+casement
+cheerless
+colourblind
+clenches
+cajoled
+corresponds
+corticosteroids
+consortia
+cataclysmic
+colloidal
+cricket
+cooperating
+cordite
+cleanness
+cruise
+compartments
+cowboys
+critic
+cordate
+capacitive
+cheeked
+contemptible
+clairvoyants
+column
+caseload
+conserved
+cumulatively
+cat
+canines
+craters
+conversation
+crazier
+culpably
+cobblers
+congressmen
+constrictors
+cliffhanger
+clumsier
+continues
+chuff
+cutout
+clavichord
+capered
+callers
+consulate
+creatively
+colt
+u 19
+unincorporated
+upwind
+umlaut
+untouched
+undeniably
+ureters
+unyielding
+unplugged
+unprintable
+unconsciously
+unpicked
+unfirm
+unspanned
+uninspiring
+unfeasible
+urchins
+urbanely
+uncomplicated
+unquestioned
+Ep 0
+qwd 0
+jz 0
+t 35
+tangerine
+tautology
+transcendentally
+trees
+toughen
+toolmaker
+trickling
+toughs
+ticketed
+trope
+tailpiece
+transducers
+terminals
+tusker
+twain
+telescoped
+tiling
+typicality
+thoroughfare
+tolled
+tramcars
+theodolite
+tracing
+throb
+tear
+travelled
+tankful
+teacloth
+typing
+takeover
+tills
+tunics
+tibiae
+townsfolk
+throwing
+Ga 0
+sq 1
+squelch
+Yx 0
+eE 0
+n 5
+nougat
+noticed
+nonchalance
+neuters
+newsreader
+dpp 0
+j 7
+jaunting
+jailbird
+jackals
+joyriding
+juror
+junk
+jocular
+atz 0
+q 3
+quips
+quelled
+quieten
+rZ 0
+xg 0

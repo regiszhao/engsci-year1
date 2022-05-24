@@ -1,0 +1,234 @@
+24
+n 6
+novelette
+neediness
+nominee
+negative
+nuttier
+negligently
+a 29
+associations
+adjudicated
+alleviation
+aggravation
+antitrust
+antitrust
+atrophies
+anaesthetic
+anthologise
+ashtray
+abilities
+analogues
+analysers
+austerely
+allying
+axeman
+avenues
+abstemiously
+affectedly
+applicable
+aubergine
+acquires
+anteriorly
+anodised
+arms
+aloe
+aboard
+artist
+attendees
+aj 0
+lO 0
+k 6
+kept
+kettleful
+kidnaps
+keystrokes
+korea
+knottiest
+e 25
+exonerate
+eliminated
+extravaganza
+equilibrium
+entrainment
+enciphering
+erudite
+eschew
+eccentricities
+endless
+enchain
+earthquakes
+enamel
+exaggerates
+effective
+exterminate
+excelled
+evacuee
+ethology
+embroidery
+epigraph
+eukaryotes
+emplacement
+encoding
+elflike
+ot 0
+c 60
+cursorily
+conservatories
+chamfer
+civic
+clip
+cheetahs
+corpulent
+crassness
+coachloads
+cultus
+couple
+chutes
+censure
+chivalrous
+contrastingly
+consecutive
+chintzy
+costlier
+clutch
+collectivisation
+circulation
+cubing
+chartering
+consanguinity
+clergymen
+cowboys
+chairing
+curates
+carabinieri
+conditioned
+chisels
+cycleways
+camaraderie
+carroty
+cycloid
+chiropractors
+cite
+capsule
+commemoration
+coined
+catatonic
+conditionally
+courtyards
+chortle
+colloid
+controlling
+consumerism
+chins
+commend
+counteract
+crushingly
+collaborationist
+cutters
+cronies
+chains
+characterises
+czechs
+correct
+curliest
+cooling
+ro 1
+rotation
+YPj 0
+egt 0
+au 2
+austerely
+aubergine
+Rc 0
+udY 0
+h 21
+homecomings
+haggling
+hairbrush
+headquarters
+hammocks
+hardwoods
+hooped
+hires
+hillwalking
+howl
+histogram
+hells
+hustling
+hoover
+housebuilder
+heinous
+harsh
+healthier
+herewith
+housebound
+hierarch
+qjg 0
+Xbz 0
+St 2
+Staples
+Steamy
+bpg 0
+f 22
+forded
+furores
+frumps
+farmhouse
+fastings
+fulsomely
+foresail
+formalist
+feeding
+fireballs
+fraternise
+freesia
+flushing
+farcical
+foreshadowed
+forearm
+flavour
+faxes
+frays
+foams
+flintlock
+fleshier
+q 4
+quantifying
+quotient
+queues
+quench
+JD 0
+e 25
+exonerate
+eliminated
+extravaganza
+equilibrium
+entrainment
+enciphering
+erudite
+eschew
+eccentricities
+endless
+enchain
+earthquakes
+enamel
+exaggerates
+effective
+exterminate
+excelled
+evacuee
+ethology
+embroidery
+epigraph
+eukaryotes
+emplacement
+encoding
+elflike
+R 6
+Rarefied
+Rewording
+Relax
+Representable
+Reappointment
+Resistive

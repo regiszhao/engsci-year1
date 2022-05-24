@@ -1,0 +1,6 @@
+1
+o 4
+ordering
+oxen
+oil
+ours

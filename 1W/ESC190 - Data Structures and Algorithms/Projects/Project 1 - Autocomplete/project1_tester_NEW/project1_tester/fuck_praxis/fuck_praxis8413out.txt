@@ -1,0 +1,87 @@
+16
+rm 0
+vqx 0
+mv 0
+ci 1
+circumferences
+d 27
+determinist
+dewdrop
+digestible
+descriptions
+deputation
+demonstrator
+disassembly
+direness
+daydreaming
+dialler
+districts
+decrees
+deboned
+dogtag
+decontaminating
+doctrinal
+dimmest
+doleful
+daddylonglegs
+disambiguated
+differ
+deified
+disqualification
+drub
+dieticians
+doctored
+drafty
+Q 0
+m 14
+mantra
+myopically
+mellower
+monolingual
+mangers
+maydays
+malfunctions
+masons
+maria
+marry
+minimalist
+martyrs
+moodily
+midflight
+vE 0
+w 12
+weaved
+wolves
+woodsman
+wildfire
+washerwoman
+waters
+washed
+weightlessness
+writers
+witchcraft
+woodpile
+westerners
+Wo 0
+r 14
+rogues
+rovers
+requiring
+retrial
+relabel
+rotated
+remorse
+recessional
+recliner
+recapitulate
+retrench
+rerun
+repliers
+revisited
+om 1
+ominously
+qw 0
+Bc 0
+wh 0
+Po 1
+Poems

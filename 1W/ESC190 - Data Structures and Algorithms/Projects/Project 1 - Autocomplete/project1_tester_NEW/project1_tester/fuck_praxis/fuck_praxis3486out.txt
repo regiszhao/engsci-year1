@@ -1,0 +1,131 @@
+25
+a 9
+amnesiac
+airlock
+alphanumeric
+attenuator
+ayurvedic
+ark
+ahem
+airbase
+atmospherically
+LM 0
+ox 1
+oxygenating
+c 21
+coloury
+crookedness
+crayoned
+conformation
+congestive
+collapses
+cutler
+canoed
+counsel
+cable
+cybernetic
+concluded
+conflated
+cauterising
+cutback
+casks
+cofferdam
+centurions
+contumely
+clitoris
+committees
+u 8
+unimaginative
+unachievable
+unionised
+unreconciled
+unhampered
+unsystematic
+unifiable
+ultimately
+h 6
+heuristic
+heeded
+heartache
+hellishly
+hypochondriac
+henceforth
+hp 0
+ur 0
+h 6
+heuristic
+heeded
+heartache
+hellishly
+hypochondriac
+henceforth
+w 3
+wall
+whetted
+wiggled
+hb 0
+j 2
+jumbled
+jumping
+hG 0
+z 1
+zipper
+c 21
+coloury
+crookedness
+crayoned
+conformation
+congestive
+collapses
+cutler
+canoed
+counsel
+cable
+cybernetic
+concluded
+conflated
+cauterising
+cutback
+casks
+cofferdam
+centurions
+contumely
+clitoris
+committees
+fhu 0
+OP 0
+c 21
+coloury
+crookedness
+crayoned
+conformation
+congestive
+collapses
+cutler
+canoed
+counsel
+cable
+cybernetic
+concluded
+conflated
+cauterising
+cutback
+casks
+cofferdam
+centurions
+contumely
+clitoris
+committees
+nx 0
+Lry 0
+so 1
+soused
+b 4
+bridgebuilding
+brandies
+backlit
+booklets
+J 1
+Joyride
+dai 0
+lj 0

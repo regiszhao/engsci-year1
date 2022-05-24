@@ -1,0 +1,156 @@
+23
+dw 0
+on 0
+R 5
+Rosebud
+Rigs
+Rehabilitation
+Rules
+Reruns
+d 15
+dogfish
+dramatic
+deluge
+declares
+dustily
+derange
+doityourself
+describe
+deregulation
+decapod
+dropper
+derogate
+domain
+disordered
+desperately
+ga 3
+gamesmen
+gatherer
+gavial
+qn 0
+s 33
+shocks
+sliced
+save
+satiate
+sources
+setting
+souks
+scoreless
+stupidly
+sarcoma
+stateliness
+seat
+staidness
+stout
+sclerosis
+scope
+smallest
+sojourned
+streets
+subtype
+sense
+sitters
+specially
+specialness
+subtenants
+showplace
+summarily
+southerners
+spa
+slimmer
+streams
+stacked
+spokeshaves
+vx 0
+X 0
+wf 0
+s 33
+shocks
+sliced
+save
+satiate
+sources
+setting
+souks
+scoreless
+stupidly
+sarcoma
+stateliness
+seat
+staidness
+stout
+sclerosis
+scope
+smallest
+sojourned
+streets
+subtype
+sense
+sitters
+specially
+specialness
+subtenants
+showplace
+summarily
+southerners
+spa
+slimmer
+streams
+stacked
+spokeshaves
+r 12
+remounted
+ruanda
+reflexology
+rebury
+replicas
+redcross
+rode
+reworks
+rhein
+rampant
+reclaim
+readjusting
+u 16
+unremarked
+unsuppressed
+unnerve
+unattainably
+untreated
+ultimacy
+unaccompanied
+unbolt
+unvisited
+undermanned
+unfussy
+unquenchable
+undesirability
+unicorn
+unction
+undue
+tp 0
+mf 0
+lLz 0
+r 12
+remounted
+ruanda
+reflexology
+rebury
+replicas
+redcross
+rode
+reworks
+rhein
+rampant
+reclaim
+readjusting
+O 2
+Owns
+Outgrowing
+aH 0
+uz 0
+ice 1
+iced
+fIx 0
+VG 0

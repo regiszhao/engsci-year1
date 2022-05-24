@@ -1,0 +1,12 @@
+7
+S 3
+Spoon
+Straggle
+Syllabuses
+c 0
+JJ 0
+o 1
+overflowed
+rw 0
+xhS 0
+cT 0

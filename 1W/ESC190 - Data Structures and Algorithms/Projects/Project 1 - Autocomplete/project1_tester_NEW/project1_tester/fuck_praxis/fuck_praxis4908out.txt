@@ -1,0 +1,10 @@
+8
+t 1
+teething
+u 0
+omv 0
+gT 0
+g 0
+bzj 0
+lr 0
+n 0

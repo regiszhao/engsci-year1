@@ -1,0 +1,139 @@
+24
+nt 0
+f 7
+fallacious
+fabulists
+felines
+fateful
+frighteningly
+farmsteads
+fatigues
+r 16
+rockery
+reallife
+revoke
+rumbled
+refloat
+recondite
+ripeness
+reverend
+reincarnations
+rescind
+retrograde
+reelects
+readably
+rampaged
+rusty
+roundish
+a 9
+advocate
+affectedly
+adherers
+amir
+awaited
+administer
+auctioning
+ape
+amman
+S 2
+Signings
+Shallowly
+r 16
+rockery
+reallife
+revoke
+rumbled
+refloat
+recondite
+ripeness
+reverend
+reincarnations
+rescind
+retrograde
+reelects
+readably
+rampaged
+rusty
+roundish
+d 10
+demographic
+dirts
+diehard
+demagogues
+dredges
+dabbed
+dockers
+delirious
+diagnostic
+decaying
+Lt 0
+B 1
+Backdated
+fq 0
+l 3
+lamb
+listening
+larynxes
+l 3
+lamb
+listening
+larynxes
+bo 4
+bosses
+bootstraps
+bookbinders
+bordeaux
+AV 0
+i 11
+impassively
+intellects
+illicitly
+imperceptible
+incubating
+interval
+insets
+illconceived
+institutionalised
+inflecting
+invasive
+tq 0
+bgr 0
+s 14
+souled
+slipway
+seal
+stunts
+solidify
+swatted
+smuggles
+snowflake
+shotgun
+sensuously
+stir
+seeded
+scotfree
+swing
+qc 0
+Da 0
+a 9
+advocate
+affectedly
+adherers
+amir
+awaited
+administer
+auctioning
+ape
+amman
+l 3
+lamb
+listening
+larynxes
+vhh 0
+g 6
+goes
+grooved
+glassless
+gets
+grilled
+galling

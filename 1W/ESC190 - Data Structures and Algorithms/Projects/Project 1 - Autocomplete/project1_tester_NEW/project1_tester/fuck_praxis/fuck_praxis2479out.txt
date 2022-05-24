@@ -1,0 +1,9 @@
+7
+Ku 0
+Ug 0
+np 0
+nZ 0
+Ad 1
+Adherent
+ht 0
+pk 0

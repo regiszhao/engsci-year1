@@ -1,0 +1,215 @@
+24
+Sm 0
+b 45
+bustard
+birthright
+bubblegum
+boxed
+blackshirts
+blackguard
+bludgeoned
+breakthroughs
+burette
+brassiere
+brushy
+businesswoman
+burglars
+botanical
+blancmange
+bearish
+becomes
+billeting
+bootprints
+barbaric
+boroughs
+bumpers
+brushing
+bleeps
+backed
+bilingualism
+balloonist
+badtempered
+bomber
+broadcaster
+beneficially
+balsa
+backseat
+ballpen
+boroughs
+blushers
+bizarreness
+besides
+braindamaged
+balustraded
+belched
+beg
+bomber
+batch
+bars
+un 25
+unintentional
+undefended
+underlining
+unquestionably
+unfasten
+unrealised
+unscripted
+unboiled
+unsubsidised
+unweary
+underrated
+unsatisfied
+unevenly
+unprincipled
+undistinguished
+unsheathed
+unfirm
+uncivilised
+unnoticeable
+unforgivable
+unlocking
+uncorroborated
+underlining
+untroubled
+unvarnished
+P 9
+Paintwork
+Pigeon
+Psychology
+Pure
+Parapets
+Perceptible
+Primate
+Pigment
+Parted
+X 0
+j 2
+jackets
+joyrider
+tx 0
+Jzq 0
+zj 0
+EZ 0
+wk 0
+Et 0
+a 41
+anyplace
+arrowheads
+astral
+arak
+ameliorate
+asp
+alpine
+acquited
+affordable
+amounts
+alkanes
+axial
+abeam
+almshouse
+ascended
+approval
+antlion
+ambler
+adapts
+apprising
+alanine
+analysing
+absurdities
+acquiesce
+ararat
+advices
+average
+agoraphobic
+alluvia
+appeasing
+adjusting
+almighty
+avers
+always
+amaze
+amphibians
+asymptomatic
+ambassadors
+avoid
+amalgamated
+applique
+n 12
+nationalisations
+necrophiliac
+nominees
+nowhere
+navies
+nuzzles
+neglect
+nightingales
+nationalists
+nightingale
+nematode
+noisome
+TX 0
+yj 0
+no 3
+nominees
+nowhere
+noisome
+cho 1
+chores
+nj 0
+Nu 0
+GS 0
+v 11
+verification
+volumetric
+verticals
+velvety
+vetting
+victim
+vessels
+vortices
+vagrancy
+varying
+vestibular
+uvE 0
+m 41
+manifests
+mullioned
+marched
+marquetry
+maggots
+meiosis
+motivate
+medallist
+mastication
+meringue
+modifiable
+menfolk
+mauls
+maneuver
+mitres
+madcap
+moneyed
+masterly
+magnanimosity
+microfilming
+misappropriation
+mismanagement
+meiotic
+moralist
+mislaid
+milkiest
+monsters
+militiamen
+mythologised
+moralism
+mechanic
+monotonic
+metabolised
+movable
+midday
+mortifying
+mishaps
+mashing
+meddler
+mountable
+motionless

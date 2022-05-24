@@ -1,0 +1,93 @@
+15
+oj 0
+sc 7
+scientists
+scruffier
+sculptor
+schistosomiasis
+scratch
+scrimped
+scorching
+q 4
+quaternion
+questioners
+quovadis
+quartermaster
+ct 0
+wt 0
+h 20
+headcount
+honeyed
+habitations
+hirsuteness
+harmfulness
+hazard
+hideousness
+haziness
+hummed
+hobbyists
+heaviest
+haystack
+honeysuckle
+hideousness
+handymen
+heroical
+high
+humanitarian
+helicopter
+hasbeen
+Mw 0
+xt 0
+pb 0
+kg 0
+xv 0
+n 9
+numbing
+nucleic
+newsflashes
+nymph
+nonsmoking
+noisiness
+negate
+normalises
+noxiousness
+p 37
+ponds
+predisposing
+polytheism
+palpitated
+presupposed
+pinhead
+province
+purposeless
+plop
+polysaccharides
+pacer
+plagued
+pergola
+photosensitive
+peachiest
+porcine
+peanut
+passages
+prepositions
+pound
+pocked
+pleadings
+prepare
+prosodic
+proletariat
+performances
+parches
+prognosis
+pattern
+poltergeist
+punishments
+pantomimes
+protesting
+pastry
+parvenu
+prominences
+priceless
+ZT 0
+clT 0

@@ -1,0 +1,81 @@
+14
+V 5
+Values
+Ventilation
+Viewpoints
+Visage
+Verona
+n 9
+nationality
+narrowest
+nicknames
+new
+negligible
+noisiness
+nourished
+namibia
+nineteen
+J 3
+Jail
+Japonica
+Jesus
+n 9
+nationality
+narrowest
+nicknames
+new
+negligible
+noisiness
+nourished
+namibia
+nineteen
+Vx 0
+wp 0
+fk 0
+n 9
+nationality
+narrowest
+nicknames
+new
+negligible
+noisiness
+nourished
+namibia
+nineteen
+h 18
+harboured
+hooligans
+hydrodynamical
+hasted
+horseflesh
+highheeled
+hypothesiser
+hymnbook
+headlamps
+harks
+habituation
+herbivorous
+hubris
+hydrofluoric
+housed
+hone
+hindmost
+halfhearted
+lp 0
+rg 0
+ddg 0
+l 13
+lurking
+leftmost
+lambda
+lathe
+law
+loathe
+lesbians
+laced
+lisping
+louis
+loony
+liquorice
+laminates
+qVk 0

@@ -1,0 +1,46 @@
+4
+go 1
+governments
+w 23
+whelks
+writes
+wettest
+withdrawn
+widgeon
+wooed
+workmanlike
+walkers
+warty
+waiters
+witnessed
+wade
+wasteland
+waterloo
+wobblier
+whichever
+whirled
+whisking
+wanderings
+welltried
+wellloved
+whisker
+wings
+j 7
+junctions
+juiciest
+jungles
+jams
+jostle
+juggernauts
+jamboree
+H 10
+Hardworking
+Hollowness
+Hearttoheart
+Hardener
+Hanker
+Haters
+Herbalist
+Highpoint
+Hypnotise
+Hypothetical

@@ -1,0 +1,67 @@
+21
+dd 0
+mID 0
+Rh 0
+k 1
+knuckledusters
+qf 0
+tz 0
+kv 0
+h 5
+hyenas
+horned
+headaches
+harlequins
+hoary
+G 0
+Rh 0
+o 3
+observational
+outshone
+overstatement
+D 2
+Deputes
+Digitally
+as 0
+qp 0
+VE 0
+ql 0
+p 14
+prejudging
+preamplifier
+philology
+polity
+peculiarities
+powdered
+privet
+patriots
+pageant
+probationary
+plagiarism
+politicking
+pillories
+pure
+h 5
+hyenas
+horned
+headaches
+harlequins
+hoary
+i 7
+invalidated
+infallibility
+intrinsically
+intimately
+issuable
+interpolations
+infusing
+tCb 0
+S 8
+Surfing
+Sexier
+Scalding
+Stressed
+Spoiling
+Scintillate
+Statics
+Stubbornness

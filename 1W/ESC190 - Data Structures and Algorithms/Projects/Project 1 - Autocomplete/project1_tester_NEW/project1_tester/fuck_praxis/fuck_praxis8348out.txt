@@ -1,0 +1,130 @@
+21
+hM 0
+cvf 0
+ppl 0
+bkw 0
+Dr 0
+Gc 0
+W 4
+Wickedness
+Witticism
+Wedges
+Waxy
+uK 0
+Fp 0
+h 14
+halter
+homecoming
+headmen
+hammers
+hangglides
+hindbrain
+haematological
+harriers
+here
+hierarchy
+hypocrite
+hydrodynamics
+helmeted
+hewn
+xns 0
+J 1
+Jailbird
+y 0
+Kj 0
+Rs 0
+fa 5
+farmyards
+fatherinlaw
+favouritism
+fascination
+fairly
+wfh 0
+b 20
+barmaid
+brigade
+budding
+bedtime
+bamboozle
+blobs
+bavarian
+bites
+bauxite
+brainstorm
+brecciated
+bleeped
+billet
+bombay
+boggled
+bodes
+bluebells
+beech
+bleeders
+bunkered
+s 50
+scathe
+straighten
+sup
+shiver
+sewings
+sewerrat
+showed
+student
+spends
+sympathies
+seemed
+slogan
+steadier
+slobs
+supple
+secondrate
+sacks
+samosas
+stammered
+surety
+slopes
+sods
+sells
+strait
+snowballed
+smartest
+sectional
+spout
+submerging
+signing
+steamiest
+spheric
+superhuman
+siesta
+shamed
+sands
+semidetached
+subroutines
+synergism
+separator
+scrapped
+shoplifters
+sites
+seizure
+shuffle
+stalin
+stormier
+solver
+sprayer
+shaking
+w 14
+wafted
+watercolour
+welsh
+writable
+warmer
+wicked
+weathered
+witting
+wellwisher
+wheezed
+wanders
+watercolours
+weltering
+whoosh
+NN 0

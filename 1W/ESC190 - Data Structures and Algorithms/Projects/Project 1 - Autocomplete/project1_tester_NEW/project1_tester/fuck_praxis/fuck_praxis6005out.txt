@@ -1,0 +1,164 @@
+22
+dxn 0
+ta 0
+p 38
+provisioning
+poring
+producing
+prompts
+prussian
+procurements
+panellist
+postcode
+papal
+picturesque
+psalmist
+prefer
+peatland
+phototypesetting
+prancing
+pit
+prepayment
+polish
+pottage
+prevue
+promptly
+pyroxenes
+panaceas
+passages
+permafrost
+pronouncement
+pilgrim
+plasticised
+photocopying
+pulsating
+portentous
+pampers
+prioritisation
+pedagogically
+purgatory
+plovers
+presidium
+previews
+fx 0
+t 26
+toughen
+turnings
+tornado
+tunas
+tidbit
+timeliness
+territorial
+trapdoor
+tightened
+timely
+triplex
+toboggan
+tidily
+topheavy
+telecommuting
+tokenistic
+torah
+tropes
+thief
+trotting
+trivially
+thankless
+trunnion
+toggling
+thuggery
+trailer
+Qd 0
+v 6
+vaned
+vicechancellor
+veins
+vacillate
+variable
+veins
+rb 0
+q 3
+quelling
+quietens
+qualifying
+nX 0
+N 2
+Null
+Noisy
+nZ 0
+oa 0
+mD 0
+zs 0
+N 2
+Null
+Noisy
+BUx 0
+s 64
+sweethearts
+shadeless
+smalltalk
+spasmodically
+scrubbers
+skater
+serene
+skua
+sequent
+suggests
+suspicion
+scorecards
+substantives
+settler
+sushi
+smallmindedness
+solders
+semantics
+sensibleness
+saigon
+scratched
+singeing
+sufficiency
+strength
+speaker
+stadium
+slowing
+searchlight
+sweetness
+spud
+sleekly
+syntax
+sterilise
+spikier
+supping
+shrubby
+sheikh
+shocks
+sanitiser
+striper
+serried
+sluggishly
+services
+scramblers
+sharpest
+stigmatisation
+sequoia
+stereo
+skittish
+scrooges
+seepage
+subnormal
+stonier
+severance
+scuffle
+sonsinlaw
+searched
+spoilers
+suchandsuch
+squad
+swept
+serviette
+severable
+submission
+zf 0
+fet 0
+ym 0
+gw 0

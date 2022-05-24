@@ -1,0 +1,50 @@
+29
+bgU 0
+e 3
+elementary
+encircled
+equation
+pa 0
+gH 0
+R 1
+Raven
+R 1
+Raven
+no 0
+sf 0
+d 4
+dovecote
+darning
+dedicating
+delineation
+t 3
+triennial
+terminal
+tarnished
+b 2
+beans
+bagging
+cq 0
+hw 0
+Lh 0
+aAS 0
+gr 0
+icA 0
+Q 0
+Jl 0
+yS 0
+z 0
+zzl 0
+uk 0
+r 4
+rucksack
+renormalisation
+raving
+ricksha
+M 0
+cj 0
+jB 0
+do 1
+dovecote
+m 1
+marinade

@@ -1,0 +1,154 @@
+27
+G 1
+Ghastlier
+bp 0
+aa 0
+dg 0
+BJ 0
+f 21
+fitness
+fast
+fowl
+fattest
+fornicates
+ford
+festivities
+fine
+funny
+freedoms
+flameproof
+fumed
+fixates
+fraudster
+felling
+forehead
+flexibly
+fleece
+fearless
+feints
+fade
+nn 0
+y 0
+pa 5
+patois
+pasting
+pathless
+pantile
+payslips
+au 1
+authenticates
+b 17
+bilateral
+book
+bowls
+billiards
+boutique
+blurb
+bathurst
+bottlenecks
+barbecued
+boggy
+beached
+bulgy
+blunderbuss
+bursars
+borrowers
+breadwinner
+buoy
+yo 0
+v 6
+verandahs
+vote
+variance
+viva
+virtual
+visitor
+Xw 0
+z 2
+zesty
+zombie
+iW 0
+l 14
+liverworts
+leather
+librate
+liberally
+legislators
+latticed
+learnedly
+liaison
+leans
+loggerheads
+lazaret
+listing
+liquidators
+laxatives
+xf 0
+gKG 0
+Xz 0
+i 17
+incomprehensible
+introvert
+idiot
+incurring
+ignores
+immobilising
+inelegance
+individually
+intricacies
+indefinitely
+intergovernmental
+impersonators
+inheriting
+inimitably
+intermixed
+inhalant
+instigate
+t 24
+tantalum
+trowel
+transducer
+trainees
+trumped
+trudged
+transgressor
+tape
+traps
+turboprop
+teased
+tarsus
+track
+targeted
+toenails
+tachographs
+typewriter
+tactician
+tarry
+trigs
+tempt
+typescripts
+transcendentals
+tinopener
+to 1
+toenails
+B 10
+Bonn
+Brawled
+Bravest
+Business
+Blaze
+Barman
+Bulges
+Bounced
+Biotechnologist
+Brainpower
+z 2
+zesty
+zombie
+j 5
+jellied
+jumping
+jingles
+jolting
+juleps
+Qh 0

@@ -1,0 +1,61 @@
+18
+y 0
+pw 0
+pv 0
+KG 0
+ikn 0
+rj 0
+xd 0
+r 10
+ransack
+ravers
+revolves
+rulers
+remedy
+remittal
+righthandedness
+rote
+rancid
+rankling
+T 4
+Terrain
+Teleprinters
+Transmissible
+Troupers
+z 0
+i 8
+ignorable
+ironmongery
+iguana
+imaginary
+imbeds
+invasive
+inelastic
+inattentive
+F 4
+Flame
+Foregather
+Flounces
+Forebodings
+zl 0
+a 10
+ambiance
+ace
+actors
+anchorages
+ambidextrous
+anew
+altogether
+admittedly
+agent
+archangels
+j 0
+SOw 0
+ho 1
+hotly
+g 5
+gymnast
+graphic
+gerontology
+grade
+glassy

@@ -1,0 +1,32 @@
+28
+AI 0
+Z 0
+GCG 0
+P 0
+ut 0
+bd 0
+Di 0
+fP 0
+rl 0
+ws 0
+Ru 0
+Ve 0
+o 1
+orderings
+jz 0
+nx 0
+mn 0
+hw 0
+zm 0
+yd 0
+nx 0
+o 1
+orderings
+bgq 0
+cr 0
+ap 0
+yb 0
+y 0
+C 1
+Circular
+QCT 0

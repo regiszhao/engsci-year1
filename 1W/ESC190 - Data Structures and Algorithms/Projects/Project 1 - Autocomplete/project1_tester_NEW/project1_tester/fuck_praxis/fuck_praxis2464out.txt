@@ -1,0 +1,123 @@
+25
+tc 0
+bi 2
+bib
+bitchiness
+R 8
+Recency
+Remembrance
+Runway
+Rearms
+Raucously
+Refs
+Rooftop
+Rationally
+pk 0
+E 6
+Epicentre
+Edgier
+Explicitly
+Eagerly
+Every
+Expressed
+f 20
+furrier
+falseness
+fibbed
+frolicked
+finesse
+frenzies
+fallout
+fussiness
+fullish
+fainter
+footwork
+fifes
+fumbled
+footstools
+flapped
+felled
+fumigate
+frontpage
+flattened
+fieldwork
+qfT 0
+z 0
+h 17
+hundreds
+hawaiian
+howlers
+holism
+hubs
+heavenly
+haunted
+handsomest
+heraldry
+hector
+hooked
+hindu
+hopper
+hydration
+henceforward
+harmonising
+hazarded
+hKp 0
+Av 0
+Yp 0
+jv 0
+E 6
+Epicentre
+Edgier
+Explicitly
+Eagerly
+Every
+Expressed
+pmx 0
+pX 0
+Qu 0
+a 27
+association
+albumen
+analogies
+abstracts
+alcoholic
+accuse
+addendum
+abhor
+apathetic
+assimilation
+absurdly
+aptly
+ashy
+antidotes
+approaches
+agouti
+adulterating
+anomalously
+annuli
+attackers
+accolades
+auspices
+absconds
+amateurish
+ananas
+aging
+awestruck
+Oi 0
+g 8
+grimaced
+gaslight
+girlish
+gyrating
+gem
+gazettes
+gross
+grimaced
+X 0
+if 0
+vuM 0
+zqj 0
+Te 3
+Terrorstricken
+Tearfulness
+Telepathy

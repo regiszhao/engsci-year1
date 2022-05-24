@@ -1,0 +1,66 @@
+20
+n 2
+nonintervention
+nod
+Iy 0
+Bk 0
+ATK 0
+M 7
+Maquettes
+Macintoshes
+Mendelevium
+Millstone
+Multilevel
+Mush
+Manoeuvrability
+n 2
+nonintervention
+nod
+fc 0
+kx 0
+zfu 0
+l 8
+lumpier
+laughter
+lenin
+lattice
+lovelier
+lightly
+lonesome
+lousily
+kq 0
+L 1
+Lingerer
+amb 0
+in 8
+intonation
+interchangeably
+interrogation
+insinuatingly
+incongruous
+instills
+incorporable
+interceded
+v 3
+vote
+vigorously
+violent
+ax 0
+e 14
+enthralled
+eversion
+exploded
+emancipated
+elusiveness
+exception
+empire
+extensively
+edit
+extensively
+eery
+exacting
+erratically
+epithet
+vjg 0
+Zei 0
+etD 0

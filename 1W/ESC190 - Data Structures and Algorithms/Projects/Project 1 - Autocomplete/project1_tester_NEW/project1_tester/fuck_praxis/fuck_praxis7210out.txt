@@ -1,0 +1,122 @@
+27
+g 18
+geyser
+grammatical
+gloating
+gunning
+gist
+garret
+guillotine
+gutless
+goalkeeper
+guttered
+gratuities
+gather
+granularity
+golliwog
+gimlet
+grates
+goblins
+gambit
+w 8
+wolfhound
+waistcoat
+willow
+wad
+wanting
+warplanes
+weedkiller
+woodworm
+y 1
+yokes
+nm 0
+eq 0
+mn 0
+ne 1
+needful
+dIs 0
+xk 0
+bXq 0
+WFy 0
+bPm 0
+guy 0
+EPf 0
+zkm 0
+lf 0
+o 20
+obsessed
+opposed
+overpopulous
+opportunists
+odiousness
+oxidant
+originally
+oblivion
+objection
+offended
+outfits
+obscurities
+observatory
+opined
+obliqueness
+ornate
+obscene
+oleanders
+ousted
+octave
+rd 0
+Gv 0
+QaU 0
+M 10
+Moonstones
+Mural
+Mapping
+Mutilate
+Means
+Manors
+Microscope
+Mentality
+Munificent
+Modular
+BqD 0
+syB 0
+P 14
+Plated
+Proctor
+Pedestal
+Praline
+Petitioner
+Papered
+Partitioning
+Pattering
+Paring
+Pore
+Prejudged
+Profligate
+Playgroups
+Poorspirited
+Br 2
+Brownness
+Brigadiers
+o 20
+obsessed
+opposed
+overpopulous
+opportunists
+odiousness
+oxidant
+originally
+oblivion
+objection
+offended
+outfits
+obscurities
+observatory
+opined
+obliqueness
+ornate
+obscene
+oleanders
+ousted
+octave
+dZ 0

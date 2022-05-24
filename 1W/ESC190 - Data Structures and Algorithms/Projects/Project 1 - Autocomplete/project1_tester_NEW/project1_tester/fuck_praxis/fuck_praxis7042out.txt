@@ -1,0 +1,24 @@
+13
+sq 0
+KXv 0
+w 2
+windbreak
+write
+LU 0
+xA 0
+a 4
+aye
+adjudicate
+apprentice
+authenticator
+wk 0
+d 3
+dachshund
+doc
+demarcate
+h 1
+hopper
+j 0
+j 0
+y 0
+z 0

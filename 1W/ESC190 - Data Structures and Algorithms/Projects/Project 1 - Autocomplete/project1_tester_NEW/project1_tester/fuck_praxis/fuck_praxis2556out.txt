@@ -1,0 +1,13 @@
+7
+on 0
+xh 0
+n 3
+nascent
+neuron
+nationalities
+K 0
+F 2
+Foxhole
+Fragments
+VBd 0
+XI 0

@@ -1,0 +1,11 @@
+7
+fw 0
+se 1
+sensibilities
+cO 0
+dgl 0
+f 2
+farmstead
+funicular
+tC 0
+lq 0

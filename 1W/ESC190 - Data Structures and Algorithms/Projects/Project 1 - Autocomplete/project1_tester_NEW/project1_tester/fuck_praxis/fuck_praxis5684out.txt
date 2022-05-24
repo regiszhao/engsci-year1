@@ -1,0 +1,224 @@
+28
+bu 3
+burly
+bungling
+buffered
+v 4
+volunteered
+velveteens
+vixens
+vicar
+fxz 0
+jwr 0
+ux 0
+kZv 0
+Fls 0
+Yi 0
+Cmj 0
+C 14
+Comprehensive
+Comedians
+Contemplative
+Childly
+Chopin
+Conflagration
+Cobbled
+Canary
+Cede
+Competences
+Calligraphic
+Chimeras
+Crossbred
+Countermeasures
+tZ 0
+lu 0
+ao 0
+fkX 0
+G 6
+Gone
+Grabbers
+Guilty
+Guard
+Guiltiness
+Gents
+t 30
+twist
+tourers
+timebase
+therefor
+the
+tactician
+tides
+tufts
+transporting
+treachery
+taxies
+tents
+tightfisted
+trademarks
+toy
+tugs
+terraformed
+tournaments
+tray
+triumphant
+tomorrows
+trillions
+tawdry
+titrated
+tunnel
+throwaway
+toured
+ticklish
+testiest
+toasts
+j 5
+jazzy
+jackals
+jacob
+jericho
+jaywalker
+l 14
+lexicon
+looping
+lined
+latch
+livens
+lychee
+lens
+linkable
+linoleum
+legates
+laybys
+liaised
+loath
+longitude
+d 41
+destructive
+discounted
+dodgy
+distributions
+defenestration
+decking
+divergences
+dunked
+derail
+disdainfully
+dirtily
+decay
+deafness
+distressing
+digitalis
+deep
+disturb
+drumbeat
+disgracing
+distribution
+defector
+dimension
+differentials
+deters
+drummed
+debutantes
+devising
+democrat
+disconnection
+devises
+damning
+delved
+decency
+discernment
+destabilised
+determinative
+decriminalised
+definitively
+disposable
+dismays
+differencing
+e 38
+exothermic
+elan
+eritrea
+expressionistic
+empiricism
+extremist
+efficacious
+eigenstates
+ethnic
+enchanted
+exhibition
+elapses
+envisaging
+enquirer
+electrolysed
+entice
+expeditiously
+expertness
+elaborateness
+evaporation
+except
+enrols
+exulting
+elusive
+epidemiology
+eschewed
+electrolysis
+exerted
+easting
+endangering
+economic
+extirpation
+elope
+economically
+embank
+expressed
+euthanasia
+extension
+LLm 0
+oZi 0
+v 4
+volunteered
+velveteens
+vixens
+vicar
+q 11
+quipped
+questionnaires
+quacking
+quays
+quire
+quintessence
+quantifies
+quietening
+quack
+quantised
+quaker
+bed 0
+l 14
+lexicon
+looping
+lined
+latch
+livens
+lychee
+lens
+linkable
+linoleum
+legates
+laybys
+liaised
+loath
+longitude
+q 11
+quipped
+questionnaires
+quacking
+quays
+quire
+quintessence
+quantifies
+quietening
+quack
+quantised
+quaker
+wn 0

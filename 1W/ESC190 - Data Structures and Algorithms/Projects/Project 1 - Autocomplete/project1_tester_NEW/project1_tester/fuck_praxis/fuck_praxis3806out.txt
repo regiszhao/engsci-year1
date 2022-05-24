@@ -1,0 +1,213 @@
+29
+t 13
+tempter
+term
+trembling
+takes
+trucks
+televised
+taxman
+theatrical
+thrum
+twitch
+trampolining
+thresholds
+thrives
+N 3
+Nutmeg
+Nightly
+Navvies
+rv 0
+F 4
+Freshly
+Forthcoming
+Fervour
+Footballs
+Yr 0
+D 9
+Dissenting
+Detergents
+Developer
+Directly
+Doctorates
+Distortions
+Dictatorships
+Debunks
+Disintegrates
+p 33
+profiled
+popped
+pirate
+polluter
+paginated
+pennames
+prissy
+padres
+perspiration
+puncturing
+plagiarists
+prove
+printings
+paganism
+pineapple
+psoriasis
+pixies
+plucky
+predominating
+prohibitionist
+philosophers
+primitiveness
+perforated
+penultimately
+posit
+poland
+porridge
+port
+purls
+petrological
+pardoned
+pusher
+piously
+lg 0
+x 0
+bFx 0
+ebd 0
+b 28
+bedded
+beggars
+buzzing
+blacklisted
+backfired
+baptism
+beard
+brassiere
+binary
+brunets
+bait
+blanker
+bawl
+bombardment
+beachy
+biddings
+bestseller
+begrudged
+brutes
+bypassing
+blew
+believers
+beckoned
+bluntness
+bloomer
+bowled
+baser
+benevolence
+OJ 0
+hDo 0
+a 16
+audiences
+anechoic
+assertiveness
+antilope
+acidity
+awn
+autocratic
+acrostics
+antral
+autograph
+assent
+anodised
+agrochemicals
+arousals
+architect
+anaesthetists
+j 4
+japan
+juicy
+jealously
+jailing
+oU 0
+jyy 0
+rF 0
+Gy 0
+pKO 0
+p 33
+profiled
+popped
+pirate
+polluter
+paginated
+pennames
+prissy
+padres
+perspiration
+puncturing
+plagiarists
+prove
+printings
+paganism
+pineapple
+psoriasis
+pixies
+plucky
+predominating
+prohibitionist
+philosophers
+primitiveness
+perforated
+penultimately
+posit
+poland
+porridge
+port
+purls
+petrological
+pardoned
+pusher
+piously
+t 13
+tempter
+term
+trembling
+takes
+trucks
+televised
+taxman
+theatrical
+thrum
+twitch
+trampolining
+thresholds
+thrives
+Bii 0
+oa 0
+gq 0
+h 27
+horrifically
+hymns
+heuristically
+hayfield
+holed
+heels
+hug
+harmonising
+hunter
+humourless
+healths
+huntsmen
+hijacker
+housebreakers
+hex
+holler
+herded
+hamitic
+hoisted
+hopelessly
+hocus
+heptagonal
+house
+heydays
+heralds
+hemisphere
+hatful
+idt 0
+sHr 0

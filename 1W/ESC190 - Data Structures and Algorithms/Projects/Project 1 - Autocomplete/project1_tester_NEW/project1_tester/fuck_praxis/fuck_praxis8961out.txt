@@ -1,0 +1,55 @@
+24
+pbp 0
+x 0
+YP 0
+x 0
+BNP 0
+x 0
+KW 0
+q 2
+quest
+quadruples
+bw 0
+vd 0
+Vd 0
+n 3
+ngunis
+nags
+newcomers
+wB 0
+nX 0
+eh 0
+sg 0
+nC 0
+gG 0
+aU 0
+g 5
+gopher
+guardsman
+gravedigger
+gambled
+generalisations
+I 1
+Incompatible
+yc 0
+p 17
+presuppositions
+plughole
+paragon
+pillories
+parfait
+pretend
+perusing
+parisian
+pilchard
+pygmies
+poled
+planetoids
+prefigured
+parented
+poltroon
+potbellied
+phenomenally
+q 2
+quest
+quadruples

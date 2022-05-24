@@ -1,0 +1,261 @@
+25
+j 10
+jest
+jellies
+jetties
+jump
+jobbing
+junction
+jutted
+jubilantly
+juggler
+juntas
+cxZ 0
+i 25
+intimacy
+informs
+infringe
+interminably
+isolators
+infamously
+irreparable
+insides
+inelastic
+immortals
+insensitivity
+invertebrate
+iciness
+immutability
+inspiring
+implicates
+impotently
+individual
+inaccessibility
+imbibing
+insanitary
+items
+indistinctly
+invention
+implementations
+nip 0
+ypl 0
+r 39
+rhetorical
+reconsiders
+reinstalling
+reposing
+resenting
+riggers
+ripples
+rocketing
+redevelop
+retraced
+reactive
+recency
+redrafting
+rosters
+remit
+room
+relieved
+residues
+rusks
+rascals
+referable
+recirculation
+revive
+rumba
+replete
+routines
+romanticism
+reprocessing
+reflexive
+rabbi
+realigns
+reshaped
+rigorous
+respondents
+respecify
+ruefully
+refereed
+rubbish
+raptors
+u 27
+undue
+uncorroborated
+uniformity
+unfertilised
+unset
+undergoes
+unrelated
+undergarment
+unalterable
+unfired
+unlink
+untidier
+utterance
+unneeded
+upgraded
+uninsulated
+uplinks
+underframe
+uninterrupted
+unstopped
+unblinkingly
+upbringing
+unsuited
+unburdened
+unwind
+ungenerously
+unlovely
+Jq 0
+M 13
+Mirthless
+Motioning
+Maisonette
+Migraines
+Mispronunciations
+Misnomer
+Misdirected
+Manufactures
+Misjudge
+Maldives
+Muddiest
+Maelstrom
+Mortification
+JW 0
+o 18
+omnipresence
+objections
+oasis
+oscillatory
+outlooks
+october
+ogled
+octant
+onset
+overruling
+overtakers
+overestimated
+operates
+options
+outliving
+oscillation
+overhearing
+obstetrics
+pvy 0
+EL 0
+Pu 0
+Iur 0
+m 44
+misconception
+metier
+moneyed
+minimalists
+misbehaved
+mucks
+monument
+morse
+modulator
+migraine
+methodological
+magnates
+murderers
+mesons
+murderers
+meningitis
+middlesized
+mends
+manageable
+microanalyses
+miscegenation
+multidimensional
+magnetisation
+macintosh
+murkier
+minutiae
+murdered
+mavericks
+ministry
+metro
+magnetohydrodynamics
+mitigating
+manifests
+mums
+middleage
+microscopically
+mattering
+morphogenesis
+mouthpiece
+matriculation
+miles
+miniskirt
+multicultural
+messed
+dkb 0
+bb 0
+svp 0
+rX 0
+yOZ 0
+v 9
+verbiage
+verbally
+varying
+vegetated
+vetting
+verdant
+vaccinate
+verb
+villager
+N 6
+Novelistic
+Nibbles
+Niceties
+Nudism
+Nutmeg
+Nailed
+yiP 0
+m 44
+misconception
+metier
+moneyed
+minimalists
+misbehaved
+mucks
+monument
+morse
+modulator
+migraine
+methodological
+magnates
+murderers
+mesons
+murderers
+meningitis
+middlesized
+mends
+manageable
+microanalyses
+miscegenation
+multidimensional
+magnetisation
+macintosh
+murkier
+minutiae
+murdered
+mavericks
+ministry
+metro
+magnetohydrodynamics
+mitigating
+manifests
+mums
+middleage
+microscopically
+mattering
+morphogenesis
+mouthpiece
+matriculation
+miles
+miniskirt
+multicultural
+messed

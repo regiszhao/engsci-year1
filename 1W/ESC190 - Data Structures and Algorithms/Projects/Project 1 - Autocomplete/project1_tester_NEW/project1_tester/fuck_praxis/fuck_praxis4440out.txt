@@ -1,0 +1,21 @@
+11
+q 0
+g 1
+gallons
+f 2
+ferocious
+fishhook
+ymn 0
+lze 0
+il 0
+s 3
+spectrometry
+spent
+stairways
+yx 0
+v 1
+voids
+oi 0
+l 2
+loam
+labium

@@ -1,0 +1,43 @@
+14
+w 4
+wanted
+weeds
+windsock
+workshop
+w 4
+wanted
+weeds
+windsock
+workshop
+x 0
+u 2
+unlabelled
+urbanites
+ld 0
+o 0
+QHZ 0
+u 2
+unlabelled
+urbanites
+d 7
+deject
+deism
+deviants
+differently
+dewy
+dimensioned
+detachment
+qw 0
+i 8
+imbued
+irrigate
+incision
+inarticulateness
+icily
+impassiveness
+incontrovertible
+item
+an 1
+angry
+q 0
+qw 0

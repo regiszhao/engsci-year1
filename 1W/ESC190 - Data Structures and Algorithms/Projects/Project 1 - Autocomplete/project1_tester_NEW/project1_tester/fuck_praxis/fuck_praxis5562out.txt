@@ -1,0 +1,103 @@
+24
+tp 0
+Gn 0
+h 11
+hoed
+hardup
+hams
+hotchpotch
+highbrow
+hegemonic
+householders
+hankie
+hit
+hardness
+hidings
+m 8
+momentous
+microsecond
+meddlesome
+mowing
+mealy
+masochistic
+mores
+metrics
+Imx 0
+p 12
+pointing
+peevish
+pulse
+policewoman
+proves
+pestilence
+picnicking
+palaeontological
+peachier
+parsonage
+piecewise
+polyglots
+lw 0
+du 1
+duets
+Bam 0
+gnr 0
+a 12
+alpine
+arbiters
+annually
+afire
+arcana
+afterglow
+alibi
+axioms
+attachable
+acrimoniously
+airconditioner
+attitude
+e 7
+epigones
+edgy
+example
+eternity
+eyelids
+encamp
+emporia
+Zg 0
+n 4
+newsman
+nitrates
+nibbled
+nationals
+c 17
+centralisation
+consciousnesses
+cringing
+coughed
+claimed
+clip
+casings
+cloaks
+crab
+continua
+ceremonially
+chasm
+congratulations
+consulted
+clumsier
+chameleons
+cocaine
+Rxa 0
+bVp 0
+k 3
+kinship
+kissing
+kneeled
+fB 0
+wVu 0
+lD 0
+arv 0
+Tx 0
+w 3
+wheelbarrows
+washerwoman
+wean

@@ -1,0 +1,203 @@
+25
+x 0
+yS 0
+OV 0
+pn 0
+l 21
+limb
+litigiousness
+lethal
+lexicons
+laminates
+lofted
+lifebelt
+litres
+lectureship
+localises
+lowest
+lacerations
+lichee
+leadership
+liquefy
+lazaret
+limestones
+lilywhite
+longwindedness
+leaper
+loved
+bb 0
+zlh 0
+giZ 0
+EW 0
+o 17
+outsider
+officiate
+ordinal
+overlaid
+outcome
+overrated
+overstate
+orates
+outran
+octahedral
+okayed
+oilfield
+ovations
+outclassed
+ole
+overfed
+optimal
+vE 0
+b 35
+backwaters
+boosting
+breadths
+behaving
+blitz
+bequeathed
+biochemist
+buggy
+biopsies
+beneficent
+boyishly
+blindly
+betide
+blockbuster
+breaths
+blasted
+bakes
+blocs
+blisteringly
+blockheads
+blearyeyed
+bannisters
+beacons
+bidirectional
+belted
+braille
+blackly
+bootlace
+bleats
+brand
+blooming
+backlogs
+bended
+babbling
+booth
+U 5
+Unpunctuality
+Uninhabitable
+Unclean
+Underfoot
+Untaxed
+qk 0
+ub 0
+mj 0
+if 0
+fd 0
+eUf 0
+p 57
+pragmatists
+prevailing
+promulgating
+problem
+powered
+puerility
+progressives
+pubescent
+polonies
+prams
+parochiality
+popper
+putrefaction
+pendulum
+punned
+plenteous
+persecutor
+plume
+peritoneum
+poorspirited
+prickles
+pianoforte
+primary
+paler
+pricier
+purporting
+prohibitive
+pelicans
+polytechnic
+peruses
+punchy
+pallbearers
+plaintiffs
+poetess
+prophets
+purification
+push
+patient
+puffins
+predisposition
+pixie
+promised
+peals
+problematical
+pricewar
+proscriptive
+pencilling
+pining
+planed
+polysaccharides
+prone
+pavilion
+prettiness
+polemicist
+plungers
+parametrises
+parliaments
+ne 5
+needle
+negotiation
+neutralising
+necked
+net
+b 35
+backwaters
+boosting
+breadths
+behaving
+blitz
+bequeathed
+biochemist
+buggy
+biopsies
+beneficent
+boyishly
+blindly
+betide
+blockbuster
+breaths
+blasted
+bakes
+blocs
+blisteringly
+blockheads
+blearyeyed
+bannisters
+beacons
+bidirectional
+belted
+braille
+blackly
+bootlace
+bleats
+brand
+blooming
+backlogs
+bended
+babbling
+booth
+qu 2
+quietness
+quiz
+rBz 0
+lJf 0

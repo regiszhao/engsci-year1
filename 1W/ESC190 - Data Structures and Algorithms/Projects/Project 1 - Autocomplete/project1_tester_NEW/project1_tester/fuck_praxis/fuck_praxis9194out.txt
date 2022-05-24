@@ -1,0 +1,73 @@
+24
+tr 1
+trippers
+rr 0
+m 6
+marksman
+meteoritic
+matchplay
+myna
+malingering
+metamorphose
+sD 0
+Z 0
+gL 0
+a 10
+antidepressant
+asunder
+artworks
+alder
+affording
+augmentation
+achievers
+accusingly
+assemble
+acumen
+g 6
+gardens
+gauntlets
+galena
+goodtempered
+gizzard
+gangway
+Vy 0
+o 2
+oscars
+odours
+o 2
+oscars
+odours
+TSx 0
+L 1
+Longing
+si 1
+sightedness
+idc 0
+rb 0
+m 6
+marksman
+meteoritic
+matchplay
+myna
+malingering
+metamorphose
+w 4
+wiliest
+warhorse
+writ
+wildcats
+rvd 0
+ga 4
+gardens
+gauntlets
+galena
+gangway
+A 1
+Accursed
+Hud 0
+cb 0
+w 4
+wiliest
+warhorse
+writ
+wildcats

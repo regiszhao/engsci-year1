@@ -1,0 +1,53 @@
+14
+v 0
+s 14
+sobers
+student
+symptomatic
+spell
+switched
+straddles
+shocks
+strongman
+sick
+swaggering
+supplemental
+scowled
+sighing
+slanders
+CN 0
+zx 0
+rm 0
+t 6
+toothmarks
+tomorrows
+tapir
+trimmer
+theist
+turin
+mu 0
+ux 0
+svy 0
+s 14
+sobers
+student
+symptomatic
+spell
+switched
+straddles
+shocks
+strongman
+sick
+swaggering
+supplemental
+scowled
+sighing
+slanders
+hf 0
+leu 0
+Aw 0
+P 4
+Propane
+Pasts
+Propositional
+Presences

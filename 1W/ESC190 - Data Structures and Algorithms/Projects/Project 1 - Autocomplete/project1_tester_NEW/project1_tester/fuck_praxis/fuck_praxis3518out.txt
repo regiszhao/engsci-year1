@@ -1,0 +1,127 @@
+14
+e 38
+eater
+engine
+esthete
+evil
+entailment
+exclaims
+edification
+exemption
+eyepatch
+exodus
+exempting
+empathise
+electrotechnical
+eggshells
+encyclopaedic
+existentialistic
+evidential
+edged
+excitable
+extension
+excerpt
+escapist
+ergo
+embroideries
+emotions
+element
+epicarp
+effective
+embankments
+evocation
+exploiter
+earthquakes
+encode
+explorers
+eurasia
+epigones
+entailing
+executioner
+Cfb 0
+F 15
+Factual
+Feral
+Fostering
+Fogged
+Fuzz
+Fundraisers
+Fluctuated
+Faceplate
+Flurry
+Fell
+Fearlessly
+Freedoms
+Freshness
+Faltering
+Frustrations
+ha 3
+harnessing
+hairless
+harassers
+Iv 0
+qvu 0
+iwm 0
+Lqv 0
+h 18
+heartiest
+hinge
+holler
+howls
+helterskelter
+harnessing
+heartsearching
+histology
+histograms
+heaps
+hopefulness
+homemade
+herringbone
+hypersphere
+hairless
+highly
+husbandman
+harassers
+e 38
+eater
+engine
+esthete
+evil
+entailment
+exclaims
+edification
+exemption
+eyepatch
+exodus
+exempting
+empathise
+electrotechnical
+eggshells
+encyclopaedic
+existentialistic
+evidential
+edged
+excitable
+extension
+excerpt
+escapist
+ergo
+embroideries
+emotions
+element
+epicarp
+effective
+embankments
+evocation
+exploiter
+earthquakes
+encode
+explorers
+eurasia
+epigones
+entailing
+executioner
+CO 0
+wn 0
+shr 0
+kgj 0

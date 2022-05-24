@@ -1,0 +1,205 @@
+22
+s 44
+superstore
+slake
+sluggishly
+silencing
+suggestive
+shivers
+slurring
+summations
+slavering
+steppes
+snowy
+senselessly
+stockade
+snapshot
+sorrowfully
+shirking
+sighing
+sicken
+splurge
+smudging
+spare
+stir
+strictly
+segmentation
+stealing
+shortcrust
+sympathies
+slightest
+stoically
+slantwise
+swimmers
+scented
+sanguine
+sweetmeat
+spicery
+steamship
+selfesteem
+soaring
+spurge
+skua
+socking
+signposted
+shackle
+sure
+Bur 0
+w 19
+wires
+wallows
+wavering
+wilful
+wars
+wonder
+warhorse
+worthy
+weekdays
+watch
+waiver
+workbooks
+walking
+wheelbarrows
+wearers
+wellbehaved
+wanted
+ween
+whys
+jc 0
+jb 0
+w 19
+wires
+wallows
+wavering
+wilful
+wars
+wonder
+warhorse
+worthy
+weekdays
+watch
+waiver
+workbooks
+walking
+wheelbarrows
+wearers
+wellbehaved
+wanted
+ween
+whys
+R 15
+Romany
+Routed
+Readmits
+Rapt
+Reiterating
+Remotely
+Reconstruction
+Reissue
+Redefinition
+Render
+Re
+Retrieves
+Rapacious
+Righted
+Relives
+Ma 4
+Maturational
+Maya
+Maximality
+Magnetron
+r 44
+respondent
+rotators
+readjustments
+raciest
+redone
+reflected
+radiated
+recorders
+rentiers
+reflexive
+roundness
+regionally
+raped
+retouching
+rambled
+resolver
+readily
+retailed
+reductionist
+refocussed
+rippled
+regionalisation
+redefinitions
+rubbished
+recognised
+reshaping
+random
+rigorous
+rissole
+ruinous
+rainforest
+redshift
+runts
+reefs
+resurfaced
+retrial
+raking
+recommissioning
+remonstrated
+registration
+replug
+restartable
+resolves
+ransomed
+v 5
+vinegar
+verities
+veal
+vitrified
+vamp
+L 9
+Lengthening
+Leafier
+Limousines
+Lettering
+Lur
+Locally
+Lisbon
+Libya
+Linnet
+ut 1
+utilitarian
+ou 1
+outcasts
+wF 0
+fx 0
+R 15
+Romany
+Routed
+Readmits
+Rapt
+Reiterating
+Remotely
+Reconstruction
+Reissue
+Redefinition
+Render
+Re
+Retrieves
+Rapacious
+Righted
+Relives
+O 6
+Orally
+Oneness
+Onset
+Odd
+Ornithology
+Overproduction
+rtp 0
+gs 0
+Yr 0
+Pt 0
+cfN 0

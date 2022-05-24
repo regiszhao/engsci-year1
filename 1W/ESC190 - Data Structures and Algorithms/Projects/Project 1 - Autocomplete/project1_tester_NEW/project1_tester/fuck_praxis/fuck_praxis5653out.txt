@@ -1,0 +1,178 @@
+23
+dsz 0
+e 17
+explanatory
+elgreco
+exhilarate
+engraved
+extroverts
+eeriness
+equity
+elongating
+excluded
+egret
+ethylene
+elixirs
+eidetic
+equanimity
+envying
+exacerbating
+exhaustible
+gr 9
+gravitas
+grit
+gristle
+grief
+greengrocer
+greatcoats
+grooms
+gruesomeness
+grizzly
+rpd 0
+Q 1
+Quickening
+exL 0
+T 5
+Thunderstorms
+Tar
+Traceable
+Thesauri
+Triangulation
+fd 0
+eil 0
+L 6
+Land
+Lists
+Localised
+Lauds
+Loitering
+Lookalike
+p 27
+pedantically
+promontories
+premier
+penile
+pretentiously
+predisposes
+protectors
+prehistoric
+pyrite
+prized
+presence
+puffing
+phosphatase
+poisonous
+perfumery
+peseta
+philosophise
+piglet
+painkillers
+pushable
+psychotics
+posthumously
+pathologist
+podded
+pilaster
+pocketing
+picketed
+eg 1
+egret
+sh 4
+shoe
+shotguns
+shortfall
+shoved
+mi 9
+misdeed
+millet
+misspell
+middleweight
+mistranslates
+microanalyses
+mire
+mimic
+militaristic
+rwl 0
+re 16
+resistant
+revue
+rehabilitation
+repudiation
+reordered
+rear
+resistances
+resurgent
+retelling
+resurgence
+rescuer
+relocates
+resignations
+replenished
+resiting
+repossessions
+a 24
+aligned
+ablative
+agitate
+altercate
+amended
+abode
+approachability
+amplitude
+associate
+assaulting
+atlas
+annoyances
+assert
+allow
+actuates
+achievers
+artificially
+adorers
+ancestor
+altitudes
+absurdest
+anaesthetised
+august
+accusingly
+i 25
+icosahedral
+interrogatory
+internments
+inferring
+incorporates
+isothermally
+ingoing
+irreducible
+interpose
+intellectuals
+invokers
+irreversibility
+injurious
+indorsed
+inspection
+immobilise
+imprisonment
+ineffectiveness
+impostor
+interfere
+innkeeper
+iberia
+infringe
+impale
+inoculated
+qxw 0
+v 5
+verbal
+velvet
+venose
+vegetative
+vegetate
+N 5
+Niggle
+Nepotism
+Nightclothes
+Ngoing
+Nappy
+Ft 0
+CU 0

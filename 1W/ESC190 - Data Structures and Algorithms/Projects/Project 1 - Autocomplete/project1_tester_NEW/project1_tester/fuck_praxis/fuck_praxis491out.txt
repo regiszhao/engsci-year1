@@ -1,0 +1,141 @@
+25
+qlp 0
+tpx 0
+wA 0
+xs 0
+ag 1
+agricultural
+qsc 0
+q 3
+qua
+quark
+quinine
+lk 0
+l 6
+legislate
+leads
+luridly
+lunchpack
+liberator
+localities
+zE 0
+sc 3
+screams
+scripting
+screenplay
+w 14
+walnuts
+widened
+waifs
+wiggling
+wrap
+weediest
+westwards
+wires
+wordy
+whinnying
+wrasse
+windowless
+warty
+welldressed
+Hs 0
+p 38
+perfectionists
+paltrier
+pollinated
+pock
+permit
+pie
+promptings
+polestar
+platter
+pastoralism
+punches
+professions
+proximo
+permed
+paddler
+piglets
+pantry
+pros
+papers
+preadolescent
+piffle
+practical
+presupposing
+propane
+peckers
+percepts
+percussed
+pluto
+plummeted
+parader
+pest
+pirates
+potter
+promptly
+paratroop
+pursuit
+pelting
+precedes
+B 8
+Bones
+Blackball
+Betting
+Bespoke
+Bestirring
+Beagles
+Brabble
+Belches
+a 12
+ayurvedic
+acceleration
+assegai
+anchors
+archetypical
+atrophying
+acclimatisation
+antral
+agricultural
+access
+angering
+anticonstitutional
+uw 0
+ct 0
+fhs 0
+w 14
+walnuts
+widened
+waifs
+wiggling
+wrap
+weediest
+westwards
+wires
+wordy
+whinnying
+wrasse
+windowless
+warty
+welldressed
+vj 0
+a 12
+ayurvedic
+acceleration
+assegai
+anchors
+archetypical
+atrophying
+acclimatisation
+antral
+agricultural
+access
+angering
+anticonstitutional
+SX 0
+pBg 0
+pi 4
+pie
+piglets
+piffle
+pirates

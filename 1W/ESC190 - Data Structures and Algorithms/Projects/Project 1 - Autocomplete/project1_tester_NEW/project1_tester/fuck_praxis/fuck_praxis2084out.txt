@@ -1,0 +1,13 @@
+9
+mp 0
+n 0
+jlh 0
+h 2
+holsters
+hopefully
+Bd 0
+d 1
+disambiguating
+uu 0
+O 0
+lc 0

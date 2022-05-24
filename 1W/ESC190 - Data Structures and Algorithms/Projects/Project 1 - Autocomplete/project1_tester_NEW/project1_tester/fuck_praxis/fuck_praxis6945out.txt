@@ -1,0 +1,28 @@
+24
+QO 0
+vg 0
+S 0
+tf 0
+i 1
+invasive
+lx 0
+lR 0
+n 0
+z 0
+Rhg 0
+n 0
+o 0
+Nt 0
+R 1
+Russia
+Mwr 0
+Vg 0
+Ruh 0
+Q 0
+tah 0
+y 0
+s 1
+spooled
+x 0
+xb 0
+k 0

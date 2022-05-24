@@ -1,0 +1,6 @@
+4
+qi 0
+q 1
+quackish
+ku 0
+lnX 0

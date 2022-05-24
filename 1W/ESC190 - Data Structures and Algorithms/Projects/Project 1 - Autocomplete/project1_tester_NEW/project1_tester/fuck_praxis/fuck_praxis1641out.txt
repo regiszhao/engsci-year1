@@ -1,0 +1,89 @@
+14
+fe 6
+fending
+ferromagnetic
+festival
+federally
+feverishly
+fenland
+X 0
+r 36
+redundant
+reagent
+resealed
+relocated
+refilled
+relish
+regrow
+relative
+recalls
+release
+revokers
+roomier
+reassembly
+repeats
+rubbles
+radiative
+replenished
+rimmed
+racking
+reinsert
+rater
+reverses
+refluxing
+rhombuses
+rampant
+retrieve
+relegated
+rouse
+rampart
+reverberations
+registrations
+retaking
+rave
+recycled
+recycle
+roommate
+od 0
+iv 0
+uv 0
+q 4
+quiet
+quenchers
+quincentenary
+qualifies
+o 18
+oxford
+opining
+outfall
+omniscient
+owners
+origin
+occult
+oppressor
+outcrops
+outspokenness
+oppressors
+obtrusiveness
+overdose
+openminded
+oppositely
+orphanages
+outsold
+overuses
+nJD 0
+v 10
+vertices
+vigorous
+venerates
+valves
+vaned
+valuers
+vengeful
+veterans
+vents
+void
+pt 0
+CTS 0
+zy 0
+jpc 0

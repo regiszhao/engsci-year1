@@ -1,0 +1,162 @@
+24
+y 3
+yorkers
+youthful
+yawn
+asn 0
+p 40
+ports
+preordained
+pledge
+philatelists
+postmistress
+paltriest
+pithier
+polymers
+paralinguistic
+plumpness
+pulsated
+plunge
+paralysing
+puerperal
+paternalistic
+portents
+putrefying
+purposing
+pitiful
+photographs
+prowled
+principles
+presupposes
+pinions
+planet
+pouts
+puma
+photography
+positions
+politically
+plumbed
+peroxide
+patchup
+pagination
+practicability
+precision
+pressurise
+phonemic
+portions
+pelt
+nbG 0
+pyx 0
+byb 0
+Uj 0
+sm 1
+smuggles
+gt 0
+ln 0
+iX 0
+ct 0
+q 3
+queues
+quotidian
+quarter
+cW 0
+r 34
+reshapes
+robbing
+rocker
+redound
+reliefs
+railway
+recast
+rue
+rotator
+reefs
+recomputable
+repay
+revolts
+rebuttal
+rephrased
+rubberstamp
+ramblings
+ratty
+rocketry
+redistributing
+retirement
+reed
+repudiation
+redefinition
+runnerup
+ruminant
+rejected
+reactions
+roar
+ranis
+ravers
+republish
+reductive
+resubmission
+p 40
+ports
+preordained
+pledge
+philatelists
+postmistress
+paltriest
+pithier
+polymers
+paralinguistic
+plumpness
+pulsated
+plunge
+paralysing
+puerperal
+paternalistic
+portents
+putrefying
+purposing
+pitiful
+photographs
+prowled
+principles
+presupposes
+pinions
+planet
+pouts
+puma
+photography
+positions
+politically
+plumbed
+peroxide
+patchup
+pagination
+practicability
+precision
+pressurise
+phonemic
+portions
+pelt
+C 10
+Crocus
+Cements
+Critics
+Curtness
+Coffer
+Circumflexes
+Consideration
+Contestable
+Craned
+Classifiable
+z 1
+zigzags
+JOh 0
+O 5
+Overstating
+Open
+Obfuscated
+Opinions
+Octagons
+xsR 0
+vt 0
+iao 0
+yR 0

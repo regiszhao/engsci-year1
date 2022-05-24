@@ -1,0 +1,242 @@
+24
+V 1
+Visor
+f 11
+forties
+farms
+fatcat
+frisky
+fervent
+fatal
+fussily
+freons
+falsebay
+folly
+formulation
+bx 0
+fy 0
+Qt 0
+J 2
+Juniors
+Juicy
+r 28
+refluxed
+redesigned
+revives
+reallocate
+rearrangements
+represses
+roofs
+reside
+requires
+revoked
+rime
+ria
+rafters
+ruminating
+replicating
+refiled
+reassert
+reincarnated
+raster
+rapturous
+reassigning
+rainier
+regent
+ringleader
+registering
+rerouted
+ravioli
+reddened
+yap 0
+per 1
+perfusion
+p 27
+pastrami
+piecemeal
+paraplegic
+partridge
+palatable
+plights
+plunge
+privately
+pakistan
+proliferate
+princelings
+procrastinating
+petitioned
+parakeet
+preoccupations
+precipices
+partition
+peachier
+paramagnetism
+plateau
+possibles
+plants
+popularising
+peppers
+prostration
+particular
+perfusion
+v 4
+visually
+vitamin
+vestibular
+verdict
+r 28
+refluxed
+redesigned
+revives
+reallocate
+rearrangements
+represses
+roofs
+reside
+requires
+revoked
+rime
+ria
+rafters
+ruminating
+replicating
+refiled
+reassert
+reincarnated
+raster
+rapturous
+reassigning
+rainier
+regent
+ringleader
+registering
+rerouted
+ravioli
+reddened
+o 12
+overhasty
+outfits
+officiating
+overhauled
+ornithologists
+overproduced
+ornithology
+ordinal
+opportunistic
+overwhelmingly
+obsessional
+overstaffed
+e 24
+editing
+embroiling
+ensnaring
+elves
+escalator
+editorially
+escalates
+express
+enrolled
+emendation
+engrossing
+edifices
+edged
+exclude
+eccentric
+exalting
+exorbitantly
+earthworms
+embarked
+ecosystem
+extraditing
+examiners
+embarrassment
+extrusions
+jj 0
+c 43
+calibrating
+cayman
+creations
+construe
+comprehensible
+confounds
+crinkling
+collect
+calling
+contains
+connective
+complaisant
+capitulated
+computation
+calibrates
+careerist
+cohesion
+coeval
+cigarettes
+clapping
+comers
+conspiracy
+compartmentalised
+chihuahua
+convening
+checkin
+castrated
+costliest
+capacitor
+calorie
+colour
+coincidences
+concuss
+crawled
+camouflage
+chancy
+consignee
+centrists
+contretemps
+chromium
+consumer
+cubing
+chemical
+k 1
+kilts
+qn 0
+a 20
+angles
+amoeba
+alliances
+avocado
+administrators
+ardent
+agitates
+acronyms
+alliterate
+alchemist
+agouti
+atlanta
+adventurous
+abuser
+alkalinity
+alcoholic
+astronomy
+auditioning
+american
+activate
+g 12
+grommet
+gravel
+gatecrash
+gerontology
+garnet
+geophysics
+geodesic
+giggled
+grouch
+gaunter
+gallon
+gunk
+O 2
+Overuse
+Oxidise
+fi 0
+y 1
+yale
+kd 0

@@ -1,0 +1,22 @@
+6
+v 1
+verbose
+w 5
+wantonness
+worlds
+wrest
+warpath
+witticism
+uG 0
+c 8
+charging
+convertor
+cryogenic
+currants
+confusable
+curer
+ceramics
+cabman
+DF 0
+k 1
+kneads

@@ -1,0 +1,148 @@
+24
+bq 0
+hf 0
+bn 0
+pu 1
+punishes
+zo 0
+Nze 0
+Spi 1
+Spin
+yvb 0
+EZ 0
+nw 0
+i 20
+industriously
+indolence
+inelegantly
+induction
+initials
+implementation
+immigrations
+ideological
+imagines
+impart
+irrelevancy
+indefinite
+irascibility
+investigatory
+incompetence
+incommoding
+infringe
+interlopers
+impertinent
+imbecilities
+a 33
+arbour
+abjured
+auxiliaries
+artistic
+apse
+aridness
+astonished
+arabesque
+acetylene
+ambushes
+antisocial
+arranger
+absolutists
+anemic
+arraying
+accurate
+appearances
+arising
+awarded
+ascertainable
+aspidistra
+azalea
+addresses
+ascribe
+assegai
+avowedly
+almshouses
+aloes
+amazons
+agrochemical
+assertions
+automats
+annihilate
+uZ 0
+sx 0
+r 28
+rasters
+rebuilt
+ruffled
+repressed
+resigning
+repulsion
+ratty
+rethinking
+respectably
+running
+reinvents
+radioactive
+rhesus
+restorative
+refine
+rudimentary
+rewire
+rectifies
+regulatory
+retitled
+reify
+ropes
+roll
+reserver
+realism
+ritualised
+recycled
+responsively
+dO 0
+oy 0
+v 4
+villains
+vicepresidency
+vitiating
+vestry
+zNX 0
+y 1
+yourself
+w 22
+whispers
+worse
+warbling
+waspwaisted
+workload
+weir
+wordgame
+wayward
+whisking
+warlike
+wintered
+wellfed
+wariest
+wheat
+wicker
+wafted
+watchmakers
+weightless
+weedkiller
+weakkneed
+wrappers
+waywardness
+P 8
+Presumptuousness
+Peddling
+Preludes
+Playthings
+Possibilities
+Palaeolithic
+Performer
+Province
+M 1
+Medical
+V 4
+Verdict
+Varying
+Voteless
+Vestal

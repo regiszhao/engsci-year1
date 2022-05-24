@@ -1,0 +1,133 @@
+28
+pn 0
+gp 0
+Lf 0
+si 4
+simply
+sites
+silo
+simeon
+a 40
+accords
+arrived
+ambuscade
+abiding
+ales
+ant
+appro
+ambling
+aggressive
+added
+academy
+almanacs
+aggressions
+astrophysics
+aorta
+archaic
+aristocrat
+attributable
+absurdities
+avert
+ability
+adage
+arcana
+antisymmetry
+arrives
+augmenting
+acquiescent
+astray
+arrester
+ambushers
+appropriate
+adapters
+avenues
+admonition
+amateur
+aborting
+addle
+assignments
+aftermath
+averring
+wo 1
+workaday
+F 9
+Feebleminded
+Fightback
+Friendship
+Fat
+Franchising
+Femurs
+Fertility
+Fanciest
+Forger
+rt 0
+os 0
+RY 0
+Fty 0
+cB 0
+rD 0
+z 0
+H 3
+Homozygous
+Hence
+Hundreds
+hK 0
+cQ 0
+W 3
+Whelked
+Wear
+Wallets
+It 0
+pu 5
+purged
+purims
+pulsate
+putt
+purchasers
+Rd 0
+Cv 0
+cJ 0
+e 39
+extrapolating
+english
+edison
+erodes
+erected
+exhorting
+eloquently
+extinguishers
+elementary
+equestrianism
+embalmers
+eucalyptus
+ellipsoids
+emetic
+etched
+empiric
+elephants
+experimenting
+encomium
+essay
+enhancers
+eliminates
+equivocation
+eisteddfod
+exceptionally
+elongations
+egged
+edited
+encourage
+extender
+endoplasmic
+epiphanies
+encrustation
+expected
+eurekas
+eyeglasses
+eroded
+earmark
+evocative
+yXd 0
+vnT 0
+jW 0
+ip 0

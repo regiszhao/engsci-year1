@@ -1,0 +1,25 @@
+11
+ns 0
+OPK 0
+hDB 0
+f 6
+furlongs
+firebombing
+followable
+fetus
+fifes
+forthcoming
+ah 0
+lz 0
+qgr 0
+f 6
+furlongs
+firebombing
+followable
+fetus
+fifes
+forthcoming
+wk 0
+T 1
+Tern
+oI 0

@@ -1,0 +1,6 @@
+5
+mR 0
+rw 0
+elt 0
+yf 0
+fgb 0

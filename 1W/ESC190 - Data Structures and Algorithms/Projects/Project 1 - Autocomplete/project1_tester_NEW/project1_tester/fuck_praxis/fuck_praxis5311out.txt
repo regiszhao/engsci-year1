@@ -1,0 +1,210 @@
+24
+lpc 0
+sZ 0
+lWi 0
+OKe 0
+Y 1
+Yukon
+yw 0
+Mh 0
+c 54
+cannibalising
+cataclysmic
+cobra
+confederates
+convincing
+crafted
+cauldron
+cardiopulmonary
+cowgirls
+coffees
+crocheted
+cyclically
+confirmation
+crossbows
+cresting
+ceramics
+cockle
+circled
+clots
+coincide
+comedies
+cockpit
+crescendo
+coprocessor
+conflicts
+courtiers
+contraflow
+confectioner
+catchy
+calibrated
+catheter
+chastised
+costliness
+cony
+circumspect
+coastlines
+complies
+celebrations
+confusingly
+card
+centenary
+crooked
+country
+cravenly
+cannot
+curricula
+constipated
+columbus
+condescension
+carved
+clung
+curlew
+centenary
+chiseled
+O 6
+Optimisation
+Obscurity
+Oedema
+Outdo
+Overslept
+Oneself
+C 17
+Cockier
+Conformists
+Celeriac
+Copywriter
+Criticism
+Compasses
+Choirboy
+Chariot
+Crucifiable
+Cartoonist
+Comparative
+Confounded
+Classicists
+Catechist
+Checkmate
+Caddies
+Circularly
+k 2
+keyword
+kinetics
+mfz 0
+p 44
+paradises
+pops
+purgings
+projectiles
+princess
+piths
+partitions
+pictures
+plumber
+proximal
+porting
+playthings
+polisher
+pioneer
+phosphors
+promulgating
+philosopher
+precipitate
+plucked
+plunge
+pasties
+pausing
+pocketing
+pronunciation
+pursuer
+premise
+parachutist
+pathology
+pinnacles
+petard
+prevaricating
+polygamous
+pinpoints
+proven
+predate
+parallelepiped
+propulsion
+portugal
+plays
+pastries
+piling
+pullover
+popularised
+prohibition
+dT 0
+HlS 0
+mQ 0
+d 43
+defaulter
+detroit
+decrypted
+discountability
+depute
+deference
+disarmed
+dado
+drained
+denounced
+dribbler
+dint
+discounts
+diabolically
+dampness
+detoured
+diktat
+dipsomaniacs
+detergent
+descriptiveness
+dudgeon
+dexterously
+divorce
+disallowing
+ducted
+defectiveness
+dismembering
+disproofs
+decays
+disproportionately
+descendant
+deporting
+decontaminated
+dative
+debacles
+drunkenness
+disillusioning
+doges
+desiccation
+dictated
+definition
+decanter
+druids
+C 17
+Cockier
+Conformists
+Celeriac
+Copywriter
+Criticism
+Compasses
+Choirboy
+Chariot
+Crucifiable
+Cartoonist
+Comparative
+Confounded
+Classicists
+Catechist
+Checkmate
+Caddies
+Circularly
+Gn 0
+SB 0
+z 1
+zombie
+kz 0
+Hs 0
+nu 0

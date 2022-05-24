@@ -1,0 +1,92 @@
+16
+bh 0
+wu 0
+xZ 0
+gO 0
+om 0
+Es 0
+fG 0
+xu 0
+x 0
+ef 0
+q 2
+quotas
+qualifier
+q 2
+quotas
+qualifier
+fi 2
+fiend
+fig
+S 15
+Superstar
+Scourging
+Syndicates
+Stillbirths
+Symbols
+Shrapnel
+Storm
+Sycophants
+Swiss
+Stardom
+Steadfastly
+Stave
+Stationary
+Superior
+Starspangled
+t 27
+thickness
+truth
+telaviv
+tale
+tradein
+tectonic
+thugs
+textbook
+trajectory
+thornier
+trainers
+tetroxide
+taxonomical
+theta
+tench
+transmute
+torturing
+trapeze
+transportability
+troopers
+tougher
+task
+tracking
+tremendously
+transmigration
+transonic
+trepidations
+t 27
+thickness
+truth
+telaviv
+tale
+tradein
+tectonic
+thugs
+textbook
+trajectory
+thornier
+trainers
+tetroxide
+taxonomical
+theta
+tench
+transmute
+torturing
+trapeze
+transportability
+troopers
+tougher
+task
+tracking
+tremendously
+transmigration
+transonic
+trepidations

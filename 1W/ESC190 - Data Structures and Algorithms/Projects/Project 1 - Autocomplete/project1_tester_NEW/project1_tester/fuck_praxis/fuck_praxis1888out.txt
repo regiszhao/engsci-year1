@@ -1,0 +1,14 @@
+12
+sh 0
+Z 0
+vGU 0
+x 0
+mfT 0
+t 1
+thinning
+djy 0
+ksk 0
+fl 0
+WQk 0
+zd 0
+itw 0

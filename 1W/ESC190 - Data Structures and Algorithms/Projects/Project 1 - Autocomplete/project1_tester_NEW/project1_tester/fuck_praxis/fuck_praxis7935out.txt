@@ -1,0 +1,11 @@
+4
+noU 0
+Nr 0
+L 6
+Locomotion
+Lessons
+Lighten
+Lunge
+Legitimised
+Lacs
+Pz 0

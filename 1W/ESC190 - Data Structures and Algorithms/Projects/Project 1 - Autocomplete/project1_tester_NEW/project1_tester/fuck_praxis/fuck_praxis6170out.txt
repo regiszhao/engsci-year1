@@ -1,0 +1,106 @@
+23
+Q 1
+Qualified
+ta 5
+taunter
+tasteless
+tattle
+tannery
+tapering
+QE 0
+bSu 0
+rl 0
+AT 0
+Q 1
+Qualified
+Q 1
+Qualified
+wfi 0
+qo 0
+an 5
+anonym
+analyst
+anthropomorphic
+antenna
+antennas
+y 1
+yawl
+ah 0
+Jge 0
+F 10
+Flattery
+Fillip
+Fluffier
+Furtive
+Formalities
+Flickered
+Forlorn
+Former
+Forgets
+Flagons
+kur 0
+X 0
+c 58
+cryogenics
+cilium
+catchphrases
+concede
+chilblains
+chauvinists
+campaigning
+casket
+capers
+commence
+cryptanalyst
+capstans
+chairman
+clinching
+canes
+conservatory
+caustics
+conservativeness
+concessional
+custody
+coppery
+cobblers
+castoff
+cartel
+conspiring
+critic
+chore
+covenant
+chordal
+conveyor
+corporeal
+concreteness
+colloquialisms
+certainties
+cable
+conventionalist
+contentions
+cain
+curricle
+comforted
+cutters
+cymbal
+cardinality
+clambers
+congressmen
+crowding
+controvert
+convenient
+cumbersomely
+compiler
+chided
+complicates
+cramped
+caches
+confectionist
+clam
+clubbing
+confederation
+TV 0
+yu 0
+Ig 0
+Ejs 0
+Wp 0

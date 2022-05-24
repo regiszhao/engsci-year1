@@ -1,0 +1,42 @@
+13
+T 5
+Trips
+Touchier
+Tot
+Torus
+Tinkling
+n 3
+nunneries
+nosed
+noose
+mc 0
+o 10
+overemphasised
+overexposed
+openness
+overspill
+ornithological
+orthographic
+outage
+obelisk
+outlawed
+obsequiousness
+gfm 0
+ka 0
+lpa 0
+cIA 0
+urJ 0
+NN 0
+rf 0
+t 10
+tenderly
+topsyturvy
+toeless
+thermostat
+taxonomic
+thatchers
+taxonomical
+timid
+torrential
+trove
+mr 0

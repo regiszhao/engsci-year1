@@ -1,0 +1,188 @@
+21
+fie 0
+w 12
+wriggled
+wheelhouse
+watered
+whisking
+whitecollar
+whispering
+walrus
+wholly
+warthog
+waddle
+waveform
+wiping
+Q 1
+Quarterback
+uqm 0
+j 8
+juxtaposing
+jettisoning
+jumps
+jealousy
+jabbing
+judicially
+jog
+jerky
+pAV 0
+t 30
+tuesdays
+tangential
+twittering
+tartness
+topographical
+tenant
+travesties
+tweaked
+trendy
+theists
+tailors
+tautness
+thickening
+tanked
+tombstone
+tensional
+tinier
+torpor
+tetra
+tautologically
+therapeutic
+trotted
+teats
+toughens
+thresh
+touristic
+tactical
+transcendent
+tori
+trump
+f 23
+frock
+frigidity
+foe
+flotillas
+fretful
+fanatical
+flippers
+forefront
+falsification
+fire
+fries
+flue
+feathering
+flashback
+faucets
+faithfully
+filthily
+fillet
+fingernail
+forays
+forestry
+forgiven
+flea
+m 20
+moister
+midline
+manipulated
+mimics
+meander
+methodological
+mentalities
+marked
+model
+malpractices
+misprints
+muffler
+motivates
+mistyping
+moderated
+misdirected
+manageable
+misquote
+mason
+mar
+ky 0
+v 5
+vaccinations
+valueless
+viewed
+visualise
+vertebrates
+bf 0
+p 32
+paul
+propensity
+patching
+parishioner
+pant
+primacy
+phrasebook
+prioritise
+prosperity
+preferably
+prohibit
+puppeteer
+preserving
+purlins
+prosecutors
+peregrinations
+purview
+posterity
+pyrotechnics
+phenomenological
+profiting
+position
+pictured
+pious
+pantomime
+physio
+politics
+pontificated
+paramagnetic
+postnatal
+penguins
+pollution
+yi 0
+A 16
+Aspirating
+Adds
+Aggregation
+Ambition
+Abomination
+Amazons
+Avers
+Appreciating
+Agave
+Aswan
+Admission
+Alimentary
+Aerials
+Astounded
+Astray
+Arrogance
+SK 0
+da 3
+damnable
+daydreaming
+dampened
+qG 0
+P 13
+Polarise
+Pitiably
+Permitted
+Psychics
+Ploughshare
+Paining
+Polarisations
+Phylactery
+Prismatic
+Prurience
+Panther
+Pardoning
+Protections
+Dd 0
+ad 3
+adducing
+adamant
+adaptable

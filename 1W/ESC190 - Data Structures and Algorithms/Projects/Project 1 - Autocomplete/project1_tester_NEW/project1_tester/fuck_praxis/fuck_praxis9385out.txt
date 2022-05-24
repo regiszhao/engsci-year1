@@ -1,0 +1,93 @@
+28
+g 4
+gulleys
+gravitas
+giggled
+giantkillers
+K 1
+Kebabs
+az 0
+p 12
+proletarians
+philosophic
+prostate
+proofreader
+predict
+proscribe
+paused
+pyrite
+protestations
+pigs
+puss
+pebbly
+fp 0
+m 8
+moas
+massaged
+multimedia
+multichannel
+maser
+mediation
+mural
+multiplexor
+op 1
+opprobrious
+N 1
+Nonfunctional
+zl 0
+e 10
+expertness
+eyeball
+extensionally
+esthetic
+edema
+envied
+emptiness
+expediency
+eyewitnesses
+encompassing
+pq 0
+je 1
+jewel
+a 6
+adulterers
+allergies
+adjure
+amethyst
+atrophied
+allegedly
+bo 0
+ae 0
+nzq 0
+p 12
+proletarians
+philosophic
+prostate
+proofreader
+predict
+proscribe
+paused
+pyrite
+protestations
+pigs
+puss
+pebbly
+to 2
+torpor
+topically
+cc 0
+zU 0
+wt 0
+rp 0
+TxY 0
+bh 0
+xy 0
+B 0
+yH 0
+a 6
+adulterers
+allergies
+adjure
+amethyst
+atrophied
+allegedly

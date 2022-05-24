@@ -1,0 +1,210 @@
+22
+FL 0
+tW 0
+fj 0
+h 25
+hamlets
+hunches
+handovers
+hiss
+hermeneutic
+hottest
+hearthrug
+humanising
+horseshoes
+harvester
+hamlets
+huguenot
+hatchery
+hardhitting
+hyphenations
+hobo
+hemming
+harriers
+hopes
+hesitate
+hermaphroditic
+haulers
+highbrow
+hemlines
+harm
+F 11
+Foreland
+Figuring
+Fame
+Ferns
+Fair
+Floppier
+Faust
+Femurs
+Flustered
+Fawns
+Fates
+a 31
+attired
+audition
+anomalies
+analyst
+azores
+annuity
+area
+amendment
+agglomerations
+atavistic
+authoritarians
+amorality
+acceptance
+absentees
+accusal
+anomalously
+autopsy
+acrostics
+alliances
+agreeable
+archbishop
+acquisitive
+annualised
+agitatedly
+agitator
+ammonia
+adulterated
+adopting
+abundances
+analogical
+abet
+qpo 0
+g 19
+granulated
+golfer
+gaseous
+gritting
+gastritis
+gannets
+gallant
+gown
+george
+gunpowder
+garages
+galleon
+guttersnipe
+ghastly
+grisliest
+gambling
+gesture
+geek
+geared
+js 0
+t 35
+trunks
+trials
+tapdancing
+things
+tapering
+triumphed
+therefrom
+tomfoolery
+timbre
+temperately
+thinktank
+thyme
+telephoto
+tussock
+tactfully
+tabulating
+trifler
+tickets
+turnips
+type
+tigers
+tropopause
+thinners
+traveller
+tempo
+topcoat
+technically
+thrift
+tarns
+treatises
+trappings
+tabernacles
+tub
+taxonomical
+tarry
+t 35
+trunks
+trials
+tapdancing
+things
+tapering
+triumphed
+therefrom
+tomfoolery
+timbre
+temperately
+thinktank
+thyme
+telephoto
+tussock
+tactfully
+tabulating
+trifler
+tickets
+turnips
+type
+tigers
+tropopause
+thinners
+traveller
+tempo
+topcoat
+technically
+thrift
+tarns
+treatises
+trappings
+tabernacles
+tub
+taxonomical
+tarry
+eqL 0
+ze 0
+omJ 0
+gUb 0
+jv 0
+a 31
+attired
+audition
+anomalies
+analyst
+azores
+annuity
+area
+amendment
+agglomerations
+atavistic
+authoritarians
+amorality
+acceptance
+absentees
+accusal
+anomalously
+autopsy
+acrostics
+alliances
+agreeable
+archbishop
+acquisitive
+annualised
+agitatedly
+agitator
+ammonia
+adulterated
+adopting
+abundances
+analogical
+abet
+lN 0
+Aq 0
+bA 0
+oj 0
+rf 0

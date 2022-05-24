@@ -1,0 +1,29 @@
+14
+rl 0
+l 4
+landmarks
+lofted
+living
+livelihood
+jl 0
+vl 0
+RR 0
+mc 0
+i 6
+impacts
+impromptu
+imitates
+impunity
+inflows
+impersonates
+w 4
+whereof
+whoa
+wiggled
+womanish
+nu 0
+ign 0
+CG 0
+iL 0
+sGJ 0
+lp 0

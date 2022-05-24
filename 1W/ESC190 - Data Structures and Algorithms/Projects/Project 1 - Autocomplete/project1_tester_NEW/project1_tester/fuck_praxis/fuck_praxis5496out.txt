@@ -1,0 +1,104 @@
+27
+up 0
+KH 0
+wz 0
+qn 0
+k 1
+keystrokes
+K 0
+w 5
+waddled
+wetland
+woodman
+wholesome
+wander
+jd 0
+hV 0
+hT 0
+ya 0
+r 11
+redefiner
+rainbow
+righthander
+recombinant
+roast
+relatedness
+replicates
+racily
+receptivity
+regretted
+renege
+ho 2
+hourglass
+hostage
+B 1
+Birdwatching
+lre 0
+fyd 0
+oh 0
+O 2
+Orbit
+Oilfields
+j 1
+jangly
+s 24
+supportive
+shams
+synchronise
+sanctifying
+soundness
+scrummaging
+spirits
+springiest
+suppers
+sinker
+stethoscope
+slurps
+spikes
+subnormal
+seismologist
+seldom
+swooped
+sarcastically
+shipwright
+supple
+selfesteem
+subdued
+secondary
+shipboard
+Ci 0
+OL 0
+q 0
+j 1
+jangly
+s 24
+supportive
+shams
+synchronise
+sanctifying
+soundness
+scrummaging
+spirits
+springiest
+suppers
+sinker
+stethoscope
+slurps
+spikes
+subnormal
+seismologist
+seldom
+swooped
+sarcastically
+shipwright
+supple
+selfesteem
+subdued
+secondary
+shipboard
+y 0
+v 4
+variates
+vicarious
+vibrations
+voltmeter

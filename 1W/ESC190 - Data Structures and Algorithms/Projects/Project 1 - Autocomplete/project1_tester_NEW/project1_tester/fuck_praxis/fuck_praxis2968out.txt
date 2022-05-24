@@ -1,0 +1,157 @@
+29
+qw 0
+X 0
+gl 0
+E 3
+Excitations
+Encyclopedic
+Embroiderers
+Nc 0
+eY 0
+c 42
+crushers
+culpable
+cohort
+climbed
+county
+cloakanddagger
+chanter
+cocaine
+choreographer
+crueller
+cryptanalyst
+cheery
+cottages
+contaminated
+contraption
+caterers
+capering
+camcorders
+cooped
+cyclist
+caryatids
+complainants
+coronation
+casseroles
+complexion
+championing
+controvert
+chaperone
+cigars
+crustaceans
+crevasses
+curtseying
+crewmen
+cascara
+covenants
+cowritten
+cemetery
+consultancies
+commissioning
+climbable
+chubby
+chloride
+G 4
+Giro
+Glow
+Gravities
+Grapevine
+Cp 0
+u 9
+unversed
+unraisable
+unwontedly
+unhandy
+unsurvivable
+unjamming
+uncrowned
+undecidability
+unmitigated
+d 17
+downturn
+depraved
+disables
+dullness
+debauch
+discomfort
+depositors
+devolving
+dyeing
+dears
+dynastic
+dregs
+disunite
+donned
+discontinue
+dims
+doling
+eE 0
+y 1
+yttrium
+Sr 0
+ae 0
+cgb 0
+hf 0
+xpF 0
+rFa 0
+n 7
+notations
+neighed
+nails
+national
+nightgown
+notwithstanding
+nigh
+Z 0
+a 17
+avaricious
+academe
+apportioned
+adonis
+annuli
+apiary
+aircrew
+answerer
+anemic
+anarchical
+attracts
+authorise
+assuage
+amateurish
+accentuate
+allotting
+agitated
+nSb 0
+fy 0
+ila 0
+W 4
+Withheld
+Willingly
+Wellthoughtout
+Wharves
+j 3
+juries
+jurisprudential
+jurisprudence
+x 0
+m 20
+materialists
+mountable
+muse
+mauler
+mortgage
+moans
+maps
+metaphor
+misconception
+molecules
+mussels
+misplacement
+muting
+masque
+mayonnaise
+mannerisms
+modify
+metalanguage
+musicianship
+matriarchal

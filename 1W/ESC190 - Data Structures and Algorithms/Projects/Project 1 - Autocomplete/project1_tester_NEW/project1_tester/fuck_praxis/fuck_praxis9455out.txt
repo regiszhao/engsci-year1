@@ -1,0 +1,211 @@
+29
+n 16
+nibble
+nabs
+newsprint
+novelistic
+notches
+neuralgia
+negativism
+nadir
+noblest
+negatives
+nightwatchman
+noddy
+noosed
+nibble
+naive
+nonsenses
+nt 0
+y 0
+ggn 0
+qMt 0
+e 33
+embattled
+endocrine
+endogenously
+extinguishes
+endothermic
+ecologist
+errant
+enfranchise
+effect
+entreaty
+enforceability
+elemental
+educates
+evaluations
+exiling
+elaborations
+encrust
+exactly
+else
+elks
+extent
+eroded
+etymologists
+enciphering
+estranged
+extraditable
+encomium
+equivocal
+embodiments
+estonia
+escarpments
+embezzling
+eloquently
+dg 0
+sGV 0
+K 1
+Kneedeep
+AO 0
+r 41
+rainstorm
+razing
+radiographer
+renumbering
+retractable
+refurbished
+rabbiting
+rages
+remained
+reassuring
+receipted
+robs
+reap
+robot
+rials
+reproduce
+radiates
+rewrites
+ripping
+reliance
+resentfully
+reseller
+reunions
+revoltingly
+retentions
+rebelliously
+religions
+rivetingly
+repugnant
+redstarts
+resonantly
+retried
+retention
+reinterpreting
+resolute
+rips
+resold
+reverted
+reporters
+rhapsodies
+rhinoceroses
+WO 0
+his 1
+histrionics
+kWz 0
+qc 0
+mo 6
+motorised
+moray
+mortgagor
+morgue
+motorcade
+mouthparts
+wdi 0
+wa 7
+watchers
+wailed
+waging
+watchers
+warms
+warps
+want
+Wc 0
+ba 6
+basketball
+ballistic
+banded
+balls
+bashful
+banisters
+ba 6
+basketball
+ballistic
+banded
+balls
+bashful
+banisters
+I 16
+Impossibility
+Intervened
+Initial
+Idolaters
+Interlocutory
+Impress
+Ideographic
+Indolence
+Illustrations
+Imperfections
+Invigilators
+Indentation
+Interferometry
+Inaccessible
+Inanely
+Insteps
+zIx 0
+pl 5
+plies
+platelets
+placates
+plausibly
+platters
+w 20
+will
+wildly
+wedge
+watchers
+wickedness
+what
+wildoats
+wormlike
+wailed
+wielding
+worrying
+waging
+weed
+wherry
+watchers
+warms
+whore
+wimp
+warps
+want
+P 18
+Piercers
+Pageant
+Publicise
+Pidgin
+Poetically
+Preservative
+Phosphors
+Pools
+Patterned
+Psychopathology
+Perceives
+Pouring
+Presupposing
+Perspectives
+Plating
+Proffer
+Protest
+Polymorphic
+GM 0
+ov 5
+overwhelmed
+overcomes
+overlooked
+overgrazing
+oversampling
+skc 0

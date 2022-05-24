@@ -1,0 +1,9 @@
+5
+jo 1
+jokey
+N 0
+Ao 0
+am 0
+o 2
+outlasts
+ocelots

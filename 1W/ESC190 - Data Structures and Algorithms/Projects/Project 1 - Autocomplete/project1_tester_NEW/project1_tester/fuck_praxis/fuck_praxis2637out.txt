@@ -1,0 +1,8 @@
+6
+N 1
+Nonpayment
+itl 0
+trF 0
+XfC 0
+Vy 0
+Jb 0

@@ -1,0 +1,222 @@
+22
+sg 0
+cf 0
+u 15
+undrinkable
+unweighted
+unfriendliest
+unordered
+unmixed
+unsellable
+unchaining
+ultrasonic
+unknightly
+unambitious
+unrevealed
+upcoming
+unwillingly
+unbowed
+unpopular
+a 20
+asymmetry
+arabesque
+awash
+aft
+accurate
+applecart
+adulterating
+automorphisms
+arbitrary
+alacrity
+anaesthetic
+appealingly
+afterlives
+anticipation
+aristocrats
+axial
+acquaint
+afraid
+adult
+agog
+T 14
+Typographically
+Tenors
+Timeless
+Traducer
+Tenderer
+Twin
+Texans
+Tabled
+Thenceforward
+Trigonometry
+Transgress
+Tank
+Teleprinters
+Transact
+kl 0
+W 6
+Weakened
+Woodsman
+Whose
+Weathers
+Withdrawal
+Whitish
+x 0
+D 13
+Diameters
+Dopes
+Distantly
+Divas
+Dissemination
+Discerning
+Dissolution
+Dissolve
+Discords
+Detonations
+Dithered
+Disgruntled
+Declined
+ts 0
+c 51
+cooking
+comically
+crawl
+cursing
+crowed
+cavers
+chivalric
+castrate
+captive
+crusher
+candies
+circumventing
+chimney
+computers
+contaminated
+citations
+cytological
+cumbersomely
+coulombs
+curial
+clueless
+commodes
+clouding
+clarinets
+christened
+ciders
+calcification
+chrysanthemum
+canopied
+conservativeness
+curtail
+conductors
+confidentially
+cavernous
+carcinogen
+caravans
+contactable
+coverup
+compressibility
+competed
+communicativeness
+circumventions
+craftsmanship
+chassis
+comprehend
+crafts
+contrariwise
+coop
+concuss
+calves
+curbs
+NoF 0
+tZl 0
+h 19
+hallo
+heatedly
+howitzer
+hundredweight
+hauteur
+hormone
+hazards
+hostelry
+heterogeneity
+happier
+herbivore
+hips
+hurling
+herbalist
+hairier
+hostler
+hypnotically
+herding
+hues
+W 6
+Weakened
+Woodsman
+Whose
+Weathers
+Withdrawal
+Whitish
+r 28
+repudiate
+refereed
+riposte
+ramifications
+rapporteurs
+reify
+rigorous
+reinvest
+rouses
+recombinants
+responsibilities
+refocused
+repack
+rocketed
+revokes
+roundups
+repaired
+rigidly
+request
+redound
+relaxant
+runway
+rovings
+rust
+rosily
+reliquaries
+rescale
+recouped
+ls 0
+f 22
+furious
+fourthly
+fellow
+fair
+formalised
+flirted
+fishwife
+father
+fatherinlaw
+fornicator
+folk
+formosa
+fonts
+fastening
+fireball
+fussily
+forgetmenots
+frankincense
+flawlessly
+finn
+fetid
+fuddle
+ha 5
+hallo
+hauteur
+hazards
+happier
+hairier
+Rn 0
+gs 0
+qas 0

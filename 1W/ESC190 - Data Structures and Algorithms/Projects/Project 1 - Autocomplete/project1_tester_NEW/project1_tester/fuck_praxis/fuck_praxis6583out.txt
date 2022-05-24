@@ -1,0 +1,88 @@
+17
+q 5
+query
+quaffing
+quarterstaffs
+quests
+quintets
+FH 0
+fd 0
+or 1
+orphanage
+N 4
+Normans
+Neutrals
+Niggle
+Nipping
+Eg 0
+e 27
+erroneously
+exceed
+epidemiologists
+eavesdropping
+euphonium
+entice
+expenditure
+evident
+exceptionable
+embossed
+emollient
+excelled
+enjoyment
+earphone
+eyelets
+evolves
+excepted
+equivocal
+equipments
+enticement
+establishes
+epidemiologists
+esplanade
+ensues
+entrepreneurs
+eidetic
+embedded
+Md 0
+Dv 0
+v 9
+vision
+verified
+validity
+vacillating
+vestry
+violation
+victory
+vocal
+vascular
+K 0
+do 3
+docklands
+doggerel
+doors
+sib 0
+PR 0
+P 18
+Prophetically
+Prevaricating
+Pilgrim
+Perimeter
+Politburo
+Preciseness
+Preludes
+Proportion
+Proscribe
+Plant
+Pardoning
+Passionately
+Potentialities
+Plaintive
+Proportionately
+Paperweights
+Paned
+Pastiche
+jh 0
+sk 3
+skyscraper
+skylarks
+skips

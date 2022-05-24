@@ -1,0 +1,74 @@
+8
+i 33
+innuendo
+inset
+inlet
+intimation
+incompetence
+insultingly
+infiltrations
+interviewers
+ingots
+incursion
+inoculations
+ingrown
+impreciseness
+incombustible
+irrigating
+improving
+inured
+inflamed
+inquisitor
+intimated
+installer
+invaluable
+inability
+irretrievable
+indistinctness
+implantation
+impelled
+invoker
+inhibitory
+illumination
+incremented
+instructs
+infidels
+xd 0
+g 14
+grandees
+garotted
+grassed
+genetic
+gloomful
+glimmer
+gusty
+gouging
+gunpoint
+geophysicists
+generosity
+gesture
+governed
+greenly
+jf 0
+o 11
+omnivore
+orthogonality
+ohmic
+oddness
+overstate
+odometer
+odiously
+optional
+one
+obligated
+overladen
+v 7
+vectoring
+volumes
+vessels
+vehicles
+venerating
+varnishing
+vicars
+CPU 0
+fd 0

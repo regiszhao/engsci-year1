@@ -1,0 +1,177 @@
+25
+ge 0
+xIu 0
+plV 0
+uh 0
+mm 0
+nhr 0
+m 16
+munificent
+marathons
+microfilming
+misspells
+mirth
+mythologies
+marl
+mayflies
+megajoules
+malfunctions
+mains
+molybdenum
+mountainside
+meagrely
+marketed
+marriageable
+w 10
+washboard
+widens
+winningly
+waives
+wrongs
+waggles
+whiff
+walkietalkie
+winnable
+wire
+i 15
+installed
+imperialistic
+illtempered
+inescapably
+incessantly
+innumeracy
+irresolution
+irresistible
+incredulity
+insider
+immolate
+interconnection
+indeclinable
+inexpensive
+infringe
+m 16
+munificent
+marathons
+microfilming
+misspells
+mirth
+mythologies
+marl
+mayflies
+megajoules
+malfunctions
+mains
+molybdenum
+mountainside
+meagrely
+marketed
+marriageable
+v 4
+vituperation
+victimised
+vestige
+vocalist
+Lx 0
+ha 8
+hangmen
+harbinger
+hairdo
+hangouts
+hairpin
+hairstyle
+hasp
+haggard
+TM 0
+d 20
+decomposed
+dithering
+distorter
+desirous
+dependency
+dab
+divorce
+deadlocked
+dolls
+daughtersinlaw
+debriefing
+damning
+dutchman
+drench
+dwarfing
+dismantles
+drastic
+dankest
+dishonest
+dependent
+oF 0
+mgb 0
+qA 0
+m 16
+munificent
+marathons
+microfilming
+misspells
+mirth
+mythologies
+marl
+mayflies
+megajoules
+malfunctions
+mains
+molybdenum
+mountainside
+meagrely
+marketed
+marriageable
+eKY 0
+t 16
+too
+tarmac
+tapeworm
+toe
+trampled
+trimodal
+trespassed
+tailoring
+trembler
+trammel
+tulip
+theists
+toggled
+traceable
+thirsting
+tactile
+u 14
+uncalled
+uncrackable
+usher
+universal
+urethritis
+unpaved
+unfix
+urethane
+ulcerations
+unmade
+unmask
+unreasoned
+utter
+unbosom
+m 16
+munificent
+marathons
+microfilming
+misspells
+mirth
+mythologies
+marl
+mayflies
+megajoules
+malfunctions
+mains
+molybdenum
+mountainside
+meagrely
+marketed
+marriageable
+ky 0
+dL 0

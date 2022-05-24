@@ -1,0 +1,8 @@
+5
+qtY 0
+mtz 0
+Qf 0
+is 0
+bu 2
+burgling
+buckpassing

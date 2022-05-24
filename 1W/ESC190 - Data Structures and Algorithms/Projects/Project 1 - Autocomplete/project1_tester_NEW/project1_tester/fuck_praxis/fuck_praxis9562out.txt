@@ -1,0 +1,114 @@
+10
+cG 0
+a 32
+ambiguity
+ascendant
+anarchy
+armour
+acclimatised
+aquamarine
+aspirant
+accenting
+autoignition
+axillary
+apriori
+atmospheric
+aspirate
+ambled
+antisymmetry
+apostasy
+automatic
+ambled
+agendas
+alternating
+alley
+aged
+autobahn
+absorbent
+abrogate
+assay
+adorns
+anachronism
+antithesis
+aimer
+azure
+affliction
+m 18
+miscue
+misjudgment
+meringues
+marshland
+motivations
+mezzanine
+music
+mucosa
+mugging
+metallic
+midfielders
+migration
+mas
+moths
+mirrors
+machines
+means
+moaner
+b 20
+bill
+breaths
+baubles
+bank
+barrenness
+blast
+breathtakingly
+bookshelf
+beside
+blazes
+bookmakers
+barbiturate
+bradawl
+broad
+bath
+bagful
+boozed
+buckle
+baked
+buyers
+x 0
+lf 0
+z 0
+sf 0
+i 24
+infiltrations
+innocuous
+interdependence
+involute
+immunise
+inculcate
+imputing
+instituted
+interpolating
+intellectualism
+intercountry
+illegible
+inclusiveness
+immunologist
+inability
+inestimably
+idle
+instinctive
+interlace
+injudicious
+impeachments
+indirect
+interruption
+immutability
+C 9
+Canonic
+Crossexamined
+Crutch
+Customary
+Consanguinity
+Chromite
+Cogitation
+Collier
+Computable

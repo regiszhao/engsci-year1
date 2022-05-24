@@ -1,0 +1,124 @@
+16
+w 12
+walkabouts
+waves
+worships
+winching
+whitened
+whiffs
+woman
+warthog
+will
+warts
+wells
+wiggles
+uD 0
+h 21
+hallmark
+handbasin
+hangglide
+hardboiled
+homeless
+hybridisation
+heartening
+hieratic
+hubris
+housebreakers
+horseflesh
+hawkish
+hemming
+hangovers
+have
+handholds
+heartwarming
+hydraulically
+hasbeens
+hideouts
+humouring
+bmk 0
+P 14
+Purser
+Padlocking
+Putsch
+Preamplifier
+Preventive
+Peonies
+Penned
+Preparation
+Petrochemicals
+Pippin
+Presses
+Palisades
+Putridity
+Parsnips
+Nf 0
+dJ 0
+ks 0
+Oj 0
+kA 0
+m 29
+moderator
+mammy
+metamorphism
+moles
+mystification
+mustard
+motel
+majolica
+micrometres
+midflight
+mas
+moderately
+masochism
+maltese
+manacles
+mondays
+menacing
+mike
+madras
+malting
+miscarried
+mugshots
+momentum
+methadone
+mispositioned
+measurements
+malefactions
+misgivings
+millennia
+cl 2
+cloakrooms
+closeup
+m 29
+moderator
+mammy
+metamorphism
+moles
+mystification
+mustard
+motel
+majolica
+micrometres
+midflight
+mas
+moderately
+masochism
+maltese
+manacles
+mondays
+menacing
+mike
+madras
+malting
+miscarried
+mugshots
+momentum
+methadone
+mispositioned
+measurements
+malefactions
+misgivings
+millennia
+mj 0
+aQ 0
+Xv 0

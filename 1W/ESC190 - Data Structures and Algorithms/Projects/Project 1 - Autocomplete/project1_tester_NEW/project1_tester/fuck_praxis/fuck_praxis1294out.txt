@@ -1,0 +1,157 @@
+26
+U 2
+Unusably
+Unbridgeable
+n 6
+necklaces
+north
+named
+neolithic
+necessaries
+nitroglycerine
+T 10
+Transformer
+Tribesmen
+Teepee
+Teardrops
+Trackers
+Transection
+Then
+Triumvirate
+Towards
+Temperamental
+gf 0
+i 10
+immunosuppressive
+isolationist
+ignoble
+impede
+institutional
+inclemency
+impulsively
+incidental
+ignominy
+instils
+ciy 0
+qmy 0
+r 21
+rewordings
+regress
+reproduction
+reflexivity
+rickshaws
+rafters
+rhetoricians
+raps
+reintroduction
+renovate
+robber
+renewable
+rind
+reintroductions
+rationalists
+reproachfulness
+really
+regimens
+ring
+ritual
+remnants
+mg 0
+x 0
+m 24
+microchips
+mows
+memorised
+mystify
+misted
+mural
+microgravity
+microscopes
+mouse
+maypole
+messing
+musty
+milks
+molecules
+megastar
+militancy
+mercifully
+motorcyclist
+minimise
+mucosa
+misfits
+miscreant
+mixup
+manageability
+n 6
+necklaces
+north
+named
+neolithic
+necessaries
+nitroglycerine
+H 1
+Hopper
+cC 0
+RI 0
+cn 0
+gF 0
+ra 3
+rafters
+raps
+rationalists
+j 2
+jackdaw
+jumpiness
+Ub 0
+u 4
+undermanned
+unselfishly
+unnervingly
+unaccountably
+tF 0
+s 40
+separateness
+springclean
+shinned
+steepens
+superdense
+sounded
+seacow
+saucy
+specialisms
+sealed
+spans
+serve
+superfluities
+sustainability
+skydiving
+sculptured
+stockholders
+stringencies
+stubbled
+seafaring
+spangled
+sauerkraut
+sympathy
+speechifying
+sailors
+skittishness
+sureness
+scorched
+soiree
+slacks
+smokestack
+spectacularly
+shelved
+sawdust
+stain
+slapping
+sensuous
+sotho
+stylists
+supplementing
+qfp 0
+y 1
+yuppie
+Gsz 0

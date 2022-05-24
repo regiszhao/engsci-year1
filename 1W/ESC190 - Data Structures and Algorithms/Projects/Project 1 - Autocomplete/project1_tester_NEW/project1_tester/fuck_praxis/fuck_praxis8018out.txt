@@ -1,0 +1,10 @@
+6
+y 0
+G 1
+Graviton
+tw 1
+twiddler
+Nh 0
+em 1
+emotionalism
+hr 0

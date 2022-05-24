@@ -1,0 +1,11 @@
+4
+ue 0
+e 4
+encoders
+endoscope
+equals
+economical
+w 2
+wholes
+watercourses
+Qug 0

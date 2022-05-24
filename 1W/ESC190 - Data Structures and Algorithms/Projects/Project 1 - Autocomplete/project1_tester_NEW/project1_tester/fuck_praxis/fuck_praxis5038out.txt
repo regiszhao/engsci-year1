@@ -1,0 +1,278 @@
+27
+fc 0
+hd 0
+p 44
+preheating
+presupposed
+progressive
+popping
+persian
+plasticisers
+patricians
+pickpockets
+pendants
+pathological
+pyrolyse
+presidium
+prostituting
+proliferated
+punched
+predator
+pantries
+payback
+purring
+polyurethane
+playwright
+prosperity
+papering
+protrusions
+pack
+prolactin
+philosophic
+pilgrimage
+presumes
+projectionist
+psychological
+paramount
+pounds
+programmers
+paging
+panicking
+protoplasmic
+philanthropy
+podded
+persecute
+predator
+penny
+patchier
+punt
+bs 0
+D 9
+Disparities
+Diagnose
+Dowsers
+Decomposable
+Domicile
+Detect
+Defensible
+Drear
+Dilutions
+zbs 0
+c 55
+coveralls
+curbed
+convalescence
+croakiest
+compensated
+commitment
+conveyors
+crustacean
+chemistry
+commandant
+conjure
+contradictions
+cyclical
+crusaded
+censuses
+cavalier
+copycat
+concocts
+conjectural
+capitulated
+condiments
+carborundum
+contortion
+crier
+celibacy
+contestable
+chrysanthemums
+consulates
+chamber
+costarring
+changers
+compliment
+curia
+cavalrymen
+cognitively
+compatibly
+coughs
+chuckle
+condition
+codebreaker
+crouched
+charismas
+caftans
+cavalryman
+captives
+countesses
+chairperson
+castling
+cab
+celestial
+capitulating
+coordination
+chaste
+careerism
+coachloads
+x 0
+Sf 0
+qg 0
+K 2
+Kipper
+Kaftan
+euk 0
+q 4
+quails
+quinquennial
+queue
+quovadis
+Ef 0
+A 9
+Accepting
+Advising
+Arguments
+Agreeing
+Amateurism
+Awareness
+Alienation
+Attics
+Ascription
+hT 0
+ot 0
+j 5
+juices
+jumping
+jog
+juggles
+jamming
+r 27
+rebuttal
+reloads
+replenished
+refusals
+rejects
+rocksolid
+rusting
+rioter
+reaccept
+recouple
+requisite
+rheostat
+resembling
+reprocess
+rouse
+relinquishes
+reams
+rectrix
+remains
+reactivity
+respectable
+reclassification
+riddle
+rectifies
+ramified
+reliable
+reforming
+pMM 0
+d 28
+dr
+decorous
+departs
+drover
+decremental
+desolated
+dichotomies
+darkens
+dais
+devoir
+damage
+divided
+diminishing
+declared
+disallows
+dowries
+dissonant
+disenfranchising
+department
+dimensional
+discordance
+dedicating
+debit
+disrobe
+disquisitions
+dosed
+dismissal
+denatured
+a 35
+alarm
+appreciating
+amicability
+autobiographical
+adores
+advice
+accompanist
+abrogate
+amendment
+ampere
+accountants
+atomically
+aunt
+assurances
+adduce
+arrive
+appreciation
+axed
+analogously
+alleviated
+abstaining
+anointed
+adorned
+attributable
+abided
+alcoholics
+authentically
+abuses
+anacondas
+abutments
+avoided
+accolade
+accented
+aileron
+aesop
+we 0
+Reu 0
+j 5
+juices
+jumping
+jog
+juggles
+jamming
+eq 0
+r 27
+rebuttal
+reloads
+replenished
+refusals
+rejects
+rocksolid
+rusting
+rioter
+reaccept
+recouple
+requisite
+rheostat
+resembling
+reprocess
+rouse
+relinquishes
+reams
+rectrix
+remains
+reactivity
+respectable
+reclassification
+riddle
+rectifies
+ramified
+reliable
+reforming

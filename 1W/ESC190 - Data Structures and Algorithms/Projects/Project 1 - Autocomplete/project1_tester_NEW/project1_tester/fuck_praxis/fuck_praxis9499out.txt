@@ -1,0 +1,30 @@
+8
+bo 2
+bogies
+bony
+yx 0
+W 1
+Watchfulness
+ne 1
+neighbouring
+m 11
+mindedness
+modernistic
+mispronouncing
+morsel
+microprocessor
+mistaken
+maidservant
+migraines
+microfiche
+mains
+marksmen
+rzu 0
+t 6
+tripartite
+transliterates
+tailed
+thoroughfares
+teleconference
+toyshop
+ql 0

@@ -1,0 +1,73 @@
+18
+sf 0
+J 0
+sJ 0
+dr 1
+drains
+Sw 0
+hr 0
+TFh 0
+l 9
+limo
+lifethreatening
+lurched
+layabout
+loveliness
+laud
+layering
+legal
+ledges
+g 8
+grubbing
+glassiest
+gorged
+gregarious
+golliwog
+gorging
+gunfires
+gibbets
+rN 0
+kc 0
+l 9
+limo
+lifethreatening
+lurched
+layabout
+loveliness
+laud
+layering
+legal
+ledges
+ut 1
+utilitarians
+Km 0
+b 25
+breakpoints
+blinder
+blaming
+bemoaning
+bishops
+bromine
+bewilderingly
+bioengineering
+belfries
+bulwarks
+beguiled
+box
+brisbane
+brusque
+bombed
+barkers
+bowled
+bargaining
+byproduct
+blowfly
+ballbearings
+bookies
+badlands
+boarding
+bettering
+WqR 0
+j 1
+jails
+Pp 0

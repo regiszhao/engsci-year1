@@ -1,0 +1,195 @@
+21
+v 9
+vexing
+vacant
+verse
+voluntarily
+vends
+vine
+vouches
+vexation
+viewable
+V 1
+Vouches
+Q 1
+Queue
+fz 0
+lgL 0
+fz 0
+we 1
+weds
+u 19
+unrecommended
+unreasoning
+unbending
+unsolved
+uses
+unsystematic
+unmodified
+unbalancing
+uncut
+uncouthness
+undaunted
+unfixed
+understated
+unshaped
+unduly
+unselfconsciously
+unpleasantly
+unite
+unsaturated
+WZ 0
+Sm 1
+Smothers
+Tri 1
+Triplane
+a 26
+anionic
+automat
+accounts
+aftermath
+abdicated
+advocating
+arms
+adorable
+assumed
+almonds
+anointing
+acting
+apoplectic
+arrangements
+animosity
+anisotropies
+acerbity
+although
+avowedly
+alibis
+antagonists
+attrition
+agree
+abjure
+adherence
+approximating
+yzn 0
+GO 0
+kB 0
+Q 1
+Queue
+c 61
+caveman
+communique
+convalescent
+cornices
+castration
+clip
+coverlets
+collision
+considered
+crudity
+concern
+chipping
+clerically
+cursorily
+clasper
+campfires
+classicism
+cloudy
+carefully
+cosset
+colonise
+canisters
+consumer
+coauthored
+chequering
+curtsying
+clonal
+cornea
+crawls
+cycle
+countenance
+caking
+concurred
+cruelty
+categorically
+computerised
+casework
+citizens
+cleaner
+centripetal
+ceremony
+captor
+comprehensibly
+concerning
+chainsmoking
+campfires
+competition
+cherish
+cherry
+curvatures
+charmers
+contributory
+cad
+counts
+conjures
+clownish
+champing
+canard
+centrifuge
+certitudes
+citrus
+s 52
+sadomasochism
+subjected
+stockbroking
+stowage
+swingeing
+screech
+sole
+strata
+severally
+sunshade
+suckle
+scoops
+shaggy
+secretes
+sidelong
+stepladder
+squeegee
+saxophones
+spy
+separatist
+soudan
+staunch
+scarily
+squeamish
+strangle
+smiths
+solicited
+shaven
+steadfast
+storyline
+serpents
+stun
+scaremonger
+signalmen
+spiritualism
+splitting
+simultaneously
+sounder
+sifters
+sharpening
+substantive
+sleet
+stragglers
+spinning
+sown
+saint
+sufferings
+struggle
+swab
+seamstresses
+sacking
+snaked
+yu 0
+jU 0
+mv 0

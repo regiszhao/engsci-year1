@@ -1,0 +1,107 @@
+17
+p 37
+plumbing
+primaries
+plumes
+precipitously
+pretreatments
+pictures
+psychically
+poorspirited
+price
+parthenogenesis
+psychiatric
+puppet
+packaged
+physique
+percentiles
+pessimistically
+pretensions
+poster
+profitability
+phenols
+parity
+pinstripe
+punctuating
+pointers
+providable
+penology
+profile
+pockets
+pizza
+pieta
+primitives
+parasitology
+pickets
+pursuant
+peerages
+perturbations
+pathogenesis
+gpi 0
+go 2
+goals
+gorgeous
+SZo 0
+wn 0
+vm 0
+j 8
+joker
+jitters
+jew
+juveniles
+jubilate
+justifying
+jabber
+janitors
+rmd 0
+x 0
+jKu 0
+cIt 0
+ZcY 0
+hx 0
+qx 0
+p 37
+plumbing
+primaries
+plumes
+precipitously
+pretreatments
+pictures
+psychically
+poorspirited
+price
+parthenogenesis
+psychiatric
+puppet
+packaged
+physique
+percentiles
+pessimistically
+pretensions
+poster
+profitability
+phenols
+parity
+pinstripe
+punctuating
+pointers
+providable
+penology
+profile
+pockets
+pizza
+pieta
+primitives
+parasitology
+pickets
+pursuant
+peerages
+perturbations
+pathogenesis
+kv 0
+n 5
+numeracy
+needless
+noose
+noticeably
+newlywed

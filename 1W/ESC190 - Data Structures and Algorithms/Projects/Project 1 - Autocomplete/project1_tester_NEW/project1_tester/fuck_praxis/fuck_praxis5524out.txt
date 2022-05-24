@@ -1,0 +1,166 @@
+28
+dik 0
+v 7
+vectoring
+vessel
+vanishes
+vilifying
+vomited
+vocational
+veritable
+fr 3
+fringy
+frogmen
+front
+e 14
+escapement
+extreme
+extrusions
+eukaryotes
+evenings
+exoticism
+explicit
+expropriation
+excavate
+evaluable
+embeddings
+extract
+explosively
+enchants
+Xc 0
+ty 1
+typesets
+yv 0
+cX 0
+sAT 0
+ru 1
+rudiments
+u 20
+urn
+unsafely
+unplugged
+unpressurised
+unruffled
+uncrossed
+unstoppable
+uncooperative
+unpublished
+undertakings
+unlikeable
+umlauts
+unsellable
+unreformed
+unsaid
+understating
+uplinks
+underwood
+unfeigned
+unsecured
+nl 0
+G 5
+Gatecrashing
+Geneticists
+Goodfornothing
+Graffiti
+Gumboil
+ht 0
+Xpu 0
+wik 0
+yk 0
+J 2
+Jut
+Jocularly
+u 20
+urn
+unsafely
+unplugged
+unpressurised
+unruffled
+uncrossed
+unstoppable
+uncooperative
+unpublished
+undertakings
+unlikeable
+umlauts
+unsellable
+unreformed
+unsaid
+understating
+uplinks
+underwood
+unfeigned
+unsecured
+vp 0
+t 20
+trigrams
+tangibly
+throbbed
+tidied
+typesets
+tumescent
+transcendentally
+twilit
+tenements
+tinopener
+tentacle
+thermodynamic
+teats
+travesties
+transvestism
+turnpike
+tomorrow
+tediums
+thuggish
+tanning
+g 20
+glimmering
+ganges
+guessed
+germanic
+geyser
+gesture
+giantkillers
+gun
+grandfather
+gaiter
+giraffe
+geochemical
+gawky
+ganglionic
+groundwater
+grape
+germinate
+genus
+geniality
+gerrymandered
+u 20
+urn
+unsafely
+unplugged
+unpressurised
+unruffled
+uncrossed
+unstoppable
+uncooperative
+unpublished
+undertakings
+unlikeable
+umlauts
+unsellable
+unreformed
+unsaid
+understating
+uplinks
+underwood
+unfeigned
+unsecured
+J 2
+Jut
+Jocularly
+vI 0
+ToE 0
+kch 0
+gu 2
+guessed
+gun

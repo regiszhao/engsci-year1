@@ -1,0 +1,153 @@
+19
+j 7
+judges
+jukeboxes
+jaundiced
+jeered
+jazzed
+jeep
+jackasses
+y 1
+yon
+Tj 0
+h 26
+hyenas
+howitzers
+horsepower
+hope
+homewardbound
+hollow
+hordes
+hardiest
+humanising
+hourly
+holiness
+hackable
+hyphens
+hysterics
+hated
+hunchback
+homesick
+hostility
+hypercube
+headlining
+hinnies
+hungry
+hydrogenation
+hailstorm
+holdalls
+historicist
+p 46
+pretension
+portentously
+permeate
+pluperfect
+prussian
+pacifier
+picaresque
+plugging
+precaution
+peppercorns
+psychoanalysts
+performing
+punchline
+pacemaker
+peddling
+powerlessness
+promulgation
+pities
+paralleling
+publishable
+phrasing
+pothole
+phrased
+porker
+predicaments
+ptarmigans
+pathless
+positionable
+prosecutions
+phoney
+plumage
+pleasantness
+presentiments
+praiseworthy
+plastic
+pointlessly
+production
+perpetuates
+pastiche
+preens
+peripheries
+pluralism
+profittaking
+potty
+parsnips
+pioneered
+w 14
+wimpy
+weeping
+wagging
+wirer
+wan
+weed
+wafts
+wardens
+wards
+wisdoms
+weighs
+wineglasses
+warsaw
+was
+Gm 0
+bm 0
+dT 0
+kv 0
+pi 3
+picaresque
+pities
+pioneered
+fsd 0
+Ai 0
+CT 0
+Cy 0
+h 26
+hyenas
+howitzers
+horsepower
+hope
+homewardbound
+hollow
+hordes
+hardiest
+humanising
+hourly
+holiness
+hackable
+hyphens
+hysterics
+hated
+hunchback
+homesick
+hostility
+hypercube
+headlining
+hinnies
+hungry
+hydrogenation
+hailstorm
+holdalls
+historicist
+V 3
+Vocalist
+Variants
+Vertebra
+lO 0
+em 7
+emboss
+emerging
+employer
+embracing
+employer
+empties
+emulation

@@ -1,0 +1,135 @@
+22
+xN 0
+qt 0
+J 1
+Janitors
+ch 4
+charcoal
+chiropractors
+chili
+chooser
+or 2
+ordinates
+ordinariness
+A 7
+Aimless
+Abuse
+Admission
+Atrocity
+Airtight
+Affliction
+Await
+R 5
+Rhetorical
+Reform
+Reported
+Repressing
+Replying
+lI 0
+BCq 0
+u 14
+untruthful
+uninspired
+uncharacteristic
+unfriendliness
+unseasonal
+uncontaminated
+unknightly
+underperformed
+unjustified
+unfrequented
+unforeseeable
+unburdening
+unflinching
+unequally
+k 3
+kingsize
+keel
+kraft
+flu 0
+hI 0
+t 16
+triggerhappy
+theorisation
+ticker
+tarnish
+tartans
+tomb
+trimmed
+traumatic
+tape
+turbine
+thai
+therein
+tussling
+taxonomists
+taxonomical
+tincan
+FY 0
+i 21
+indoctrination
+inclement
+innards
+interruptions
+irrigation
+inspector
+insecticidal
+invigorated
+identifications
+individually
+idling
+itch
+interlace
+intercessions
+introvert
+inflicts
+immaculate
+inscribing
+interpretations
+initialisations
+interstitial
+hd 0
+g 13
+greening
+geysers
+gatherers
+gouged
+gaga
+guides
+gristle
+gnat
+graver
+grittiest
+geeks
+glinted
+glides
+l 11
+loitered
+latrines
+lepers
+likely
+lasses
+lions
+lipids
+lustiest
+lissom
+lilliputian
+legitimating
+g 13
+greening
+geysers
+gatherers
+gouged
+gaga
+guides
+gristle
+gnat
+graver
+grittiest
+geeks
+glinted
+glides
+cF 0
+ga 2
+gatherers
+gaga

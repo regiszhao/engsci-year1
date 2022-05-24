@@ -1,0 +1,10 @@
+7
+hg 0
+tvm 0
+y 0
+x 0
+cm 0
+ksv 0
+k 2
+kalif
+kingfisher

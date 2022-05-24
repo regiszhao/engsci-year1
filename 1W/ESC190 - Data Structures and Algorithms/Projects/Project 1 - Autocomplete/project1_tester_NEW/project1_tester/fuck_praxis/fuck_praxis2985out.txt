@@ -1,0 +1,12 @@
+4
+sp 2
+spiders
+spats
+IQ 0
+y 0
+g 5
+gamers
+gnu
+gout
+gripes
+gambits

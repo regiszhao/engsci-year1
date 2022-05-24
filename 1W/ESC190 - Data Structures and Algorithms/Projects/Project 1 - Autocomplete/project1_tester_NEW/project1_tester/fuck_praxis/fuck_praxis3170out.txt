@@ -1,0 +1,13 @@
+8
+CH 0
+q 1
+quadrupole
+Io 0
+xrg 0
+du 2
+dullness
+dumbfounds
+NXl 0
+rx 0
+j 1
+joke

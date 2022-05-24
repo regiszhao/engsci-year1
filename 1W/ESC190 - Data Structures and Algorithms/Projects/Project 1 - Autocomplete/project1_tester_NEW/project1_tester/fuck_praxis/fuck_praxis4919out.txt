@@ -1,0 +1,19 @@
+16
+nn 0
+vra 0
+l 1
+lugs
+u 0
+hh 0
+y 0
+Fu 0
+vw 0
+vk 0
+aL 0
+Mpj 0
+wa 0
+xcM 0
+z 0
+qU 0
+a 1
+almshouse

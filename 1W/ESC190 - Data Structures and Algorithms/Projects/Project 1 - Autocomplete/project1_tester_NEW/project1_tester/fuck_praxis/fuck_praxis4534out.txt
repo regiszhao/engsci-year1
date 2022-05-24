@@ -1,0 +1,165 @@
+22
+j 5
+jurymen
+jackass
+jeering
+jumbo
+jukeboxes
+U 8
+Unravelled
+Ultimo
+Umlaut
+Unsentimental
+Unmistakably
+Undulate
+Uprise
+Unveiling
+q 2
+quintet
+quarterly
+GAJ 0
+g 21
+graveyard
+garish
+grisliest
+gerontology
+guillotining
+gloomful
+gangland
+gorgons
+gecko
+golly
+gadding
+gravitated
+gratuitousness
+gowned
+gentling
+growths
+geochemical
+greying
+gunwales
+geldings
+graphically
+sD 0
+cD 0
+n 9
+nicest
+nasty
+notebooks
+nomadic
+northbound
+nouns
+necessarily
+nestable
+neutralises
+ij 0
+n 9
+nicest
+nasty
+notebooks
+nomadic
+northbound
+nouns
+necessarily
+nestable
+neutralises
+gr 7
+graveyard
+grisliest
+gravitated
+gratuitousness
+growths
+greying
+graphically
+Y 2
+Yiddish
+Yuppies
+kz 0
+t 30
+timekeeper
+tribunal
+tester
+tendons
+tied
+tourney
+tuppence
+turf
+technologically
+toils
+titular
+tarring
+took
+travail
+tiara
+tarty
+transpiration
+transferred
+tablespoon
+twisted
+tars
+transmissions
+temporally
+throttles
+terrify
+toasts
+tier
+thoroughbreds
+truss
+tenuously
+aw 1
+awaiting
+KEb 0
+rHr 0
+eh 0
+p 47
+petrochemical
+pager
+peremptorily
+pilchards
+proformas
+password
+pointillist
+perch
+pawing
+playhouse
+patronising
+posts
+prostrating
+plagued
+propel
+point
+prostituted
+predate
+polynomial
+pan
+peppercorns
+profess
+plethora
+pipettes
+protocols
+payphones
+professionalism
+promotable
+proselytise
+proportioned
+pans
+prevention
+purity
+perforations
+pitiably
+parley
+pierced
+patchy
+pretentious
+patron
+petitions
+purser
+palindromic
+psycholinguistics
+parachutes
+publicly
+poodles
+K 1
+Kicker
+Db 0
+yj 0

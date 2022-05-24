@@ -1,0 +1,256 @@
+28
+pR 0
+Xp 0
+Mtf 0
+iv 0
+Uq 0
+el 0
+iq 0
+A 22
+Aussies
+Adieux
+Aesthetes
+Align
+Automating
+Automation
+Articulately
+Arterial
+Antifreeze
+Amalgams
+Albinism
+Agitates
+Adhoc
+Alkaline
+Armrest
+Apportioning
+Authenticity
+Attesting
+Anon
+Apparently
+Agrimony
+Alkalis
+l 13
+lovesick
+lamination
+lamprey
+liquefy
+leapfrog
+locations
+limitation
+labourers
+loathsomeness
+layby
+lectured
+leapfrog
+low
+oN 0
+qu 6
+quantise
+queen
+quips
+quasars
+quavers
+quire
+ql 0
+y 0
+ir 3
+irrevocably
+iranians
+irrationality
+tuf 0
+t 36
+tenor
+ticket
+timeconsuming
+timetable
+tendril
+traction
+troublemaker
+tasted
+tilts
+toasty
+temporarily
+tawny
+testable
+toadies
+torture
+transforming
+tigerish
+twin
+trimmers
+trees
+tussle
+traders
+tradesmen
+twitter
+tractors
+type
+torturous
+therein
+topicality
+textiles
+tracker
+typewritten
+traduced
+tinkly
+topmost
+tiebreak
+dT 0
+o 16
+octavo
+orchestral
+oxide
+opals
+observing
+overshadowing
+omnivore
+ordinals
+olms
+overthrow
+overspent
+oil
+obstructive
+old
+orbiting
+octane
+nT 0
+Orb 0
+oy 0
+tm 0
+tI 0
+O 5
+Olympian
+Overfull
+Offcut
+Oryxes
+Overturning
+Ebj 0
+i 44
+intermittently
+insincere
+involving
+interpolating
+idolised
+incautiously
+interceded
+illustrated
+interment
+inexpressible
+importers
+incestuous
+invigorate
+ills
+insensitive
+invaded
+impassive
+inveigling
+icepack
+impugnable
+irrevocably
+intestacy
+increment
+indiscriminate
+institutional
+inadvertently
+interactional
+invasion
+iranians
+immovable
+immanence
+increment
+inaccurately
+irrationality
+inconsiderate
+inaugural
+inspirational
+imprudently
+immovability
+implied
+intergalactic
+intended
+isometric
+interment
+r 46
+rid
+reincarnations
+refractory
+rift
+rectors
+recodes
+ramped
+railings
+refillable
+reconsidering
+reunified
+reabsorption
+resemble
+rarest
+renter
+rabbit
+resemble
+revitalisation
+rework
+reformed
+rubbings
+races
+rinsing
+resetting
+regulations
+ratepayers
+rebuke
+running
+repercussions
+realisations
+radiogalaxies
+russet
+reprimand
+reliance
+remit
+roes
+remission
+recognisably
+rhino
+relabelled
+refresher
+repertory
+repeal
+riling
+redeclaration
+reference
+t 36
+tenor
+ticket
+timeconsuming
+timetable
+tendril
+traction
+troublemaker
+tasted
+tilts
+toasty
+temporarily
+tawny
+testable
+toadies
+torture
+transforming
+tigerish
+twin
+trimmers
+trees
+tussle
+traders
+tradesmen
+twitter
+tractors
+type
+torturous
+therein
+topicality
+textiles
+tracker
+typewritten
+traduced
+tinkly
+topmost
+tiebreak

@@ -1,0 +1,57 @@
+29
+V 0
+ma 1
+malfunctions
+r 2
+remanded
+revoked
+L 0
+M 0
+Wq 0
+tmu 0
+Z 0
+s 7
+sibilant
+seized
+spangles
+shamble
+searches
+soloing
+syncopated
+k 0
+z 0
+qf 0
+n 1
+nucleic
+q 1
+quadruplicate
+yK 0
+nM 0
+fm 0
+o 2
+obstructions
+observer
+Sbm 0
+u 0
+dq 0
+Ozu 0
+ZV 0
+f 5
+filters
+fared
+finance
+fluvial
+farmland
+en 1
+enlarger
+Rg 0
+vmz 0
+dy 0
+s 7
+sibilant
+seized
+spangles
+shamble
+searches
+soloing
+syncopated

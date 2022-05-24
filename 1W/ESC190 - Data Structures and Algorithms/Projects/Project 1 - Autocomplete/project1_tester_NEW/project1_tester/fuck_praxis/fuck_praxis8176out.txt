@@ -1,0 +1,62 @@
+17
+b 6
+barbarian
+brainless
+blundering
+bedazzled
+bobby
+book
+P 3
+Paracetamol
+Photosensitive
+Physiotherapists
+B 2
+Biographically
+Belittles
+d 10
+dons
+dockage
+decorates
+dearly
+desegregation
+depressant
+dowagers
+dachau
+demurring
+decays
+Nb 0
+vg 0
+xv 0
+nSr 0
+w 3
+wanderer
+wittiest
+wrecker
+f 7
+forebears
+federate
+faxing
+fabricator
+folding
+falcon
+fabrics
+lVv 0
+w 3
+wanderer
+wittiest
+wrecker
+yo 0
+P 3
+Paracetamol
+Photosensitive
+Physiotherapists
+S 4
+Significations
+Sweet
+Styrene
+Stepmother
+t 3
+toughened
+trunnions
+teacloth
+LsI 0

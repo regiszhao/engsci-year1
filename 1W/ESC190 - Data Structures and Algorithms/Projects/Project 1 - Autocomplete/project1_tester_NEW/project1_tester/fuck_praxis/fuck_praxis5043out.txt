@@ -1,0 +1,160 @@
+16
+nw 0
+S 21
+Sourced
+Syrupy
+Supervision
+Surrenders
+Scentless
+Swamped
+Singeing
+Scurried
+Slalom
+Skilful
+Severed
+Suppressible
+Sari
+Salute
+Serviced
+Slower
+Stereoscopic
+Sequels
+Sequel
+Storytellers
+Subcultures
+nd 0
+aW 0
+E 12
+Extensors
+Exaction
+Endangered
+Essence
+Environment
+Expressionists
+Ether
+Enforced
+Encrust
+Encyclopedic
+Exported
+Embeds
+i 31
+indispensability
+interred
+impregnable
+initialising
+inkling
+inputs
+inflict
+incognito
+insinuating
+immensity
+ileum
+imperfection
+ironical
+implications
+inculcated
+interbank
+infesting
+ionian
+incapable
+illusory
+inhumanly
+interfere
+israel
+interplanetary
+invigorate
+infectious
+infused
+iterates
+invoice
+indistinctness
+idolised
+Liu 0
+Dk 0
+sQ 0
+b 36
+beachhead
+ballpoint
+bequeath
+boycotts
+bawl
+bedded
+biter
+bridleways
+blowtorch
+brews
+behinds
+buttresses
+billiards
+bullfighting
+bookcase
+bicycling
+breakfast
+brand
+billable
+bemusedly
+bugeyed
+breathe
+bewailing
+bottom
+blameworthy
+breadboards
+backspaces
+boosting
+bonded
+beavering
+bioengineering
+barre
+barricaded
+basrelief
+bumbling
+bullfighting
+qH 0
+wl 0
+b 36
+beachhead
+ballpoint
+bequeath
+boycotts
+bawl
+bedded
+biter
+bridleways
+blowtorch
+brews
+behinds
+buttresses
+billiards
+bullfighting
+bookcase
+bicycling
+breakfast
+brand
+billable
+bemusedly
+bugeyed
+breathe
+bewailing
+bottom
+blameworthy
+breadboards
+backspaces
+boosting
+bonded
+beavering
+bioengineering
+barre
+barricaded
+basrelief
+bumbling
+bullfighting
+rw 0
+rj 0
+ma 7
+mazier
+martinet
+mahatma
+madam
+manifested
+magicians
+malefactor

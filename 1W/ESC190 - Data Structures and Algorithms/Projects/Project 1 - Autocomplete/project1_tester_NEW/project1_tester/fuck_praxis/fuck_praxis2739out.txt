@@ -1,0 +1,37 @@
+24
+q 0
+ls 0
+Ta 0
+nr 0
+sx 0
+uc 0
+i 1
+indirection
+idj 0
+LQR 0
+Ytm 0
+tk 0
+wb 0
+s 6
+smallpox
+solemnly
+staggers
+slouches
+sues
+sordid
+h 1
+hovercraft
+r 1
+ranges
+t 1
+throttled
+d 1
+dipping
+l 0
+y 0
+h 1
+hovercraft
+l 0
+G 0
+Wov 0
+yr 0

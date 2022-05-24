@@ -1,0 +1,145 @@
+16
+qy 0
+yk 0
+dn 0
+v 5
+vociferous
+vectorised
+visitors
+validation
+vaguer
+pl 4
+plumbago
+plangent
+plovers
+planet
+s 61
+sadistic
+smear
+semesters
+scape
+sushi
+splenetic
+skinniest
+sentiment
+secrete
+shamefacedly
+siphon
+sickles
+suffering
+soffit
+sailing
+synaptic
+submitter
+suppositories
+stringently
+sump
+savour
+sonata
+survivability
+straggling
+scarp
+stung
+swindles
+semicircle
+sniffly
+scientifically
+sociability
+seized
+scalar
+soggy
+spotless
+shrieker
+snaring
+secularist
+summary
+strengthen
+sedateness
+stability
+shouter
+sheepish
+schemed
+specifiable
+substitutions
+suitabilities
+selfconsciously
+slithery
+stigmata
+simplexes
+stating
+scantiness
+saucier
+sigh
+slogged
+spectator
+slut
+sexiest
+sustains
+y 2
+yap
+yeti
+kR 0
+mk 0
+c 40
+connoisseurship
+curricular
+clematis
+chain
+callable
+cent
+chairman
+chaffed
+cardiac
+curable
+cliches
+covets
+collier
+careworn
+clumps
+connectionless
+collie
+camcorder
+compose
+cardiopulmonary
+champ
+crasher
+cessation
+coercions
+cynical
+commotions
+crucify
+congressmen
+castings
+choruses
+composes
+carboniferous
+corduroy
+cabal
+chalets
+cation
+cockatrice
+comas
+consolingly
+coinages
+yb 0
+uno 0
+sy 1
+synaptic
+lf 0
+co 15
+connoisseurship
+covets
+collier
+connectionless
+collie
+compose
+coercions
+commotions
+congressmen
+composes
+corduroy
+cockatrice
+comas
+consolingly
+coinages
+vd 0

@@ -1,0 +1,281 @@
+27
+Ts 0
+v 10
+vest
+visuals
+vacates
+vellum
+videos
+victor
+volunteering
+violinists
+vans
+vegetational
+ak 0
+w 15
+waterspouts
+wetland
+waiting
+writ
+warmish
+wheelchair
+whoop
+wench
+worthless
+workbench
+washers
+watt
+wholesaler
+wrestled
+whore
+q 1
+quakers
+Ct 0
+e 22
+enlists
+elder
+erectly
+enquiring
+earmarking
+extravagances
+equator
+embarking
+eras
+embezzler
+emigres
+enquired
+extensive
+exploitable
+evil
+evacuees
+economist
+election
+earful
+enumerations
+encapsulated
+escapee
+u 24
+upgrade
+unsaleable
+unfetchable
+untidiest
+unchristian
+unsuspecting
+uncover
+unveils
+unmistakably
+unsociable
+unashamed
+utensils
+union
+unpopular
+unconcernedly
+uninspiring
+unicameral
+unregistered
+underestimating
+unoriginality
+uncheckable
+unspeakable
+undrinkable
+urethrae
+BEo 0
+gr 9
+greek
+grassier
+grabs
+grist
+grandmasters
+grazing
+grovels
+grouchy
+graduations
+rr 0
+g 30
+goods
+greek
+genealogical
+grassier
+gormless
+germicides
+glimpsed
+geometric
+grabs
+grist
+grandmasters
+goatskin
+grazing
+ghostlike
+glaciations
+gut
+grovels
+gem
+gossamer
+genteel
+gambits
+guarding
+grouchy
+glutted
+guideline
+gandhi
+graduations
+gelled
+goodies
+gusts
+f 24
+fared
+feasting
+footsie
+flapper
+fanciable
+fruition
+farms
+founders
+frictions
+fumbled
+formulations
+fisherman
+fustian
+freehold
+fervidly
+fourths
+figleaf
+frangipani
+filament
+faller
+filet
+frugally
+follows
+fancy
+Dz 0
+ang 0
+zg 0
+re 25
+reflectively
+reputable
+response
+relocation
+refractors
+reconnection
+revisal
+refresh
+rewiring
+recirculating
+refitting
+redistributable
+rearranges
+registered
+recoiled
+resolves
+recalculation
+recirculate
+residential
+recital
+readying
+republics
+repays
+regents
+reticulated
+jo 1
+joked
+r 38
+reflectively
+reputable
+response
+relocation
+refractors
+reconnection
+revisal
+refresh
+rewiring
+rusks
+rummages
+recirculating
+refitting
+ridicule
+ringside
+romany
+redistributable
+razor
+rearranges
+registered
+rinks
+recoiled
+rhinoceroses
+runners
+resolves
+rankles
+recalculation
+rule
+rice
+recirculate
+residential
+recital
+readying
+republics
+ringingly
+repays
+regents
+reticulated
+C 18
+Chordal
+Creole
+Cabins
+Covet
+Changeless
+Combative
+Chronometer
+Crematoria
+Confessing
+Charitably
+Crossexamining
+Cassowary
+Coughing
+Chairmen
+Courtesy
+Costless
+Capacitors
+Curses
+isg 0
+kDL 0
+aa 0
+E 12
+Earphone
+Enjoins
+Encourages
+Escapism
+Eukaryote
+Embark
+Eardrop
+Edge
+Estrangements
+Exile
+Electronically
+Everlasting
+f 24
+fared
+feasting
+footsie
+flapper
+fanciable
+fruition
+farms
+founders
+frictions
+fumbled
+formulations
+fisherman
+fustian
+freehold
+fervidly
+fourths
+figleaf
+frangipani
+filament
+faller
+filet
+frugally
+follows
+fancy
+EPm 0
+zfh 0

@@ -1,0 +1,126 @@
+26
+w 6
+weathered
+wiggled
+woodenness
+worships
+whiskery
+wobbly
+v 8
+visor
+visual
+virtuous
+veers
+vitamin
+velveteen
+vindicated
+volts
+Pcy 0
+n 2
+not
+nauseousness
+wy 0
+y 1
+yowl
+lTa 0
+wji 0
+oi 0
+b 12
+brainstorms
+biblicists
+belgian
+bespoke
+boilers
+bureaucratisation
+bursted
+bipedal
+bugbears
+boatman
+broke
+broodingly
+vy 0
+bu 3
+bureaucratisation
+bursted
+bugbears
+eEW 0
+f 9
+fundings
+frontals
+fixes
+falsifiers
+flyover
+fuel
+funnelling
+floe
+folklorists
+pe 2
+penances
+peacock
+a 12
+admonished
+airconditioned
+alleging
+anaconda
+alps
+applicants
+allowed
+abrasive
+almost
+awfulness
+authorisations
+anklet
+cT 0
+y 1
+yowl
+vo 1
+volts
+m 18
+moorland
+musing
+modified
+michigan
+misremember
+malfunction
+missal
+mating
+misconstrued
+moroseness
+minimally
+mendacity
+macromolecules
+manly
+multitudes
+mercilessly
+minting
+miniature
+Y 0
+d 14
+definite
+dodges
+deserving
+debugs
+draughtsmen
+drizzled
+despotism
+detour
+dogma
+discolouration
+dietary
+disgustedly
+ditty
+defiled
+OR 0
+f 9
+fundings
+frontals
+fixes
+falsifiers
+flyover
+fuel
+funnelling
+floe
+folklorists
+RH 0
+y 1
+yowl

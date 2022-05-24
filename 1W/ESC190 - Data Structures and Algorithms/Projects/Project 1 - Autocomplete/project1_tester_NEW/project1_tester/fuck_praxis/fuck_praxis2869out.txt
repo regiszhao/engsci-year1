@@ -1,0 +1,145 @@
+16
+M 12
+Marigolds
+Minuteness
+Musketeer
+Medusa
+Mary
+Maximisation
+Mildewy
+Mediocre
+Mule
+Mouldings
+Minefield
+Militiaman
+w 17
+weathercocks
+willingness
+warded
+whiten
+wills
+wigwam
+wadis
+whoop
+wellbeloved
+warlike
+wheat
+weekends
+warmup
+wagged
+whys
+welladjusted
+whom
+h 26
+hypocrisy
+hospitable
+hostelries
+horn
+holdable
+hauntingly
+hyphenates
+having
+hocks
+hangglided
+hanggliders
+homed
+hisses
+hiker
+healths
+hipsters
+headdresses
+hardearned
+hips
+hollows
+harvesting
+halibut
+heptagonal
+heman
+honorarium
+hydrophobia
+p 44
+placates
+pave
+proclaiming
+pungent
+potencies
+poring
+promised
+purposefulness
+precursor
+picturesque
+prosecutorial
+procedurally
+pattens
+proposals
+platen
+palaeographic
+poorest
+peakiness
+patiently
+phosphate
+propitiated
+primaries
+plates
+provisional
+preplanned
+percentile
+pentatonic
+pleated
+preparative
+psychotherapists
+phonetically
+pressurising
+pummelling
+piles
+printable
+patriots
+physic
+perfidious
+provincialism
+puling
+pele
+purging
+promptly
+parsnip
+sv 0
+H 5
+Hissed
+Hopeless
+Hollowly
+Hacking
+Hosing
+jv 0
+Do 2
+Dominance
+Donkeys
+jr 0
+q 4
+quarterly
+quiesce
+quirkiness
+quotas
+vo 2
+volleys
+vocally
+npB 0
+hp 0
+cp 0
+g 16
+gateaux
+graphologist
+grand
+gophers
+gravely
+gramophones
+gyroscopes
+grasper
+gory
+gunfire
+gesticulating
+glasnost
+guilty
+georgia
+goofing
+goatee
+grQ 0

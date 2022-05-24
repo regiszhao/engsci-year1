@@ -1,0 +1,11 @@
+6
+P 2
+Paydays
+Pangas
+fj 0
+aRJ 0
+tq 0
+B 1
+Briefcases
+n 1
+nasal

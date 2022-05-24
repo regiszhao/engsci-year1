@@ -1,0 +1,151 @@
+28
+F 5
+Fanciers
+Forlorn
+Familiarise
+Fee
+Flintlock
+Q 0
+l 17
+larvae
+lost
+localises
+lyrist
+look
+lengthen
+linear
+loosing
+limbo
+legitimation
+lasagne
+lent
+leaseholders
+loaned
+lawyers
+leech
+likewise
+n 4
+numismatic
+nap
+nocturnal
+nit
+gEi 0
+mox 0
+H 7
+Hallucinating
+Hospitality
+Hyperspace
+Hysterectomy
+Hampering
+Handles
+Harmonising
+F 5
+Fanciers
+Forlorn
+Familiarise
+Fee
+Flintlock
+Zrd 0
+nr 0
+W 2
+Wavelike
+Whoops
+Ma 2
+Marquess
+Magnify
+sIs 0
+v 6
+vasectomy
+vaccine
+vicissitudes
+vigilante
+variant
+velour
+x 0
+Blv 0
+vQ 0
+v 6
+vasectomy
+vaccine
+vicissitudes
+vigilante
+variant
+velour
+k 0
+w 15
+weed
+woes
+weightlessness
+wounding
+wellmatched
+witticism
+what
+wallflower
+whence
+whereabouts
+wilfully
+waters
+wracked
+wondered
+workmanlike
+z 1
+zenith
+h 14
+hated
+hydroxide
+heeding
+hydrostatic
+huntergatherer
+harlot
+holocausts
+highness
+harms
+hoovered
+humbly
+hydrofluoric
+hotel
+horsehair
+z 1
+zenith
+l 17
+larvae
+lost
+localises
+lyrist
+look
+lengthen
+linear
+loosing
+limbo
+legitimation
+lasagne
+lent
+leaseholders
+loaned
+lawyers
+leech
+likewise
+m 20
+meriting
+mention
+mutterings
+meant
+meanies
+moisturiser
+mincer
+maidens
+missed
+minima
+madmen
+misdealing
+mousey
+moulder
+martyry
+monk
+mope
+marched
+miniaturist
+may
+gF 0
+y 0
+IT 0

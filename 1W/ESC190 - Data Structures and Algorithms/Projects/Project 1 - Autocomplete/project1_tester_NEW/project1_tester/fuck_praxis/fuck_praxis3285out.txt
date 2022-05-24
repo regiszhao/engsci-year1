@@ -1,0 +1,211 @@
+28
+l 10
+laziness
+lasciviously
+leached
+lungful
+luminescent
+laminated
+landed
+luck
+looks
+lifeforms
+l 10
+laziness
+lasciviously
+leached
+lungful
+luminescent
+laminated
+landed
+luck
+looks
+lifeforms
+hu 1
+hurls
+rjq 0
+W 1
+Wheedle
+caX 0
+yL 0
+Ec 1
+Echidna
+s 47
+syndicate
+scots
+subtends
+suck
+spectroscope
+submarine
+shareholders
+shipmates
+sap
+seashores
+schmalz
+sanctioned
+supremely
+sublimation
+subprogram
+sleighs
+sheepdogs
+subcontracted
+shovels
+skinnier
+shoguns
+squadrons
+sententious
+serifed
+sufferance
+superglue
+satiric
+sacking
+strapped
+subtractive
+sonority
+stalin
+servitude
+scalar
+steely
+spotlessness
+sulphide
+snoring
+slumps
+slighted
+sever
+stigmatise
+shopkeeper
+sinecures
+somnolent
+sandalled
+spanned
+p 23
+panthers
+proprieties
+presentational
+pussyfooting
+preauthorise
+panoply
+percept
+psaltery
+partridge
+puberty
+perpetrator
+profits
+prescribed
+protein
+pricks
+perquisites
+planned
+poorness
+page
+photocopy
+pieced
+potentialities
+prevails
+wtW 0
+v 2
+vigorously
+vexation
+bt 0
+x 0
+unN 0
+u 12
+unpicking
+untwist
+ultimatums
+uncompromisingly
+uncharitable
+unstrapped
+unshakable
+unmnemonic
+unread
+unprovoked
+unhygienic
+unbiassedly
+i 16
+instanced
+iconic
+implodes
+incapacitation
+integers
+inexactitude
+individualists
+identify
+impersonating
+illinois
+identifier
+inescapable
+imploded
+indigo
+intonational
+impatiently
+qy 0
+y 0
+j 4
+juniper
+joyously
+jarred
+jog
+KV 0
+y 0
+e 18
+eagerly
+external
+exclusionary
+elaborating
+exercises
+exist
+entice
+erasure
+earliest
+ecstatic
+endurance
+excitement
+enquires
+effective
+everlasting
+endoscope
+endometrial
+eighteenth
+j 4
+juniper
+joyously
+jarred
+jog
+Vy 0
+xk 0
+l 10
+laziness
+lasciviously
+leached
+lungful
+luminescent
+laminated
+landed
+luck
+looks
+lifeforms
+p 23
+panthers
+proprieties
+presentational
+pussyfooting
+preauthorise
+panoply
+percept
+psaltery
+partridge
+puberty
+perpetrator
+profits
+prescribed
+protein
+pricks
+perquisites
+planned
+poorness
+page
+photocopy
+pieced
+potentialities
+prevails

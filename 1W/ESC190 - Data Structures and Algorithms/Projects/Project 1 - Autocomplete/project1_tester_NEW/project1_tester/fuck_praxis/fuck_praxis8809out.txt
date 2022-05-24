@@ -1,0 +1,145 @@
+18
+J 1
+Jasmine
+tl 0
+K 1
+Knife
+H 3
+Hangouts
+Horizontals
+Harangue
+Pck 0
+eq 0
+p 30
+pretensions
+peeling
+perseveringly
+pressures
+pigsty
+pathology
+polymer
+pinks
+proclaiming
+phase
+promulgations
+panties
+poignancy
+players
+pondering
+potable
+puree
+powerhouse
+playwright
+president
+pupated
+prevention
+perverts
+perplexed
+photovoltaic
+perambulated
+plank
+pedants
+pork
+postured
+Tt 0
+p 30
+pretensions
+peeling
+perseveringly
+pressures
+pigsty
+pathology
+polymer
+pinks
+proclaiming
+phase
+promulgations
+panties
+poignancy
+players
+pondering
+potable
+puree
+powerhouse
+playwright
+president
+pupated
+prevention
+perverts
+perplexed
+photovoltaic
+perambulated
+plank
+pedants
+pork
+postured
+d 22
+deformity
+damningly
+disgruntled
+deepsea
+deerstalker
+descents
+deliriously
+demonstrator
+dissatisfying
+diluter
+deceptive
+dispense
+dictator
+dunkirk
+dreamlike
+deified
+dissatisfactions
+dug
+deadly
+doityourself
+deciduous
+deports
+D 7
+Deboned
+Debutants
+Differ
+Dissent
+Deplore
+Discus
+Detracted
+d 22
+deformity
+damningly
+disgruntled
+deepsea
+deerstalker
+descents
+deliriously
+demonstrator
+dissatisfying
+diluter
+deceptive
+dispense
+dictator
+dunkirk
+dreamlike
+deified
+dissatisfactions
+dug
+deadly
+doityourself
+deciduous
+deports
+yn 0
+O 3
+Outage
+Overwhelmingly
+Orientates
+dh 0
+ig 0
+E 7
+Elysee
+Eddied
+Enclosures
+Ephemeral
+Elementally
+Elk
+Everyone
+gnm 0

@@ -1,0 +1,206 @@
+22
+D 7
+Delimits
+Daunted
+Doesnt
+Denominated
+Deformities
+Disobeyed
+Divinities
+lX 0
+f 17
+frolicked
+fulminations
+fission
+fluorocarbon
+fouler
+foreleg
+foramen
+fops
+fussily
+fish
+fratricide
+falsebay
+foreknowledge
+fluffiest
+firming
+finned
+fallopian
+f 17
+frolicked
+fulminations
+fission
+fluorocarbon
+fouler
+foreleg
+foramen
+fops
+fussily
+fish
+fratricide
+falsebay
+foreknowledge
+fluffiest
+firming
+finned
+fallopian
+GN 0
+tp 0
+uc 0
+R 12
+Rifts
+Regurgitated
+Rustlers
+Rosily
+Rissole
+Rowboat
+Relapsing
+Reinvigorated
+Rerolled
+Removable
+Rheumatology
+Raftsman
+po 4
+polymorphism
+poser
+poppies
+popularisations
+wjr 0
+e 33
+exoskeleton
+extracted
+engender
+electromechanics
+encyclopedic
+emasculation
+eviscerate
+earmarked
+entrepreneurs
+encirclements
+experienced
+epicurean
+electrostatic
+egotists
+endowed
+expressive
+extort
+enlivened
+evident
+engulfing
+elders
+excelsior
+exalting
+effulgent
+engrossing
+electable
+evaluated
+everlastingly
+eulogies
+escapist
+eigenstates
+exterminate
+enunciate
+a 30
+achievements
+accustomed
+aerofoil
+acolyte
+affiliate
+abdication
+abortionists
+argot
+atones
+abetting
+anomaly
+abandons
+altogether
+aglow
+atheists
+amalgamate
+allies
+adulterers
+accustom
+adders
+afar
+anathema
+alchemist
+arrowheads
+asthmatic
+absentminded
+advertisement
+alkalise
+assimilate
+abuses
+bgb 0
+d 28
+delphi
+deregulated
+drained
+dilute
+distasteful
+dilating
+dioxins
+determine
+dipoles
+diplomats
+detail
+deepened
+dogy
+dispositions
+distort
+drab
+discloses
+diaspora
+delimits
+detrimentally
+dormancy
+dehydrate
+dainty
+divert
+deceitfulness
+descendent
+dermatitis
+disappointment
+Y 1
+Yarns
+TK 0
+f 17
+frolicked
+fulminations
+fission
+fluorocarbon
+fouler
+foreleg
+foramen
+fops
+fussily
+fish
+fratricide
+falsebay
+foreknowledge
+fluffiest
+firming
+finned
+fallopian
+kZ 0
+nx 0
+LA 0
+BsM 0
+g 17
+gestalt
+grapefruit
+gurgle
+grids
+greyhound
+gauze
+gymnasia
+grocer
+grateful
+guarantee
+glimmering
+gravedigger
+grinders
+glosses
+glorify
+gracing
+grapefruit

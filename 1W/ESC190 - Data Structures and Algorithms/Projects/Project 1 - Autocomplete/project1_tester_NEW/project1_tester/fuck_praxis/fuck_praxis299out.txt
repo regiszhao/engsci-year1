@@ -1,0 +1,101 @@
+21
+rq 0
+DO 0
+Sd 0
+pS 0
+D 11
+Dampness
+Dredge
+Dialectical
+Duplicating
+Dogsbody
+Driverless
+Dazing
+Decrease
+Dynamical
+Deuces
+Devoice
+sp 5
+spacers
+spooled
+spiked
+spokespeople
+sputnik
+lZm 0
+M 11
+Morose
+Mutilate
+Moscow
+Manuscript
+Man
+Midmorning
+Monstrosity
+Magnetodynamics
+Marshaller
+Monkish
+Moulds
+DK 0
+G 5
+Graduand
+Grates
+Gentility
+Gnash
+Genially
+tr 6
+trounced
+trawler
+transmittable
+trains
+transponder
+transport
+tu 0
+rwg 0
+ys 0
+um 0
+b 28
+bottoms
+bonanza
+backlog
+braids
+billiards
+boggiest
+buckminsterfullerene
+bordered
+bolder
+braying
+bedevilment
+billets
+barony
+bashes
+bases
+buzzards
+bendable
+binocular
+breads
+brats
+bubbling
+bareness
+brokenly
+brogue
+brabbled
+bunch
+balusters
+backup
+er 1
+erroneous
+yv 0
+BG 0
+Yh 0
+o 12
+ostentatious
+occults
+observation
+outpacing
+overplaying
+oily
+onlybegotten
+opportunities
+obligations
+oviduct
+orbitals
+oversize

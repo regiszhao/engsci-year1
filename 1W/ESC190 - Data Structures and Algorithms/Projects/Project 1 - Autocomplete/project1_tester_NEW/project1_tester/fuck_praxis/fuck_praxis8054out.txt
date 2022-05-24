@@ -1,0 +1,131 @@
+24
+rxt 0
+qtU 0
+joJ 0
+Aa 0
+qPh 0
+j 4
+juxtapositions
+joking
+james
+jittery
+xe 1
+xenophobe
+hn 0
+bi 2
+bipartisan
+binocular
+b 33
+bashed
+bureaucrat
+bulgaria
+bipartisan
+beefburger
+banister
+becalmed
+blabs
+bureaux
+bourgeoisie
+buttonhole
+backwoodsmen
+bungler
+boa
+brushwork
+bucketful
+breakwater
+benchmark
+balaclava
+buttoned
+binocular
+bricks
+buzzers
+bobcat
+bond
+bystander
+bail
+burnings
+belches
+bonuses
+banns
+bright
+bushy
+pjw 0
+F 9
+Financed
+Fondly
+Flooring
+Fuels
+Floozie
+Fundraiser
+Fraternising
+Funnies
+Fixer
+aSx 0
+qr 0
+i 18
+intergalactic
+indigestible
+illadvised
+indians
+indicated
+inventories
+implicates
+inability
+improbability
+intrusive
+injured
+incandescent
+inserts
+important
+irruption
+infernal
+interpenetration
+innocently
+sn 1
+sniff
+dA 0
+z 0
+hoX 0
+jA 0
+DrK 0
+tK 0
+we 5
+wellmeant
+westernised
+weightiest
+wellpreserved
+weedkillers
+b 33
+bashed
+bureaucrat
+bulgaria
+bipartisan
+beefburger
+banister
+becalmed
+blabs
+bureaux
+bourgeoisie
+buttonhole
+backwoodsmen
+bungler
+boa
+brushwork
+bucketful
+breakwater
+benchmark
+balaclava
+buttoned
+binocular
+bricks
+buzzers
+bobcat
+bond
+bystander
+bail
+burnings
+belches
+bonuses
+banns
+bright
+bushy

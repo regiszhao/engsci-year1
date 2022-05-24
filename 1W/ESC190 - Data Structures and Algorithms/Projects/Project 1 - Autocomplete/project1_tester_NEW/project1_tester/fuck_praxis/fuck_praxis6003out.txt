@@ -1,0 +1,32 @@
+11
+L 0
+nw 0
+TtI 0
+l 1
+landowner
+KR 0
+b 4
+bollard
+blond
+borough
+bandages
+ov 0
+b 4
+bollard
+blond
+borough
+bandages
+kVE 0
+K 0
+s 11
+strudels
+superbly
+slacken
+stupefying
+slanders
+solidly
+subroutine
+seeable
+superstate
+shoves
+sting

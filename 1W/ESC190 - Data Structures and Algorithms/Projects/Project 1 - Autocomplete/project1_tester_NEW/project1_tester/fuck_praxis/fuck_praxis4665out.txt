@@ -1,0 +1,118 @@
+22
+L 3
+Longevity
+Lotto
+Lynch
+c 26
+conjectural
+courtier
+confessional
+cinder
+clapper
+compliment
+cranked
+carts
+crepuscular
+continental
+catchiest
+concretions
+chainsmoke
+carvery
+chronologically
+cawing
+crumpled
+concertina
+coathanger
+careers
+coexistence
+cryptographic
+contractors
+cavaliers
+conjurers
+chop
+f 15
+filigree
+flanked
+freckles
+forgetmenots
+feast
+fittings
+flout
+fingermarks
+frictionless
+fans
+frozen
+forensically
+flourish
+flirted
+firefly
+Vp 0
+iw 0
+nu 1
+nuke
+tor 0
+LEd 0
+bg 0
+Ogi 0
+doO 0
+ic 0
+u 16
+undecidable
+unfocused
+unpleasing
+undressed
+upthrust
+untasted
+unaccounted
+utilises
+unscrambling
+unprintable
+unconditioned
+upheld
+unequal
+unplayability
+uppercut
+unreliably
+ke 0
+ucr 0
+Uf 0
+wb 0
+s 34
+shoplifted
+sophist
+shipowner
+shatter
+scotch
+sadden
+straps
+snooper
+sweatshop
+stranding
+sipped
+schoolgirls
+screenplay
+stature
+standpoints
+shopkeeper
+stegosaurus
+spa
+slenderest
+symphony
+soul
+seeker
+sparsity
+snapped
+seaboard
+squareness
+slater
+spurn
+sixpence
+shutdown
+solvency
+standardises
+stallions
+sunrises
+ob 0
+pqr 0
+wfl 0
+xeb 0

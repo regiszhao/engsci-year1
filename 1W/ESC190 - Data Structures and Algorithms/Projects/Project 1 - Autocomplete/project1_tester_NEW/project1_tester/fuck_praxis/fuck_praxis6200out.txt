@@ -1,0 +1,75 @@
+16
+R 1
+Ramrod
+WA 0
+o 7
+oiled
+opine
+overworking
+overanxious
+objectors
+organisable
+ovulation
+t 9
+thinness
+trek
+threatening
+tramped
+tubeless
+tiled
+twines
+tracked
+techniques
+vhf 0
+cw 0
+tS 0
+z 0
+En 1
+Entomb
+m 19
+modulated
+measles
+mussel
+mule
+matrimonial
+megahertz
+moonshot
+mitigation
+malls
+misconstrued
+migrate
+maligned
+mammal
+mincemeat
+middling
+memoranda
+majority
+mutating
+maim
+aq 0
+ui 0
+iAs 0
+s 21
+spicily
+sees
+sank
+selfconfidence
+spouses
+syndicates
+stranger
+syphoning
+selections
+standardisation
+slowing
+seaweed
+snooker
+stipends
+screenplay
+subsystems
+serviette
+singe
+scooter
+sieges
+speciation
+qm 0
+xo 0

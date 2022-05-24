@@ -1,0 +1,130 @@
+25
+bp 0
+s 43
+scriptwriter
+skylarks
+subunit
+sandcastles
+select
+skydiving
+scents
+subsume
+sufferance
+serotonin
+sheet
+soccer
+startling
+syllogisms
+stretch
+salubrious
+swelled
+showcases
+synonym
+scrambling
+sheriffs
+spurts
+sane
+speedboats
+stitching
+solve
+stalked
+swingeing
+serve
+sureties
+spluttering
+symposia
+shovels
+solicitously
+stockbrokers
+silencing
+siestas
+snugness
+scheduler
+secularised
+sunbathed
+sprigs
+surprisingly
+p 23
+perennials
+poachers
+paradises
+pencil
+popped
+python
+plaintive
+parity
+patriarchal
+prevue
+planing
+pruned
+pink
+phalanx
+pavement
+posturing
+psychological
+parasitical
+paternalist
+peddled
+pie
+packs
+pampers
+rs 0
+r 21
+recogniser
+resolution
+recant
+repented
+rams
+retouching
+role
+resupply
+restricts
+recognisable
+recurrent
+resounding
+revolutionaries
+rissoles
+rainy
+redirect
+revenges
+rents
+refined
+remainder
+retinitis
+x 0
+n 2
+nettles
+newer
+per 1
+perennials
+fp 0
+tB 0
+eu 0
+aa 0
+brm 0
+geu 0
+jnr 0
+ut 0
+aKa 0
+be 4
+beauties
+beggared
+beauty
+begets
+jRa 0
+q 3
+quaggas
+qualitative
+quintessence
+ha 6
+haggle
+haltingly
+haematology
+hardearned
+hatrack
+hastened
+Xgt 0
+kO 0
+K 1
+Keeps
+rsd 0

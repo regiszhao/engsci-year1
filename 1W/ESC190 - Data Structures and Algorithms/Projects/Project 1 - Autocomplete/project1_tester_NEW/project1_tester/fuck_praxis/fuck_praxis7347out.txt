@@ -1,0 +1,21 @@
+10
+kW 0
+QMU 0
+x 0
+M 0
+Ei 0
+at 1
+attributes
+uj 0
+f 6
+fiefs
+firearm
+facer
+faxes
+fighter
+fingernails
+A 3
+Astrolabe
+Auspice
+Arbor
+mSq 0

@@ -1,0 +1,113 @@
+16
+z 1
+zag
+b 34
+breathtaking
+bloodsuckers
+bagels
+bizarre
+beheld
+bedmakers
+birdbaths
+beanstalk
+bronchi
+badtempered
+bespeaking
+brighter
+burp
+blacksea
+benches
+burners
+bundle
+bedlam
+brownest
+ballot
+buffetings
+boil
+beermats
+blunt
+biophysical
+bushel
+baggage
+breakfasting
+blended
+braided
+bogs
+between
+brewing
+bankrupted
+pht 0
+cg 0
+y 0
+jz 0
+xsz 0
+h 17
+hereunder
+hermaphrodite
+hugged
+haddock
+hesitating
+hounds
+hologram
+hare
+headdress
+hybrids
+hooting
+healer
+hotbeds
+homophones
+hottest
+henpeck
+hypothesiser
+q 1
+quotable
+DP 0
+o 10
+overhear
+outshine
+overwhelming
+outpointed
+odiums
+overshoots
+order
+overlying
+oversimplifies
+outplayed
+Qo 0
+gv 0
+d 20
+drafter
+datable
+doctoring
+dogs
+downplay
+disregarded
+demands
+dissatisfying
+desisted
+downhearted
+dolomite
+dipper
+disbelieving
+downgrading
+decoying
+duplication
+dominant
+daggers
+dehorn
+disgorging
+W 3
+Wretch
+Winemakers
+Wreathed
+o 10
+overhear
+outshine
+overwhelming
+outpointed
+odiums
+overshoots
+order
+overlying
+oversimplifies
+outplayed

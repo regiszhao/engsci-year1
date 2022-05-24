@@ -1,0 +1,19 @@
+13
+cY 0
+j 1
+jaywalk
+y 0
+K 0
+kz 0
+W 1
+Wall
+vzd 0
+n 2
+nonviolence
+never
+al 0
+W 1
+Wall
+Wp 0
+gh 0
+wbw 0

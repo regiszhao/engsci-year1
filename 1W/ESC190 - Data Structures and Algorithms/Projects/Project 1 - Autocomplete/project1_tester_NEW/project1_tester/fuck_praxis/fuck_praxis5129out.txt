@@ -1,0 +1,306 @@
+29
+wc 0
+a 40
+allergies
+around
+alines
+apposite
+addling
+arrant
+agave
+aromas
+ammeters
+amazed
+attracts
+abrasive
+aroused
+arsonists
+assigns
+aortas
+acuity
+alcohols
+anorexia
+armadas
+actress
+apposition
+anchovy
+acupuncturists
+auditions
+anthropogenically
+acquiesced
+agitating
+army
+accenting
+appertained
+armenia
+accumulations
+align
+aptness
+arcading
+antedates
+arch
+adhoc
+abruptness
+i 31
+intramuscular
+intoned
+intents
+inquisitive
+iconoclastic
+irradiated
+incorruptible
+ignorantly
+infection
+intransigent
+informing
+integrands
+issuance
+invincible
+inconsequentially
+inverts
+immunisations
+ingression
+inferring
+intercourse
+infuriatingly
+investor
+inculcate
+inclusion
+internally
+indian
+interrupted
+intentness
+intellects
+irresponsibly
+inkier
+uf 0
+j 3
+jerkier
+joylessness
+jeeringly
+iWx 0
+tx 0
+J 2
+Justifiability
+Jigsaw
+Af 1
+Afflux
+l 26
+lullabies
+lashed
+liberators
+lobbyists
+lofts
+loco
+leitmotivs
+lasagne
+licorice
+logos
+leads
+lavatories
+link
+lee
+larceny
+leap
+lousiest
+liaising
+labourintensive
+loath
+lynches
+libretto
+lankier
+liberalising
+lengthier
+leopard
+f 33
+foamiest
+flip
+fearfully
+fisheries
+falsity
+frustration
+forwarder
+figuration
+fight
+frolics
+fierceness
+fraternal
+forthrightness
+flanking
+fresheners
+flaky
+fitful
+forehand
+foreskins
+fractious
+fraternal
+flaccidity
+fifthly
+flicker
+fractal
+flatteringly
+founts
+fern
+frights
+froze
+fastening
+forgets
+farout
+hik 0
+Y 1
+Yellowed
+v 10
+virtuosic
+voyager
+viewed
+visa
+vasectomy
+vigilantly
+victimless
+vows
+vivid
+vellum
+fC 0
+q 2
+quinine
+questions
+RgZ 0
+uv 0
+V 5
+Verdicts
+Vassalage
+Vasectomies
+Verging
+Varnishes
+t 41
+tripwires
+trenching
+tensed
+tries
+transmits
+transferability
+tenancy
+tenurial
+thinner
+trigonometric
+tachyon
+tautological
+titular
+typing
+taiwan
+tuner
+truths
+tuatara
+topographically
+thoughts
+tactician
+tinnitus
+terminations
+triumphant
+tonight
+thousandth
+truanting
+telecommuting
+teethe
+tackier
+trews
+tempted
+three
+taxation
+trench
+toughs
+trinkets
+twiddly
+thermostatic
+tenancy
+transformer
+eU 0
+pxy 0
+X 0
+W 3
+Wholesomeness
+Wedged
+Warbling
+w 14
+wedged
+wearisome
+wordiness
+woebegone
+workspace
+wellingtons
+wallflowers
+wilted
+whelp
+wage
+woodwind
+written
+witnesses
+womanly
+rox 0
+LtY 0
+u 23
+undertake
+unfasten
+unshaded
+unaccommodating
+urges
+unwanted
+unwittingly
+unbidden
+unshrinking
+unrevised
+unprecedentedly
+unleashing
+unbalance
+unconquered
+unpredictability
+unmistakable
+unconsciousness
+unpremeditated
+uniformly
+unemotionally
+unfounded
+uplifting
+unmodified
+t 41
+tripwires
+trenching
+tensed
+tries
+transmits
+transferability
+tenancy
+tenurial
+thinner
+trigonometric
+tachyon
+tautological
+titular
+typing
+taiwan
+tuner
+truths
+tuatara
+topographically
+thoughts
+tactician
+tinnitus
+terminations
+triumphant
+tonight
+thousandth
+truanting
+telecommuting
+teethe
+tackier
+trews
+tempted
+three
+taxation
+trench
+toughs
+trinkets
+twiddly
+thermostatic
+tenancy
+transformer

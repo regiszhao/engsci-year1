@@ -1,0 +1,153 @@
+26
+sd 0
+Ea 0
+km 0
+flJ 0
+wd 0
+yz 0
+b 26
+buzzwords
+barb
+beaconed
+ben
+braised
+borates
+broadmindedness
+brigade
+bureaucratic
+banishment
+bumping
+beavers
+behest
+blacklist
+boycotts
+bashed
+bestows
+brandies
+boggled
+backwaters
+briskest
+bluish
+breakfasts
+bubbling
+bunks
+blended
+wy 0
+ec 1
+eclipsed
+cHy 0
+b 26
+buzzwords
+barb
+beaconed
+ben
+braised
+borates
+broadmindedness
+brigade
+bureaucratic
+banishment
+bumping
+beavers
+behest
+blacklist
+boycotts
+bashed
+bestows
+brandies
+boggled
+backwaters
+briskest
+bluish
+breakfasts
+bubbling
+bunks
+blended
+kdg 0
+c 65
+chunkier
+comic
+composer
+conception
+cheekier
+computation
+coworker
+chimed
+caretakers
+comes
+cargo
+creamy
+connecting
+consonance
+camelhair
+cartoons
+checkpoint
+conifer
+combusted
+castle
+clothing
+contradiction
+cloaked
+correspondences
+crumbing
+certitudes
+chafing
+chastened
+collins
+campanologist
+contrariness
+callously
+consolidating
+congesting
+custom
+colonisations
+cannibalising
+corporate
+caracals
+chauvinists
+colonisations
+canals
+clamorously
+contrary
+components
+contamination
+cataclysmic
+cumbersome
+catwalks
+champagne
+clique
+cherished
+chalices
+capitalism
+cultivar
+circumstantially
+coon
+clan
+cornflour
+careers
+connectives
+consistently
+competing
+contemptuous
+cannot
+Hg 0
+Iz 0
+x 0
+gE 0
+oby 0
+q 4
+quartic
+quietness
+quadrilateral
+quilted
+Sw 0
+sd 0
+Sz 0
+ba 4
+barb
+banishment
+bashed
+backwaters
+pbl 0
+z 0
+rky 0

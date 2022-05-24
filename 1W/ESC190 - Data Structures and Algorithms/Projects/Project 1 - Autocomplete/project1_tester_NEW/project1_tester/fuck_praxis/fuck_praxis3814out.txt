@@ -1,0 +1,147 @@
+21
+xF 0
+ans 0
+a 52
+aerially
+atlas
+ambulatory
+admonishes
+alphabet
+admittance
+attempted
+artistic
+anoraks
+attitudinal
+armholes
+anachronism
+alignment
+ascriptions
+auditory
+alienating
+acquires
+anthropologist
+awaits
+agenda
+await
+adequately
+axeman
+attributes
+apologists
+adult
+appropriateness
+accepts
+association
+agriculturalist
+accusative
+arcadia
+authors
+askew
+appellate
+adapts
+avoidable
+abase
+abysses
+abridging
+abortion
+aspirations
+antagonist
+aspirating
+adjuster
+ambles
+agitprop
+ascertains
+attests
+adulterers
+altogether
+algorithm
+G 5
+Granules
+Gibbons
+Gloomy
+George
+Grocers
+R 8
+Retinas
+Recollection
+Represents
+Roaming
+Require
+Revolver
+Realises
+Representing
+vk 0
+fI 0
+qd 0
+j 3
+judgements
+jingling
+jury
+qG 0
+BvU 0
+R 8
+Retinas
+Recollection
+Represents
+Roaming
+Require
+Revolver
+Realises
+Representing
+yWB 0
+h 24
+hairspray
+harrying
+helmeted
+hooded
+handout
+headstrong
+humankind
+human
+hydrochloric
+humours
+hastier
+hostilely
+hyenas
+haughtiness
+hastiness
+heavy
+humped
+housebreakers
+hardship
+hugs
+hysteresis
+hummer
+hogwash
+homicide
+Gl 1
+Gloomy
+w 19
+wend
+waistband
+willingly
+weightily
+washings
+waterfall
+width
+werewolf
+walkietalkie
+whooping
+watermill
+white
+watermen
+weediest
+wellestablished
+weighting
+wanders
+wining
+washings
+tm 0
+lf 0
+gl 5
+gleams
+glen
+glebe
+glade
+glia
+uW 0
+ck 0

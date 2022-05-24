@@ -1,0 +1,155 @@
+29
+q 1
+quit
+fgW 0
+h 6
+hydrophobic
+haystack
+hoovering
+hypocritical
+hooks
+hypothetical
+kFr 0
+Yf 0
+h 6
+hydrophobic
+haystack
+hoovering
+hypocritical
+hooks
+hypothetical
+u 8
+unscrewing
+unsealable
+uninjured
+undoubtedly
+unhindered
+unify
+unbroken
+unbundled
+m 12
+mouthpieces
+maligners
+marauders
+moist
+minesweepers
+mitochondria
+mentioned
+mumps
+manured
+monotonically
+mesmerised
+multiplexer
+bj 0
+piE 0
+s 28
+superficial
+semester
+surmounting
+spooky
+statistical
+stentor
+super
+sandal
+strive
+senator
+symbiont
+sociability
+steed
+shuttles
+sauciest
+scornful
+strapper
+sincere
+smooths
+stinky
+sourcing
+straps
+slavs
+smiles
+should
+supplicant
+superlatively
+staggered
+Is 0
+jj 0
+q 1
+quit
+Q 1
+Quotient
+vc 0
+sc 1
+scornful
+Snj 0
+Fp 0
+Ii 0
+Ze 0
+s 28
+superficial
+semester
+surmounting
+spooky
+statistical
+stentor
+super
+sandal
+strive
+senator
+symbiont
+sociability
+steed
+shuttles
+sauciest
+scornful
+strapper
+sincere
+smooths
+stinky
+sourcing
+straps
+slavs
+smiles
+should
+supplicant
+superlatively
+staggered
+I 4
+Interoperable
+Intimates
+Impelled
+Installed
+Je 0
+N 1
+Neurology
+s 28
+superficial
+semester
+surmounting
+spooky
+statistical
+stentor
+super
+sandal
+strive
+senator
+symbiont
+sociability
+steed
+shuttles
+sauciest
+scornful
+strapper
+sincere
+smooths
+stinky
+sourcing
+straps
+slavs
+smiles
+should
+supplicant
+superlatively
+staggered
+fD 0
+wf 0
+yR 0

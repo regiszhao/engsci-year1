@@ -1,0 +1,207 @@
+26
+tq 0
+zgn 0
+b 21
+balloting
+bumbler
+beggar
+barring
+briefcase
+breathed
+backbones
+boot
+bauxite
+bootstraps
+boastfulness
+breathings
+brawl
+bewail
+boomeranging
+birdies
+blueness
+bakes
+bicentenary
+bankrupting
+brainwave
+xp 0
+g 4
+godsons
+gavials
+gambit
+gumdrop
+Fh 0
+s 30
+steamiest
+scotch
+skinheads
+stoma
+stagnate
+shuttered
+signally
+specks
+scum
+seismograph
+spouse
+skeletal
+seashore
+shortstaffed
+striving
+suchandsuch
+sanctuary
+scoff
+stonework
+sketchpad
+santiago
+substituting
+stays
+setbacks
+skullcap
+streams
+slick
+sensitivity
+shoplift
+sneers
+Rc 0
+u 14
+unwatchable
+unsuppressed
+undignified
+underestimated
+uprisings
+unappeased
+uncollected
+undeservedly
+uncharitably
+unilateralism
+unadorned
+unsafeness
+unlawfully
+unplugged
+N 1
+Necessarily
+v 5
+various
+vulgate
+visualise
+valet
+versed
+t 14
+touring
+tented
+tumultuous
+tantalising
+tusks
+touristic
+tonsil
+tearaway
+trainee
+tamped
+trunnions
+travelled
+tricking
+transgressed
+gwv 0
+ps 0
+N 1
+Necessarily
+S 16
+Sadistically
+Speculated
+Steps
+Subjugate
+Saturn
+Systolic
+Suffix
+Slighted
+Spaces
+Steadied
+Shuttered
+Scrapped
+Secularisation
+Sat
+Slashing
+Stubbles
+xrM 0
+p 29
+patchier
+practitioner
+prouder
+pathologically
+production
+prevues
+payloads
+periodicals
+phased
+pressman
+pollinating
+pinnacles
+peak
+planned
+pelicans
+pedestrianised
+presenter
+preposterously
+prearranged
+pare
+pantile
+posthumous
+pouts
+preponderant
+plausibly
+pontoons
+pekan
+postbag
+phrased
+vK 0
+bb 0
+gn 0
+cu 2
+culinary
+cuban
+u 14
+unwatchable
+unsuppressed
+undignified
+underestimated
+uprisings
+unappeased
+uncollected
+undeservedly
+uncharitably
+unilateralism
+unadorned
+unsafeness
+unlawfully
+unplugged
+ag 0
+p 29
+patchier
+practitioner
+prouder
+pathologically
+production
+prevues
+payloads
+periodicals
+phased
+pressman
+pollinating
+pinnacles
+peak
+planned
+pelicans
+pedestrianised
+presenter
+preposterously
+prearranged
+pare
+pantile
+posthumous
+pouts
+preponderant
+plausibly
+pontoons
+pekan
+postbag
+phrased
+ti 0

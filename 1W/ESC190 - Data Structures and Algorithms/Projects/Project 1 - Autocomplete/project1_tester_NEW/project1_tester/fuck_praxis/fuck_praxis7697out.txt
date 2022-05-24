@@ -1,0 +1,157 @@
+25
+w 15
+waterloo
+wallaby
+wood
+wedlock
+warners
+winches
+wares
+wonders
+wriggly
+widest
+weighted
+wrongful
+whacko
+wintrier
+weapons
+kaT 0
+m 18
+misplacement
+mortal
+morales
+minicab
+milkshake
+mosaics
+misinterpretations
+millenarianism
+milks
+modality
+mazier
+mannerly
+marxism
+measurements
+muddier
+moults
+menswear
+misremember
+wf 0
+n 10
+necropsy
+necromantic
+novelists
+naturalise
+nocturnally
+neurologist
+need
+numismatic
+noxiousness
+nonconformist
+v 10
+vaunting
+verbosity
+vestigial
+voidable
+vice
+vaguer
+verge
+viably
+vouchsafing
+verminous
+x 0
+B 11
+Blackboards
+Breakups
+Bobs
+Bulging
+Bushing
+Billboards
+Bureaucratic
+Bather
+Brightness
+Blankness
+Build
+leu 0
+gB 0
+Itf 0
+P 17
+Prospectuses
+Pieta
+Perplexing
+Probable
+Policewomen
+Poled
+Peevishly
+Peartrees
+Pounds
+Priestess
+Penitent
+Preplanned
+Prescriptively
+Preambles
+Proclaims
+Presses
+Psalmist
+he 11
+heartlands
+her
+heterosexist
+heir
+hello
+headland
+hedging
+hedgerow
+heartland
+herald
+heavenwards
+hrx 0
+A 10
+Alaska
+Alb
+Asparagus
+Avengers
+Attorneys
+Amalgams
+Acquiescent
+Anagrammatically
+Adjusts
+Acumen
+Q 1
+Quitted
+Ws 0
+uU 0
+fLX 0
+pF 0
+ax 0
+vll 0
+rsd 0
+PI 0
+h 28
+hive
+heartlands
+hillier
+hoists
+hydrants
+havens
+hunts
+her
+harrowed
+heterosexist
+hydride
+hypothesise
+hirsute
+hushhush
+heir
+highs
+hooters
+hello
+headland
+history
+hedging
+horsey
+hedgerow
+hypersensitivity
+heartland
+herald
+heavenwards
+hunk

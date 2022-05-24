@@ -1,0 +1,98 @@
+15
+rcu 0
+cw 0
+wd 0
+d 31
+deadlocked
+dropout
+daintiness
+diminuendo
+doubtingly
+diffuse
+depute
+definitive
+druid
+durability
+detections
+decorative
+diathermy
+divot
+donkey
+drear
+disengaged
+daunt
+deadens
+drops
+darter
+dockyards
+delaying
+depraved
+dents
+devils
+diatonic
+disparagingly
+decomposable
+declarers
+disobeyed
+sTs 0
+iee 0
+b 27
+belays
+buttery
+binnacle
+buying
+betide
+bracer
+blackball
+byelections
+bark
+broadsheets
+blots
+bonded
+battling
+brewery
+bookmaker
+banner
+batik
+bronchitis
+bunion
+beermat
+brighten
+backtracks
+baddy
+beautify
+breathtakingly
+bounties
+barleycorns
+cjn 0
+e 15
+enrol
+elemental
+exhumed
+elongates
+else
+excursions
+electorally
+everyday
+equivocating
+electrolyse
+earner
+eke
+expurgated
+elimination
+excellence
+y 1
+yttrium
+y 1
+yttrium
+wf 0
+xA 0
+F 7
+Fearfully
+Ferociously
+Forested
+Fluctuations
+Flourished
+Fortunate
+Faulted
+fE 0

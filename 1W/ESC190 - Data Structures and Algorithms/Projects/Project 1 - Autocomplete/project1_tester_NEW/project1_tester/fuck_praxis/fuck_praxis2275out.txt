@@ -1,0 +1,62 @@
+13
+prg 0
+ka 1
+karakul
+K 0
+x 0
+c 20
+coinages
+computing
+centroids
+convents
+crossbows
+clothed
+consumerist
+corny
+convulsively
+coincidences
+compliance
+coaster
+cubs
+creole
+cements
+combinatorial
+congresses
+couturier
+constitutionalism
+coachman
+by 0
+D 3
+Dollies
+Discolours
+Dirties
+T 4
+Tori
+Travail
+Tuck
+Torch
+G 0
+CM 0
+c 20
+coinages
+computing
+centroids
+convents
+crossbows
+clothed
+consumerist
+corny
+convulsively
+coincidences
+compliance
+coaster
+cubs
+creole
+cements
+combinatorial
+congresses
+couturier
+constitutionalism
+coachman
+xt 0
+cIF 0

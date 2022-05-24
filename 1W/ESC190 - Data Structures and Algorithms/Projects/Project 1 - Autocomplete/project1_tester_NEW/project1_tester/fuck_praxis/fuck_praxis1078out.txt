@@ -1,0 +1,277 @@
+29
+si 2
+sinful
+sinecure
+POi 0
+nX 0
+h 23
+horrendous
+heavy
+hurry
+horrifyingly
+hellish
+healers
+histrionic
+hating
+helipad
+headnote
+hints
+hitchhikers
+hefted
+hierarchical
+heliocentric
+harsher
+humorist
+haste
+hailing
+hummocks
+hikers
+highlights
+homeward
+hlw 0
+y 2
+yawned
+yesterdays
+m 33
+machineguns
+midwifery
+mesmeric
+miscalculate
+macromolecules
+mat
+manager
+math
+musculature
+molehill
+major
+miscarriages
+matted
+moonstones
+mishaps
+mangled
+malicious
+maltese
+metastatic
+merits
+manometer
+mercifully
+martingales
+menhirs
+massages
+magnum
+misdeed
+mambas
+mints
+manages
+monolingual
+mica
+muscle
+WQ 0
+Bi 1
+Bizarreness
+z 1
+zealous
+tZl 0
+gR 0
+h 23
+horrendous
+heavy
+hurry
+horrifyingly
+hellish
+healers
+histrionic
+hating
+helipad
+headnote
+hints
+hitchhikers
+hefted
+hierarchical
+heliocentric
+harsher
+humorist
+haste
+hailing
+hummocks
+hikers
+highlights
+homeward
+jk 0
+f 30
+freeway
+freshers
+fatalistic
+fishlike
+fierceness
+fading
+fencings
+fooled
+fuels
+founders
+fest
+formalises
+fluffier
+figurines
+fatten
+flawlessly
+foolhardily
+fritters
+fatalities
+funkier
+fieriest
+fouling
+faraway
+futuristic
+flavouring
+fumes
+freebooters
+forebears
+farmyards
+feedback
+i 31
+intruder
+inertia
+inclusively
+imps
+insecurely
+interviewees
+immersion
+inquisitorial
+irreversibly
+italics
+ironies
+immaterial
+inducement
+impales
+isle
+impairment
+irritatedly
+imprisoned
+impinges
+inexhaustible
+injected
+injects
+indifferently
+indite
+importantly
+iceage
+infertile
+immortalised
+interweaving
+isomorphisms
+incubator
+cn 0
+nn 0
+jR 0
+p 32
+parfaits
+preparers
+photogenic
+poisons
+propitiatory
+potentially
+papyri
+paws
+pond
+participated
+partisanship
+permits
+porterage
+patrimony
+polysyllabic
+poachers
+petrological
+pace
+penetratingly
+pacers
+polevaulting
+proletarians
+petulantly
+possessions
+prove
+pity
+perry
+putter
+polishing
+pectin
+protagonists
+provocation
+zI 0
+Go 1
+Gorgeously
+H 4
+Hacking
+Husked
+Housebuyers
+Honorific
+isi 0
+wvM 0
+z 1
+zealous
+ll 0
+f 30
+freeway
+freshers
+fatalistic
+fishlike
+fierceness
+fading
+fencings
+fooled
+fuels
+founders
+fest
+formalises
+fluffier
+figurines
+fatten
+flawlessly
+foolhardily
+fritters
+fatalities
+funkier
+fieriest
+fouling
+faraway
+futuristic
+flavouring
+fumes
+freebooters
+forebears
+farmyards
+feedback
+m 33
+machineguns
+midwifery
+mesmeric
+miscalculate
+macromolecules
+mat
+manager
+math
+musculature
+molehill
+major
+miscarriages
+matted
+moonstones
+mishaps
+mangled
+malicious
+maltese
+metastatic
+merits
+manometer
+mercifully
+martingales
+menhirs
+massages
+magnum
+misdeed
+mambas
+mints
+manages
+monolingual
+mica
+muscle

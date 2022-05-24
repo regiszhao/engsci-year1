@@ -1,0 +1,219 @@
+23
+K 1
+Kindergarten
+K 1
+Kindergarten
+aM 0
+A 4
+Asians
+Aldermen
+Archway
+Arriving
+GP 0
+Dd 0
+a 31
+avow
+artfulness
+adorns
+asses
+acceptors
+affix
+agglutinative
+anguishes
+alienation
+able
+aircrews
+ape
+approved
+antiseptic
+aphrodisiacs
+abets
+astrophysical
+apiarist
+aural
+altitude
+assigns
+antistatic
+adores
+allude
+agrarian
+amalgamations
+anointed
+ash
+apprentice
+abaft
+appeal
+Tvd 0
+o 8
+overruled
+overcoats
+odours
+overcoats
+ornamented
+oxidisation
+overtures
+outback
+n 8
+normalise
+newsworthy
+neglected
+numismatic
+novelistic
+nettle
+normalisation
+nonintervention
+t 20
+tutorials
+takers
+tawdry
+township
+tailless
+toxicological
+textbooks
+tundras
+twigged
+throttle
+totally
+togas
+thorny
+throatiest
+throbbed
+tautest
+them
+try
+tribute
+tenures
+b 28
+buffered
+befuddle
+buttress
+bouquet
+biodiversity
+banana
+boorishly
+birdbaths
+boggled
+bloodstock
+bracketing
+bridleway
+burlesque
+blinds
+bumps
+blabbering
+burglars
+building
+bordeaux
+buffers
+borneo
+bounced
+bumbled
+basins
+biblical
+bloodiest
+begets
+beauts
+gMb 0
+r 27
+reverently
+revere
+resiny
+retrospection
+relevant
+recalculated
+rearrangement
+rapist
+rowers
+residing
+reacted
+reluctantly
+raspy
+really
+reduces
+reacquainting
+restaurants
+ruralist
+reselection
+renovations
+regurgitating
+restfulness
+reappear
+redecorated
+readiness
+reroutes
+recursions
+sf 0
+tjn 0
+ns 0
+eu 0
+wr 1
+wrinkling
+h 11
+hotspot
+hump
+hitches
+hove
+hawkish
+huh
+harmonised
+hungrily
+hovel
+houseflies
+heresy
+b 28
+buffered
+befuddle
+buttress
+bouquet
+biodiversity
+banana
+boorishly
+birdbaths
+boggled
+bloodstock
+bracketing
+bridleway
+burlesque
+blinds
+bumps
+blabbering
+burglars
+building
+bordeaux
+buffers
+borneo
+bounced
+bumbled
+basins
+biblical
+bloodiest
+begets
+beauts
+r 27
+reverently
+revere
+resiny
+retrospection
+relevant
+recalculated
+rearrangement
+rapist
+rowers
+residing
+reacted
+reluctantly
+raspy
+really
+reduces
+reacquainting
+restaurants
+ruralist
+reselection
+renovations
+regurgitating
+restfulness
+reappear
+redecorated
+readiness
+reroutes
+recursions
+zq 0

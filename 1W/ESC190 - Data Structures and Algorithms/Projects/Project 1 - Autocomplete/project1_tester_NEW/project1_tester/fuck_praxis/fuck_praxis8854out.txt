@@ -1,0 +1,14 @@
+9
+Vsm 0
+NF 0
+ky 0
+sW 0
+Wfe 0
+gb 0
+OCb 0
+i 1
+iterators
+U 3
+Unemployable
+Unclimbed
+Unwisest

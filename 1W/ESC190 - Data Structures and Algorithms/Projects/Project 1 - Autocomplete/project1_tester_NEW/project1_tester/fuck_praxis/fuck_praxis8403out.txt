@@ -1,0 +1,211 @@
+25
+wn 0
+uRh 0
+s 55
+stubbornness
+sat
+slowness
+soothsaying
+starlet
+suggestiveness
+salesmen
+suns
+snout
+shamelessness
+shekel
+saves
+skilful
+stone
+sentinel
+superficial
+siphons
+smouldering
+salivary
+succinctly
+scuffling
+selfconscious
+side
+stained
+south
+starling
+soften
+strips
+sjambok
+strafed
+sniggered
+stacked
+subtly
+scheduler
+songbird
+snowdrifts
+seventieth
+syntagmatic
+serviceable
+subordinate
+shortcircuited
+siphon
+soundproof
+squids
+serenest
+studying
+slackest
+shop
+sacs
+strut
+supplanting
+scrotum
+squares
+subsides
+synthesis
+v 10
+vacancy
+visualised
+voyeuristic
+varnishing
+vegetate
+volunteering
+ventricle
+variables
+verge
+violently
+sf 0
+emo 0
+vOe 0
+ro 4
+robotic
+rotary
+rostrums
+roasting
+tts 0
+rUr 0
+s 55
+stubbornness
+sat
+slowness
+soothsaying
+starlet
+suggestiveness
+salesmen
+suns
+snout
+shamelessness
+shekel
+saves
+skilful
+stone
+sentinel
+superficial
+siphons
+smouldering
+salivary
+succinctly
+scuffling
+selfconscious
+side
+stained
+south
+starling
+soften
+strips
+sjambok
+strafed
+sniggered
+stacked
+subtly
+scheduler
+songbird
+snowdrifts
+seventieth
+syntagmatic
+serviceable
+subordinate
+shortcircuited
+siphon
+soundproof
+squids
+serenest
+studying
+slackest
+shop
+sacs
+strut
+supplanting
+scrotum
+squares
+subsides
+synthesis
+ok 0
+T 7
+Terminal
+Tweak
+Turnabout
+Twinkled
+Tapers
+Thereafter
+Trolling
+yS 0
+U 5
+Unwearied
+Unadaptive
+Unscramble
+Uncleanliness
+Unfair
+E 4
+Eminent
+Embody
+Emersion
+Every
+f 20
+fats
+fast
+fists
+faceless
+fishhooks
+fringes
+fizzles
+forbade
+feeling
+fitting
+federally
+ferrous
+foundering
+factorial
+flour
+fusiliers
+fiend
+fluidly
+foaling
+fishermen
+R 16
+Redstarts
+Round
+Resealed
+Robin
+Recoiled
+Roo
+Reinvestigation
+Ratiocination
+Regenerates
+Replanting
+Rueful
+Raver
+Rad
+Rendered
+Reinitialised
+Rummaged
+x 0
+Yum 0
+lj 0
+eki 0
+qW 0
+bi 5
+bible
+biomass
+biographer
+biplane
+bidden
+M 4
+Monotony
+Motheaten
+Misspelling
+Moist

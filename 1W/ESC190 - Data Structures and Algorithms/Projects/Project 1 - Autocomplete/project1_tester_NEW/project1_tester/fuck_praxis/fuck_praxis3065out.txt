@@ -1,0 +1,211 @@
+21
+w 15
+woodworker
+warts
+whereon
+winches
+wordprocessing
+walls
+wellintentioned
+wizardry
+whetting
+wreckers
+wows
+wispy
+wrapper
+wryness
+wallowed
+e 31
+econometric
+extendable
+entrances
+eked
+eyeshadow
+effectually
+eyelashes
+envying
+experience
+exemptions
+ejecting
+enlighten
+exigency
+entree
+expenditures
+emu
+enshroud
+enlarger
+encourager
+epinephrine
+effector
+emphasising
+expletive
+evacuating
+exogenously
+elliptical
+exorcised
+employments
+egocentric
+elms
+eulogising
+b 30
+betokened
+braggarts
+bilges
+bitches
+breeders
+bureaucratisation
+bereave
+brewing
+beijing
+browning
+briefing
+bashed
+befuddling
+bit
+barterer
+bandit
+baskets
+boomeranging
+baal
+bussed
+broadcasters
+beams
+beanpole
+boathouses
+ballad
+barrows
+brilliance
+behaviourist
+bosses
+boyfriend
+lj 0
+vL 0
+m 34
+marmots
+massaging
+mappable
+mechanise
+motored
+modules
+mistranslating
+methodological
+microbiologist
+mullahs
+malevolent
+meaty
+manors
+mechanisation
+mediation
+molars
+movement
+massacred
+modifiable
+moas
+masterful
+middleoftheroad
+monolingual
+memo
+minuscule
+millipede
+mitochondria
+minor
+misanthropy
+motive
+merchants
+mind
+makeup
+manias
+wj 0
+R 11
+Refrigerated
+Rhythmical
+Reappraising
+Recurrence
+Reined
+Reconsider
+Replicate
+Rollicking
+Recidivism
+Ruminations
+Retorted
+Q 2
+Quixotic
+Quantifiers
+W 8
+Wafting
+Wetsuits
+Wormholes
+Wowed
+Withstood
+Weird
+Wanting
+Waggled
+nA 0
+x 0
+Qr 0
+U 5
+Unselfishly
+Undrinkability
+Unmodifiable
+Unassisted
+Uninhabitable
+ba 7
+bashed
+barterer
+bandit
+baskets
+baal
+ballad
+barrows
+zHD 0
+R 11
+Refrigerated
+Rhythmical
+Reappraising
+Recurrence
+Reined
+Reconsider
+Replicate
+Rollicking
+Recidivism
+Ruminations
+Retorted
+ov 4
+oversized
+overlooking
+overseas
+overcommitments
+X 0
+Wd 0
+e 31
+econometric
+extendable
+entrances
+eked
+eyeshadow
+effectually
+eyelashes
+envying
+experience
+exemptions
+ejecting
+enlighten
+exigency
+entree
+expenditures
+emu
+enshroud
+enlarger
+encourager
+epinephrine
+effector
+emphasising
+expletive
+evacuating
+exogenously
+elliptical
+exorcised
+employments
+egocentric
+elms
+eulogising

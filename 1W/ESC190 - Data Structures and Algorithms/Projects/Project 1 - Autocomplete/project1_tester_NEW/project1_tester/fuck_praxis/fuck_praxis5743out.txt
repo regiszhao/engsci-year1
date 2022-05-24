@@ -1,0 +1,5 @@
+3
+fo 0
+Z 0
+j 1
+journalist

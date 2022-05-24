@@ -1,0 +1,91 @@
+18
+xU 0
+bc 0
+qm 0
+v 4
+vertical
+vamps
+vandalise
+vehemence
+nr 0
+Pg 0
+k 1
+kidnapped
+tj 0
+p 15
+promising
+preserves
+plug
+pilfer
+pigeons
+publican
+predominated
+persecuted
+puncture
+pawpaws
+promotional
+plastering
+perpendicular
+perry
+purification
+v 4
+vertical
+vamps
+vandalise
+vehemence
+ji 0
+h 8
+hyphenates
+heraldic
+hectically
+hectares
+hopes
+heroin
+hydraulic
+hostelry
+p 15
+promising
+preserves
+plug
+pilfer
+pigeons
+publican
+predominated
+persecuted
+puncture
+pawpaws
+promotional
+plastering
+perpendicular
+perry
+purification
+Bno 0
+LPj 0
+r 14
+relativist
+ratifies
+refuels
+resembles
+resonance
+raspberries
+reposes
+reinforcements
+rigging
+reassessed
+rages
+recirculation
+repeats
+refluxing
+m 7
+mormons
+mongers
+morning
+miscellanea
+minority
+macho
+mystified
+v 4
+vertical
+vamps
+vandalise
+vehemence

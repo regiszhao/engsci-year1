@@ -1,0 +1,149 @@
+20
+q 2
+quizzical
+quietens
+e 36
+excision
+etcher
+electroencephalogram
+elastically
+excavator
+enjoining
+entomologist
+eschew
+erupted
+employ
+emu
+embarrass
+entangling
+equilateral
+elapsing
+expatriated
+evicting
+endemically
+expansive
+enfranchised
+extol
+entrapping
+endures
+elbowed
+enticing
+epigram
+evidential
+evacuate
+examined
+exposures
+enmities
+essences
+extroversion
+exhaustion
+enlightening
+emotion
+Zd 0
+i 22
+incapable
+impressionist
+investors
+inference
+incubator
+intellectual
+inflict
+inferred
+incriminates
+impermanence
+impoverish
+inebriated
+installs
+influential
+intercontinental
+inquires
+industrialise
+isthmus
+instituted
+imposing
+inflammation
+iceman
+OZo 0
+yI 0
+nc 0
+o 15
+organism
+ordination
+obscenities
+onesidedly
+outfalls
+older
+overturning
+objectless
+orthonormal
+orang
+oceanic
+originates
+ownerships
+obviates
+organisational
+mo 4
+momentum
+mowers
+monopolising
+mopeds
+C 14
+Cabarets
+Cascara
+Cordons
+Cannibals
+Congenital
+Cashless
+Cuddly
+Chimes
+Cloaca
+Crescendo
+Cemented
+Coalesces
+Car
+Curated
+np 0
+v 7
+viruses
+virtuoso
+vamped
+vouched
+vintage
+vibrations
+vibrational
+k 4
+kettles
+knightly
+kills
+kingsize
+hk 0
+cf 0
+y 1
+yale
+rl 0
+o 15
+organism
+ordination
+obscenities
+onesidedly
+outfalls
+older
+overturning
+objectless
+orthonormal
+orang
+oceanic
+originates
+ownerships
+obviates
+organisational
+src 0
+A 8
+Awry
+Anonymously
+Accruals
+Apple
+Awol
+Accomplishment
+Astronomic
+Acidophiles

@@ -1,0 +1,86 @@
+12
+A 6
+Ambiguities
+Amble
+Accessible
+Accentuation
+Avail
+Axon
+B 5
+Basses
+Beyond
+Breezes
+Brutishness
+Brain
+vaw 0
+x 0
+ux 0
+wm 0
+is 1
+islam
+s 36
+sparkler
+slipshod
+stashed
+stroked
+saints
+suspension
+scantiness
+slavering
+slinking
+steak
+stain
+snapshot
+studying
+sorts
+splashed
+snaking
+senselessness
+sanding
+selectable
+spokespersons
+sizzle
+suckers
+starchier
+sobbed
+salmonella
+subcommittee
+symbolically
+sceptred
+storeys
+standardisations
+swipes
+syrup
+stuffier
+sirens
+successes
+sloughing
+p 24
+preparative
+pullets
+pervading
+peacemaker
+pressurecooking
+percuss
+polypeptides
+pinpoint
+phenomenological
+prussian
+postnatal
+premieres
+perceptual
+puncturing
+pagoda
+prostrates
+prehistoric
+personable
+parkland
+providers
+peer
+pulped
+providential
+pallbearers
+ABe 0
+au 1
+audition
+z 0

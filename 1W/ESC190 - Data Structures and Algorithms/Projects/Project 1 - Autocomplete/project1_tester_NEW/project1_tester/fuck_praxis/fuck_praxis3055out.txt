@@ -1,0 +1,233 @@
+24
+md 0
+htd 0
+i 33
+inviolability
+imagined
+inconceivable
+illustrating
+idealisation
+impersonator
+impertinently
+insolvencies
+inclusion
+immensity
+itches
+insecure
+imitate
+intimidating
+incremental
+inflated
+interrelatedness
+interpolate
+improvise
+incontestable
+interregnum
+incestuous
+impairs
+invoice
+impinge
+inlays
+illusions
+impeachment
+inhibited
+implementers
+intelligibility
+indispensably
+inductance
+uq 0
+ch 4
+chatterer
+chow
+choppers
+chuckled
+S 21
+Sunned
+Scimitar
+Spirituals
+Spokeshaves
+Scooter
+Spread
+Somebody
+Surprises
+Subjunctive
+Scares
+Subtype
+Snows
+Starkly
+Sooner
+Segmentation
+Sinning
+Sooner
+Stacking
+Suicidal
+Squaw
+Smiler
+ztf 0
+VY 0
+Vf 0
+uaW 0
+m 39
+move
+monotone
+mackintoshes
+mobs
+ministry
+matron
+muscle
+maniacs
+moodiest
+masqueraded
+millimetre
+misappropriation
+manuring
+moan
+malfunctioned
+martyry
+misplaced
+morgue
+machinery
+mercurial
+mitosis
+motorcars
+mistrustful
+mortar
+marched
+mountaineering
+motherhood
+mightily
+molts
+mawkishness
+mexican
+margarine
+multiprogramming
+mudflats
+meanderings
+microprocessors
+means
+maximise
+moping
+v 9
+vases
+vibrate
+vaccines
+videotaping
+valance
+volute
+venice
+voyeur
+virtuoso
+dSp 0
+zd 0
+fba 0
+be 4
+belgrade
+befriended
+bell
+bewilder
+lR 0
+m 39
+move
+monotone
+mackintoshes
+mobs
+ministry
+matron
+muscle
+maniacs
+moodiest
+masqueraded
+millimetre
+misappropriation
+manuring
+moan
+malfunctioned
+martyry
+misplaced
+morgue
+machinery
+mercurial
+mitosis
+motorcars
+mistrustful
+mortar
+marched
+mountaineering
+motherhood
+mightily
+molts
+mawkishness
+mexican
+margarine
+multiprogramming
+mudflats
+meanderings
+microprocessors
+means
+maximise
+moping
+j 5
+jives
+jailed
+jealous
+juries
+jollily
+z 1
+zealousness
+qs 0
+Rr 0
+c 45
+cracks
+crumpled
+crumbliest
+cogency
+conspiring
+counterpointed
+cuffing
+cannes
+canon
+cleansed
+corticosteroid
+caudal
+chatterer
+carnal
+croakiest
+carcass
+chow
+ceremonials
+celebrations
+choppers
+capable
+conquer
+climbs
+coagulate
+colleagues
+canoed
+cravats
+conceivability
+crushingly
+calloused
+crackles
+callgirls
+contextualisation
+consumptive
+coder
+clumsiness
+chuckled
+citizenship
+colds
+conjectured
+cuba
+cot
+cultivate
+coordinator
+crisper
+mi 8
+ministry
+millimetre
+misappropriation
+misplaced
+mitosis
+mistrustful
+mightily
+microprocessors

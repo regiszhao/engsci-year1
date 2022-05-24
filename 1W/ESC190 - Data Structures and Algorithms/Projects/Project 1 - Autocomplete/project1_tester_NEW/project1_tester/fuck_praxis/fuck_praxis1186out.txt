@@ -1,0 +1,13 @@
+7
+Qdx 0
+n 2
+nightdress
+nauseate
+n 2
+nightdress
+nauseate
+YEb 0
+G 1
+Gripe
+cp 0
+NZ 0

@@ -1,0 +1,60 @@
+29
+dr 0
+moq 0
+jk 0
+fpF 0
+s 4
+showcases
+speedwell
+simulacrum
+sessile
+ra 0
+A 2
+Aweless
+Acquiescing
+wtb 0
+v 1
+visible
+oo 0
+xm 0
+a 2
+adjectives
+across
+p 3
+polisher
+poncho
+puffed
+Hf 0
+p 3
+polisher
+poncho
+puffed
+Ym 0
+je 1
+jeering
+Wgc 0
+s 4
+showcases
+speedwell
+simulacrum
+sessile
+h 2
+holdup
+hearsay
+i 4
+initialisations
+incommoding
+inadvisedly
+inexhaustible
+lv 0
+v 1
+visible
+C 0
+C 0
+w 1
+weightlifters
+tw 0
+k 1
+kettleful
+d 1
+doesnt

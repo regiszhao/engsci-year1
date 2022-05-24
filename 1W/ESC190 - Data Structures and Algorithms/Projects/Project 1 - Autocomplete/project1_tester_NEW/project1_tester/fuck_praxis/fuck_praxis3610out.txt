@@ -1,0 +1,167 @@
+24
+oim 0
+l 12
+localisations
+lackey
+loops
+laity
+lambskin
+leap
+lady
+lag
+lambing
+longs
+legislated
+lambs
+Y 3
+Yeasts
+Yokel
+Youth
+bg 0
+xlv 0
+a 22
+assemblage
+arraying
+assembly
+awoke
+assent
+adjudication
+autarchy
+accused
+abundantly
+amorously
+acquiesced
+algal
+avowal
+airworthiness
+aeons
+awoken
+anemones
+assailant
+academic
+aprons
+applaud
+airbase
+B 8
+Bobtails
+Ballots
+Binders
+Blistering
+Blunders
+Breakup
+Beavering
+Beseeching
+xD 0
+ud 0
+vX 0
+N 2
+Nouns
+Nameplate
+T 5
+Timetabled
+Typecasting
+Traitorous
+Tolerance
+Tasting
+dqk 0
+t 14
+tyres
+tyrannise
+typesetter
+tinkering
+tweeds
+thermostatically
+textuality
+terminal
+thongs
+tempestuous
+tootle
+trajectories
+tuxedo
+tenancies
+d 19
+dexterous
+distaff
+diesel
+dim
+decaffeinate
+diatom
+decried
+defame
+dissipation
+disservice
+derogate
+dwell
+discomfited
+deployment
+dusted
+disproportional
+digestion
+dryness
+daub
+dC 0
+vsM 0
+Xy 0
+Pt 0
+l 12
+localisations
+lackey
+loops
+laity
+lambskin
+leap
+lady
+lag
+lambing
+longs
+legislated
+lambs
+mx 0
+a 22
+assemblage
+arraying
+assembly
+awoke
+assent
+adjudication
+autarchy
+accused
+abundantly
+amorously
+acquiesced
+algal
+avowal
+airworthiness
+aeons
+awoken
+anemones
+assailant
+academic
+aprons
+applaud
+airbase
+y 1
+yuck
+a 22
+assemblage
+arraying
+assembly
+awoke
+assent
+adjudication
+autarchy
+accused
+abundantly
+amorously
+acquiesced
+algal
+avowal
+airworthiness
+aeons
+awoken
+anemones
+assailant
+academic
+aprons
+applaud
+airbase

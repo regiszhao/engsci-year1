@@ -1,0 +1,65 @@
+10
+pvc 0
+ip 0
+n 9
+numberplate
+nothingness
+nursemaid
+needlecraft
+newscast
+normalisers
+nations
+nipped
+newness
+o 11
+oscilloscopes
+overexposed
+optimist
+overworked
+oxidants
+oils
+outgoings
+overflown
+origin
+offerings
+objector
+l 17
+lifetimes
+litres
+lyrically
+legates
+loudest
+lunges
+landfill
+limbering
+loafer
+loser
+legacy
+lighters
+lessor
+loggers
+lamppost
+leapfrog
+lychees
+xad 0
+zn 0
+x 0
+l 17
+lifetimes
+litres
+lyrically
+legates
+loudest
+lunges
+landfill
+limbering
+loafer
+loser
+legacy
+lighters
+lessor
+loggers
+lamppost
+leapfrog
+lychees
+vl 0

@@ -1,0 +1,9 @@
+6
+xBm 0
+L 1
+Legible
+se 1
+serenade
+udH 0
+yTo 0
+eH 0

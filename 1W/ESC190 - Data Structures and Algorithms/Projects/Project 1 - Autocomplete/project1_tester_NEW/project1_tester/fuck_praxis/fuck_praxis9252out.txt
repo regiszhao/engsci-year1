@@ -1,0 +1,226 @@
+25
+pt 0
+yw 0
+Q 1
+Quarry
+iz 0
+BP 0
+e 23
+ethnology
+evader
+ethnic
+esoteric
+executions
+enchanting
+emboldening
+emasculated
+enthusiasm
+engineer
+eels
+exaltation
+endues
+engross
+embarkation
+eschewing
+endgame
+evangelising
+exclaiming
+expansible
+entreated
+elongation
+emphysema
+k 2
+knuckles
+knapsacks
+O 5
+Owners
+Oars
+Offcuts
+Overworked
+Obstinately
+Bp 0
+to 0
+G 15
+Goahead
+Grinds
+Gavials
+Gunk
+Grenade
+Goggles
+Ganders
+Greedily
+George
+Gentlemen
+Grassroots
+Gristle
+Garrotting
+Gophers
+Grinding
+s 48
+shoplifted
+systematic
+spotlit
+suicides
+sciences
+semiconducting
+synergism
+supervisor
+snowballing
+scottish
+shambling
+shacks
+susceptible
+scream
+swollen
+summer
+symbolisation
+suitabilities
+sipper
+scuffles
+slivers
+sloppiest
+sprinted
+shagged
+sexed
+spectrophotometers
+stomach
+sign
+spoofs
+seagreen
+sedentary
+storeys
+skirmishes
+sublimate
+smoker
+sop
+starship
+suites
+silencing
+subdivided
+subtracts
+screw
+satisfactory
+surmounting
+savagery
+superconductors
+seas
+spotters
+mRn 0
+d 35
+deboned
+drooping
+denominated
+destabilising
+drugs
+decoyed
+digestives
+deduct
+discretely
+demarcation
+deceptive
+defend
+digressed
+disjunction
+diaspora
+disassembles
+defenceless
+darkest
+dreamlike
+dishonest
+dredger
+draping
+drifters
+deserter
+doh
+dice
+deactivating
+disbeliever
+deliriously
+dames
+divisors
+daniel
+designable
+dowelling
+deserted
+Yev 0
+d 35
+deboned
+drooping
+denominated
+destabilising
+drugs
+decoyed
+digestives
+deduct
+discretely
+demarcation
+deceptive
+defend
+digressed
+disjunction
+diaspora
+disassembles
+defenceless
+darkest
+dreamlike
+dishonest
+dredger
+draping
+drifters
+deserter
+doh
+dice
+deactivating
+disbeliever
+deliriously
+dames
+divisors
+daniel
+designable
+dowelling
+deserted
+B 11
+Bulgaria
+Banishing
+Bemoaning
+Bermuda
+Beauties
+Beers
+Bulkheads
+Bumbler
+Breasted
+Basement
+Biologist
+pnS 0
+e 23
+ethnology
+evader
+ethnic
+esoteric
+executions
+enchanting
+emboldening
+emasculated
+enthusiasm
+engineer
+eels
+exaltation
+endues
+engross
+embarkation
+eschewing
+endgame
+evangelising
+exclaiming
+expansible
+entreated
+elongation
+emphysema
+gK 0
+iW 0
+mr 0
+mv 0
+Dr 2
+Dregs
+Draped
+fQG 0

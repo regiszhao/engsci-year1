@@ -1,0 +1,111 @@
+20
+sk 0
+nx 0
+bm 0
+oth 0
+az 1
+azure
+d 21
+defeatism
+discuss
+demolishes
+dolt
+disapproving
+downpours
+distinguished
+decipherments
+drivelling
+divisibility
+desolating
+discoursed
+deodorant
+disembowel
+downy
+draw
+dowdier
+dwarfs
+deliverance
+dentist
+dribbler
+To 1
+Toggling
+yp 0
+Ma 1
+Mask
+v 3
+ventriloquists
+valise
+vowel
+fO 0
+y 0
+rc 0
+r 27
+roguish
+rope
+rocs
+regulated
+raincoat
+redound
+retrogressive
+requital
+raps
+rewriting
+refreeze
+recreation
+reshaping
+reconstitute
+rummages
+roadworks
+reconnection
+reallocate
+rippled
+roulette
+reformed
+reposes
+regenerate
+resident
+rob
+revoked
+reflections
+J 0
+i 15
+inventory
+intergalactic
+impetuosity
+insecurity
+invests
+impositions
+intermediates
+inheritances
+interlinked
+inherent
+interacting
+interfere
+invalidation
+indispensable
+irrepressibly
+Bn 0
+qt 0
+Vr 0
+d 21
+defeatism
+discuss
+demolishes
+dolt
+disapproving
+downpours
+distinguished
+decipherments
+drivelling
+divisibility
+desolating
+discoursed
+deodorant
+disembowel
+downy
+draw
+dowdier
+dwarfs
+deliverance
+dentist
+dribbler

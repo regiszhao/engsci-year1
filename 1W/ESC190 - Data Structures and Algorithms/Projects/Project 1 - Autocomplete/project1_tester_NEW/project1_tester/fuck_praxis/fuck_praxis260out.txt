@@ -1,0 +1,173 @@
+21
+Z 0
+v 9
+vigilant
+voyaging
+ventilation
+ventriloquy
+volubility
+vibrate
+vacated
+valediction
+velocipede
+to 1
+tournament
+S 20
+Shoulder
+Skip
+Selfdiscipline
+Straggling
+Snowfalls
+Spacesuits
+Slurring
+Starring
+Spangles
+Sublimate
+Speechless
+Stylish
+Shrub
+Straws
+Suckle
+Stringer
+Stoolpigeon
+Specious
+Sunniest
+Squared
+z 0
+lf 0
+b 29
+battledress
+bitumen
+belching
+baptises
+breast
+betimes
+beguile
+braying
+bluffing
+bull
+basking
+beelines
+boasters
+bench
+businessman
+bluebells
+bishoprics
+bookseller
+blusher
+brooms
+breccias
+boxers
+binocular
+bravado
+bargained
+bleachers
+bounders
+burundi
+broil
+c 43
+causing
+cot
+cellar
+cloakanddagger
+condonable
+chainsmoking
+capstans
+capitulating
+clammed
+consumes
+compacted
+concretions
+cognizance
+collated
+coma
+cafes
+convention
+contralto
+complain
+corpora
+clique
+coasting
+cogent
+cravat
+cerebellum
+cassock
+collins
+counting
+cranberry
+chirruped
+cryptanalysis
+conditionally
+categorise
+coordinators
+claymore
+concise
+carboxyl
+creationists
+commodities
+crumb
+castled
+cuttings
+closure
+T 10
+Tell
+Tuppences
+Trekked
+Transfusing
+Tragedies
+Tortoises
+Tun
+Tasteless
+Transduction
+Thirds
+mr 0
+tJ 0
+i 25
+immunology
+investigators
+iterates
+impolitic
+impact
+its
+iberia
+infinitesimal
+implanted
+illiteracy
+intergalactic
+ideograms
+implanting
+infiltrators
+indicants
+incursion
+imperfect
+isolators
+influential
+inflammatory
+imagination
+inflictions
+immunity
+insistently
+infiltrator
+lo 2
+loosed
+loftily
+nl 0
+gkn 0
+cq 0
+Dt 0
+w 12
+wounded
+wroughtiron
+wicketkeeper
+weightlifter
+wright
+woolly
+wiped
+weightiest
+worsens
+whittling
+wowed
+waft
+oan 0
+dmu 0
+ns 0

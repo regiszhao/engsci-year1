@@ -1,0 +1,11 @@
+9
+eq 0
+IR 0
+gMz 0
+npw 0
+nz 0
+hE 0
+z 0
+sk 1
+skinner
+arj 0

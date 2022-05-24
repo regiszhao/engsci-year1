@@ -1,0 +1,17 @@
+14
+cBD 0
+v 1
+venal
+a 0
+Ti 0
+ccp 0
+h 0
+kaR 0
+v 1
+venal
+saI 0
+WR 0
+xi 0
+kan 0
+bg 0
+yf 0

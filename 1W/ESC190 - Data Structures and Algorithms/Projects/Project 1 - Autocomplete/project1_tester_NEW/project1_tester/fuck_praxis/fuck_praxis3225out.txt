@@ -1,0 +1,143 @@
+27
+db 0
+uCP 0
+BM 0
+v 10
+vacuous
+volatiles
+vials
+vitamin
+viewfinder
+vanishes
+vinyls
+venus
+verdicts
+vilify
+t 25
+terminology
+tearless
+trustworthy
+templates
+talcum
+tannin
+trait
+trait
+truncation
+transacting
+theatres
+trooper
+titres
+titration
+typhoid
+types
+tolerantly
+thousandths
+trotters
+taboo
+tooted
+tingling
+turfed
+tuft
+textures
+k 2
+kilobytes
+kneeled
+bT 0
+kj 0
+m 16
+monstrously
+mordant
+mop
+mediocre
+misfit
+mortals
+multilevel
+mistletoe
+mildness
+mentors
+meeter
+mooring
+meaninglessly
+marsupial
+metals
+mobile
+H 7
+Hollowly
+Homogenised
+Humiliating
+Hormonally
+Hoop
+Heavenly
+Hermits
+Tgs 0
+hu 1
+humanitarianism
+Elm 0
+GE 0
+b 27
+blueberry
+barleycorn
+beings
+blackouts
+bearable
+bides
+bibs
+basins
+backslapping
+blacklisted
+bigotry
+biltong
+bluenile
+bright
+badness
+banking
+brownies
+brusqueness
+bachelors
+browser
+brakes
+brownies
+bungalows
+blackness
+beefcake
+banker
+bunk
+rHn 0
+SQ 0
+ix 0
+rc 0
+Qr 0
+xy 0
+nc 0
+mZ 0
+N 3
+Nicest
+Nyala
+Nibble
+pb 0
+S 15
+Slaughter
+Showcasing
+Shortcircuited
+Spider
+Sweetest
+Shallots
+Snaffle
+Shaved
+Stormers
+Seeable
+Schoolboys
+Sunning
+Symbiont
+Syndicalism
+Surfing
+R 9
+Robotic
+Remainders
+Railways
+Retrieving
+Reckons
+Representing
+Rubidium
+Rendition
+Rumbustious

@@ -1,0 +1,134 @@
+28
+nn 0
+eCh 0
+Z 0
+b 13
+broil
+buggers
+babies
+buttresses
+ball
+boathouses
+bangle
+ballade
+billows
+baits
+bondholders
+busies
+branch
+Ph 0
+jp 0
+hj 0
+yzt 0
+p 20
+pacifists
+pesky
+pikemen
+pathway
+physiologists
+profits
+parfaits
+palmtops
+partridges
+pebbled
+predestination
+prejudged
+perforations
+programming
+punchlines
+prolapsed
+puzzled
+postmodern
+playfellow
+pixel
+pqx 0
+Tq 0
+x 0
+Hy 0
+tgb 0
+a 16
+antithetically
+annoy
+axes
+agitators
+apprentices
+acidrain
+approached
+advertise
+assessable
+acidification
+alleviated
+allured
+allocations
+acrid
+anatomists
+anchor
+t 11
+tallish
+transplanted
+tenderer
+temperamentally
+titters
+tappers
+toil
+telecommuting
+tampering
+thrashing
+transient
+cq 0
+mc 0
+e 9
+envelope
+etymologists
+essentials
+encoded
+eduction
+excavations
+extractable
+essayist
+ensuing
+an 4
+antithetically
+annoy
+anatomists
+anchor
+ghD 0
+p 20
+pacifists
+pesky
+pikemen
+pathway
+physiologists
+profits
+parfaits
+palmtops
+partridges
+pebbled
+predestination
+prejudged
+perforations
+programming
+punchlines
+prolapsed
+puzzled
+postmodern
+playfellow
+pixel
+r 11
+reprogramming
+rarity
+retrievals
+rectilinear
+racialism
+radiograph
+retrievers
+roses
+refreshments
+renegades
+resigns
+qP 0
+gq 0
+dl 0
+z 0
+acr 1
+acrid

@@ -1,0 +1,59 @@
+19
+V 1
+Viking
+A 3
+Adage
+Album
+Agendas
+Icj 0
+A 3
+Adage
+Album
+Agendas
+mj 0
+c 15
+consulate
+cougars
+castors
+childly
+compassed
+childishly
+collisional
+chromatographic
+consultative
+claymore
+centrifugally
+criticisms
+caymans
+condensations
+constables
+x 0
+U 1
+Untouchable
+mu 0
+Exb 0
+l 7
+levering
+languor
+lorryload
+lampreys
+lineout
+literate
+liberate
+t 7
+toleration
+terrorstricken
+tangled
+thatch
+talkers
+tracking
+typesetting
+ogp 0
+L 2
+Leaflets
+Legend
+sh 0
+fQ 0
+AEo 0
+oeo 0
+mL 0

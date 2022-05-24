@@ -1,0 +1,234 @@
+28
+dr 3
+dryer
+dressing
+drew
+r 42
+recites
+radials
+rapt
+ringers
+reflective
+routeing
+reformulating
+repose
+reassured
+reactivated
+reinvested
+reclines
+reconstituting
+regional
+retried
+raj
+remands
+rename
+rambling
+rescales
+revaluations
+recollection
+reinstating
+rankling
+replying
+resurface
+retries
+reciprocation
+rests
+roofed
+recapitulate
+revelations
+revelling
+rumpled
+relatedness
+realm
+rowdily
+rebuffed
+redstarts
+ragstoriches
+reflexive
+reflux
+wp 0
+E 10
+Evened
+Electrodynamics
+Exhibited
+Elastics
+Eradicate
+Electromechanical
+Epsilon
+Economies
+Exploitation
+Enclosed
+koe 0
+sy 3
+syrupy
+symbolisation
+sympathised
+wMT 0
+vQt 0
+eD 0
+f 27
+faithful
+felicitations
+formaldehyde
+fleck
+forging
+furlong
+fluster
+flighted
+flukey
+fern
+framework
+foamiest
+faun
+flagships
+flatterer
+familiarly
+foots
+fornication
+fathoming
+futurists
+fates
+fancifully
+frontispieces
+fleshly
+friendship
+frilled
+forerunner
+fd 0
+unx 0
+gy 1
+gyromagnetic
+vz 0
+xUa 0
+dzr 0
+xos 0
+t 36
+trooped
+terms
+train
+tents
+tastings
+thoughts
+tablespoons
+trot
+transliterate
+telekinesis
+thieving
+translations
+totters
+tusk
+teeniest
+treasonous
+trueblue
+terminological
+thirst
+trick
+thermal
+totally
+tackling
+trendiness
+tee
+topcoat
+tunisian
+trolleys
+traversing
+toothbrushes
+twilit
+tipoff
+technocrats
+tracked
+tunes
+tories
+how 0
+Ra 4
+Radon
+Ravingly
+Rapped
+Ranters
+f 27
+faithful
+felicitations
+formaldehyde
+fleck
+forging
+furlong
+fluster
+flighted
+flukey
+fern
+framework
+foamiest
+faun
+flagships
+flatterer
+familiarly
+foots
+fornication
+fathoming
+futurists
+fates
+fancifully
+frontispieces
+fleshly
+friendship
+frilled
+forerunner
+pz 0
+cue 0
+Vb 0
+hO 0
+he 8
+helmet
+held
+headphones
+height
+herm
+headers
+hems
+head
+r 42
+recites
+radials
+rapt
+ringers
+reflective
+routeing
+reformulating
+repose
+reassured
+reactivated
+reinvested
+reclines
+reconstituting
+regional
+retried
+raj
+remands
+rename
+rambling
+rescales
+revaluations
+recollection
+reinstating
+rankling
+replying
+resurface
+retries
+reciprocation
+rests
+roofed
+recapitulate
+revelations
+revelling
+rumpled
+relatedness
+realm
+rowdily
+rebuffed
+redstarts
+ragstoriches
+reflexive
+reflux
+kn 2
+knackers
+knaves

@@ -1,0 +1,103 @@
+15
+qx 0
+cGT 0
+qiF 0
+l 15
+lessees
+liquorice
+liberties
+loess
+lyricists
+life
+liquidators
+lexicographic
+luckless
+love
+lamplit
+lazily
+lilac
+lowliest
+lulls
+h 12
+haemorrhoids
+hereabouts
+humanising
+hypnotic
+hydrogenation
+hoist
+helium
+handshakes
+hideandseek
+hierarchically
+hamlets
+highly
+a 34
+amateurs
+at
+anode
+appears
+album
+abbreviation
+almshouse
+aerate
+ambulant
+abysmal
+absolutely
+august
+abolishes
+actually
+astrolabes
+abet
+axially
+amoral
+amphitheatres
+afterlives
+arrogant
+alphabetic
+applet
+axeheads
+attenuates
+atherosclerosis
+autopilot
+appendicitis
+apprised
+aeronautics
+agreeing
+abysses
+alehouse
+auroral
+zu 0
+l 15
+lessees
+liquorice
+liberties
+loess
+lyricists
+life
+liquidators
+lexicographic
+luckless
+love
+lamplit
+lazily
+lilac
+lowliest
+lulls
+znG 0
+wp 0
+n 3
+neutral
+natal
+narcissistic
+ry 0
+mE 0
+fhk 0
+v 8
+volleys
+vindicating
+vulva
+vulnerable
+violet
+vibrational
+veiled
+ventilators

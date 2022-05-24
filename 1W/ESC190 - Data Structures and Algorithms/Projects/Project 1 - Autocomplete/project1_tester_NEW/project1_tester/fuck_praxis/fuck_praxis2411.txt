@@ -1,0 +1,18 @@
+17
+   99719	utensil
+   64014	bid
+   67382	Squeezes
+   14840	fragments
+   77552	usages
+   33075	corridor
+   20346	Anvils
+   89589	gallons
+   21481	Economic
+   69670	coatings
+   35099	rupert
+   58394	Waiters
+   37572	Worrier
+   81134	jesters
+   14333	Idlest
+   57297	formations
+   32727	nearly

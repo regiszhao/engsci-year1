@@ -1,0 +1,7 @@
+3
+n 3
+needles
+narrowing
+numberplate
+z 0
+Tsl 0

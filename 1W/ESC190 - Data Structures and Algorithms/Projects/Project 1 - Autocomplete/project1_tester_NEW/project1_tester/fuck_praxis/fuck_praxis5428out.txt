@@ -1,0 +1,83 @@
+23
+nlm 0
+ids 0
+z 1
+zealots
+dbP 0
+QAM 0
+nb 0
+jh 0
+rc 0
+qL 0
+I 9
+Ingathered
+Intensify
+Incremental
+Invariable
+Instead
+Ignited
+Incompetents
+Interiors
+Iguanas
+g 20
+griever
+gloom
+gusto
+globed
+grimacing
+greases
+govern
+gooseberries
+greyish
+glinted
+goatskin
+gaunter
+gulping
+guava
+gondolas
+ganglia
+gluing
+glowered
+gagging
+guzzler
+qz 0
+Ml 0
+x 0
+bx 0
+Yw 0
+jwU 0
+oY 0
+j 9
+jukeboxes
+jars
+joys
+jugs
+joinery
+jots
+jawline
+jamaican
+jackets
+dg 0
+g 20
+griever
+gloom
+gusto
+globed
+grimacing
+greases
+govern
+gooseberries
+greyish
+glinted
+goatskin
+gaunter
+gulping
+guava
+gondolas
+ganglia
+gluing
+glowered
+gagging
+guzzler
+vy 0
+lq 0

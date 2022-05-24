@@ -1,0 +1,91 @@
+26
+L 2
+Laboured
+Louts
+P 4
+Photocopiers
+Palaeontologists
+Placate
+Poetise
+zu 0
+sC 0
+a 8
+amuse
+advisory
+angels
+annealed
+airflow
+appoint
+acquainted
+ardent
+ff 0
+tf 0
+R 4
+Roughage
+Reed
+Revised
+Romany
+EGb 0
+jZ 0
+o 3
+overfishing
+orientable
+oversimplification
+f 8
+filial
+farmhouse
+foliate
+femur
+fattier
+falteringly
+freestyle
+flying
+eM 0
+H 4
+Hitchhiker
+Hockey
+Hatched
+Hyssop
+jm 0
+XC 0
+av 0
+kTe 0
+Pjk 0
+T 4
+Thinness
+Turret
+Teaparty
+Task
+anq 0
+q 1
+qualifier
+iR 0
+mL 0
+t 9
+truisms
+twill
+toiler
+thumbing
+tablebay
+travel
+thoracic
+tramp
+tithing
+s 17
+slicer
+screeched
+sum
+senhors
+segment
+steering
+sunshine
+sensuously
+salamander
+scuffled
+smokes
+songbirds
+subfamily
+sickliest
+smallminded
+scalps
+scrambler

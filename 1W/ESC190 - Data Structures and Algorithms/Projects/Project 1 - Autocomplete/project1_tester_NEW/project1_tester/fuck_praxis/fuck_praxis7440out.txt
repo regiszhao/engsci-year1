@@ -1,0 +1,93 @@
+23
+lr 0
+H 2
+Hydra
+Husked
+Yp 0
+sd 0
+kN 0
+Ro 0
+h 10
+heckles
+heads
+hardbacks
+hydrogenated
+hiccup
+heckling
+hysteria
+hairsplitting
+householder
+head
+j 3
+jolly
+joint
+juicier
+l 15
+lolled
+lays
+lied
+linearity
+linoleum
+landholdings
+leech
+lard
+leaderless
+lacing
+learnedly
+loincloth
+luminance
+lunchtimes
+lode
+P 6
+Pierce
+Proximately
+Pestilence
+Perplexity
+Parisian
+Polymorphism
+VQ 0
+dt 0
+V 1
+Valise
+v 8
+ventricles
+vibrancy
+voodoo
+vicarious
+vendetta
+voile
+vibration
+volley
+rv 0
+N 4
+Navvy
+Neighbourhood
+Neuters
+Norms
+mgu 0
+qq 0
+e 19
+envision
+enumerator
+electrification
+embalmers
+emulated
+educationalist
+ethnological
+eelworm
+extents
+exegetical
+encompass
+erratic
+elands
+ethological
+eccentrics
+eeriest
+expunges
+exhibitioners
+empty
+VO 0
+ta 1
+tallow
+UQ 0
+hr 0

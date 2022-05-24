@@ -1,0 +1,205 @@
+26
+j 3
+jingles
+jilt
+joined
+c 50
+chronicle
+chairman
+confines
+caftans
+canvasses
+cholesterol
+connived
+cuttingly
+creeper
+covenant
+custody
+cardiovascular
+caravan
+contends
+cauterising
+considered
+characterise
+chordal
+cravenly
+chromium
+convenes
+crests
+characterisations
+charts
+congregating
+consisting
+curtsies
+coverup
+conspirator
+connected
+comity
+clanged
+camaraderie
+crisped
+complimented
+clapping
+cyclone
+curators
+convertibility
+cluster
+chandelier
+circumference
+clued
+clearances
+compensate
+care
+crony
+crankshaft
+coalesce
+curtail
+W 4
+Wildfowl
+Whipcord
+Writhing
+Weaken
+dn 0
+k 3
+knifing
+kinds
+kinetically
+k 3
+knifing
+kinds
+kinetically
+ZB 0
+DDh 0
+m 21
+marginalia
+mollifies
+mining
+minicab
+mellowing
+math
+mucosa
+maidens
+modelling
+muting
+mantled
+microphone
+mayday
+misplaced
+microfilm
+mechanisation
+midlife
+mystic
+marigolds
+misfired
+mistrusting
+tHM 0
+u 16
+untroubled
+unmoving
+uninterested
+unaltered
+unlamented
+unpreparedness
+unified
+unbaptised
+unredeemed
+untruthful
+unproblematic
+uncrossable
+undeclared
+ultramarine
+undersigned
+unquantified
+gg 0
+w 17
+welly
+winners
+wrongdoer
+whalers
+web
+wilts
+ways
+weakkneed
+whatsoever
+wellread
+wavered
+weakminded
+wasting
+wintertime
+wildebeest
+witty
+watchmen
+ff 0
+fkf 0
+Xg 0
+lMa 0
+t 25
+tightrope
+topographic
+talcum
+trance
+thunderclap
+trespassers
+trencher
+tenant
+tea
+toilets
+tousles
+twiggy
+timed
+tonguetwister
+treason
+trilingual
+trestles
+transmit
+turpentine
+than
+thrill
+tents
+to
+tachyons
+thunderclap
+U 5
+Unaided
+Unreliable
+Unachievable
+Uneasiness
+Uncritically
+C 14
+Colourants
+Cautiously
+Containment
+Chugging
+Concentration
+Caboodle
+Chants
+Clasps
+Clasper
+Copiers
+Choirmaster
+Coercions
+Compress
+Comfort
+Ed 0
+Ev 0
+x 0
+w 17
+welly
+winners
+wrongdoer
+whalers
+web
+wilts
+ways
+weakkneed
+whatsoever
+wellread
+wavered
+weakminded
+wasting
+wintertime
+wildebeest
+witty
+watchmen
+qb 0
+SQW 0

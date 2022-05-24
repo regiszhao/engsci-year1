@@ -1,0 +1,122 @@
+20
+NGc 0
+z 1
+zeniths
+mh 0
+vk 0
+a 36
+acceptably
+abjectly
+armature
+annotates
+amiable
+accentuate
+asides
+abyssal
+academician
+alcoves
+aqueduct
+asymptomatic
+automorphisms
+axiomatising
+adventures
+authoring
+abetting
+accommodations
+addressable
+antecedents
+agar
+arrowheads
+affections
+alluringly
+arcaneness
+advancer
+assistant
+antecedent
+appraising
+abomb
+ascend
+alight
+amigo
+agglomerating
+availing
+automates
+N 3
+Nebula
+Nincompoop
+Nursing
+ov 5
+overdose
+overtone
+overstatement
+overturns
+overheated
+ki 3
+kilojoules
+kicking
+kiwis
+z 1
+zeniths
+gPx 0
+hC 0
+Ca 1
+Caustic
+b 36
+bullion
+beak
+baulk
+bibs
+bazookas
+bookmakers
+bottommost
+bishopric
+beginning
+bottommost
+branches
+bromide
+babyish
+beseech
+busman
+boned
+blighted
+bigness
+broadcast
+bustled
+briber
+bloodiest
+beadwork
+bushiest
+boxtops
+bluecollar
+bevel
+bazooka
+buries
+black
+blowfly
+bedchamber
+bulbs
+burned
+beechnut
+bifurcations
+Bv 0
+dd 0
+z 1
+zeniths
+oeZ 0
+v 5
+voicings
+valet
+vegetational
+vexation
+violent
+I 9
+Impoverishment
+Insecure
+Individualised
+Insulant
+Infection
+Insistent
+Incision
+Immortals
+Importers
+gco 0

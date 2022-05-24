@@ -1,0 +1,190 @@
+19
+W 4
+Woodworkers
+Wends
+Workhouses
+Welder
+S 18
+Sacking
+Stunts
+Silvers
+Seepage
+Shallower
+Symbolic
+Spate
+Suitable
+Sweepable
+Smothering
+Saxophones
+Substructures
+Slush
+Serums
+Surfed
+Spells
+Slays
+Satirically
+l 23
+loses
+latitude
+lording
+lazing
+levitating
+louvers
+logged
+louder
+latching
+lark
+lettering
+legless
+levitate
+ligatured
+lament
+lamely
+looming
+ledge
+lounger
+loath
+lifelessly
+lungfish
+lengthiest
+o 12
+outnumbers
+oozed
+obtained
+oriented
+overstepping
+ordinariness
+operations
+opuses
+organising
+omniscience
+outperforming
+other
+f 22
+fits
+fatalism
+flayed
+fed
+forties
+fictive
+frothiest
+fantails
+fuzziness
+frivolous
+formalisms
+fashioning
+funk
+fiddlesticks
+fetching
+factorisation
+fretted
+flashback
+facet
+fizzled
+fiddlers
+folds
+p 44
+peremptory
+positives
+pony
+promptness
+pennants
+paltry
+polycyclic
+peachiest
+pursuing
+phylum
+placings
+pronunciations
+pox
+paginating
+pontifications
+profuse
+preclinical
+periods
+polycotton
+paceman
+paragon
+precipitous
+periastron
+ploughshares
+planing
+predeclared
+policyholder
+peatland
+pictured
+pelmet
+prays
+pedantically
+penniless
+presupposed
+pianola
+phosphatase
+prizewinner
+paperbacks
+posy
+promulgated
+paralleling
+pogrom
+photovoltaic
+peter
+bv 0
+k 0
+wCD 0
+UCY 0
+Bza 0
+xo 0
+u 19
+unrevealing
+unroll
+unlikelihood
+undesired
+unorthodoxy
+unraisable
+uninfluenced
+unscrewing
+uglification
+unvarying
+umbras
+unfeeling
+unresisting
+unnoticeable
+unwed
+unhelpful
+unaccepted
+users
+unfasten
+rx 0
+i 27
+importunately
+impreciseness
+intransigent
+ignorantly
+insulting
+ineptitude
+indications
+impedimenta
+imperial
+interdicted
+invisibility
+invader
+invitingly
+interviewers
+incapacitate
+itemises
+injured
+indaba
+interact
+iberia
+impulsively
+informers
+invites
+involve
+infraction
+imploded
+innumerably
+Bba 0
+afo 1
+afoot
+nw 0
+mSz 0

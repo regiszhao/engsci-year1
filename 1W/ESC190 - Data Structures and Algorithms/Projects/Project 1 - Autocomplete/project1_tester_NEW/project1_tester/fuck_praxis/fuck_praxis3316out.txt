@@ -1,0 +1,32 @@
+21
+W 1
+Wellformed
+y 0
+lw 0
+npc 0
+ngy 0
+hn 0
+wz 0
+ag 0
+Ad 0
+Mm 0
+l 1
+locksmith
+ti 0
+fx 0
+hn 0
+bY 0
+Vf 0
+d 2
+divider
+doorways
+hv 0
+D 2
+Dole
+Destabilisation
+wn 0
+t 4
+this
+turncoats
+trouts
+theologies

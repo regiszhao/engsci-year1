@@ -1,0 +1,220 @@
+25
+vQ 0
+f 19
+fluster
+familial
+foehns
+flares
+faulting
+fender
+facades
+flatulence
+freelancing
+from
+finiteness
+fluently
+feeds
+flimsier
+fraternity
+flexible
+fixings
+favouring
+freshness
+W 7
+Widens
+Wondrously
+Washerwoman
+Wholehearted
+Workhouses
+Wellpaid
+Wrongdoing
+i 13
+infants
+inspirations
+inconsistencies
+immunises
+improbably
+insincerity
+invention
+impermanence
+impossibility
+ineptness
+integrally
+intoxicant
+incision
+b 17
+bridegroom
+bogglingly
+berthed
+bipolar
+buffs
+barley
+brandishes
+blowers
+blancmange
+blips
+beginners
+brews
+blades
+budgerigar
+blonder
+balloted
+bermuda
+r 17
+roaming
+rogues
+repacked
+rhubarb
+rosier
+retirement
+rovers
+rampart
+referenced
+repacked
+restroom
+remitting
+refs
+reckon
+reluctance
+retrenchment
+recuperated
+m 20
+multiplexing
+manpower
+menthol
+monthly
+motors
+magnetodynamics
+moms
+midfielders
+morass
+masts
+maximise
+mercilessly
+manning
+mistreatment
+metro
+mobility
+marking
+moistness
+memo
+mummified
+vs 0
+d 23
+despot
+devoid
+dominant
+denudes
+distractingly
+dyslexic
+draftee
+demarcating
+dragoon
+dandelions
+dude
+deferentially
+deceived
+diocese
+ditched
+delusive
+deluges
+dropsy
+daintiness
+distrustfully
+daydream
+detriment
+defamation
+on 0
+v 9
+venereal
+verbose
+vaunted
+victoriously
+vastly
+visitors
+vivacity
+viceroys
+vegetated
+Zp 0
+r 17
+roaming
+rogues
+repacked
+rhubarb
+rosier
+retirement
+rovers
+rampart
+referenced
+repacked
+restroom
+remitting
+refs
+reckon
+reluctance
+retrenchment
+recuperated
+dP 0
+ug 0
+u 14
+uncontroversial
+unsocial
+urticaria
+unsealed
+unreasoned
+unguided
+unfalsifiable
+unspeakable
+unequivocal
+unneeded
+uninfected
+unsolved
+upturn
+unwrapping
+R 9
+Repudiating
+Rabble
+Ruth
+Racier
+Rumpuses
+Roc
+Revues
+Retardant
+Rarest
+tr 6
+tracers
+treatable
+transformational
+trice
+traitorously
+truth
+ty 0
+Mg 0
+Ns 0
+r 17
+roaming
+rogues
+repacked
+rhubarb
+rosier
+retirement
+rovers
+rampart
+referenced
+repacked
+restroom
+remitting
+refs
+reckon
+reluctance
+retrenchment
+recuperated
+pZ 0
+eC 0
+D 6
+Dialling
+Distinctively
+Dignitary
+Deafer
+Ducking
+Disposition

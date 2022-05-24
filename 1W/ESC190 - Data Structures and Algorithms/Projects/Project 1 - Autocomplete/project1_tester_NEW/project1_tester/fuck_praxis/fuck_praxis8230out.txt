@@ -1,0 +1,49 @@
+17
+l 1
+lavas
+T 2
+Tub
+Topaz
+svE 0
+Nm 0
+b 6
+believable
+born
+beneath
+brickwork
+barking
+blueprints
+Gs 0
+e 2
+evocative
+eclipsed
+w 3
+wetting
+wading
+weaving
+e 2
+evocative
+eclipsed
+V 3
+Variance
+Vagrancy
+Virulence
+pk 0
+re 3
+receding
+regulating
+recirculation
+q 1
+quality
+m 5
+midlands
+manageress
+marls
+mentality
+maintained
+kn 0
+T 2
+Tub
+Topaz
+qu 1
+quality

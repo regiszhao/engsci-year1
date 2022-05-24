@@ -1,0 +1,148 @@
+16
+g 26
+genome
+gaffe
+glibness
+galvanometric
+gorge
+grizzlier
+grabbers
+guesting
+gnarling
+goofed
+governs
+grass
+grandma
+gametes
+genitive
+greengrocers
+grower
+golden
+garrisons
+grommets
+galling
+gearstick
+gestural
+gloominess
+gloss
+gyrations
+pj 0
+mf 0
+dqB 0
+d 36
+depressed
+distillery
+divide
+decreed
+dualistic
+disinvest
+derate
+dislodge
+disjointness
+dotes
+designator
+dairy
+denotations
+dreamed
+disquieting
+daughters
+discordance
+doughty
+detonation
+defensibility
+dormers
+dealer
+dissipated
+droplets
+desirableness
+dictation
+druggist
+divisibility
+disregards
+disquisitions
+disclaims
+dressy
+demagnetise
+drubbing
+distorted
+deflationary
+oa 0
+h 29
+holdable
+hermaphroditic
+headrest
+headnote
+howitzers
+hairstyles
+hangouts
+hind
+hieroglyphs
+hayloft
+handwriting
+harvested
+hairiness
+heavens
+hyaenas
+hiking
+hardboiled
+hight
+hurtled
+huh
+headwords
+hierarchy
+handbill
+hermeneutics
+hesitations
+harlots
+humblest
+hatless
+hardliner
+M 12
+Metallurgical
+Marchioness
+Musingly
+Mirth
+Mumbles
+Mystifies
+Missives
+Medicine
+Manageability
+Midline
+Mudflow
+Massing
+Q 0
+ybj 0
+jj 0
+shv 0
+oc 1
+octahedron
+yp 0
+ro 1
+romanticises
+g 26
+genome
+gaffe
+glibness
+galvanometric
+gorge
+grizzlier
+grabbers
+guesting
+gnarling
+goofed
+governs
+grass
+grandma
+gametes
+genitive
+greengrocers
+grower
+golden
+garrisons
+grommets
+galling
+gearstick
+gestural
+gloominess
+gloss
+gyrations

@@ -1,0 +1,54 @@
+4
+t 19
+twines
+tenure
+transponders
+taxonomic
+trick
+thundering
+twitching
+testifies
+tamer
+taxonomic
+transitions
+thirties
+traversed
+television
+twang
+tumescent
+traducer
+trifle
+toby
+b 20
+benders
+blacksmith
+beheaded
+belts
+bricklaying
+broken
+billeted
+bemoan
+benevolence
+blowpipe
+bravely
+bulwarks
+butting
+bolstered
+boring
+bursaries
+blunter
+blat
+betrayed
+boxed
+P 10
+Parish
+Peckers
+Playfellow
+Punctuating
+Pitfall
+Plots
+Patching
+Particles
+Plangent
+Predilection
+bmd 0

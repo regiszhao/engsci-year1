@@ -1,0 +1,225 @@
+25
+v 6
+vision
+verdant
+voidable
+verifying
+variability
+venture
+f 29
+fanlight
+fountain
+flashpoint
+fangs
+furlong
+fleshiest
+freehand
+feigned
+frostbite
+festivities
+floury
+foals
+flyhalf
+federalists
+falsifier
+floodgates
+favourites
+faculties
+fetishist
+foundry
+foolishly
+fried
+fan
+foulmouthed
+fretful
+florins
+fatheadedness
+featuring
+fining
+rq 0
+dh 0
+Dv 0
+S 32
+Seeming
+Subjunctive
+Scream
+Sandbanks
+Skimp
+Souffle
+Slack
+Smokiest
+Slushed
+Stirrups
+Sputtering
+Scars
+Surrogacy
+Summariser
+Stagger
+Stepsons
+Shallowness
+Swipe
+Surveys
+Scowling
+Sublunary
+Staggering
+Subsuming
+Stoma
+Starer
+Subsume
+Stud
+Sedatives
+Soy
+Spar
+Samurai
+Sustenance
+b 30
+bestirring
+barracking
+broadens
+byline
+blackbirds
+bearskin
+breakins
+budgets
+bidirectional
+basalts
+blockbusting
+baldest
+blossomed
+betray
+benefactors
+bandiest
+bakehouse
+busker
+bind
+bleeding
+banisters
+batik
+boycott
+boroughs
+brays
+bagdad
+bosom
+beatitude
+broadcast
+bashes
+j 4
+jovian
+jew
+jointing
+jinks
+Mq 0
+qg 0
+nt 0
+rPj 0
+u 12
+unintended
+unarchived
+unhappier
+unbolt
+unfeminine
+uneconomical
+unsubstantiated
+underpass
+undisguised
+unjustly
+uttering
+unexpressed
+uVb 0
+au 2
+auriculas
+author
+ybb 0
+fr 4
+freehand
+frostbite
+fried
+fretful
+g 15
+glans
+gruesomely
+geographically
+goodwill
+grandest
+gripping
+gradient
+gobbling
+greatcoats
+girlfriend
+guzzling
+giftware
+gnaw
+godsend
+gratification
+ZxZ 0
+a 33
+arcadia
+amoebic
+angriest
+ambition
+airborne
+ampoules
+amphibians
+abode
+apportion
+adrenal
+algorithm
+atom
+anatomist
+arbitrated
+afterlives
+ample
+auriculas
+adduced
+acorns
+amnesty
+adversarial
+angel
+abstractions
+afterlives
+aye
+anthropologists
+amalgamations
+abundant
+author
+anticipations
+apprising
+associatively
+asymmetrically
+wP 0
+Hfj 0
+g 15
+glans
+gruesomely
+geographically
+goodwill
+grandest
+gripping
+gradient
+gobbling
+greatcoats
+girlfriend
+guzzling
+giftware
+gnaw
+godsend
+gratification
+Bp 0
+A 17
+Attested
+Awfully
+Afro
+Atrophying
+Amir
+Ammonia
+Angst
+Addled
+Average
+Applier
+Accenting
+Airless
+Airlifted
+Acidifying
+Active
+Acidly
+Abbe

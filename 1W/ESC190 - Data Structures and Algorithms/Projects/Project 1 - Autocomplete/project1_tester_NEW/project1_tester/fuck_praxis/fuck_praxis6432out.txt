@@ -1,0 +1,77 @@
+23
+Pe 2
+Peartrees
+Pedestrian
+Xw 0
+H 3
+Horseman
+Handicapped
+Hoards
+irm 0
+hdn 0
+U 4
+Unwilling
+Ultrasonics
+Uncritically
+Uplands
+xW 0
+ROR 0
+ya 1
+yawls
+W 4
+Wondrously
+Welder
+Whodunnit
+Widths
+mo 7
+morbidly
+moraines
+modified
+mobbed
+motels
+module
+mouthpieces
+ld 0
+qH 0
+t 23
+transcendental
+tomb
+tomes
+tardily
+tutor
+timid
+theology
+tacit
+toward
+title
+trimmers
+typographically
+treasuring
+tuning
+telly
+tax
+tethered
+tango
+temperate
+tamped
+thoroughness
+tablecloths
+thrust
+x 0
+l 9
+lithographs
+landlocked
+lurching
+livening
+lamenting
+lodged
+lusher
+lacings
+lumberjacks
+nMw 0
+ys 0
+rD 0
+ix 0
+qk 0
+lmh 0
+As 0

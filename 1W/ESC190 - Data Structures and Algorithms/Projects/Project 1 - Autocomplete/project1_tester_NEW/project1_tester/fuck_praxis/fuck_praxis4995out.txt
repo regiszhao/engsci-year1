@@ -1,0 +1,58 @@
+15
+mq 0
+Y 1
+Yeasts
+R 8
+Rancour
+Raftman
+Resents
+Riser
+Rerouteing
+Rhinitis
+Razorblades
+Retinas
+K 2
+Kiev
+Kaleidoscope
+vt 0
+nqa 0
+rV 0
+x 0
+a 29
+arrayed
+academe
+attendances
+abortionist
+after
+authorial
+asteroids
+aeronautic
+angry
+animals
+adumbrate
+akimbo
+affiliates
+adverbial
+amounts
+appease
+affected
+avantgarde
+animosities
+accuse
+apologies
+antibodies
+across
+alumnus
+amnesiac
+angoras
+annoyance
+accredited
+attendances
+by 1
+byway
+ev 1
+eventualities
+sN 0
+eq 0
+Tz 0
+sHv 0

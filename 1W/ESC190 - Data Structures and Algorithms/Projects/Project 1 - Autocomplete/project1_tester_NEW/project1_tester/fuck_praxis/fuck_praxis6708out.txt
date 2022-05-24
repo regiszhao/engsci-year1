@@ -1,0 +1,9 @@
+6
+my 0
+g 2
+geldings
+grotesque
+go 0
+xmg 0
+Zt 0
+V 0

@@ -1,0 +1,49 @@
+13
+V 2
+Volleying
+Vestige
+y 1
+yak
+w 10
+whetstone
+wellhead
+wast
+winking
+whiter
+woodenness
+wellrounded
+whisky
+woodwind
+whiffs
+mks 0
+G 1
+Greengrocer
+M 8
+Maquettes
+Mitres
+Moos
+Milan
+Microphones
+Muddles
+Microfilm
+Metronomes
+bb 0
+xFw 0
+roH 0
+xS 0
+qn 0
+B 13
+Bosses
+Beside
+Blows
+Brothel
+Banter
+Boxy
+Bisecting
+Becalm
+Burg
+Bridleway
+Bytes
+Bolster
+Babysitter
+oh 0

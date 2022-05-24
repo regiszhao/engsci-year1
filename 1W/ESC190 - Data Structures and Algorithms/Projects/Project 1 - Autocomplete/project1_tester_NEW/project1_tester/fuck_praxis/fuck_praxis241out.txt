@@ -1,0 +1,56 @@
+10
+A 4
+Alleviations
+Affably
+Apparatus
+Ambushing
+tp 0
+mcl 0
+sW 0
+liI 0
+ub 0
+g 16
+glebe
+geezer
+grecian
+gage
+gloomier
+gumming
+grinding
+grabbed
+goodish
+gown
+ganged
+gestational
+grunted
+greatgrandfather
+gush
+grubs
+F 9
+Funniest
+Fabled
+Fortifications
+Fools
+Forbidding
+Fussier
+Forgot
+Fob
+Flatten
+x 0
+g 16
+glebe
+geezer
+grecian
+gage
+gloomier
+gumming
+grinding
+grabbed
+goodish
+gown
+ganged
+gestational
+grunted
+greatgrandfather
+gush
+grubs

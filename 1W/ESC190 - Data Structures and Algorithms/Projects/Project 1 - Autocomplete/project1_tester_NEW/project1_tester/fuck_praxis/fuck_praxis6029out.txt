@@ -1,0 +1,8 @@
+5
+v 2
+voiced
+vibrates
+Mwm 0
+hlp 0
+kL 0
+rWc 0

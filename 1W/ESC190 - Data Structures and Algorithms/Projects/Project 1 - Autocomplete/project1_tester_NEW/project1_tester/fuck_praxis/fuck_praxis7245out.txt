@@ -1,0 +1,89 @@
+9
+scy 0
+fa 5
+fanning
+fancied
+fatted
+fainted
+faust
+e 19
+encoded
+elation
+empiricist
+exclusivist
+explicated
+exigency
+endangering
+ectoplasm
+eaglet
+encumbering
+ensemble
+enrolls
+extremity
+evaluation
+enlightenment
+elides
+eugenic
+exaggerate
+expel
+k 3
+keyboardist
+kilowatts
+keenest
+r 30
+rod
+rebellion
+returnable
+renormalisation
+runaway
+roped
+roebuck
+ripely
+rusticity
+rummaging
+refuge
+replaced
+relined
+relate
+retiring
+reimporting
+rapidly
+redefines
+regale
+rusticated
+requisition
+refuges
+retypes
+ravage
+reclassification
+rap
+repressing
+republish
+rigidify
+rejuvenating
+e 19
+encoded
+elation
+empiricist
+exclusivist
+explicated
+exigency
+endangering
+ectoplasm
+eaglet
+encumbering
+ensemble
+enrolls
+extremity
+evaluation
+enlightenment
+elides
+eugenic
+exaggerate
+expel
+jsd 0
+ol 0
+fo 3
+formulaic
+footed
+foamed

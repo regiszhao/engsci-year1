@@ -1,0 +1,195 @@
+29
+sno 1
+snowballing
+xo 0
+bcp 0
+b 25
+balustraded
+benchmark
+blizzard
+bastardise
+baselines
+beautifies
+boisterous
+bedsitters
+bonnets
+boxers
+budget
+bluer
+brazenly
+backpacking
+banners
+britain
+benedictions
+birdbath
+brochures
+baulked
+bewilder
+bolted
+bereaved
+breadwinner
+borrows
+a 37
+acquiescence
+armholes
+astrolabes
+anticipation
+abolish
+auks
+anchorite
+arbitrates
+articled
+autocratic
+affix
+agitator
+alkalinity
+amethystine
+address
+acknowledgments
+attractiveness
+archipelago
+acts
+allurements
+admirable
+ahem
+acquiring
+ascertained
+animated
+anaemic
+alibaba
+abbreviation
+authorisations
+appendages
+aerated
+advisable
+aztecs
+angrier
+ambitiously
+appellation
+adroitness
+F 6
+Factional
+Footpath
+Fiercely
+Franks
+Fraught
+Fervour
+nW 0
+ai 0
+zh 0
+Jci 0
+mw 0
+r 28
+rebuilt
+replica
+raw
+rustlers
+rushier
+rosin
+refutations
+requiring
+reactions
+rogue
+reconciles
+revenging
+refuting
+roundtheclock
+rashes
+reacquainting
+rewording
+rumpling
+reputably
+reciprocating
+relived
+resurgence
+railing
+retrievals
+reaping
+resettle
+repair
+regurgitated
+wO 0
+ll 0
+Z 0
+YC 0
+Jr 0
+Az 0
+w 13
+wreathes
+witticisms
+wearier
+workhouse
+woodcock
+waterwheel
+witnesses
+wills
+wonderfulness
+wallpaper
+whirlwinds
+worming
+weakest
+rjo 0
+hh 0
+x 0
+d 36
+dung
+drat
+downhearted
+dilettantes
+decelerations
+diminished
+disapprovingly
+docking
+despotic
+dived
+disabled
+differentials
+dramatics
+droving
+diverging
+drifts
+disallows
+delimiters
+discover
+delible
+disenchantment
+disciplined
+during
+drachma
+disinfect
+deplored
+depending
+decouple
+dicey
+duelling
+disruptive
+dutifulness
+disaffiliate
+domestic
+deflates
+defecting
+av 0
+E 11
+Electrolytically
+Elands
+Emanate
+Engrained
+Encodes
+Entertainer
+Experiences
+Extensionally
+Enunciated
+Eyepiece
+Epithet
+H 8
+Habitually
+Hobnails
+Hummocky
+Hornbills
+Heedful
+Hotting
+Humorist
+Hypertension
+hRw 0
+dj 0
+ls 0

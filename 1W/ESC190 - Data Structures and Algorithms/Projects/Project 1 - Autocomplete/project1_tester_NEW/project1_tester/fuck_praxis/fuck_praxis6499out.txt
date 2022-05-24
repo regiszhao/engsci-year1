@@ -1,0 +1,95 @@
+20
+qb 0
+Ts 0
+u 6
+uneatable
+unenviable
+uncalibrated
+unchaperoned
+unbar
+unworthily
+eb 0
+F 4
+Frugally
+Friezes
+Fumble
+Freshman
+tkK 0
+o 8
+oceanographer
+orchestrating
+obsolescent
+originated
+ornamental
+occupying
+outfitters
+ordeal
+Ewk 0
+U 6
+Upcast
+Unsatisfactory
+Unloose
+Unstopped
+Umpires
+Underpowered
+s 24
+skyhigh
+skulking
+silicone
+sufficiently
+superlatives
+sandals
+sunniest
+sore
+smear
+stationed
+stipulating
+scrooge
+simulation
+steepen
+specify
+scorched
+strange
+serpentine
+sprig
+simplistic
+sedges
+streamline
+shrimps
+shameless
+dp 0
+e 9
+embarked
+endowing
+exuberant
+emanates
+earners
+embarrassments
+embosom
+epiphenomena
+ecologically
+zh 0
+n 7
+necklaces
+nicking
+needle
+neckband
+needed
+normalisation
+natures
+lh 0
+Ax 0
+l 10
+legroom
+lutes
+locatable
+likable
+liferaft
+littler
+lavishly
+lapping
+linkages
+literature
+lIc 0
+ek 0
+Wby 0

@@ -1,0 +1,40 @@
+13
+x 0
+xf 0
+ne 0
+fb 0
+pch 0
+j 0
+f 5
+fealty
+funereal
+frown
+floodgates
+favourably
+o 9
+osmosis
+overruns
+optics
+oversampling
+origins
+obstructiveness
+overthrows
+outflank
+octahedron
+o 9
+osmosis
+overruns
+optics
+oversampling
+origins
+obstructiveness
+overthrows
+outflank
+octahedron
+E 1
+Enumeration
+hva 0
+B 2
+Blackened
+Bodywork
+ip 0

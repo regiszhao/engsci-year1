@@ -1,0 +1,228 @@
+25
+y 2
+yaks
+yellings
+U 4
+Unoptimised
+Unzipping
+Unlined
+Unsatisfied
+n 5
+nostalgically
+networking
+needled
+nitwit
+necropsy
+sz 0
+Ufe 0
+Pln 0
+m 32
+miscue
+medications
+minorities
+minimisation
+mavericks
+moderates
+maternally
+modifications
+manipulating
+mashing
+metamorphose
+marginally
+misnomers
+magnetise
+merchants
+margarine
+melting
+matte
+mutts
+modernisations
+molten
+metric
+microwaves
+maximally
+millimetre
+moccasins
+madras
+miners
+millpond
+multiplications
+marketed
+minke
+ud 0
+t 21
+taping
+triffid
+tribune
+tolerated
+tigris
+tallies
+throwing
+tomorrows
+transportable
+troupers
+theory
+tolbooth
+tiny
+tourism
+tinsel
+tilting
+typeset
+tempestuous
+torturing
+trustfully
+tonsils
+A 8
+Aloha
+Ambience
+Abdomens
+Amorphous
+Afforded
+Amiably
+Adaptivity
+Announcement
+MQ 0
+J 1
+Jumbled
+Fpq 0
+l 14
+likeability
+legroom
+lacquered
+locatable
+lifeforms
+linens
+lukewarm
+lipids
+liaising
+laughably
+landslip
+limo
+latitude
+lower
+o 9
+ostracise
+overstating
+overhauling
+orange
+oiliness
+oxymoron
+outdoes
+overbearing
+oratorio
+a 21
+adducing
+anatomies
+awaited
+accosted
+all
+abducting
+autopsy
+accident
+anthrax
+attest
+aliens
+anchors
+averaged
+aquiline
+actuality
+amoeba
+ancillary
+aubergines
+addressee
+acetic
+algorithmic
+oTf 0
+kwm 0
+B 6
+Billeted
+Bypass
+Beeper
+Backfire
+Business
+Burglaries
+CT 0
+u 13
+uncharismatic
+upfield
+unmanned
+utopias
+unconstitutional
+uninhibited
+undeclared
+uncomfortably
+unbothered
+unchaperoned
+unplug
+unfailingly
+unedifying
+c 47
+condors
+carbuncle
+centralise
+catalogue
+cynic
+condemn
+curdled
+coursed
+county
+clamps
+compressions
+confessions
+coupled
+cupola
+chlorine
+competences
+carried
+crockery
+constrains
+coprophagous
+circles
+chortles
+communing
+chimpanzee
+claret
+champion
+curtain
+corrugations
+cudgels
+cogitative
+cassette
+couplers
+create
+colonials
+coupon
+crutch
+coursing
+calamitously
+caryatids
+crushes
+checked
+churlishness
+cupidity
+coronets
+carver
+crossword
+compositions
+L 3
+Lessens
+Lungful
+Liquidised
+Ia 0
+e 16
+enunciation
+ecstasy
+envoys
+eased
+ethnology
+europe
+ecumenical
+encirclements
+emblazoned
+evaluating
+everyday
+eyewitnesses
+exerted
+ensigns
+exactness
+erect

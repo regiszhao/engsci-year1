@@ -1,0 +1,30 @@
+23
+Uy 0
+dz 0
+zt 0
+cy 0
+g 0
+ar 1
+armoury
+OL 0
+kvZ 0
+u 0
+id 0
+d 2
+dietary
+damage
+gn 0
+oIl 0
+ekv 0
+I 0
+vjv 0
+dt 0
+P 1
+Pianola
+ll 0
+Px 0
+r 2
+rogue
+railways
+km 0
+x 0

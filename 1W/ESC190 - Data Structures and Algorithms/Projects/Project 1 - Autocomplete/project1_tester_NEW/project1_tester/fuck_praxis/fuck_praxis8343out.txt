@@ -1,0 +1,39 @@
+18
+n 1
+negev
+c 8
+circulant
+cooper
+charms
+cuddliest
+cosier
+converts
+conductor
+circumcision
+ae 0
+pq 0
+oy 0
+rT 0
+nL 0
+c 8
+circulant
+cooper
+charms
+cuddliest
+cosier
+converts
+conductor
+circumcision
+Fu 0
+ngz 0
+TO 0
+nz 0
+Ic 0
+uE 0
+vUb 0
+ya 0
+Mv 0
+C 3
+Controversies
+Chattered
+Convicted

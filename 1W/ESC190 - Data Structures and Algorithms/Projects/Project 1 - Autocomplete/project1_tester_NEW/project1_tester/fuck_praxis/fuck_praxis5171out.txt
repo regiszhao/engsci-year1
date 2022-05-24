@@ -1,0 +1,100 @@
+27
+qL 0
+u 8
+unarmed
+unpopulated
+unearned
+unfurnished
+unopened
+unfelt
+undercoat
+unexpected
+F 6
+Furnaces
+Frostbitten
+Fauns
+Fungicidal
+Fustian
+Fags
+Bd 0
+LN 0
+N 0
+jk 0
+m 13
+masqueraded
+moorland
+mohairs
+madrid
+managements
+methods
+mystify
+mucus
+muttons
+melodramatic
+minds
+minestrone
+magniloquent
+w 10
+winder
+wagered
+windmill
+wellmeant
+waveform
+wrappings
+waffle
+wailing
+wonderfully
+whispers
+Mf 0
+Qi 0
+s 24
+scarify
+stare
+sagaciously
+switchboards
+smeared
+sadistic
+sheeting
+secreted
+sunshine
+serrated
+surrounding
+stiflingly
+sparking
+shamed
+sepulchral
+slights
+surname
+squirms
+squint
+swamped
+shuttling
+selfdestruct
+soya
+spaceship
+TiT 0
+DZ 0
+y 0
+qe 0
+PqG 0
+uK 0
+mh 0
+w 10
+winder
+wagered
+windmill
+wellmeant
+waveform
+wrappings
+waffle
+wailing
+wonderfully
+whispers
+on 0
+sn 0
+N 0
+ew 0
+lsn 0
+mf 0
+j 1
+jimmy

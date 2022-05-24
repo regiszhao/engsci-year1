@@ -1,0 +1,13 @@
+6
+kPp 0
+iu 0
+lo 6
+lockouts
+lodging
+lopes
+loaf
+lolling
+looking
+jz 0
+wf 0
+rfq 0

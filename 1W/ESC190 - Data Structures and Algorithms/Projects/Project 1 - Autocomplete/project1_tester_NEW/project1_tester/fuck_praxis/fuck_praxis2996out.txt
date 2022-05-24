@@ -1,0 +1,87 @@
+10
+Ht 0
+yy 0
+X 0
+t 30
+translate
+toiled
+tachycardia
+trekker
+terns
+tablet
+travails
+takes
+tackles
+ties
+thresher
+teardrops
+tarmac
+thirstiest
+toast
+tinkers
+telekinesis
+tailplane
+traditionalism
+tablebay
+tarrier
+tract
+theories
+tenability
+thebes
+technically
+transferability
+testamentary
+teenyweeny
+tethers
+E 9
+Equivalences
+Estuarine
+Embroiderers
+Emersion
+Endowed
+Eclair
+Erodes
+Eosin
+Enunciate
+zc 0
+eT 0
+od 0
+v 7
+valentine
+vulcanologist
+vista
+verbosity
+vocabulary
+verboseness
+vivisection
+t 30
+translate
+toiled
+tachycardia
+trekker
+terns
+tablet
+travails
+takes
+tackles
+ties
+thresher
+teardrops
+tarmac
+thirstiest
+toast
+tinkers
+telekinesis
+tailplane
+traditionalism
+tablebay
+tarrier
+tract
+theories
+tenability
+thebes
+technically
+transferability
+testamentary
+teenyweeny
+tethers

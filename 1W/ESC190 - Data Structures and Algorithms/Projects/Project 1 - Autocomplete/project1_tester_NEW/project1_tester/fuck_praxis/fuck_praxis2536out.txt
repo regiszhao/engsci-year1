@@ -1,0 +1,183 @@
+18
+pu 2
+pulpy
+purims
+m 24
+miscalculate
+menagerie
+morpheme
+modalities
+meadows
+masterclass
+methodical
+macroeconomic
+microseconds
+minibuses
+meaningful
+marooning
+mincemeat
+masterly
+mindlessly
+maintainer
+muzzle
+midweek
+minds
+mistreatment
+mountain
+morrow
+minstrels
+mimed
+qn 0
+np 0
+zM 0
+qkd 0
+T 6
+Toying
+Trees
+Torsion
+Titre
+Treadmill
+Ticks
+o 14
+overcast
+obscene
+offcuts
+overloaded
+overstated
+owe
+outperformed
+outcasts
+overflow
+offensive
+overthrows
+organic
+outcall
+oral
+cT 0
+t 29
+torturing
+toppled
+tango
+termination
+thieve
+televising
+touts
+towelling
+toss
+trench
+towpath
+trills
+thickset
+toymaker
+thereafter
+tendencies
+tenderest
+tavern
+tiding
+tunable
+truthfully
+thunderstorm
+telemetry
+tunings
+tongs
+taunted
+trappers
+thanked
+tilings
+psB 0
+I 9
+Inlays
+Iciest
+Illegally
+Indole
+Inflicted
+Ineluctably
+Inexorability
+Imperfectly
+Illimitable
+e 13
+extremest
+experiencing
+epoxies
+equivalently
+essentially
+emerald
+emptier
+expressiveness
+elegy
+enigma
+exorcised
+echinoderms
+exchanges
+k 3
+kaleidoscopic
+knob
+keg
+yuq 0
+H 6
+Haircuts
+Hungers
+Him
+Hearable
+Holiest
+Heatedly
+as 8
+assortments
+assessors
+ashtrays
+assessing
+ashbin
+assuring
+ascending
+assesses
+s 50
+shipwright
+stream
+secondhand
+sowers
+slamming
+stilt
+snagged
+superlatives
+shopfront
+spouse
+sturdiest
+smothering
+spaciousness
+smutty
+selfdestruction
+satisfiable
+spay
+stapled
+satyr
+suspected
+salivary
+sums
+springbok
+sundown
+streetwise
+subconsciously
+sociolinguistic
+staunch
+sorrow
+symbolically
+shag
+states
+skippering
+simpleton
+suckles
+synthesising
+shortening
+silt
+sightseeing
+sketch
+scarily
+strongroom
+shepherding
+startle
+stepchildren
+satchels
+sesame
+scrolls
+sirloin
+shadowy

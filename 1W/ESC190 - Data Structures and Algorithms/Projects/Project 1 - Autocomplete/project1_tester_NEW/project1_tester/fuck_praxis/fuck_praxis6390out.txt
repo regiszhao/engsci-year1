@@ -1,0 +1,12 @@
+7
+kwt 0
+iv 0
+rc 0
+Rt 0
+v 4
+vegetable
+vicars
+vaulting
+vend
+Nh 0
+kf 0

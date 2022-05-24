@@ -1,0 +1,32 @@
+14
+fg 0
+y 0
+Z 1
+Zealots
+bZ 0
+zN 0
+uv 0
+lC 0
+A 6
+Added
+Albatrosses
+Acidophiles
+Aberration
+Astronomers
+Anthropogenically
+g 7
+groat
+geisha
+gating
+gestalt
+gramophone
+granites
+girdling
+ay 0
+si 3
+situations
+sightless
+silhouette
+jg 0
+zo 0
+cg 0

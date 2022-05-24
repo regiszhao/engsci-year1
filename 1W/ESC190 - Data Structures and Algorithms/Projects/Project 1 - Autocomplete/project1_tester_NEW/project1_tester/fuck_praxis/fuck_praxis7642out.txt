@@ -1,0 +1,79 @@
+25
+cny 0
+w 4
+wallflowers
+watermarks
+waitress
+wrongness
+Pb 0
+h 10
+humdrum
+hobble
+honouring
+halters
+heaviness
+horses
+hamlet
+heir
+hawaii
+hairiness
+I 2
+Insecticide
+Infuse
+mfE 0
+gj 0
+dk 0
+bm 0
+ox 0
+Deu 0
+p 16
+permissible
+parsers
+public
+pennames
+profuseness
+perceive
+pressure
+postponed
+parodist
+puddle
+patination
+plugs
+pelt
+players
+pyroxene
+plaudits
+h 10
+humdrum
+hobble
+honouring
+halters
+heaviness
+horses
+hamlet
+heir
+hawaii
+hairiness
+NN 0
+io 0
+ek 0
+gO 0
+wa 3
+wallflowers
+watermarks
+waitress
+Ve 0
+ih 0
+E 4
+Edict
+Excludes
+Eucalyptus
+Epiphenomenon
+eG 0
+hzj 0
+yN 0
+w 4
+wallflowers
+watermarks
+waitress
+wrongness

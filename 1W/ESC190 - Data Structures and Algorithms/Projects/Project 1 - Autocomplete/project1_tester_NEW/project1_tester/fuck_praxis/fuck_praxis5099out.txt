@@ -1,0 +1,78 @@
+10
+cV 0
+jg 0
+Gs 0
+jfm 0
+h 11
+hallows
+honking
+holsters
+howlers
+hangs
+hereof
+hardeners
+headboards
+hitches
+handled
+haulier
+h 11
+hallows
+honking
+holsters
+howlers
+hangs
+hereof
+hardeners
+headboards
+hitches
+handled
+haulier
+a 30
+azimuthal
+aloes
+authentically
+armpit
+assessed
+alphabetical
+arrayed
+abandon
+admin
+angola
+abated
+acknowledge
+anthems
+addictions
+alchemists
+aldrin
+antler
+accommodates
+attacker
+affixing
+alabaster
+arbitrate
+aftershave
+adopter
+apostles
+apricots
+afford
+assortment
+attribute
+adverse
+S 15
+Settled
+Skinner
+Straws
+Sanctify
+Subscript
+Structuralists
+Salesgirl
+Sentimentality
+Surged
+Serried
+Slink
+Spoke
+Saviours
+Shutdowns
+Suction
+vQ 0
+jC 0

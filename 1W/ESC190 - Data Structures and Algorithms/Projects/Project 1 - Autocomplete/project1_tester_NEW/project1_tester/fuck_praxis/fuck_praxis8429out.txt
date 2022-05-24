@@ -1,0 +1,193 @@
+18
+b 29
+buckle
+blanched
+blaring
+beckoning
+birthright
+bouts
+biblical
+blanketed
+breezed
+blunderings
+bracket
+bolted
+bevvy
+bait
+beverages
+baker
+brutalities
+bloodshot
+bleakly
+bacilli
+began
+blistering
+brands
+bookie
+beck
+briefer
+bellyful
+biters
+bourbon
+l 30
+liveried
+lilac
+loess
+lamplight
+ladders
+lorries
+lungs
+lubricates
+loosed
+legitimisation
+louts
+lamenter
+luxuriate
+leaver
+liquidator
+lecherousness
+latches
+lumbered
+lacy
+lemma
+lowlier
+lactation
+limerick
+landholding
+legitimate
+liniment
+lunging
+lapwing
+lovesick
+loud
+v 12
+vibrantly
+vote
+villainy
+verbosely
+vivacity
+vending
+variable
+ventricular
+venerating
+vocalise
+vizier
+vaunting
+o 18
+overflows
+overloading
+operands
+oriented
+outriders
+orangs
+orphanages
+organisers
+oner
+offends
+overhear
+obstructions
+orator
+outrages
+observation
+obsessing
+overact
+obscureness
+yyj 0
+x 1
+xhosas
+y 3
+yachts
+yoke
+yawningly
+X 0
+tR 0
+g 12
+gassy
+genera
+genie
+gesture
+gaffes
+groundnut
+grossed
+glimpsed
+grooved
+gruffly
+glutamate
+grimmer
+o 18
+overflows
+overloading
+operands
+oriented
+outriders
+orangs
+orphanages
+organisers
+oner
+offends
+overhear
+obstructions
+orator
+outrages
+observation
+obsessing
+overact
+obscureness
+C 22
+Collagen
+Concatenates
+Colours
+Contras
+Coagulated
+Conferring
+Canyons
+Cigars
+Collaborative
+Consistent
+Confinements
+Criminologist
+Casualty
+Civilisations
+Countess
+Contorts
+Curlicues
+Consumerist
+Calypso
+Confirmation
+Crofter
+Cadger
+k 4
+knocking
+kindest
+kaftans
+kangaroo
+ks 0
+g 12
+gassy
+genera
+genie
+gesture
+gaffes
+groundnut
+grossed
+glimpsed
+grooved
+gruffly
+glutamate
+grimmer
+cv 0
+v 12
+vibrantly
+vote
+villainy
+verbosely
+vivacity
+vending
+variable
+ventricular
+venerating
+vocalise
+vizier
+vaunting
+aw 1
+awakens

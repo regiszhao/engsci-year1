@@ -1,0 +1,23 @@
+13
+EI 0
+y 1
+yaw
+WlW 0
+T 4
+Trophies
+Thunderstorm
+Taxman
+Tarty
+qj 0
+zo 0
+cTh 0
+X 0
+Ez 0
+v 2
+victim
+voiding
+ku 1
+kudus
+I 1
+Irishman
+Q 0

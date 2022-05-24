@@ -1,0 +1,125 @@
+15
+hAf 0
+cKf 0
+N 1
+Needless
+Qau 0
+Su 4
+Suburbs
+Substitution
+Subtlest
+Surpassed
+Eqc 0
+b 26
+booked
+brawn
+breezing
+bacteriologists
+buggered
+barcode
+booths
+brasher
+bland
+behaves
+banality
+bombard
+bisects
+branches
+bawling
+beside
+barnacle
+burs
+bricklayer
+blackboards
+brews
+bargain
+buns
+brainier
+bolstering
+blizzard
+t 25
+treadle
+titillated
+trainers
+transfiguration
+teashops
+tentative
+trident
+tessellated
+trickle
+travails
+theorem
+topically
+tribally
+tautologies
+tradeins
+thyristors
+tireless
+twinkle
+tinkers
+transformative
+thriving
+titans
+talents
+tunes
+theocracies
+RE 0
+E 8
+Evident
+Exalts
+Equality
+Existing
+Enthused
+Endocrine
+Endorses
+Emblems
+m 23
+manageability
+mopes
+magnetically
+menus
+moths
+murmurings
+mummy
+mormon
+maser
+mouthpieces
+maintained
+maximise
+munch
+meiosis
+malignant
+majesty
+monoplane
+miscue
+munich
+me
+muddiest
+mislaid
+menacingly
+N 1
+Needless
+S 18
+Seven
+Stepwise
+Sensor
+Some
+Suburbs
+Squirted
+Signposting
+Stub
+Stutters
+Smoothest
+Sneaked
+Snag
+Substitution
+Statehood
+Spicing
+Shoestring
+Subtlest
+Surpassed
+qu 3
+quashing
+quasi
+quieten
+uMa 0

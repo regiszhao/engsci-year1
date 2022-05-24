@@ -1,0 +1,85 @@
+20
+T 3
+Transmit
+Topping
+Testdriving
+Rdy 0
+Ga 1
+Galleys
+w 2
+washboard
+wholesalers
+ptr 0
+R 6
+Resiny
+Reselected
+Regrouping
+Realpolitik
+Rapping
+Revaluations
+M 5
+Midwicket
+Mayday
+Mangle
+Mops
+Media
+rc 0
+m 15
+moroseness
+me
+matriarchy
+mouldier
+monastic
+misleadingly
+monogamous
+mowers
+misfired
+minedetector
+musically
+melon
+metalled
+menthol
+melange
+sEk 0
+m 15
+moroseness
+me
+matriarchy
+mouldier
+monastic
+misleadingly
+monogamous
+mowers
+misfired
+minedetector
+musically
+melon
+metalled
+menthol
+melange
+fg 0
+nG 0
+oak 0
+S 8
+Scalping
+Sultana
+Sprints
+Sorbets
+Slits
+Shilling
+Sedateness
+Spaniels
+YW 0
+IoV 0
+b 9
+bangkok
+backbencher
+blowing
+bender
+bilaterally
+blustering
+bellowed
+broiler
+bidirectional
+J 0
+rw 0

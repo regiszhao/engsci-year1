@@ -1,0 +1,129 @@
+15
+K 1
+Knives
+gN 0
+f 33
+flank
+fabricator
+formant
+fetters
+fatherly
+febrile
+fluently
+foolery
+fortuitously
+flawlessly
+factions
+flighted
+fulfilling
+fondle
+feedings
+formulary
+foreshadow
+flipflops
+flax
+functionalities
+facilitating
+facet
+formative
+fryer
+fibreglass
+financially
+fats
+fraternising
+formulated
+feed
+fens
+figment
+freemen
+n 9
+nicknames
+nomadic
+needless
+numberplate
+neighbours
+nitroglycerine
+nutritionally
+necked
+nosedive
+u 23
+unsung
+unhurriedly
+unrepeatable
+unasked
+unadapted
+unmanageable
+untied
+unmechanised
+uncommon
+uncompromisable
+unsatisfactory
+underfoot
+unsurpassable
+uprisings
+undefended
+unhealthy
+unconvincing
+uneducated
+unpreparedness
+uncircumcised
+unclenched
+unworthiness
+uncared
+x 2
+xenophobic
+xenophobic
+Th 2
+Theism
+Thermodynamical
+n 9
+nicknames
+nomadic
+needless
+numberplate
+neighbours
+nitroglycerine
+nutritionally
+necked
+nosedive
+Hoq 0
+q 3
+quell
+quintet
+quagga
+cpc 0
+sd 0
+t 31
+transcript
+teethe
+telephones
+tautness
+transept
+tourist
+tacitly
+taunts
+taxpayer
+turbans
+throbbed
+teenager
+transceivers
+tide
+terracotta
+technocratic
+thefts
+tardily
+telling
+truncation
+telepathy
+turntables
+tract
+trough
+tiger
+twosome
+tripling
+thong
+typeface
+teeming
+throroughly
+ZI 0
+ec 0

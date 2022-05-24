@@ -1,0 +1,192 @@
+20
+sdh 0
+d 36
+displaced
+delegations
+day
+dyeing
+display
+disinterred
+directorship
+docility
+does
+deanery
+devalue
+desertification
+dozens
+dishwashers
+depraved
+drowns
+dads
+digitisers
+diffidently
+disclaimed
+deadpan
+doctrines
+deems
+deactivating
+destruct
+decrepit
+disyllable
+dotting
+desertions
+directorate
+dirtiness
+documents
+dismembered
+doctrinal
+dicing
+deride
+k 5
+kneedeep
+kick
+know
+kinsman
+kirk
+e 22
+espresso
+ecumenism
+elands
+etudes
+exportability
+enforcers
+establishing
+enumerates
+emplacements
+exasperate
+editorial
+excavator
+explicit
+epistemology
+exemplars
+experimenter
+endeavour
+endorsing
+einstein
+emulation
+enervated
+electrode
+Q 0
+qx 0
+cmx 0
+dvv 0
+a 29
+appreciations
+albums
+accompanied
+avoiding
+abstruse
+accomplishing
+ascends
+aptitude
+archive
+advantage
+awfulness
+arousals
+avoidable
+alludes
+anaerobic
+avian
+abnormally
+antipodes
+ampoules
+articulation
+assents
+anathema
+administrated
+anybody
+adherent
+arsonists
+ampler
+anticipates
+athlete
+ew 0
+vBf 0
+x 0
+f 26
+frontiers
+flatters
+frowned
+foams
+flumes
+forger
+floorspace
+faulty
+fete
+fastidiously
+foundries
+flipflops
+fortify
+feeds
+forgettable
+flecks
+fortify
+flies
+fattens
+forecast
+flap
+flightless
+from
+fixers
+fuchsias
+functionally
+d 36
+displaced
+delegations
+day
+dyeing
+display
+disinterred
+directorship
+docility
+does
+deanery
+devalue
+desertification
+dozens
+dishwashers
+depraved
+drowns
+dads
+digitisers
+diffidently
+disclaimed
+deadpan
+doctrines
+deems
+deactivating
+destruct
+decrepit
+disyllable
+dotting
+desertions
+directorate
+dirtiness
+documents
+dismembered
+doctrinal
+dicing
+deride
+rf 0
+oa 0
+cu 4
+cupid
+cupidity
+cupolas
+culture
+W 2
+Warrior
+Wreaths
+ch 6
+chastising
+changeless
+chugged
+cheerleaders
+chair
+chocks
+E 5
+Enquired
+Exposures
+Employers
+Exiguous
+Embarrassing

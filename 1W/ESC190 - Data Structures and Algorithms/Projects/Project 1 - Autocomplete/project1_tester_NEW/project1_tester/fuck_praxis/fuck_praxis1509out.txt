@@ -1,0 +1,21 @@
+8
+w 2
+waitresses
+wicker
+dst 0
+Eii 0
+bk 0
+bKd 0
+m 5
+mislaid
+mendacity
+metric
+macho
+mercantile
+QV 0
+m 5
+mislaid
+mendacity
+metric
+macho
+mercantile

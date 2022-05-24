@@ -1,0 +1,114 @@
+18
+q 1
+quietus
+l 14
+lessened
+leeds
+lamplit
+lurk
+lodgings
+latched
+lunch
+looked
+last
+lambent
+lance
+lashings
+levitating
+leering
+F 8
+Frustratedly
+Flurried
+Fledged
+Festers
+Finesse
+Ferment
+Forestall
+Frame
+Lz 0
+w 12
+westerly
+wink
+wholly
+widgeon
+waterholes
+woeful
+waists
+widowhood
+wearer
+wavering
+weariness
+wallowing
+mha 0
+mz 0
+mlN 0
+t 20
+teachers
+tumescent
+trained
+taught
+test
+tonne
+transmissible
+traffickers
+torah
+tamest
+truce
+totemic
+thawing
+tuner
+tumblers
+toccata
+titillation
+typified
+transmissions
+treetop
+q 1
+quietus
+oc 0
+fA 0
+qt 0
+e 15
+elevation
+evenly
+escalators
+ethologist
+ecology
+evaluates
+excitedly
+evaluates
+extensions
+extender
+exhausting
+eyesores
+examiner
+entertainer
+emollient
+g 14
+greatly
+glaziers
+gullible
+guardsman
+garage
+galoshes
+geiger
+gearing
+gigolo
+gudgeon
+globule
+goose
+gluttony
+guarantees
+v 1
+valets
+u 9
+unhygienic
+unwedge
+unconstitutional
+untreatable
+unquenchable
+unalike
+unpremeditated
+unpressurised
+uninfected
+izz 0

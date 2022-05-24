@@ -1,0 +1,142 @@
+21
+S 20
+Straddled
+Scalds
+Servants
+Sloth
+Skipping
+Shamed
+Shortcuts
+Spleens
+Salary
+Silencers
+Socialists
+Stem
+Snares
+Streetwise
+Slimness
+Savouring
+Spittoon
+Sultans
+Shore
+Strippers
+h 13
+hazardous
+honeysuckle
+hideously
+heckler
+hop
+hitchhike
+hateful
+hairdresser
+heavier
+holidays
+haversack
+hypoglycaemic
+headwinds
+l 12
+lineups
+leaner
+lovesick
+lasts
+longfaced
+launches
+liquidators
+landholding
+leaked
+lowly
+loathe
+legislative
+m 22
+malnourished
+martyrs
+mated
+making
+molestations
+mechanist
+madeira
+monkeyed
+messenger
+milkshakes
+mazes
+monogram
+massproducing
+monoplane
+mousses
+militates
+monochrome
+medic
+managerial
+multiplication
+minefields
+mixture
+gsm 0
+i 22
+intimacies
+integrated
+involuntary
+intervened
+incompatibly
+increment
+impolite
+interview
+irrefutable
+inuit
+incumbents
+illegitimately
+incitement
+imprimatur
+improvement
+investigation
+incipient
+income
+inkwells
+interpolatable
+introspective
+interrogatives
+kM 0
+bcy 0
+cYS 0
+xn 0
+Xf 0
+BRq 0
+kp 0
+B 8
+Blips
+Buoyed
+Breakins
+Bussed
+Beelines
+Boarder
+Bumped
+Bigotry
+tN 0
+zf 0
+u 18
+unimaginative
+unserviced
+unfortunate
+unplayability
+unpunctuality
+uncharacteristic
+unashamed
+unfilled
+unburned
+utensils
+usurp
+unsubdued
+unwound
+unorthodox
+unpronounced
+unspent
+understandable
+uncrossed
+nf 0
+zq 0
+wrh 0
+k 5
+kibbutz
+kennels
+karst
+kinds
+klaxons

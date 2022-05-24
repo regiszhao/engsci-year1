@@ -1,0 +1,29 @@
+20
+bX 0
+sb 0
+W 1
+Worldwar
+mk 0
+rpT 0
+hj 0
+epf 0
+ra 0
+C 2
+Clairvoyants
+Caves
+T 1
+Tomboy
+q 1
+quaver
+dd 0
+P 0
+P 0
+nf 0
+cp 0
+T 1
+Tomboy
+be 2
+benightedly
+behaviourally
+vf 0
+ckX 0

@@ -1,0 +1,75 @@
+12
+j 2
+jonathan
+jacket
+ax 1
+axiom
+fc 0
+vrt 0
+Yl 0
+xa 0
+df 0
+N 2
+Neurotics
+Navigable
+c 25
+choreographing
+conversationalists
+conductance
+clumps
+cellists
+clinic
+competed
+cannula
+cagy
+clutter
+cripple
+commiseration
+contaminating
+candlesticks
+creamery
+cheapskates
+clues
+carving
+capitate
+collisional
+contorted
+crystallising
+cutler
+corrupting
+cots
+ti 1
+timidly
+s 31
+suggest
+surfactants
+strivings
+sheaves
+scraps
+scoffed
+sepulchre
+sketchbooks
+stridently
+surprises
+sundial
+simultaneous
+swiped
+subgroup
+subplots
+sorrowfully
+stretchability
+senhor
+spadework
+sputtering
+succinct
+sauerkraut
+shamed
+smother
+smoothtongued
+smirked
+suppose
+striation
+seep
+scimitars
+submissive
+gPb 0

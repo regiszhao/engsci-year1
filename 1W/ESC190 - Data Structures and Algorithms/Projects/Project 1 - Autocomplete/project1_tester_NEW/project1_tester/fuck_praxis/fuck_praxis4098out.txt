@@ -1,0 +1,142 @@
+29
+aib 0
+X 0
+TM 0
+x 0
+wp 0
+np 0
+cbi 0
+ua 0
+DPv 0
+cuM 0
+En 1
+Entranced
+Mg 0
+q 3
+quirk
+quadrants
+quartering
+Z 0
+w 11
+woodlice
+weathering
+writs
+weighting
+watchword
+weightlifters
+weeny
+wiliest
+waddling
+weatherbeaten
+whereabouts
+q 3
+quirk
+quadrants
+quartering
+ao 0
+A 9
+Alga
+Armlet
+Analyses
+Awkward
+Ablutions
+Advocate
+Ablate
+Alarming
+Authoritarianism
+vw 0
+Z 0
+b 25
+bloodsport
+badinage
+baronies
+blackouts
+bustards
+brakes
+buffer
+bailed
+brunt
+bottommost
+bluesy
+birdcage
+babes
+brazened
+boreal
+betroth
+boldface
+beanstalk
+bookmaking
+between
+brick
+bounteous
+boobytraps
+bavarian
+browned
+Gi 1
+Gibbered
+vm 0
+ic 1
+icily
+t 21
+tearfully
+ticketed
+technophobic
+tactlessness
+today
+tenements
+tanker
+tortuously
+transversely
+tenacity
+thaumaturge
+trappings
+transits
+thrillingly
+tramped
+tannoy
+triangular
+torrid
+trussing
+temporarily
+tantrum
+c 37
+chauvinists
+concreted
+creamy
+cryptanalytic
+crackdowns
+creaky
+cormorants
+cares
+criminalising
+computer
+components
+cautions
+crypt
+crawling
+chattering
+contoured
+confiscate
+cavein
+commuters
+cryptographically
+cherished
+coastlines
+clumsiest
+changeover
+confer
+cribbing
+capstan
+cuba
+comfy
+croaks
+cast
+captioned
+courageously
+coppice
+contrivances
+chaired
+chattily
+czL 0
+YuE 0
+bkx 0

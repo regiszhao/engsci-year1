@@ -1,0 +1,6 @@
+4
+oL 0
+wc 0
+Nc 0
+ro 1
+rostrum

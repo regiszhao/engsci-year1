@@ -1,0 +1,128 @@
+23
+gm 0
+a 14
+abstracting
+aquifers
+assessments
+achiever
+avocado
+acceded
+anticlimax
+aborted
+accept
+adventured
+apprehend
+alleviations
+atonal
+annoyed
+G 3
+Groin
+Giant
+Guiltless
+Prc 0
+f 8
+fizzles
+fortunetellers
+farsighted
+fared
+fugue
+fag
+firefly
+fluctuation
+c 11
+committal
+cheep
+crowned
+certified
+cowriter
+celsius
+calligraphic
+conveniences
+caging
+conjunction
+charm
+rn 0
+k 0
+qG 0
+y 0
+Kc 0
+fpe 0
+d 17
+drawcord
+disturb
+differently
+dextral
+dummied
+damn
+dolt
+drivel
+defect
+divider
+depressant
+defame
+diverts
+drain
+discarded
+defray
+descriptions
+t 9
+tourniquet
+trinidad
+taxonomic
+ticker
+tumbled
+testaments
+tallying
+truncations
+taxpaying
+ui 0
+oS 0
+WUG 0
+tL 0
+ikw 0
+ln 0
+fl 1
+fluctuation
+d 17
+drawcord
+disturb
+differently
+dextral
+dummied
+damn
+dolt
+drivel
+defect
+divider
+depressant
+defame
+diverts
+drain
+discarded
+defray
+descriptions
+s 24
+sari
+sparkler
+soothed
+soap
+sierra
+stagnating
+scurrying
+student
+suicides
+symposium
+skuas
+signers
+sprung
+snuggled
+shelving
+slalom
+strafe
+stepfather
+scrabble
+separable
+soon
+subsists
+salmon
+stultified

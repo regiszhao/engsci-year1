@@ -1,0 +1,12 @@
+10
+Fdo 0
+II 0
+adx 0
+G 0
+v 1
+vocalisation
+yc 0
+ym 0
+oi 0
+upe 0
+hC 0

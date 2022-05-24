@@ -1,0 +1,13 @@
+5
+Q 1
+Quartic
+sD 0
+w 6
+windiest
+worst
+whiting
+welltimed
+warders
+worldwide
+mr 0
+z 0

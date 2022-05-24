@@ -1,0 +1,35 @@
+16
+qVt 0
+c 7
+carpeting
+causeways
+constricts
+chided
+custom
+corsets
+crocus
+bl 1
+blockades
+hgY 0
+X 0
+Ndx 0
+S 0
+fM 0
+P 2
+Panic
+Placated
+xvf 0
+e 1
+elongating
+c 7
+carpeting
+causeways
+constricts
+chided
+custom
+corsets
+crocus
+zb 0
+dm 0
+T 0
+cZ 0

@@ -1,0 +1,125 @@
+16
+X 0
+Ro 1
+Roadhouse
+q 3
+questionnaire
+quitter
+quadrilaterals
+B 12
+Burlesquing
+Bitter
+Books
+Bitterness
+Beelines
+Brokenhearted
+Bridling
+Blokes
+Brooding
+Battledress
+Butchering
+Balefully
+Px 0
+G 8
+Grainier
+Greenhouses
+Gunfight
+Gramme
+Granaries
+Goodbyes
+Gull
+Groats
+Nw 0
+l 15
+legalities
+libraries
+laminated
+lateralisation
+lightens
+launch
+lunacies
+lengthened
+lottery
+lividly
+likeable
+lexicographers
+lynching
+lemmings
+lingers
+r 37
+registered
+relating
+reconsidering
+relinquish
+replaces
+rapturous
+replacements
+reconciliation
+retracing
+rho
+reappoint
+revile
+rentals
+rivers
+ruanda
+rechecking
+rucksack
+retrenchment
+rejoicing
+retaining
+retype
+recomputing
+robin
+researchers
+reactions
+receiving
+risings
+randomised
+reclines
+roebuck
+rematch
+reintroduction
+raps
+repulsive
+reflation
+redemptions
+rachis
+o 12
+opens
+outlying
+overcrowded
+oxidised
+overstatement
+obtrusive
+overwhelmed
+orthodoxy
+orthorhombic
+obligingly
+opponents
+ovation
+g 20
+gaol
+gentle
+gropings
+grinded
+gigolo
+gazebo
+gobble
+grains
+gassed
+gathering
+geodesic
+goriest
+gadgets
+gratifyingly
+grotto
+gift
+gibberish
+gobbledygook
+gravelled
+goes
+gm 0
+ia 0
+Xt 0
+gs 0
+Lt 0

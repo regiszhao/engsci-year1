@@ -1,0 +1,31 @@
+23
+L 1
+Laptop
+bn 0
+yp 0
+Lw 0
+z 0
+z 0
+js 0
+GE 0
+Q 0
+h 3
+hidden
+hangglider
+harvests
+a 0
+qc 0
+ab 0
+Va 0
+p 1
+panicstricken
+rD 0
+w 2
+woodwork
+wealthiest
+oLi 0
+Utv 0
+uv 0
+pv 0
+XSa 0
+gfb 0

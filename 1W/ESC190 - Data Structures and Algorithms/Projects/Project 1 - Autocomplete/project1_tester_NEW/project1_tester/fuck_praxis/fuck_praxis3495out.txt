@@ -1,0 +1,210 @@
+25
+kb 0
+h 22
+hostess
+harmlessly
+haunt
+hurl
+howdy
+heaps
+hearten
+hugs
+haul
+hyperactive
+highheeled
+housemaids
+hadnt
+hamlets
+haziest
+heat
+halitosis
+hominids
+hacking
+hectic
+headquarters
+hindering
+oM 0
+d 49
+dispossession
+dentition
+dribble
+doggerel
+dutifulness
+distillate
+dimensionality
+dakoits
+devoutness
+dilapidated
+decidable
+disgustingly
+deterrence
+desperate
+diversifies
+deuces
+disowning
+diversification
+dared
+dupe
+decremented
+despising
+deportee
+draughtiest
+dinner
+debase
+decomposed
+defilement
+drinkable
+dictatorial
+docked
+dale
+driveways
+deplorably
+dints
+dispels
+dawning
+didnt
+disparaged
+diverted
+dieticians
+defining
+drawbacks
+demented
+dredge
+dowsers
+drachma
+distanced
+diligent
+uic 0
+h 22
+hostess
+harmlessly
+haunt
+hurl
+howdy
+heaps
+hearten
+hugs
+haul
+hyperactive
+highheeled
+housemaids
+hadnt
+hamlets
+haziest
+heat
+halitosis
+hominids
+hacking
+hectic
+headquarters
+hindering
+P 14
+Photometry
+Persecuted
+Permeability
+Perspicacious
+Plop
+Pompously
+Posturing
+Pizzicato
+Pressurecooking
+Protesters
+Prudential
+Prosaist
+Polymerase
+Prosecutors
+w 13
+webfoot
+wresting
+wallowed
+willingness
+wearers
+withstand
+worthlessness
+wrongly
+whop
+wingspan
+watchtowers
+weigh
+wharf
+fde 0
+i 23
+insubstantial
+interrogatively
+inefficient
+infest
+impeded
+insteps
+interlocks
+inconsistencies
+initialised
+intestate
+insures
+imprisoning
+impersonal
+improvable
+invertebrate
+incapable
+indemnified
+inattentive
+interregnum
+interrogation
+interregnum
+intentionally
+inertial
+Sc 1
+Scuds
+aa 0
+h 22
+hostess
+harmlessly
+haunt
+hurl
+howdy
+heaps
+hearten
+hugs
+haul
+hyperactive
+highheeled
+housemaids
+hadnt
+hamlets
+haziest
+heat
+halitosis
+hominids
+hacking
+hectic
+headquarters
+hindering
+es 0
+W 5
+Washes
+Windings
+Weathercocks
+Weirder
+Wiped
+dy 0
+gb 0
+LXR 0
+uY 0
+jZ 0
+xiu 0
+D 13
+Derrick
+Deceitfulness
+Disruption
+Disclosures
+Discounted
+Dread
+Downstage
+Distinctively
+Deceleration
+Diagonals
+Drivelled
+Dependability
+Dogooders
+ctx 0
+NF 0
+Uy 0

@@ -1,0 +1,35 @@
+10
+Rt 0
+l 11
+lash
+lapidary
+lumberjack
+lynching
+lukewarm
+lose
+leopardskin
+lugs
+lives
+lively
+loanword
+dV 0
+QF 0
+Ept 0
+upT 0
+TO 0
+jz 0
+UX 0
+b 13
+bachelor
+baa
+blemished
+backed
+bombardments
+bereave
+blisters
+banishing
+biological
+broadsides
+bedrock
+bins
+bureaucracies

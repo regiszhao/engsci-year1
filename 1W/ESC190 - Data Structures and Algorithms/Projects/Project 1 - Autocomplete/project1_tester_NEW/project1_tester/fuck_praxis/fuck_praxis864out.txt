@@ -1,0 +1,32 @@
+21
+WNf 0
+dt 0
+c 4
+cycleways
+compassed
+cohered
+capacitors
+gw 0
+na 1
+nagasaki
+nL 0
+Pk 0
+yn 0
+zs 0
+fMd 0
+sp 1
+spunky
+nk 0
+l 1
+lamentable
+cd 0
+th 0
+djh 0
+lAz 0
+o 2
+orientals
+onyx
+P 1
+Programmes
+TUo 0
+ion 0

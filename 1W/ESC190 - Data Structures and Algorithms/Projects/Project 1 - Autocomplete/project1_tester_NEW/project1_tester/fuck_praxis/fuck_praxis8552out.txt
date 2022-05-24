@@ -1,0 +1,83 @@
+21
+ph 1
+physic
+y 1
+yardage
+ix 0
+z 0
+qc 0
+c 16
+consumable
+codename
+composedly
+collectivisation
+cooled
+captivation
+creativity
+captivated
+ceramist
+czar
+carton
+copilot
+columnar
+cheeks
+closedcircuit
+cuttingly
+t 9
+triangulating
+therapies
+toasts
+tempera
+tying
+trimaran
+trashy
+tenurial
+tactics
+v 3
+vague
+vending
+virginal
+IUr 0
+m 9
+mistyped
+motile
+moves
+meringues
+mustered
+mezzosoprano
+manipulator
+misunderstandings
+mostly
+ljh 0
+Uy 0
+p 15
+percussionists
+postmortem
+platforms
+pint
+plexus
+physic
+pretence
+pictural
+pronouncing
+purples
+purposely
+plummeting
+predictions
+panelling
+pulchritude
+o 4
+ozonefriendly
+orthogonal
+outputting
+onuses
+cTv 0
+uM 0
+ly 0
+Y 1
+Yanks
+k 2
+kitty
+knavery
+nh 0
+Fg 0

@@ -1,0 +1,33 @@
+15
+N 1
+Nightlife
+fz 0
+Qm 0
+tF 0
+v 5
+vocalist
+variations
+vending
+vengeance
+vocalists
+uw 0
+bc 0
+w 4
+weltering
+worrisome
+watermarks
+writhe
+kb 0
+Sbo 0
+r 6
+rakes
+recouping
+roebuck
+reissuing
+rhine
+riot
+zr 0
+pBl 0
+wT 0
+J 1
+Jousts

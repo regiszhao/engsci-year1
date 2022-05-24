@@ -1,0 +1,6 @@
+3
+blq 0
+ib 0
+s 2
+sinuous
+softspoken

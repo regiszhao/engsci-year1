@@ -1,0 +1,68 @@
+25
+Tm 0
+LM 0
+wcp 0
+Ce 0
+wn 0
+cl 2
+classicist
+clef
+n 5
+null
+nulls
+net
+ninety
+nattering
+v 2
+velvet
+veritable
+Bla 0
+tm 0
+f 5
+flagship
+foliated
+foreground
+factionalism
+fortress
+j 1
+jacking
+p 15
+peculiarity
+predicaments
+parenthetically
+parodist
+pane
+prohibitive
+prising
+profiteers
+pats
+peacetime
+prettiness
+protester
+percussed
+polytheist
+psychotherapist
+xtl 0
+sOb 0
+qT 0
+vo 0
+ud 0
+ke 0
+U 1
+Unlisted
+Ra 1
+Rationalities
+ps 1
+psychotherapist
+i 7
+initialising
+insignia
+intellect
+impressionistic
+incineration
+isometrically
+interfacing
+v 2
+velvet
+veritable
+vx 0

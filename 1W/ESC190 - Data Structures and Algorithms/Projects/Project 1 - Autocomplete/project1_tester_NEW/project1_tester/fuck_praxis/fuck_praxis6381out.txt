@@ -1,0 +1,12 @@
+9
+H 1
+Hump
+rh 0
+Y 0
+p 1
+propelled
+oE 0
+dxF 0
+izy 0
+ju 0
+Ry 0

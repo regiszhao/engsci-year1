@@ -1,0 +1,200 @@
+20
+iU 0
+jr 0
+wj 0
+vi 1
+vivid
+xq 0
+sm 1
+smokestacks
+v 8
+varnishing
+vengeance
+vacuums
+volumetric
+vivid
+voicing
+vegetative
+vernal
+bqf 0
+E 12
+Ennoble
+Encirclements
+Eats
+Ennobling
+Embarrasses
+Evince
+Exmember
+Enveloped
+Educators
+Exuberant
+Evener
+Enlace
+h 31
+hush
+hideout
+homogeneity
+hiccup
+hothouses
+hydroponically
+halon
+humbles
+hansard
+homework
+hubristic
+hooting
+hundredfold
+hydrofoils
+hikers
+hyperplanes
+heated
+heartwarming
+hypoxia
+hurtling
+hellenic
+hubs
+homewards
+horseless
+hazarding
+huffily
+headnote
+hurricane
+helices
+hard
+herm
+lK 0
+S 32
+Soiree
+Sibilancy
+Stereotypes
+Slimy
+Saved
+Statures
+Swum
+Stainless
+Sociability
+Supersaturation
+Shrew
+Scissored
+Steadying
+Spiritualist
+Sider
+Straps
+Stymie
+Superfluous
+Stet
+Sophistry
+Swordsman
+Studs
+Seattle
+Swivelled
+Sergeant
+Stickers
+Stippled
+Seafood
+Sourest
+Strengthening
+Stopgap
+Stillness
+e 35
+entertainers
+enhancer
+elastically
+effectors
+externalised
+emery
+explainable
+equaliser
+electrochemical
+effulgent
+exmembers
+especially
+extraterrestrial
+ephemeral
+emptiest
+exaggerated
+emasculation
+entropy
+enslavement
+educate
+elegiac
+enormously
+elicitation
+entrance
+exhusband
+eschatology
+excerpts
+expeditiously
+emendation
+earthworms
+effulgence
+evaporating
+enviable
+epic
+eyelet
+xnq 0
+l 24
+livewire
+lolled
+lordly
+lair
+lobs
+layered
+lowkey
+longitudinal
+laconically
+legates
+labyrinthine
+lama
+lusts
+lenders
+lends
+leach
+lagos
+lends
+languished
+luscious
+landmass
+lawmen
+littoral
+lodestone
+rY 0
+S 32
+Soiree
+Sibilancy
+Stereotypes
+Slimy
+Saved
+Statures
+Swum
+Stainless
+Sociability
+Supersaturation
+Shrew
+Scissored
+Steadying
+Spiritualist
+Sider
+Straps
+Stymie
+Superfluous
+Stet
+Sophistry
+Swordsman
+Studs
+Seattle
+Swivelled
+Sergeant
+Stickers
+Stippled
+Seafood
+Sourest
+Strengthening
+Stopgap
+Stillness
+PjL 0
+nr 0
+q 3
+quisling
+quickens
+quackish

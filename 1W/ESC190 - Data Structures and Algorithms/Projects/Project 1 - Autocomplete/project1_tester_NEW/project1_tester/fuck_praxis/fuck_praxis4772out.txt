@@ -1,0 +1,68 @@
+24
+rd 0
+py 1
+pyre
+z 0
+ov 5
+overcrowd
+overplayed
+overshot
+overlapped
+overcooked
+mOa 0
+mu 2
+muffed
+mugged
+fE 0
+inb 0
+qt 0
+pp 0
+KIj 0
+wg 0
+ysj 0
+cu 2
+curricular
+cull
+VAj 0
+Gl 0
+DX 0
+A 12
+Ablation
+Anchovies
+Averse
+Ably
+Adlib
+Accurate
+Ambled
+Apostrophes
+Allele
+Altitude
+Abhor
+Adventurously
+aI 0
+eq 1
+equitably
+Be 2
+Belted
+Beneficence
+jJe 0
+B 17
+Bytes
+Blasphemy
+Brushup
+Baled
+Babysit
+Belted
+Bowing
+Brayed
+Bullies
+Bicycles
+Braziers
+Blithering
+Beneficence
+Braggart
+Blusher
+Buts
+Brawled
+sw 1
+swung

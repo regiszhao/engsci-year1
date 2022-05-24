@@ -1,0 +1,95 @@
+16
+tc 0
+yl 0
+hRS 0
+RS 0
+q 0
+a 11
+aeolian
+armband
+accosts
+attitudinal
+appraise
+archways
+abutments
+abdicating
+atheist
+accomplished
+angst
+M 10
+Matrixes
+Mouthorgan
+Metabolisms
+Mustiest
+Magnifies
+Masochistic
+Mollified
+Malices
+Moisture
+Mismatches
+c 24
+cannibalised
+coordinates
+cadets
+commodious
+crush
+conveyors
+cigars
+carried
+chairs
+confounding
+covenanted
+contusions
+cosseted
+congratulated
+chilly
+coolants
+closeup
+coveralls
+censer
+creak
+conservators
+coordinators
+concentrators
+cutter
+f 14
+frontal
+fortnightly
+fuelling
+favours
+floodlit
+freak
+fraternising
+fiance
+fault
+frankly
+futurity
+fledgeling
+frontispieces
+flinty
+L 7
+Layabouts
+Linseed
+Laborious
+Lechery
+Low
+Lorryload
+Lunged
+zwt 0
+Ve 1
+Venue
+ZK 0
+Or 0
+h 11
+harmonically
+horsepower
+horses
+heighten
+holidaying
+hatchery
+holocaust
+hostilities
+haddocks
+humiliation
+heralded
+nv 0

@@ -1,0 +1,72 @@
+10
+G 12
+Gamekeeper
+Glaze
+Getter
+Gloves
+Grim
+Grocers
+Gal
+Gauged
+Grimmer
+Godsons
+Gorgons
+Gulps
+b 22
+builtup
+bookish
+buoyed
+bathhouse
+bridging
+believability
+bough
+beanpole
+beeches
+bundles
+becomes
+bustles
+beggared
+battering
+blankets
+befriended
+behaved
+breadfruit
+brambles
+bondholders
+bordering
+butlers
+sb 0
+n 4
+nanometre
+nonviolent
+neoplasm
+nobleness
+X 0
+t 23
+testtube
+trio
+toasted
+toasty
+tarzan
+transposed
+tactlessly
+tracer
+trudge
+timeliness
+taxable
+thy
+teatime
+tenderness
+tinkle
+tonsillectomy
+terrorism
+transgressors
+teamster
+typewriting
+takeaway
+tricks
+timers
+Tc 0
+rxs 0
+pmn 0
+Cj 0

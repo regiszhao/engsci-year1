@@ -1,0 +1,81 @@
+7
+go 1
+goitre
+a 27
+alienate
+aplenty
+anoints
+abasement
+armistice
+approximated
+annulus
+ambled
+apiece
+assert
+aphorisms
+amnesic
+annual
+ageing
+alleviations
+allergy
+adlibs
+anoraks
+acquire
+annealer
+amplifier
+alleyways
+aunties
+approve
+anchovy
+afferent
+attributing
+b 24
+bathwater
+blend
+beverage
+briefing
+brickbat
+bragging
+bag
+borer
+blackberries
+barricade
+bicycle
+budgeted
+born
+bristles
+butcher
+bricked
+blister
+bends
+bluecollar
+bottle
+bewilders
+brooms
+breeziest
+betrays
+ra 2
+rated
+ravage
+t 17
+toddle
+totemic
+timekeeping
+triangulated
+typewriters
+thromboses
+trawl
+threefold
+tinniest
+tempers
+trenched
+tricolour
+trek
+trauma
+tendered
+twilit
+teensy
+Uda 0
+k 2
+keywords
+khalif

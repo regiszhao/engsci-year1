@@ -1,0 +1,69 @@
+17
+i 8
+implementer
+irate
+imperialistic
+invulnerable
+impale
+infectious
+interpretively
+indistinguishably
+p 10
+pregnant
+parsec
+passably
+petticoats
+pentecostal
+phrasebook
+pele
+populations
+porch
+protestants
+rO 0
+J 0
+mi 1
+microbiologist
+w 4
+wriggling
+winced
+watches
+waft
+WGl 0
+m 8
+maoists
+menfolk
+melodramatic
+mama
+meekness
+microbiologist
+monopoles
+massacred
+cQ 0
+gf 0
+f 8
+feather
+farsighted
+fidget
+fluctuate
+forefront
+fetal
+finetune
+fiends
+j 0
+r 3
+recalculate
+retina
+rottenly
+a 4
+arsonist
+adjourn
+aberrations
+abysmal
+n 2
+neckline
+narrowed
+b 3
+banknote
+bloodlessness
+barleycorns
+wt 0

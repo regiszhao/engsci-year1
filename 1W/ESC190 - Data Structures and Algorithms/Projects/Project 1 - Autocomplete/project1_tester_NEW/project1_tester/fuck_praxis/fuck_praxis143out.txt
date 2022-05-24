@@ -1,0 +1,71 @@
+13
+nk 0
+gp 0
+T 6
+Thinners
+Thriftiest
+Truest
+Temperamentally
+Talks
+Toccata
+j 1
+jotting
+g 12
+guarding
+grafts
+gnarled
+giro
+gelignite
+groups
+grinded
+gaoled
+gainer
+grumbler
+guessing
+grind
+R 10
+Reside
+Reorganise
+Retails
+Relaxed
+Refractions
+Ruffled
+Ricochet
+Rattler
+Rule
+Reconditioned
+nM 0
+ix 0
+D 9
+Doorsteps
+Diagrammatic
+Detachable
+Doctor
+Dire
+Disappointments
+Depths
+Deprecation
+Deserters
+v 9
+viral
+volume
+veined
+virulence
+vocalising
+vigorously
+verve
+visa
+vociferously
+u 9
+unjustifiably
+upheaval
+untwist
+unanswerable
+unpasted
+unthoughtful
+unseat
+uttered
+unreadability
+ert 0
+ir 1
+irreversibly

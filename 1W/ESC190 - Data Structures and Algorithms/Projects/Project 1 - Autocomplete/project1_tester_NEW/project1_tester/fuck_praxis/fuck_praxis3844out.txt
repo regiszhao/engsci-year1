@@ -1,0 +1,10 @@
+6
+lr 0
+Fjm 0
+M 3
+Multiprocessors
+Mite
+Mammals
+mf 0
+zww 0
+Byw 0

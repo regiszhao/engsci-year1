@@ -1,0 +1,8 @@
+4
+r 3
+rationales
+rivalry
+receive
+gdm 0
+pvC 0
+Hl 0

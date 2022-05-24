@@ -1,0 +1,6 @@
+3
+go 0
+ECd 0
+di 2
+divination
+dictatorial

@@ -1,0 +1,209 @@
+22
+g 20
+goitre
+gnarl
+granddaughter
+galas
+guarantee
+granites
+grip
+grapeshot
+gantry
+giraffe
+goosestep
+girls
+grotto
+gagging
+grievous
+guitarist
+gradations
+guppy
+gore
+grippers
+wzx 0
+kW 0
+O 7
+Organisms
+Oesophagus
+Oiling
+Orchestra
+Oxidising
+Oxalate
+Omitting
+q 5
+quotes
+quartermaster
+quadratics
+quaker
+qualities
+BCm 0
+Lk 0
+hnd 0
+vuw 0
+rsq 0
+n 9
+nutritionists
+negating
+nightcap
+nasally
+nuclear
+nettle
+neural
+numerous
+naively
+n 9
+nutritionists
+negating
+nightcap
+nasally
+nuclear
+nettle
+neural
+numerous
+naively
+ex 4
+explored
+exorbitant
+exists
+extraneous
+q 5
+quotes
+quartermaster
+quadratics
+quaker
+qualities
+kt 0
+V 2
+Variables
+Vaccines
+r 35
+repudiated
+rebalanced
+retrieve
+ridicules
+rhythmically
+reinventing
+riddled
+relocating
+regimen
+ramifications
+remastered
+rigid
+runnier
+reminders
+renter
+reconverted
+reassembled
+refuseniks
+reflectors
+ratiocination
+refusals
+reawakening
+repetitive
+river
+reactivity
+rewrites
+rebounds
+rains
+remainders
+repined
+retrieval
+resubstitute
+replicas
+raining
+rescanning
+s 54
+seasick
+sparta
+simpler
+swag
+story
+snaky
+similarity
+stormy
+snaked
+stamina
+surfaces
+subjectivity
+screening
+salty
+suffocate
+slurred
+stratosphere
+selectivity
+soso
+soothsaying
+subsystems
+sheepskin
+schoolchildren
+survivable
+separated
+slimiest
+smithy
+squeaks
+seashells
+spangles
+synthesised
+skinhead
+stickers
+spaceage
+sterile
+stout
+sequoia
+sallow
+suavely
+stockholding
+sidestepping
+swilled
+seasonably
+shortened
+slog
+stemming
+stateliest
+shrivelled
+server
+sages
+sandpiper
+shuttering
+simplifier
+stepsister
+pg 0
+r 35
+repudiated
+rebalanced
+retrieve
+ridicules
+rhythmically
+reinventing
+riddled
+relocating
+regimen
+ramifications
+remastered
+rigid
+runnier
+reminders
+renter
+reconverted
+reassembled
+refuseniks
+reflectors
+ratiocination
+refusals
+reawakening
+repetitive
+river
+reactivity
+rewrites
+rebounds
+rains
+remainders
+repined
+retrieval
+resubstitute
+replicas
+raining
+rescanning
+kp 0
+ox 1
+oxymoron

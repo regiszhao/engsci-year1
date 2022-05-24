@@ -1,0 +1,165 @@
+19
+sv 0
+f 21
+fattier
+fur
+fingerprints
+fireworks
+fulminations
+falter
+fathoms
+fibred
+foretell
+fact
+fornicate
+fuzzed
+flogs
+festooned
+finely
+floundered
+fulminate
+fiendishly
+froward
+fogs
+feign
+TK 0
+r 28
+rankers
+racialists
+rivalling
+recollect
+represents
+receipt
+ruthlessness
+returnable
+reinserted
+recoiling
+rejuvenating
+rationalisations
+republicans
+rotated
+replicator
+respecting
+rabbiting
+remoteness
+rouses
+redblooded
+razors
+rhyme
+retailer
+roots
+reflect
+repetition
+reeks
+remorsefully
+i 31
+idleness
+integrator
+incomprehensibly
+interstices
+interleave
+inflows
+incantation
+interacts
+insulant
+infuriating
+immunologically
+imperium
+index
+inexorability
+icon
+intergovernmental
+inattention
+interrupt
+indecency
+intercourse
+intractability
+italian
+intersected
+inkstands
+indolently
+impacted
+insensitive
+inexpertly
+interrelate
+illegibility
+interestedly
+Rsx 0
+gc 0
+y 1
+youth
+cm 0
+qan 0
+dg 0
+r 28
+rankers
+racialists
+rivalling
+recollect
+represents
+receipt
+ruthlessness
+returnable
+reinserted
+recoiling
+rejuvenating
+rationalisations
+republicans
+rotated
+replicator
+respecting
+rabbiting
+remoteness
+rouses
+redblooded
+razors
+rhyme
+retailer
+roots
+reflect
+repetition
+reeks
+remorsefully
+HuZ 0
+Kj 0
+xc 0
+Z 0
+i 31
+idleness
+integrator
+incomprehensibly
+interstices
+interleave
+inflows
+incantation
+interacts
+insulant
+infuriating
+immunologically
+imperium
+index
+inexorability
+icon
+intergovernmental
+inattention
+interrupt
+indecency
+intercourse
+intractability
+italian
+intersected
+inkstands
+indolently
+impacted
+insensitive
+inexpertly
+interrelate
+illegibility
+interestedly
+v 5
+vanishing
+ventricular
+vulgar
+vanes
+valiantly
+fc 0

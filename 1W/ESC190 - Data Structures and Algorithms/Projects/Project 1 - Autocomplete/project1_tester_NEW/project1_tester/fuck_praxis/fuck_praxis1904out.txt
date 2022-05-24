@@ -1,0 +1,90 @@
+10
+R 5
+Rattlesnake
+Rota
+Retorting
+Refocused
+Realisation
+oJP 0
+a 27
+anodised
+ape
+attempting
+asphyxia
+acrostics
+acceptors
+assiduously
+answerable
+awash
+anteater
+arch
+asks
+anguished
+abrasions
+armourer
+amour
+autobahns
+adulterating
+anchovy
+annoy
+assuredly
+aliphatic
+agog
+aloe
+adventure
+afforded
+acceded
+db 0
+B 11
+Bluffs
+Bloodstock
+Borstals
+Bring
+Belching
+Braised
+Brutalism
+Bestsellers
+Botanists
+Besetting
+Behaviours
+K 0
+xa 0
+VI 0
+p 34
+poisonings
+perpetrator
+preside
+porterage
+payphone
+puns
+political
+pariah
+pizzerias
+premise
+pledges
+pinup
+pestering
+pranced
+puking
+personal
+postcard
+perfumery
+plausibly
+pitches
+pipped
+person
+periscope
+paid
+phonemically
+perspicuity
+parenthetic
+predecessor
+picnic
+pharmacist
+piecewise
+polemic
+precinct
+printout
+q 2
+queueing
+questioners

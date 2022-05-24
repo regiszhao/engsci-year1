@@ -1,0 +1,119 @@
+14
+eqv 0
+g 19
+gunsmiths
+garrisoned
+graphed
+groupie
+grief
+ghastly
+genial
+gametes
+gravitating
+gerontology
+glossier
+ghostlike
+garbles
+gossiped
+grizzled
+gannets
+gramme
+guides
+gestating
+f 18
+frenzy
+foretell
+fascia
+fundamentalists
+foreshadowing
+franchise
+frailties
+feasibly
+fisherman
+fault
+fingermarks
+fatigue
+flappers
+frigates
+fiddles
+fulling
+furnishings
+figurines
+v 4
+vain
+vacation
+virtuosity
+vacuously
+e 19
+earthshaking
+extrema
+egotistic
+esthete
+endearing
+edibility
+evident
+entombment
+exams
+elegantly
+erected
+entranced
+emboldened
+exes
+exchangeable
+edified
+exhausted
+electors
+emitted
+vq 0
+a 26
+acupuncture
+alarmed
+auriculas
+anthropic
+achievement
+allocatable
+adaptors
+aperies
+anchorage
+accruing
+aimlessness
+atrophying
+amnesiac
+anisotropic
+academically
+annuli
+abseiler
+anarchy
+actives
+auburn
+alerted
+aeolian
+anarchistic
+agonised
+accelerator
+accepted
+On 0
+pK 0
+vfN 0
+k 2
+killed
+kidding
+C 13
+Campfire
+Curates
+Caramel
+Colourful
+Caliper
+Concussion
+Cons
+Counsellor
+Compatibly
+Conquered
+Cranes
+Clitoral
+Concordant
+H 3
+Hideaways
+Hire
+Hastening
+x 0

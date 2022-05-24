@@ -1,0 +1,123 @@
+29
+Y 0
+St 0
+e 15
+enforces
+eyebrows
+ethnographic
+ethanol
+enterprise
+emissivities
+expecting
+elected
+emulsions
+expressionism
+eulogise
+earthly
+empirical
+epitaxy
+encoder
+tm 0
+N 3
+Newspaper
+Northerners
+Nethermost
+a 18
+arachnids
+allergens
+adapters
+amphetamine
+altars
+adenoids
+azaleas
+ancient
+ambit
+abrogated
+aconite
+atonic
+admit
+aeration
+aidedecamp
+arced
+appertained
+asiatic
+mZ 0
+V 1
+Vodka
+ws 0
+y 0
+t 20
+tridents
+trivialises
+transfusing
+trapped
+transpose
+treasuring
+toehold
+tangling
+tidiest
+turmoil
+tightrope
+tufted
+typewriting
+thymus
+trimodal
+toasters
+transmittable
+toothpicks
+tumblers
+terming
+R 7
+Ruminative
+Ripe
+Rostrums
+Reddens
+Revisits
+Radiators
+Randomisation
+Oc 1
+Ocelots
+ecp 0
+cm 0
+hD 0
+me 5
+merchant
+meltdown
+meekest
+meats
+meddlers
+lL 0
+hv 0
+pu 0
+ehj 0
+aO 0
+ef 0
+zw 0
+wh 2
+wheats
+wholly
+i 15
+injudicious
+idiosyncrasy
+incited
+inculcating
+investigation
+incontinently
+indelicacy
+insensibly
+inhumane
+iterated
+indisputably
+implemented
+incongruity
+imprudently
+illinformed
+x 0
+j 1
+jab
+T 5
+Tepee
+Trickery
+Tacit
+Terminate
+Tidier

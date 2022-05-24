@@ -1,0 +1,7 @@
+6
+kw 0
+ln 0
+rsm 0
+Vv 0
+fV 0
+cy 0

@@ -1,0 +1,134 @@
+20
+wil 0
+xt 0
+t 17
+telephonic
+table
+twittered
+trouser
+travesty
+teleworking
+transfinitely
+trusted
+threads
+teddies
+twist
+tesseral
+truncating
+term
+thyroid
+tramped
+transnational
+l 12
+linoleum
+lift
+launderette
+lobotomy
+lobbied
+looser
+lurid
+lightened
+languish
+lunge
+linkage
+landside
+gp 0
+p 25
+provisioned
+piratical
+personalise
+piecing
+personnel
+paintwork
+phonetically
+puller
+posters
+probes
+parenteral
+perverseness
+pectin
+percentages
+pausing
+proverbial
+pooh
+poker
+piquant
+preened
+percent
+parents
+peppers
+piqued
+pictorial
+M 8
+Monastery
+Mistaking
+Memorandums
+Microwave
+Morpheme
+Motels
+Marchers
+Mossier
+k 3
+kerned
+kindly
+khans
+b 20
+brainwashing
+barium
+biosynthesis
+burgeons
+baulks
+blacking
+bottomless
+breadboards
+bough
+bomber
+borrowers
+bagging
+bucks
+boldly
+beef
+bedpost
+beauteous
+birches
+buying
+bacchus
+X 0
+M 8
+Monastery
+Mistaking
+Memorandums
+Microwave
+Morpheme
+Motels
+Marchers
+Mossier
+au 1
+authoritarian
+FkW 0
+Rvy 0
+iyW 0
+k 3
+kerned
+kindly
+khans
+q 1
+quacked
+pq 0
+d 15
+detesters
+desecration
+dismember
+drew
+disincentive
+divinest
+distally
+downturns
+detectable
+dextrously
+discontinuous
+desisting
+dignitary
+displacing
+decentralise
+tM 0

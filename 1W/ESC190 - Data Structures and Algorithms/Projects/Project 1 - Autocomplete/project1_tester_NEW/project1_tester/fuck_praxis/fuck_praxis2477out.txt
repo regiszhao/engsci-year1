@@ -1,0 +1,17 @@
+12
+bo 1
+bombers
+h 2
+hyperplane
+holland
+dpN 0
+zN 0
+q 0
+lmO 0
+ioW 0
+tb 0
+u 1
+unmanly
+wgF 0
+ld 0
+yP 0

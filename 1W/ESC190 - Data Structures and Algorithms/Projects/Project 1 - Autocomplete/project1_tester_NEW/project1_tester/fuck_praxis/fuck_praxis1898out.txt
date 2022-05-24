@@ -1,0 +1,129 @@
+21
+rl 0
+vj 0
+l 21
+loom
+licensing
+lingeringly
+layman
+laddie
+lashed
+lists
+lodge
+lightship
+laugh
+lutes
+lords
+lizard
+lashings
+lexicographically
+launder
+lactic
+luminescent
+lithological
+laborious
+lenin
+q 6
+quaternary
+qualification
+qualified
+quark
+qualify
+quorate
+D 14
+Drakes
+Divers
+Daemon
+Drunker
+Deuteron
+Distasteful
+Derogatory
+Downhearted
+Deploring
+Discant
+Disingenuously
+Denunciations
+Drinker
+Dismantled
+qB 0
+kW 0
+ly 0
+bJ 0
+Xc 0
+i 31
+implies
+income
+immolate
+interceptors
+inanity
+irrigated
+interlap
+ionian
+inclemency
+impressionist
+indecisive
+invasive
+idealistically
+interesting
+implementable
+isogram
+interceptors
+inflicted
+interject
+isotropic
+insinuate
+indomitable
+irregular
+illegible
+incremented
+idem
+inkier
+intangible
+ichneumon
+integrity
+inclinations
+q 6
+quaternary
+qualification
+qualified
+quark
+qualify
+quorate
+Rw 0
+ak 1
+akin
+WC 0
+bE 0
+P 13
+Pirouette
+Pretreatment
+Pedlars
+Pushable
+Preservative
+Printed
+Plotted
+Pasteurisation
+Prostaglandins
+Procreatory
+Paining
+Parlance
+Patient
+Avl 0
+w 15
+waitresses
+wetsuits
+wanted
+widespread
+wellworn
+ween
+whiter
+writes
+windswept
+worldly
+walkabouts
+weariness
+wenches
+worshipper
+watermills
+Yeb 0
+wn 0

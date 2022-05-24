@@ -1,0 +1,151 @@
+14
+u 19
+unsatisfactoriness
+unfirm
+unpeeled
+unworldly
+unsavory
+unheeded
+unbranded
+undrinkable
+unrealisable
+unprofessional
+undesirables
+unrepeated
+unsteadiness
+unclesam
+unpromising
+unpacking
+unemotionally
+ungenerously
+underachievement
+p 56
+pantomime
+peppermint
+powdering
+profundity
+pedantic
+pleasurable
+parks
+proscribe
+preadolescent
+percussing
+prescribing
+passport
+pilasters
+popularise
+princesses
+petition
+primitiveness
+permanganate
+postcode
+psychopath
+prissy
+prefixing
+peering
+prevue
+passersby
+poncho
+parasitology
+punier
+palely
+pressure
+pentagon
+pretends
+pairs
+protozoa
+parkas
+prairie
+priggish
+phoned
+predicts
+panellists
+presenter
+perceptive
+prototypical
+plasticisers
+promoted
+prove
+photocopier
+perfidious
+potshots
+poulterer
+prancer
+palpate
+preoccupations
+poetics
+pipping
+perkily
+vt 0
+Cn 0
+sv 0
+Y 0
+E 8
+Enterprising
+Erode
+Economises
+Enquiring
+Earmarking
+Ecstasy
+Egalitarians
+Encamped
+Xs 0
+P 22
+Puree
+Protestors
+Psalter
+Puller
+Preaches
+Prolapsed
+Partiality
+Protractors
+Poaches
+Picks
+Possibility
+Proceeding
+Photocopier
+Part
+Proud
+Platelets
+Panga
+Paragons
+Paradigmatic
+Predisposes
+Polecat
+Pocketbook
+oW 0
+Cz 0
+i 30
+integrally
+inadvertent
+impending
+indictment
+inlaid
+isometry
+inquisitorially
+interoperable
+irony
+incorporates
+inaccuracies
+ideologues
+illiterates
+indepth
+ingoing
+instigators
+isosceles
+idler
+insurgency
+interlude
+infiltrator
+immorality
+impedimenta
+insubstantial
+incredulity
+icily
+inhumanely
+incongruity
+industrialise
+imitated
+pwB 0
+no 1
+nonplussed

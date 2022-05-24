@@ -1,0 +1,134 @@
+20
+Wci 0
+rf 0
+kyl 0
+gjK 0
+ro 1
+rotations
+yo 1
+yogi
+zz 0
+z 0
+b 18
+bomber
+bullet
+blatant
+bucolic
+bursar
+baldness
+backhanded
+bloodbath
+bombers
+beefier
+boozes
+borrowings
+blossom
+banana
+bitters
+builds
+bulging
+bemusedly
+h 15
+hi
+harassment
+heightened
+headhunters
+heavies
+homogenisation
+headmistress
+humus
+hermaphrodite
+hogged
+hearkened
+horsefly
+hijacked
+hyssop
+humbled
+ST 0
+U 3
+Unjustly
+Underclothes
+Unladen
+gsd 0
+i 26
+imp
+invigilator
+illusionists
+itching
+informational
+inflammatory
+iced
+investigatory
+impugn
+intoxicating
+icons
+indictment
+ineluctable
+imbecilic
+instructive
+ingathered
+imputing
+insulted
+idiosyncrasy
+intrusive
+ignorable
+intifada
+incommunicable
+iterating
+isotonic
+illuminated
+BU 0
+dX 0
+Fw 0
+g 16
+gymnast
+glycine
+gird
+gainer
+grouped
+glob
+gratitude
+grumblings
+granular
+gatekeeper
+grabbing
+glaucoma
+gosh
+gangplank
+gazelle
+gate
+I 7
+Incurred
+Infiltrators
+Illegibility
+Icing
+Intuitionist
+Inhumanly
+Interdict
+p 26
+prattling
+punky
+payers
+puree
+polystyrene
+pelt
+photolysis
+poodle
+paginate
+predominating
+pair
+preclude
+promoted
+politic
+plod
+passes
+physiologist
+present
+postmistress
+preens
+piquant
+potteries
+provincial
+polythene
+permafrost
+platform

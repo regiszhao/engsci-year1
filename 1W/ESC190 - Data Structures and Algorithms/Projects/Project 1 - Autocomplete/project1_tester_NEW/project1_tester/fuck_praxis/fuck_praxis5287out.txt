@@ -1,0 +1,15 @@
+11
+goN 0
+d 1
+deepsea
+gbd 0
+Yp 0
+Si 0
+gf 0
+sd 0
+Y 0
+Lr 0
+i 2
+ins
+irradiating
+yio 0

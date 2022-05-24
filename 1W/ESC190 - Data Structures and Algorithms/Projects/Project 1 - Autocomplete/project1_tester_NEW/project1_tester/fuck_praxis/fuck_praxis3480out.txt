@@ -1,0 +1,37 @@
+24
+fH 0
+g 1
+graphite
+ir 0
+oh 0
+jr 0
+iy 0
+ai 1
+airings
+EId 0
+f 1
+flutes
+qlf 0
+kic 0
+l 0
+sUc 0
+c 1
+conceptualisations
+f 1
+flutes
+F 1
+Frighteners
+J 1
+Journeyed
+fw 0
+xh 0
+v 0
+tb 0
+lo 0
+s 4
+sunflowers
+spooky
+spark
+subzero
+r 1
+recreation

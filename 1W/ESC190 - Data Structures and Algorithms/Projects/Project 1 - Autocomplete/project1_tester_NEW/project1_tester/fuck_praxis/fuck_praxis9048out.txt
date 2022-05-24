@@ -1,0 +1,68 @@
+12
+b 10
+backtrack
+bandaging
+back
+bactericidal
+bearer
+bookworms
+backyard
+backstairs
+breaded
+bargaining
+t 15
+tigers
+tinware
+topped
+technicians
+tilde
+tenements
+transcription
+transcriptional
+toothbrushes
+tend
+transformations
+temporal
+token
+talkers
+thriftiest
+k 0
+rqa 0
+x 0
+cn 0
+hc 0
+d 21
+decisiveness
+donating
+deserved
+deferral
+detaining
+do
+drawing
+desk
+doze
+drycleaning
+desolated
+devolved
+denouncing
+diligent
+disentangle
+dramatics
+diagrams
+dividers
+defrosting
+disjointedly
+disallowing
+kw 0
+o 9
+obediently
+oiler
+overdrafts
+oafish
+overruns
+outfits
+oversubscribed
+obsessional
+ounce
+zc 0
+Vv 0

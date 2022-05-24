@@ -1,0 +1,19 @@
+10
+bm 0
+Y 0
+mv 0
+S 4
+Subtends
+Seine
+Straighter
+Shuts
+kFj 0
+O 1
+Occasioning
+wx 0
+h 2
+hospital
+heights
+ol 0
+g 1
+gurgled

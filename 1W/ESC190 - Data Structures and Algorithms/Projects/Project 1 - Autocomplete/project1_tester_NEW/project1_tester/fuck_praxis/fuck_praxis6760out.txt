@@ -1,0 +1,142 @@
+22
+xs 0
+t 36
+thrives
+tokens
+tramways
+trajectory
+thunderclap
+terrains
+teaching
+transformers
+thirsted
+tuppence
+typology
+taunts
+thereabouts
+trombone
+transliterates
+thermoplastic
+trivialisation
+tinned
+tragedians
+transit
+toboggan
+tachographs
+trappers
+toughness
+tinnily
+terser
+translatable
+tributes
+typically
+timekeepers
+takeaways
+transgressive
+tints
+tenancies
+thicknesses
+trenched
+Aho 0
+t 36
+thrives
+tokens
+tramways
+trajectory
+thunderclap
+terrains
+teaching
+transformers
+thirsted
+tuppence
+typology
+taunts
+thereabouts
+trombone
+transliterates
+thermoplastic
+trivialisation
+tinned
+tragedians
+transit
+toboggan
+tachographs
+trappers
+toughness
+tinnily
+terser
+translatable
+tributes
+typically
+timekeepers
+takeaways
+transgressive
+tints
+tenancies
+thicknesses
+trenched
+Oqr 0
+S 15
+Slanders
+Scenic
+Sorting
+Slaughterings
+Stepmother
+Slight
+Smilers
+Screechier
+Subcommittee
+Standards
+Striping
+Shameless
+Seeing
+Smelly
+Startup
+ev 1
+evaluative
+qT 0
+r 29
+roentgen
+rapt
+relishing
+repartee
+recruiters
+rebirth
+reasoned
+rigorous
+reverted
+rudderless
+readability
+readmitted
+reply
+researches
+rummaging
+reproducibility
+ridiculed
+rascals
+rocksolid
+rely
+random
+reductionist
+rediscovery
+rubbish
+reassures
+reversibly
+ratified
+retrenchment
+racehorses
+ia 0
+Ef 1
+Effrontery
+wYj 0
+fq 0
+y 0
+Uit 0
+Ft 0
+jg 0
+svy 0
+Zi 0
+J 1
+Jointing
+yka 0
+zW 0

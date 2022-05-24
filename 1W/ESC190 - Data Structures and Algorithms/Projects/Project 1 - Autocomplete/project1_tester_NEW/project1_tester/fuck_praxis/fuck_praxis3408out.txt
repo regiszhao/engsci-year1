@@ -1,0 +1,210 @@
+23
+a 30
+alights
+achingly
+azores
+alchemist
+adaptations
+ampersand
+ancients
+autopsies
+argon
+ameliorated
+annexed
+apostrophes
+adjure
+advising
+artery
+attacker
+amateur
+android
+apocalyptic
+attitudinal
+anarchist
+airs
+ate
+acacia
+assertively
+april
+asiatic
+adulterates
+attain
+airsick
+jp 0
+Na 0
+t 28
+teepees
+thunderously
+tolls
+tetrahedrons
+terry
+triumphs
+tideless
+technician
+telegraphing
+thermometers
+tactical
+trustee
+timescale
+touchdown
+tibiae
+tricycles
+tailoring
+tacking
+tawny
+terrier
+twinkling
+tardy
+troika
+tally
+trouncing
+turrets
+tony
+thankful
+em 2
+embracing
+emblems
+FT 0
+v 5
+veterinary
+vibrator
+vogue
+vicissitude
+volts
+h 15
+humour
+hubcaps
+hydroxides
+hymens
+hexagons
+helpings
+hypocrisies
+horrified
+hybridisation
+heliotrope
+hoof
+hosannas
+hullabaloo
+honouring
+hew
+qh 0
+cm 0
+ep 0
+i 18
+illusionist
+intestine
+inductors
+irony
+intermarriages
+indestructibility
+inflame
+implications
+iberia
+iridescent
+iranians
+infidel
+iberian
+identities
+improvised
+illustration
+initialled
+illiquid
+di 12
+disagreeably
+diffusing
+dipsomaniacs
+disbelievers
+discountable
+directorship
+disarmed
+discolours
+dimer
+direst
+disturbances
+diplomatic
+p 30
+panels
+pluckiest
+predictions
+provoker
+pyroxene
+pompey
+pithead
+pardoning
+pantograph
+postcode
+pigs
+ploughers
+patrician
+playwright
+pick
+perfectly
+pram
+pipers
+pogroms
+pedantically
+perversions
+princess
+prescriptive
+pointy
+physiotherapist
+perpetrates
+pressures
+pacifying
+physiologists
+previewers
+L 5
+Legitimacy
+Looney
+Lawman
+Lowlying
+Liberties
+Xm 0
+af 0
+Cf 0
+k 4
+kings
+kiosks
+kongo
+knavish
+d 30
+demand
+detainer
+disagreeably
+diffusing
+dipsomaniacs
+dozing
+disbelievers
+dumbness
+definite
+discountable
+declaring
+deportment
+detracts
+directorship
+disarmed
+doesnt
+delved
+draftsman
+discolours
+dustpan
+decapitated
+defects
+doublet
+destruct
+dimer
+denunciation
+direst
+decaying
+disturbances
+diplomatic
+al 2
+alights
+alchemist
+v 5
+veterinary
+vibrator
+vogue
+vicissitude
+volts
+lh 0

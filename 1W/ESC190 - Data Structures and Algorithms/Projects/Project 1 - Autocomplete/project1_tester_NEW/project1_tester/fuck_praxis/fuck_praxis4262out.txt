@@ -1,0 +1,79 @@
+13
+tmw 0
+pn 0
+Xcz 0
+dp 0
+dy 0
+c 48
+crimped
+cousinly
+cruelty
+celibacy
+constraints
+casseroles
+canoeists
+conserves
+crochets
+cornea
+centrally
+cloth
+cheating
+coincidence
+cerebellum
+constitution
+conics
+congregating
+catechisms
+cantor
+chained
+civilisations
+chaldron
+cleanness
+credited
+checkers
+confine
+clubbing
+compartment
+carry
+citizen
+chilling
+courier
+clamming
+colleges
+cladding
+contradistinction
+contraindication
+certifying
+compensates
+clandestinely
+ceremonially
+conference
+catnap
+cholesterol
+cringing
+crashing
+confluence
+yn 0
+wh 2
+wheel
+whack
+w 9
+wellformed
+withstands
+witchcraft
+willing
+wheel
+welts
+whack
+wrings
+weakly
+q 3
+qualifies
+quests
+quotation
+q 3
+qualifies
+quests
+quotation
+dw 0
+Rd 0

@@ -1,0 +1,23 @@
+14
+f 0
+j 2
+jungle
+jingles
+meG 0
+z 0
+NgG 0
+cb 0
+usr 0
+j 2
+jungle
+jingles
+f 0
+Pl 0
+Ag 0
+ir 1
+ireland
+w 3
+workmen
+wimple
+woollier
+bt 0

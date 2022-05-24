@@ -1,0 +1,256 @@
+28
+p 45
+positions
+preening
+proprietors
+payed
+panoply
+prevalent
+padlock
+pugilistic
+peeked
+perfects
+plebiscite
+perm
+patchiness
+producers
+pleasurably
+polemical
+promptness
+prisons
+pests
+protruding
+provokes
+pimpernel
+personify
+planed
+potty
+pelvic
+paternalism
+protectively
+paella
+precede
+pinpricks
+phoneticist
+parades
+precise
+polynomially
+phosphorous
+prurience
+papal
+petering
+pied
+prospectuses
+pedants
+pronouncing
+potentialities
+polled
+fl 2
+fluvial
+flaunt
+Vi 1
+Vibration
+A 12
+Albino
+Angriest
+Appetising
+Arena
+Apportionment
+Assignment
+Angstroms
+Awakening
+Avenging
+Aerates
+Acentric
+Aggrieved
+ul 0
+kP 0
+wtm 0
+ua 0
+dq 0
+ma 10
+malarial
+marginalia
+marquess
+maroons
+mason
+maniacs
+madwoman
+matchless
+matures
+manometer
+w 15
+weaned
+withholding
+waterloo
+wealthiest
+waggling
+welleducated
+wickedest
+witchery
+welltimed
+weathermen
+willingly
+womanhood
+workmanlike
+weighbridge
+welters
+Gl 1
+Glossier
+t 37
+tart
+toothiest
+trebling
+transmittable
+toady
+terminal
+toners
+throwers
+tastefully
+tango
+tabulations
+takeable
+tinkly
+trend
+tub
+tapers
+traitors
+tartness
+titration
+tensions
+taller
+testing
+tolerates
+torpor
+towpaths
+turquoise
+toymaker
+tweed
+trekking
+thieved
+teletext
+tectonic
+theosophy
+termination
+trawls
+thatcher
+those
+y 1
+yelping
+U 15
+Unhesitatingly
+Unforced
+Unrecognisable
+Unseasonable
+Unceasingly
+Umbras
+Unleashed
+Unchartered
+Unserviceable
+Unstinting
+Unhinged
+Upstage
+Unaccounted
+Uninitialised
+Unadaptive
+pf 0
+h 25
+handedness
+hypersensitiveness
+hexameter
+haughty
+havoc
+helpmate
+handicapped
+hesitation
+headline
+homogenise
+hating
+harshness
+hillock
+hairier
+haggis
+househunting
+highlighting
+husband
+histology
+hummable
+handicap
+honeycombing
+hardly
+horizontals
+handcart
+io 0
+PA 0
+io 0
+E 10
+Elide
+Elementally
+Excites
+Exact
+Erupted
+Episcopacy
+Exonerate
+Episode
+Euphemistic
+Elastics
+v 7
+ventriloquist
+viewings
+vacancies
+vexed
+virulent
+voidable
+volunteers
+t 37
+tart
+toothiest
+trebling
+transmittable
+toady
+terminal
+toners
+throwers
+tastefully
+tango
+tabulations
+takeable
+tinkly
+trend
+tub
+tapers
+traitors
+tartness
+titration
+tensions
+taller
+testing
+tolerates
+torpor
+towpaths
+turquoise
+toymaker
+tweed
+trekking
+thieved
+teletext
+tectonic
+theosophy
+termination
+trawls
+thatcher
+those
+n 7
+nonsenses
+nut
+neutralises
+narrow
+nymphomaniac
+nonconformity
+nasty
+ab 2
+abrasively
+absurdity
+yae 0
+iny 0
+z 0

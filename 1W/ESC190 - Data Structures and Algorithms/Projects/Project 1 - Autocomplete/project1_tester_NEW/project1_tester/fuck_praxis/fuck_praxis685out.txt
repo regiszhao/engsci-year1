@@ -1,0 +1,5 @@
+3
+o 1
+outwards
+rh 0
+fi 0

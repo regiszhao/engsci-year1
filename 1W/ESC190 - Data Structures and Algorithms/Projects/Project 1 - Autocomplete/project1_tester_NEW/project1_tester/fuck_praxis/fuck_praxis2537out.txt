@@ -1,0 +1,6 @@
+2
+t 3
+turnaround
+tautness
+tabernacles
+V 0

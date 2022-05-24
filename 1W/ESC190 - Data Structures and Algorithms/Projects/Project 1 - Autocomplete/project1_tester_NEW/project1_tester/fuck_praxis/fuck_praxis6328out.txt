@@ -1,0 +1,12 @@
+4
+ap 0
+Hf 0
+b 5
+bobtail
+bagpipes
+bony
+bebop
+bellow
+q 2
+quantised
+quasi

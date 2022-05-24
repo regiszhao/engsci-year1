@@ -1,0 +1,9 @@
+5
+a 3
+adhesion
+apricots
+aprons
+L 0
+xh 0
+Xfu 0
+o 0

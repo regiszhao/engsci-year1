@@ -1,0 +1,18 @@
+9
+x 0
+K 1
+Kilowatt
+xc 0
+tCt 0
+ih 0
+J 3
+Jumper
+Jerkings
+Jogger
+k 4
+kilometres
+kittens
+kilojoules
+kittens
+lNL 0
+uof 0

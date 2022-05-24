@@ -1,0 +1,175 @@
+26
+Lz 0
+m 18
+malady
+misogynist
+malicious
+milkyway
+mentionable
+mangers
+mindset
+mortgageable
+mutations
+monogrammed
+misadventure
+microfilming
+motorway
+muncher
+machismo
+monarchs
+masterworks
+metaphysical
+q 2
+quinine
+quainter
+lap 0
+BD 0
+A 10
+Axle
+Antiques
+Amateurishness
+Alfalfa
+Advertiser
+Admonishing
+Alternations
+Anhydrous
+Added
+Array
+F 10
+Flaxen
+Forming
+Fluting
+Flours
+Fashionably
+Frivolously
+Foods
+Formers
+Fortuitously
+Funguses
+Q 0
+vu 1
+vulcanise
+c 45
+cell
+coding
+cornet
+cowslips
+cohesive
+curtilage
+chipped
+clothed
+coded
+creamery
+chiller
+contriving
+concurrency
+cryptanalyst
+conferences
+casualty
+crusades
+cheeking
+conglomerated
+cloaked
+conglomerate
+contacts
+capture
+cowgirls
+cloudy
+colonisers
+captive
+complying
+crossword
+chunnel
+commend
+chargers
+complainant
+commiserating
+carrots
+coplanar
+conversion
+collies
+characteristics
+configured
+condensed
+constitutively
+castaway
+cowers
+comical
+ht 0
+HL 0
+lx 0
+Y 0
+i 14
+iceskate
+intermissions
+increasingly
+interlocutor
+innumeracy
+interspersing
+imperilled
+inland
+isolationism
+insecticides
+impressionist
+introspectively
+insupportable
+interfaced
+HbN 0
+ixx 0
+q 2
+quinine
+quainter
+xJM 0
+zpv 0
+ns 0
+D 6
+Diagonals
+Door
+Diner
+Dates
+Directionless
+Dexterity
+qp 0
+az 0
+e 16
+explore
+electioneering
+evictions
+exterminating
+empiricists
+esoterica
+electrocuted
+envisaged
+economise
+exotic
+equidistant
+eyepiece
+ebullient
+echidnas
+erred
+enumerate
+a 24
+approaching
+argues
+acquainting
+angoras
+asps
+audibility
+affectionately
+anchor
+aberdeen
+approved
+anarchic
+analysed
+aimlessly
+amputation
+africa
+auctioned
+astringent
+antigenic
+accretions
+ashes
+aggravation
+arsenals
+armies
+allotrope

@@ -1,0 +1,252 @@
+29
+Mi 1
+Midden
+z 1
+zeus
+Uo 0
+Ipu 0
+cfs 0
+yrD 0
+ZL 0
+kV 0
+Is 1
+Issue
+l 30
+land
+lorry
+leaching
+liquidiser
+lowlands
+lasting
+legislative
+levi
+liabilities
+lesbian
+lanes
+legislators
+lupines
+lissomeness
+loveliness
+lexicographers
+lunacy
+limes
+loftily
+loftiest
+lookalike
+likings
+looked
+lusting
+likelier
+larches
+label
+lurches
+let
+lucidity
+V 4
+Vacuum
+Ventilators
+Vibrationally
+Vaguer
+caq 0
+tc 0
+yn 0
+jz 0
+r 38
+runways
+refines
+retraction
+rubbings
+ragwort
+recipe
+react
+restarts
+rates
+recurrently
+resonances
+restfulness
+rewire
+raj
+rentals
+rotate
+reduce
+resolvers
+relaying
+revulsion
+rogues
+regimes
+reclined
+requirement
+relativists
+refrigerate
+relegates
+riot
+requesting
+repairer
+resettle
+receive
+remaindering
+rabble
+recalls
+ramp
+roguish
+resisted
+mzn 0
+X 0
+e 30
+ends
+entreatingly
+envisaging
+exaggerated
+endangering
+exorcisms
+evoking
+encourager
+euphoria
+eigenvalues
+exploratory
+eeriest
+euphoria
+earthworks
+escalate
+eugenic
+exception
+exhalation
+erects
+excuse
+elusiveness
+effective
+elastin
+environment
+expurgating
+embattle
+endoscope
+enfeeble
+enveloped
+explosiveness
+pe 9
+pensiveness
+perverted
+pergolas
+perestroika
+petrology
+perfection
+pediment
+persist
+perniciousness
+s 69
+suspicion
+solitude
+swag
+spiked
+switchback
+sharable
+satisfies
+spouses
+synchronous
+snowfalls
+standing
+squadron
+spam
+sleepwalking
+seemly
+skylines
+surly
+structures
+shortlist
+seethe
+spires
+sedimentary
+superpose
+similes
+switched
+slyly
+secedes
+shudder
+stoma
+statesmen
+supreme
+summoner
+stipulated
+saintlier
+striations
+simpler
+scarce
+storehouse
+superlatively
+somehow
+synchrotron
+shiploads
+superstitious
+spraying
+sympathies
+stolen
+samples
+separatist
+simulations
+scalene
+separator
+secondly
+sultans
+scrap
+salvo
+summarises
+safety
+syndicates
+segmented
+solicited
+sponges
+seismometers
+shiftiness
+side
+spheroid
+severest
+sponsorship
+swatting
+stopover
+K 1
+Knell
+r 38
+runways
+refines
+retraction
+rubbings
+ragwort
+recipe
+react
+restarts
+rates
+recurrently
+resonances
+restfulness
+rewire
+raj
+rentals
+rotate
+reduce
+resolvers
+relaying
+revulsion
+rogues
+regimes
+reclined
+requirement
+relativists
+refrigerate
+relegates
+riot
+requesting
+repairer
+resettle
+receive
+remaindering
+rabble
+recalls
+ramp
+roguish
+resisted
+dLf 0
+gnI 0
+Dv 0
+Izp 0
+fM 0
+Xob 0

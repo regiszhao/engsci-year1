@@ -1,0 +1,39 @@
+27
+bx 0
+db 0
+qy 0
+j 1
+jauntier
+k 0
+kW 0
+YV 0
+Aa 0
+tk 0
+Ko 0
+xP 0
+b 4
+birds
+bury
+budapest
+bowstring
+Ag 0
+th 2
+therms
+their
+xr 0
+q 1
+quelled
+v 1
+vizier
+KR 0
+iB 0
+iV 0
+jEn 0
+M 1
+Minions
+G 1
+Gizzard
+kf 0
+na 0
+Tx 0
+zyg 0

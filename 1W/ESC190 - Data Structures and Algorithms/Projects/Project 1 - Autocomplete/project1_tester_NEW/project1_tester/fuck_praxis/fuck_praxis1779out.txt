@@ -1,0 +1,190 @@
+26
+S 22
+Shutdowns
+Spencer
+Spyhole
+Sanctioning
+Shrugging
+Substantially
+Splashing
+Stupidities
+Sketcher
+Sharable
+Stylishness
+Semaphore
+Sanction
+Slobbers
+Singing
+Scrutinies
+Shaded
+Softening
+Sophisticated
+Stuffiness
+Sheds
+Sultry
+ip 0
+qdS 0
+b 39
+broadloom
+broom
+beachhead
+besmirch
+budgeting
+batsmen
+backpacks
+banal
+bedrock
+blunt
+blondes
+bite
+bluntest
+bribed
+brocaded
+bacchus
+boarded
+buckler
+baguette
+barbarians
+bifocal
+blossom
+bitty
+bedtime
+ballerina
+blindfold
+blending
+blackening
+began
+benefactions
+broomsticks
+betrays
+busker
+basify
+braking
+bandiest
+bees
+bled
+begetting
+qo 0
+n 14
+nobly
+nurseryman
+neurotic
+nostalgia
+nip
+nullification
+nutritive
+needlework
+newcomers
+normative
+nautili
+nips
+nurturing
+notch
+ku 0
+LZv 0
+xU 0
+orr 0
+wA 0
+et 2
+ethnical
+ethologists
+y 0
+zsx 0
+tSR 0
+Oz 0
+nt 0
+ty 0
+ov 2
+overextended
+overlaying
+pA 0
+h 26
+healths
+hanger
+hogg
+hours
+hashing
+houseboat
+hacking
+hefted
+hawks
+hailing
+handbasin
+harkens
+hieroglyphs
+himself
+harassment
+haddocks
+highwaymen
+harridan
+hospital
+hydrostatic
+haircuts
+hoaxing
+hug
+hospitality
+hydrated
+hairraising
+pn 0
+xp 0
+m 44
+minimiser
+monotheists
+musky
+matinees
+mispronunciations
+milled
+mimicking
+macaque
+militating
+misquotes
+mattresses
+mellowed
+marigolds
+malformed
+midway
+misrepresenting
+morphisms
+mournfulness
+modularisation
+moribund
+marmots
+meretricious
+microprocessor
+metals
+mouthfuls
+monotheist
+merrygorounds
+mischance
+meson
+misalignment
+materiality
+muffle
+minima
+muscle
+myope
+militarily
+mothball
+managership
+minimise
+ministrations
+magics
+mum
+minimisation
+manufacture
+aW 0
+n 14
+nobly
+nurseryman
+neurotic
+nostalgia
+nip
+nullification
+nutritive
+needlework
+newcomers
+normative
+nautili
+nips
+nurturing
+notch

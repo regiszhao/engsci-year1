@@ -1,0 +1,60 @@
+10
+x 0
+Uoe 0
+j 1
+jurists
+gu 2
+gullible
+gunmen
+d 17
+delights
+donga
+dee
+diehards
+deluging
+dimensioning
+dearth
+doped
+distillations
+disprove
+dissatisfy
+dismissal
+decipher
+dirtying
+disillusion
+deconvolution
+dissatisfied
+p 18
+phenotype
+pair
+podium
+panellist
+parsing
+pursuit
+precognition
+plastering
+picasso
+pew
+propositioning
+pelmets
+pejorative
+perilous
+peeked
+prophesying
+patched
+protruded
+j 1
+jurists
+Ld 0
+a 9
+appreciations
+aimlessness
+afflicts
+amicable
+academics
+anchovy
+anniversary
+as
+abutted
+fl 1
+flint

@@ -1,0 +1,9 @@
+3
+PZ 0
+pha 0
+c 5
+conditionality
+consultations
+canvases
+customer
+coincided

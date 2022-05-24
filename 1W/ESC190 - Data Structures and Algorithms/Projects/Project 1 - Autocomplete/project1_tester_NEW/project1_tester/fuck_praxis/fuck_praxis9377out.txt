@@ -1,0 +1,171 @@
+23
+ba 3
+ballpoint
+baptised
+baud
+i 16
+indoctrinates
+inhabitant
+interacted
+inure
+incorrect
+impediments
+infusion
+inhibited
+inclemency
+irreverence
+informative
+impalas
+infirm
+intercession
+imperatives
+intercity
+a 14
+awakened
+accede
+appertained
+adulteresses
+abets
+aspirates
+anisotropic
+adduces
+achingly
+antisocial
+admittances
+afraid
+astrophysicists
+arcanely
+ji 1
+jive
+W 8
+Warpath
+Weathered
+Waxwork
+Whistled
+Whisper
+Welldefined
+Workbook
+Waxy
+oJm 0
+q 4
+queen
+questions
+quartiles
+questioners
+cn 0
+Y 0
+oa 0
+ev 2
+eviscerate
+eviction
+eJ 0
+z 1
+zephyr
+c 38
+conditioners
+compensates
+coincidental
+consonant
+creole
+cytoplasmic
+creakier
+clarifications
+cyberspace
+crosssectional
+cheapen
+contained
+consanguineous
+contraption
+copycat
+cretan
+containable
+contemptible
+cravats
+concocted
+chanter
+copyists
+croaks
+curative
+creatively
+coped
+capricious
+conceal
+commonplaces
+clefts
+chronicled
+conditioning
+chamberlain
+coon
+climatically
+conjugates
+couplings
+coterie
+r 20
+river
+rotating
+rapists
+rhinoceros
+rescans
+remark
+repercussions
+rhetorician
+revolver
+recitatives
+redialling
+restricts
+reassuming
+robbing
+reabsorbed
+reflector
+reallocate
+ravenously
+rectifying
+redial
+xe 0
+fmc 0
+qud 0
+Hdt 0
+Fpl 0
+e 12
+engulfs
+effortlessly
+equivalently
+equalisers
+explosions
+endurance
+eager
+eviscerate
+entangle
+eviction
+eon
+ephemeral
+r 20
+river
+rotating
+rapists
+rhinoceros
+rescans
+remark
+repercussions
+rhetorician
+revolver
+recitatives
+redialling
+restricts
+reassuming
+robbing
+reabsorbed
+reflector
+reallocate
+ravenously
+rectifying
+redial
+W 8
+Warpath
+Weathered
+Waxwork
+Whistled
+Whisper
+Welldefined
+Workbook
+Waxy

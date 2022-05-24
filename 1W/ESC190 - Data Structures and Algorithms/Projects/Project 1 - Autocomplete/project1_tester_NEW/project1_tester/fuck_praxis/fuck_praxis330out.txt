@@ -1,0 +1,84 @@
+14
+aie 0
+v 3
+vine
+vend
+variable
+jh 0
+D 9
+Discriminator
+Delicatessen
+Disintegrate
+Developers
+Defecting
+Dullards
+Despicably
+Detriment
+Drifts
+xbf 0
+c 30
+checks
+chaldron
+conjectural
+competition
+chalks
+cerebrum
+causeways
+concession
+correlations
+coitus
+chacha
+clues
+covenanted
+coinages
+chancier
+curse
+croqueted
+commiserate
+circling
+cloudburst
+ceased
+costeffective
+cloves
+cataract
+commentaries
+calorie
+constraining
+circumvention
+circumscribed
+consequentially
+ci 3
+circling
+circumvention
+circumscribed
+Od 0
+G 8
+Graciously
+Gum
+Garrisons
+Grisly
+Gleefulness
+Garrotted
+Gigolo
+Gyrate
+aj 0
+rS 0
+u 16
+unexpanded
+uncounted
+upped
+undelivered
+uproarious
+ultraviolet
+upholders
+unethically
+unsurprisingly
+uprights
+unresolved
+unevenly
+upshot
+untwisted
+unsterilised
+unweighted
+rj 0
+QMl 0

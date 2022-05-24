@@ -1,0 +1,97 @@
+19
+zl 0
+nj 0
+gpl 0
+I 2
+Interpose
+Indents
+yaw 0
+lc 0
+rsc 0
+z 1
+zest
+dT 0
+jn 0
+f 9
+flat
+fustian
+felicia
+fiji
+falsifiable
+fluvial
+faithful
+footing
+frankfurter
+B 5
+Bashing
+By
+Bel
+Bump
+Breezes
+s 30
+spurn
+sheathing
+smash
+sawn
+surfacer
+stabling
+settle
+snowline
+scoff
+shortcircuiting
+suffused
+sponsorships
+suspicion
+superposed
+spinet
+swells
+shadowless
+stingray
+slowest
+sandpapering
+steels
+someways
+seagulls
+slake
+skewness
+syllogism
+stripiest
+sympathise
+spew
+synod
+h 9
+halted
+hutches
+hotel
+hoards
+highest
+hypothetical
+horsebox
+hosanna
+hemen
+DK 0
+dh 0
+KcN 0
+f 9
+flat
+fustian
+felicia
+fiji
+falsifiable
+fluvial
+faithful
+footing
+frankfurter
+t 12
+theta
+trier
+toughened
+tallying
+trilingual
+tropopause
+teepees
+tussling
+tauntingly
+toiletries
+topicality
+tempts

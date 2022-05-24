@@ -1,0 +1,14 @@
+10
+ubp 0
+y 0
+M 0
+cri 0
+jzh 0
+u 3
+uncalibrated
+unscaled
+underwear
+B 0
+ah 0
+TW 0
+k 0

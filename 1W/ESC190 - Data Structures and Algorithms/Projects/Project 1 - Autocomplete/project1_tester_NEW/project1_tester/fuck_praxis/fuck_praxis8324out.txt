@@ -1,0 +1,11 @@
+5
+k 2
+kernels
+knavery
+ha 3
+hay
+hangman
+hamburgers
+vz 0
+bf 0
+Mlg 0

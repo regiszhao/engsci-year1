@@ -1,0 +1,12 @@
+5
+q 3
+quantities
+quietening
+quartzite
+tp 0
+nfk 0
+eAi 0
+v 3
+vomit
+vanished
+veiled

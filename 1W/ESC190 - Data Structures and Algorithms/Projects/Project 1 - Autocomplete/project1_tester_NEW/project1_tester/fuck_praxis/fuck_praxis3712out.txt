@@ -1,0 +1,219 @@
+28
+pk 0
+yge 0
+ws 0
+c 38
+crosses
+circulates
+charting
+categorise
+churchyards
+churchgoers
+curtness
+cherub
+covetous
+condemned
+cede
+chassis
+confidence
+comprehensively
+crystallises
+client
+cleanses
+configurable
+categorises
+chieftain
+clearheaded
+commandingly
+confiscating
+cast
+caterwauls
+conceivable
+canvas
+cardiff
+clearly
+confessor
+catered
+concedes
+cheeky
+carbonise
+coinages
+colouration
+corruptly
+customising
+rp 0
+q 4
+quiches
+quarrelsome
+quiesce
+queue
+vg 0
+r 21
+revolting
+remarking
+revs
+repetitively
+roadster
+reverse
+rallies
+retractable
+reincarnations
+righthanded
+ranter
+readjustments
+registries
+recogniser
+reverser
+rifting
+regimentation
+rioter
+recommenced
+ravishing
+reunites
+BY 0
+gR 0
+t 24
+theocracy
+tableau
+toyed
+tech
+token
+twirled
+tutelary
+tun
+ticks
+truth
+tensional
+title
+tutorial
+tarragon
+tribespeople
+thongs
+typological
+tessellation
+tariffs
+thebes
+tiddlers
+trams
+tumultuous
+tenuously
+o 9
+outsell
+owlishly
+opting
+organised
+obstreperous
+oversupply
+overstrung
+overlays
+oscillate
+ln 0
+ada 0
+G 4
+Gaff
+Gutter
+Galleries
+Grecian
+IJq 0
+f 18
+foxtrots
+firms
+flickered
+functioning
+follies
+farmings
+fluorocarbon
+fatality
+forfeit
+financier
+fiends
+flatworms
+fullcolour
+fretful
+farthing
+foiled
+fibbed
+fictitious
+Wex 0
+VR 0
+jw 0
+y 2
+yawns
+yellower
+v 2
+vanish
+vestibule
+i 18
+interregnum
+illnesses
+imitates
+inaptly
+idiotic
+insecticides
+inexperience
+illusory
+idem
+invading
+impliedly
+iconographical
+imperceptible
+incorporable
+infrequency
+index
+inextensible
+inhaler
+z 1
+zebus
+ok 0
+i 18
+interregnum
+illnesses
+imitates
+inaptly
+idiotic
+insecticides
+inexperience
+illusory
+idem
+invading
+impliedly
+iconographical
+imperceptible
+incorporable
+infrequency
+index
+inextensible
+inhaler
+p 27
+puberty
+pivot
+pitbull
+pitifully
+pasteurisation
+panache
+propped
+patriot
+punish
+perforation
+propagating
+paratroopers
+particulates
+pleasantry
+preface
+proximately
+pawing
+paralysed
+paddocks
+payrolls
+piffle
+plight
+prognostication
+pedalling
+ping
+puissant
+praises
+bo 4
+borrowed
+bogged
+boorishness
+bonsai

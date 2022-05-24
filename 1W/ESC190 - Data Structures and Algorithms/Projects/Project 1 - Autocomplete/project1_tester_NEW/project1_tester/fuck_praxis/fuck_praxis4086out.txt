@@ -1,0 +1,34 @@
+14
+Jl 0
+Br 0
+xf 0
+Ku 0
+g 1
+glasshouse
+X 0
+Vo 0
+uxF 0
+fQ 0
+x 0
+Dot 0
+s 9
+sizeable
+smoked
+spastics
+surreptitiously
+spindles
+spreadeagled
+sewerage
+stability
+sounder
+s 9
+sizeable
+smoked
+spastics
+surreptitiously
+spindles
+spreadeagled
+sewerage
+stability
+sounder
+gs 0

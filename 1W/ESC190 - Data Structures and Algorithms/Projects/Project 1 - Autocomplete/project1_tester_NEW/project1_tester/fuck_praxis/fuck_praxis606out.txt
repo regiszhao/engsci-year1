@@ -1,0 +1,139 @@
+21
+ocC 0
+B 8
+Biplane
+Beautifiers
+Booths
+Breadandbutter
+Barbie
+Brightly
+Breakpoints
+Bracelet
+S 17
+Stomachs
+Schedules
+Springing
+Slowly
+Stalling
+Skewer
+Sayings
+Stratosphere
+Squirm
+Steroid
+Scabbard
+Settle
+Selling
+Storing
+Seconder
+Star
+Surnames
+Ogy 0
+b 23
+belch
+bereavements
+brethren
+bestowing
+bracketed
+bandit
+budget
+brawler
+broods
+bareness
+builtup
+bossing
+battered
+baser
+brows
+bishoprics
+blitz
+baseline
+betrayer
+bargaining
+brat
+broadswords
+baseline
+ukg 0
+q 5
+quarterstaff
+quovadis
+quantifiers
+qualitative
+quietening
+gl 3
+globose
+glycerol
+glutton
+go 2
+goods
+gondola
+z 3
+zaire
+zebras
+zonation
+so 2
+sonically
+soundtrack
+Wa 2
+Watchmakers
+Watermen
+wg 0
+a 38
+asserting
+accord
+aquanaut
+abseiling
+assents
+annoyingly
+appears
+amid
+ashes
+addressees
+accusations
+acceptances
+agoraphobia
+antagonisms
+advances
+acknowledgment
+acceptably
+adds
+abalone
+abbreviations
+accost
+acoustically
+align
+attractor
+austere
+autograph
+answered
+addictions
+ascender
+anagrammatically
+abided
+abject
+authority
+assassinating
+aspects
+asphyxiation
+aggregates
+accommodation
+Y 0
+gZz 0
+kwN 0
+P 14
+Prompts
+Protestor
+Permeability
+Patronisation
+Parks
+Prognosticate
+Passover
+Pasturing
+Punky
+Provide
+Perfectly
+Pontifical
+Phoning
+Peep
+QF 0
+yp 0
+DD 0

@@ -1,0 +1,119 @@
+21
+kK 0
+fx 0
+vr 0
+EsU 0
+twD 0
+np 0
+tp 0
+xso 0
+Glu 0
+j 4
+jewellery
+juntas
+jargon
+jingled
+b 27
+boyish
+ballade
+bridals
+buoys
+birdcage
+boxwood
+bodices
+buzzes
+bough
+blocky
+barriers
+billions
+bluntest
+brats
+bursar
+blackleg
+balls
+boor
+beatniks
+balmoral
+buzzing
+balloonists
+boycott
+blossoming
+bedding
+bungee
+bookcases
+h 24
+horny
+homology
+heterodoxy
+humpback
+huntsmen
+historically
+hobble
+happens
+humbler
+harassed
+herbalist
+hinting
+hangings
+homeliness
+hydrants
+hangs
+hardware
+hitchhiked
+handpicked
+hikes
+herded
+hostility
+hyperbolas
+homology
+ctl 0
+mcm 0
+O 6
+Ornament
+Orangutan
+Opportunity
+Oblivious
+Oozing
+Ordinance
+qi 0
+t 24
+tachyon
+tahr
+transfusing
+transcendence
+tacking
+tolerances
+terry
+triads
+tableland
+terrorising
+tacitly
+trouncing
+tussling
+transferring
+tremulousness
+tepee
+trowels
+tooled
+tideway
+tirade
+tarantula
+tributes
+terminologies
+tennis
+na 2
+namesake
+nameable
+oi 0
+ZR 0
+o 10
+overhearing
+outmoded
+outfit
+outsell
+observatory
+overrun
+onager
+orthonormal
+officially
+onlooking

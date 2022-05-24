@@ -1,0 +1,161 @@
+22
+qs 0
+jh 0
+q 5
+quarrel
+quartzite
+quaternary
+quilted
+quaggas
+Wl 0
+wK 0
+fU 0
+LX 0
+rH 0
+Ka 0
+t 30
+trundling
+thieves
+taffeta
+tenacity
+tenuously
+treading
+townscape
+tars
+tottering
+timbered
+trophy
+truck
+tenseness
+transmuted
+trembled
+tempted
+timelessness
+toga
+toothache
+timetabled
+treetop
+tanner
+thievish
+turnpike
+trumpery
+torsional
+tachyons
+testtube
+troublesomeness
+triumphal
+ju 1
+jurisdictions
+lh 0
+t 30
+trundling
+thieves
+taffeta
+tenacity
+tenuously
+treading
+townscape
+tars
+tottering
+timbered
+trophy
+truck
+tenseness
+transmuted
+trembled
+tempted
+timelessness
+toga
+toothache
+timetabled
+treetop
+tanner
+thievish
+turnpike
+trumpery
+torsional
+tachyons
+testtube
+troublesomeness
+triumphal
+fs 0
+EY 0
+tj 0
+b 34
+bind
+base
+bodice
+bordered
+burmese
+brides
+buggy
+blurt
+bigness
+bettered
+bases
+backslapping
+backhanded
+beans
+beauteous
+braking
+bounders
+bandied
+bivalve
+bakers
+bluer
+bellowed
+barcode
+brightest
+blockades
+ballade
+battlefield
+bureaucrats
+biceps
+braziers
+billowy
+beer
+bermuda
+backfire
+sen 1
+send
+h 17
+hopefulness
+heptane
+hived
+hasp
+hydration
+hyena
+his
+homework
+homespun
+halted
+hazardous
+hierarchy
+headings
+hay
+hospitable
+hermetically
+hoisting
+bQ 0
+l 20
+looker
+lout
+luxuriate
+latin
+latitudinal
+lapses
+lameness
+licentiousness
+lager
+levelly
+louvred
+lubrication
+leprous
+learned
+lettuces
+licentious
+longlasting
+laconically
+lampposts
+limestone
+fX 0

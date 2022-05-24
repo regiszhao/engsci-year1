@@ -1,0 +1,210 @@
+23
+pj 0
+kf 0
+gc 0
+cI 0
+ceh 0
+w 19
+watcher
+whittle
+whim
+whisk
+waterhole
+woebegone
+whoops
+wicketkeepers
+woodcocks
+womankind
+workhorses
+woodbine
+wince
+widowers
+whodunnit
+watering
+wellfed
+wheezed
+wake
+dA 0
+up 1
+upstanding
+My 1
+Mystique
+ax 0
+Tct 0
+GR 0
+KN 0
+OpS 0
+wv 0
+m 29
+mission
+muzzling
+motor
+motionlessly
+majorities
+miserliness
+manipulator
+maniacs
+museums
+mammals
+mayors
+matrixes
+mastered
+majesty
+musculature
+motherofpearl
+microanalyses
+masseuses
+murkiest
+moderately
+mirage
+marshmallows
+mineworkers
+marionettes
+megalomaniac
+meted
+mourner
+mellowing
+mysteriously
+bd 0
+R 11
+Redstarts
+Recast
+Releases
+Raiders
+Receivership
+Riddled
+Redirect
+Rand
+Receivers
+Reabsorbed
+Rancher
+a 50
+allured
+abstraction
+astern
+alas
+armpit
+awestruck
+accountable
+affectation
+allying
+antwerp
+archival
+alluding
+advent
+accusers
+assigner
+accented
+amnesty
+ambulant
+adsorb
+adopt
+are
+awesome
+amazement
+adversely
+acetone
+abdicated
+absentmindedly
+abandonment
+atavism
+alienates
+airlifting
+airframes
+altars
+about
+antagonise
+abandon
+amalgamating
+ablest
+advising
+assaulting
+availability
+archangels
+actualities
+almshouses
+altruism
+approves
+auditing
+assassins
+alarmism
+altimeter
+f 23
+font
+fizzier
+found
+falsifies
+feltpen
+flora
+fossils
+feltpen
+furtive
+fontanel
+formality
+forsook
+freestanding
+feasibly
+footloose
+fibbers
+fats
+flaring
+fancier
+fireballs
+fitly
+fruitlessly
+fracas
+k 2
+knowingly
+keywords
+P 20
+Privatised
+Purposeful
+Psychedelia
+Protectors
+Paddled
+Photocopy
+Pacemakers
+Plaudits
+Pacifier
+Parenthesised
+Petted
+Proffering
+Provided
+Parser
+Provoke
+Popcorn
+Pacts
+Pulping
+Primes
+Pitiable
+i 30
+indoctrination
+interrogators
+ineluctably
+impels
+illconceived
+impalas
+irreligious
+inapplicability
+interiors
+injudicious
+interrelate
+indirectness
+inscribing
+ive
+indifferent
+incorporate
+intensify
+inputting
+ingression
+infinitives
+invertebrates
+india
+idiomatic
+inclination
+interdenominational
+infestation
+infertility
+indeclinable
+inviolable
+iconoclast

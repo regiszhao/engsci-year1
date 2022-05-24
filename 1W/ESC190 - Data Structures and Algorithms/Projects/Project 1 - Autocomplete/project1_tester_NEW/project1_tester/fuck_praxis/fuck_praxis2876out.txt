@@ -1,0 +1,11 @@
+6
+sM 0
+ROe 0
+to 2
+townsfolk
+toilet
+cu 1
+cuds
+no 0
+j 1
+jockeying

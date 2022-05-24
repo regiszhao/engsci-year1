@@ -1,0 +1,211 @@
+21
+z 1
+zappy
+T 13
+Trilled
+Toddle
+Then
+Talentless
+Tubercular
+Turn
+Technology
+Tosses
+Trimmer
+Tincture
+Threatened
+Temperamental
+Tubeless
+g 19
+gluten
+gargled
+godsend
+gallivanted
+glare
+gunk
+gibber
+gal
+gestate
+gently
+garner
+guises
+gerontologist
+gingery
+gobbledygook
+gravitating
+grit
+gramophone
+gratifying
+a 45
+anil
+aerobically
+arithmetically
+amours
+arbour
+anechoic
+aaron
+annulment
+abbreviated
+achievements
+accumulates
+afoot
+acrostics
+applause
+abjure
+adaptors
+asbestos
+agriculture
+attiring
+amendment
+antenna
+algebraic
+along
+abortionists
+arrange
+annotate
+apprehension
+axis
+antithesis
+adjectives
+atlantis
+ascetics
+alluding
+alarms
+analogy
+archaeological
+aroused
+accommodated
+antagonistic
+affectedly
+animations
+aire
+automated
+antiquity
+asunder
+Bgs 0
+Dz 0
+w 17
+whelks
+wiping
+whereas
+whys
+winds
+wheelbarrow
+wellordered
+wasteful
+wrongdoings
+wealthy
+wordiest
+wetness
+waterskiing
+windsock
+whimpered
+weaken
+wobbly
+ix 0
+gEl 0
+d 46
+deuces
+dynamics
+diagnosis
+decidable
+diuresis
+disciples
+disrobe
+decommissioned
+deteriorate
+deliverers
+duration
+disruptive
+detected
+divers
+dismisses
+dabs
+disparage
+differentiated
+devoice
+digested
+drakes
+definably
+desecrate
+deluged
+dabbing
+dwelt
+disgorge
+drawbridges
+dimmed
+demeaning
+disjunctions
+dispatches
+deviations
+dyeings
+duly
+development
+dwarves
+distempers
+disconnects
+dragon
+dday
+disappearing
+dusting
+draws
+dozen
+disquisitions
+ze 0
+zx 0
+kxz 0
+cqe 0
+mss 0
+w 17
+whelks
+wiping
+whereas
+whys
+winds
+wheelbarrow
+wellordered
+wasteful
+wrongdoings
+wealthy
+wordiest
+wetness
+waterskiing
+windsock
+whimpered
+weaken
+wobbly
+uq 0
+l 29
+lengthens
+libations
+legionnaires
+leotards
+lemons
+labyrinthine
+lithography
+lurking
+lutes
+lapp
+lachrymose
+latitudinal
+labelling
+lark
+littler
+lateral
+longest
+lecherousness
+lavishly
+leprechauns
+luckiest
+laboriously
+livelihoods
+liftman
+licking
+lanes
+landscaping
+lout
+legal
+y 0
+vsp 0
+ap 2
+applause
+apprehension

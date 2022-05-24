@@ -1,0 +1,95 @@
+18
+hl 0
+n 3
+noon
+namibian
+nanoseconds
+vhz 0
+Vpw 0
+sb 0
+f 16
+fieldworker
+fomenting
+flowering
+flirtatiously
+furnishing
+faced
+frontals
+firearms
+flex
+floozy
+frock
+frictionless
+full
+flatly
+flatmate
+fend
+ca 4
+cataclysm
+catchiest
+calorimetry
+canines
+w 8
+whisking
+weariness
+warlord
+wooed
+woeful
+wire
+woofer
+watermark
+b 15
+bounced
+broom
+bounded
+beatniks
+bypath
+bedclothes
+batch
+bulbous
+backward
+bickering
+booths
+blueprints
+belgium
+boldest
+buddy
+u 4
+undefined
+unideal
+unphysical
+unconvincing
+GY 0
+Cjo 0
+jsb 0
+g 10
+geologist
+googlies
+granule
+gimlets
+goahead
+grasp
+geopolitical
+glances
+glue
+grids
+Skx 0
+k 1
+knowing
+pd 0
+b 15
+bounced
+broom
+bounded
+beatniks
+bypath
+bedclothes
+batch
+bulbous
+backward
+bickering
+booths
+blueprints
+belgium
+boldest
+buddy

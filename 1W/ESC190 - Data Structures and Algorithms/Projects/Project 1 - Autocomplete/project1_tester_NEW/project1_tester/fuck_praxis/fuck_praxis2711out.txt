@@ -1,0 +1,45 @@
+15
+vdw 0
+zb 0
+bn 0
+k 4
+kiosk
+kneels
+knocker
+kitbags
+ty 0
+hcj 0
+a 21
+affectations
+ailment
+avenge
+anginal
+anorak
+aspires
+assayed
+ambulance
+aptitude
+admission
+antistatic
+alleviate
+avid
+accumulates
+afield
+aviaries
+appraises
+after
+annals
+afford
+augmentation
+fgP 0
+FU 0
+wzl 0
+Ru 0
+q 3
+qualifications
+quinces
+quivered
+iVn 0
+Bi 1
+Biographer
+gY 0

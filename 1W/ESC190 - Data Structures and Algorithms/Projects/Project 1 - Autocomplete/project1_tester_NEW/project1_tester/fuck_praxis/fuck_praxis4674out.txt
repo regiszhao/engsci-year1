@@ -1,0 +1,13 @@
+4
+nr 0
+nCk 0
+A 1
+Affidavits
+m 7
+mane
+maple
+monkish
+modules
+microwaves
+means
+microbes

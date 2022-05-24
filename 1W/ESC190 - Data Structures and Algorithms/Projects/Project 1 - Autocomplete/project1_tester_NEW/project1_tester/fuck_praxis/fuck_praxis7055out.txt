@@ -1,0 +1,13 @@
+8
+gl 1
+gladiator
+W 1
+Withdrawing
+prj 0
+me 2
+metronome
+metallurgist
+kjM 0
+bj 0
+Oce 0
+jJl 0

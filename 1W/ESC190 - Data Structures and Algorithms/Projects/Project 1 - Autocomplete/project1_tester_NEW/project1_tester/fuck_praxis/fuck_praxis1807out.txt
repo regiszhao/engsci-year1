@@ -1,0 +1,225 @@
+28
+Aux 0
+lp 0
+wLv 0
+s 37
+sprays
+subroutine
+sidelights
+sway
+salesgirl
+stumblingly
+seduction
+steerable
+spells
+sportsman
+selfevident
+slogs
+suppliants
+sundials
+straitjacket
+surf
+strider
+spreadsheet
+symmetrisation
+slushes
+seraglio
+shoreward
+stimulation
+shy
+surveyor
+seemliest
+spooling
+situating
+sniffly
+snakeskin
+signposts
+shibboleths
+spangle
+sensational
+smokescreen
+sulkily
+squeezes
+EP 0
+F 12
+Frailties
+Fairness
+Fade
+Flipping
+Fringy
+Fussiness
+Filling
+Frills
+Firefighting
+Fabricating
+Fetishists
+Fancy
+dy 0
+dSl 0
+rNX 0
+oa 0
+d 29
+displacements
+decker
+degas
+developing
+dramatisation
+distinctiveness
+dearie
+deflower
+drumsticks
+deserving
+diagonalise
+decontaminating
+disfigures
+drowse
+disgruntlement
+disdainful
+dip
+discouraged
+dismembering
+drops
+dracula
+despatching
+dint
+deserting
+defenses
+dogmatism
+decade
+dirtier
+depending
+Kpt 0
+t 19
+trainees
+tentative
+tramping
+theocracies
+truant
+trench
+tossups
+tirelessly
+thrust
+topiary
+tallyho
+tar
+tangential
+travel
+technocrat
+toads
+tongueincheek
+transposition
+testified
+y 0
+ubX 0
+Ti 1
+Tildes
+wEm 0
+lqn 0
+n 10
+nanometre
+necessary
+nets
+nematode
+netting
+nettled
+nutrient
+natives
+napkin
+newlyweds
+o 9
+oxygen
+overflying
+obtruded
+outpointing
+outshining
+oblate
+oversensitivity
+overleaf
+optimisers
+dP 0
+dj 0
+ipJ 0
+FtZ 0
+u 15
+unicyclists
+untransportable
+untethered
+unfair
+unscaled
+unfancied
+unprovable
+unsaturated
+unawed
+unload
+useful
+unmemorable
+upholstery
+unwisest
+understood
+a 27
+accusative
+adulterations
+allots
+activities
+activity
+archaeology
+ascribing
+awol
+agglutinative
+adrenaline
+amusingly
+assayer
+alkalic
+astonishing
+agrimony
+afterward
+assorted
+alleging
+ally
+assignment
+angolans
+auspiciously
+ashcans
+asperity
+awakenings
+attestation
+acuteness
+s 37
+sprays
+subroutine
+sidelights
+sway
+salesgirl
+stumblingly
+seduction
+steerable
+spells
+sportsman
+selfevident
+slogs
+suppliants
+sundials
+straitjacket
+surf
+strider
+spreadsheet
+symmetrisation
+slushes
+seraglio
+shoreward
+stimulation
+shy
+surveyor
+seemliest
+spooling
+situating
+sniffly
+snakeskin
+signposts
+shibboleths
+spangle
+sensational
+smokescreen
+sulkily
+squeezes
+ml 0

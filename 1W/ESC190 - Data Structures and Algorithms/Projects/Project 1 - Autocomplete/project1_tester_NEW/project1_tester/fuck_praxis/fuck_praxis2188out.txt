@@ -1,0 +1,93 @@
+18
+wS 0
+bo 5
+bounded
+botched
+bobbin
+bong
+bookcase
+n 12
+nomination
+nosey
+ninny
+nationalise
+naval
+nightmarish
+narrators
+net
+nominator
+newcomers
+neurologists
+namesake
+u 15
+unsophisticated
+unwaveringly
+upsilon
+unbiassedly
+unreliable
+unclothed
+unlabelled
+unbend
+unsatisfying
+unfatigued
+untouched
+undesired
+unidentifiable
+unguided
+unreadable
+loD 0
+yG 0
+lrk 0
+x 0
+o 10
+ordnance
+overcook
+octogenarian
+overreacting
+oodles
+obsequious
+obliterated
+outperformed
+overrode
+outstanding
+tC 0
+wkd 0
+h 16
+hours
+hayfield
+he
+honey
+hispanic
+herding
+heartbroken
+hardpressed
+hydraulics
+hiccough
+hypersensitiveness
+hailstone
+hairdo
+hefting
+handcuff
+hallelujah
+tt 0
+q 2
+quarrels
+quitting
+q 2
+quarrels
+quitting
+v 12
+vaguely
+vindictiveness
+variably
+vitalise
+vases
+venetian
+vindictive
+vomited
+vagrants
+valuation
+visitor
+vests
+Ybc 0
+vvi 0

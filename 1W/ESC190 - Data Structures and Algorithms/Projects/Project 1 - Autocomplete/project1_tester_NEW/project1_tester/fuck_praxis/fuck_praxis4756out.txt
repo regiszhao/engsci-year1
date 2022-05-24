@@ -1,0 +1,88 @@
+28
+r 5
+reinforce
+robbing
+recurrent
+rhetoric
+regrettable
+m 3
+murderers
+mealies
+mediation
+sPT 0
+u 1
+urologist
+F 1
+Foamiest
+Sb 0
+z 0
+vv 0
+eb 0
+c 10
+clauses
+coarseness
+cations
+coffee
+cox
+captains
+censoriousness
+cataclysm
+cradled
+copyist
+ax 0
+dq 0
+L 1
+Lurches
+m 3
+murderers
+mealies
+mediation
+r 5
+reinforce
+robbing
+recurrent
+rhetoric
+regrettable
+J 0
+O 2
+Olden
+Outbound
+i 3
+inseparably
+including
+invigorated
+g 6
+grimm
+gloom
+goo
+gondolas
+guttersnipe
+glorying
+j 0
+v 2
+ventriloquists
+vienna
+bP 0
+m 3
+murderers
+mealies
+mediation
+h 2
+helping
+hector
+fO 0
+s 7
+sensitive
+starved
+shushed
+suchlike
+stoop
+stenographers
+starfish
+eV 0
+r 5
+reinforce
+robbing
+recurrent
+rhetoric
+regrettable

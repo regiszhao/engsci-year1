@@ -1,0 +1,59 @@
+14
+gdo 0
+y 1
+yachts
+uC 0
+b 24
+busts
+bureaucratically
+brainstorms
+backspaces
+before
+bewilder
+bedmaker
+boned
+biassed
+betrayal
+barricade
+boiling
+boerwar
+bowled
+bigheads
+befits
+bilge
+buffoonery
+buttresses
+bizarre
+beret
+bedbugs
+beakers
+beating
+y 1
+yachts
+dP 0
+na 1
+nauseousness
+qx 0
+h 9
+hebrews
+hospices
+halt
+holy
+harmonising
+hostel
+harmful
+havoc
+hydrogenation
+P 7
+Puffballs
+Pathways
+Perceiving
+Pedestrians
+Pelvises
+Propellant
+Pawned
+Bv 0
+Z 0
+hgm 0
+Q 1
+Quotas

@@ -1,0 +1,37 @@
+18
+S 4
+Shipbuilders
+Scrabbling
+Slots
+Swallowtail
+s 10
+sapper
+settling
+spokes
+sledgehammers
+satin
+silversmiths
+soler
+similarity
+scoopful
+siberia
+bd 0
+dy 0
+kk 0
+MVU 0
+Dz 0
+H 3
+Hairstyling
+Humerus
+Heir
+Lm 0
+k 0
+cl 0
+yp 0
+PxB 0
+aCl 0
+Qui 0
+ddp 0
+u 1
+undocumented
+wS 0

@@ -1,0 +1,138 @@
+14
+wg 0
+qZy 0
+yps 0
+W 8
+Weekdays
+Wainscoting
+Whines
+Wonder
+Whodunit
+Weaning
+Woe
+Wiped
+Ur 0
+l 23
+launches
+leprechauns
+low
+loco
+lab
+lachrymose
+legionary
+lit
+leapyear
+lepers
+lips
+likelier
+lunchpack
+lunges
+leprosy
+lockage
+ligament
+latch
+linnets
+loops
+longwinded
+limitation
+lounging
+vm 0
+A 10
+Ardently
+Adequate
+Arbour
+Alt
+Amir
+Attire
+Archer
+Astigmatic
+Adapter
+Activating
+V 1
+Vitamins
+gm 0
+m 43
+massages
+maddened
+magneto
+mortgages
+mending
+memories
+morales
+mantled
+mechanicals
+monotheist
+misclassified
+maidservant
+modifying
+mistake
+mutely
+mourns
+mince
+millions
+meddler
+moralists
+mutineer
+multiprocessing
+massively
+murkiest
+memorable
+masterwork
+mapping
+malnutrition
+maze
+macaroni
+managements
+mentioning
+misnomers
+matriculate
+maidservants
+mincemeat
+meeting
+macabre
+mazes
+miniskirt
+maternally
+musts
+microfiche
+d 38
+dublin
+determiner
+delegates
+disaster
+drained
+directional
+deacons
+dispersion
+disseminating
+destruction
+darker
+dispensation
+desired
+dewy
+doorman
+demilitarised
+defenestrated
+diatom
+driest
+disunion
+dismissals
+digesting
+duplicitous
+dialogue
+defeatist
+downing
+diffusional
+disloyal
+doctor
+definitively
+disguises
+depolarisations
+disembarked
+degrease
+dribble
+decisiveness
+dervishes
+deepest
+hd 0
+yC 0

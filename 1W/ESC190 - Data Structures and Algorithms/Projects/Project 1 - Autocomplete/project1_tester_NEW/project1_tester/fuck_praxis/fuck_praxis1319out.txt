@@ -1,0 +1,165 @@
+15
+y 1
+youthful
+mB 0
+g 18
+gunships
+ganglia
+gemstones
+goalposts
+ghoul
+gaining
+gargantuan
+glimmers
+gimlet
+gargoyle
+gnarled
+gentleness
+good
+glasshouse
+glaciologists
+gumtrees
+grief
+gormless
+t 27
+tapestries
+tissues
+tabulated
+temper
+thyristors
+temperately
+totalitarian
+telephoto
+trunking
+tonalities
+torah
+tolerable
+thunderclap
+treatments
+trying
+thatcher
+truce
+truncheons
+timekeepers
+tarred
+tempted
+trumped
+tenet
+translators
+telephoto
+tussling
+terminator
+Dq 0
+fZ 0
+ca 4
+candidacy
+cab
+cawing
+canyon
+Czt 0
+Wr 0
+osq 0
+c 43
+chiropody
+chaperones
+ceremoniously
+cents
+corollary
+coaxes
+classlessness
+chauvinists
+claymore
+cockiest
+confusable
+costar
+candidacy
+chromosome
+cab
+conga
+coprocessors
+concurrency
+cookies
+cawing
+comeliness
+cuffing
+computationally
+corresponds
+conclave
+controversial
+conspicuous
+circumcised
+chemiluminescent
+consuls
+canyon
+contingencies
+colonnades
+cordillera
+conjunctive
+cleaning
+curiosity
+crevasses
+corporatism
+collect
+concurrently
+circumstance
+connections
+ts 0
+b 40
+broke
+brasserie
+barbarous
+bitten
+broadens
+boost
+breathable
+baptismal
+bounces
+biweekly
+bluish
+bearskins
+bangle
+bedevilled
+both
+brazen
+breakages
+buoyancy
+brochure
+brutal
+baronet
+brandished
+burn
+bromine
+bestsellers
+biggish
+brutishness
+blaspheme
+bookmaking
+ballets
+bigotry
+bedpan
+ben
+bathes
+bobs
+boasted
+badger
+bravest
+beermat
+betrothal
+u 16
+unmentioned
+undisputed
+unbuttoned
+unguarded
+unfair
+uncompetitive
+uncouth
+unbranded
+unset
+unsweetened
+uncrossable
+utilised
+unconfirmed
+unverified
+underloaded
+unceasing
+xv 0

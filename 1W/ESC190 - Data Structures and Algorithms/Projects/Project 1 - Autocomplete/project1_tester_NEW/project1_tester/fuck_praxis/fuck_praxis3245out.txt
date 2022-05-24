@@ -1,0 +1,10 @@
+6
+srP 0
+qFt 0
+k 3
+kinematic
+khans
+kneeled
+ly 0
+mzg 0
+zq 0

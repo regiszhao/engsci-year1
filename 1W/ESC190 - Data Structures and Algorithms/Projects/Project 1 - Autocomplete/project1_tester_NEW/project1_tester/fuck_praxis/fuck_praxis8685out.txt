@@ -1,0 +1,223 @@
+22
+uj 0
+M 7
+Mysteriously
+Meal
+Mambas
+Mammalia
+Muzzles
+Mistiest
+Motivate
+e 33
+embroiled
+endeavours
+examines
+eligibility
+exterminator
+exhaustion
+economise
+extortionists
+eyewitness
+entrapped
+expound
+entry
+extremity
+emphasised
+evolutionarily
+enounced
+explicated
+exaggerated
+explorers
+elites
+entrap
+enthalpy
+evacuees
+ecstatically
+equity
+eyelash
+excluded
+engraves
+enamel
+enigmatically
+encroachments
+exorbitant
+extensions
+i 32
+invincible
+indents
+indivisibly
+implicitly
+initialise
+inputting
+interned
+infinitude
+intrusiveness
+incinerated
+instructions
+interferometry
+institutionalism
+ingeniously
+interchangeable
+idiocy
+intentioned
+instant
+irritably
+incompletely
+irresolution
+integrity
+implements
+imagine
+incumbency
+illiberal
+indicative
+impertinently
+intoxicated
+inexorably
+icons
+intentionally
+wm 0
+Ya 0
+ao 0
+u 22
+unforgiving
+unanimous
+upon
+upfield
+unnerved
+upbraiding
+unload
+underwrite
+unmissable
+uninterruptedly
+unexacting
+unlikeliness
+underparts
+uneasier
+unfriendliest
+unredeemed
+uncomplaining
+unobservant
+untarnished
+unwittingly
+unbraced
+unamused
+sp 6
+spooking
+spooks
+spaceships
+spun
+spectra
+sprocket
+h 15
+health
+hobbling
+hackles
+hiatuses
+hate
+headiest
+hunks
+haughtily
+headwaters
+homotopy
+harness
+hangs
+hangs
+hyena
+handrail
+x 0
+qj 0
+E 7
+Electrocute
+Epistle
+Evasiveness
+Euthanasia
+Enlightened
+Elemental
+Eunuch
+hd 0
+Gi 0
+ko 0
+bcW 0
+p 45
+panorama
+propelling
+peafowl
+pressure
+privations
+pinky
+ponderous
+polymerisation
+peered
+photocopied
+postmen
+pharaoh
+parodying
+practically
+pruners
+protracted
+priesthood
+pedestrianised
+piped
+pillaging
+playwrights
+prospering
+permeates
+pylons
+percussive
+perennial
+plating
+paddler
+produces
+pickets
+prancer
+pickling
+primarily
+paradox
+priming
+prising
+prototypes
+presuming
+pertinacity
+petting
+posed
+paces
+pinkish
+propitiated
+pall
+cs 0
+m 18
+migrate
+mimicking
+mistyped
+matchstick
+microseconds
+murky
+mouthing
+misuse
+media
+margin
+menopause
+magnates
+malodorous
+multiplexor
+misconduct
+militants
+matchboxes
+mobilisation
+h 15
+health
+hobbling
+hackles
+hiatuses
+hate
+headiest
+hunks
+haughtily
+headwaters
+homotopy
+harness
+hangs
+hangs
+hyena
+handrail
+nO 0

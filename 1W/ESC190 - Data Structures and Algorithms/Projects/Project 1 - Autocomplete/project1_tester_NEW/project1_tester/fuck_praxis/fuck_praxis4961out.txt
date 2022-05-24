@@ -1,0 +1,168 @@
+24
+t 21
+tampering
+turns
+terminals
+transformed
+traditionalism
+tannic
+taunter
+though
+towel
+therapists
+trenching
+trap
+typesetting
+tests
+tenure
+tabled
+telegraphs
+ticked
+thanked
+translators
+tautologically
+p 35
+perceived
+pluses
+pentatonic
+poet
+parachutists
+pseudonymous
+pleural
+polymorphous
+proven
+proteins
+presentiment
+pathetic
+popeyed
+preschool
+prove
+playthings
+pubs
+progressives
+perceptibly
+procreatory
+pushy
+puberty
+preparation
+plops
+prying
+plaited
+planking
+prominence
+played
+precautionary
+padres
+pennames
+prerogative
+pernicious
+peek
+b 17
+blockish
+bombay
+befuddled
+battleship
+buyers
+bedfellows
+bleated
+bloody
+beets
+baiting
+baubles
+banged
+backdated
+boarding
+bizarreness
+blimps
+brochures
+ud 0
+ob 0
+v 6
+valuable
+vassalage
+vicissitudes
+viciously
+vegetarianism
+virulently
+T 7
+Tangentially
+Thwart
+Tenancy
+Traded
+Tragical
+Triples
+Tweeds
+gtg 0
+Upx 0
+qo 0
+p 35
+perceived
+pluses
+pentatonic
+poet
+parachutists
+pseudonymous
+pleural
+polymorphous
+proven
+proteins
+presentiment
+pathetic
+popeyed
+preschool
+prove
+playthings
+pubs
+progressives
+perceptibly
+procreatory
+pushy
+puberty
+preparation
+plops
+prying
+plaited
+planking
+prominence
+played
+precautionary
+padres
+pennames
+prerogative
+pernicious
+peek
+hd 0
+yvi 0
+ug 0
+uc 0
+o 8
+organ
+oracular
+operations
+otherwise
+outpatients
+overdrive
+outbound
+ovular
+VX 0
+lg 0
+vqj 0
+yq 0
+dp 0
+hsp 0
+C 14
+Citation
+Cithers
+Caulking
+Consecration
+Charted
+Cascade
+Colourfully
+Cinders
+Confirms
+Clinics
+Curated
+Centreing
+Cathedrals
+Contemptibly
+CD 0

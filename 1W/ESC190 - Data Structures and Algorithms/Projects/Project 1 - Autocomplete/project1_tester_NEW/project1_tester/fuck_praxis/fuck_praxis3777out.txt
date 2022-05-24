@@ -1,0 +1,57 @@
+12
+ru 1
+rush
+ar 4
+arrowhead
+arctic
+arbitrator
+army
+zlj 0
+M 5
+Maintain
+Mound
+Messy
+Microlight
+Mucky
+udj 0
+xA 0
+Ua 0
+q 2
+quite
+quieten
+l 10
+loanwords
+lymphatic
+listener
+leanest
+loneliest
+luckily
+loiter
+lineout
+litanies
+lies
+v 9
+venous
+vermin
+vaccinating
+vizier
+vicarage
+ventriloquism
+voluptuously
+virulent
+vectorisation
+df 0
+u 13
+unmannerly
+underpinning
+unvoiced
+uninterpreted
+unilateralism
+unmeasurable
+unawareness
+unbalancing
+unbalancing
+unclesam
+unaccommodating
+unsinkable
+unbending

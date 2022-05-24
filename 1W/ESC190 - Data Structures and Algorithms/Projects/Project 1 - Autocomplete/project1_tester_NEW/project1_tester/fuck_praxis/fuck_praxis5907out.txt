@@ -1,0 +1,6 @@
+3
+vF 0
+kn 2
+knuckleduster
+knave
+rd 0

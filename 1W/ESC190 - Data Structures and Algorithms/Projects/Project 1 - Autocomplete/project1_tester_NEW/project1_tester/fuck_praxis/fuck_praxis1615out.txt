@@ -1,0 +1,4 @@
+2
+mc 0
+am 1
+amounted

@@ -1,0 +1,175 @@
+23
+Fw 0
+v 2
+viceroys
+virtue
+pq 0
+g 17
+grainiest
+galaxies
+greedily
+gloves
+gnomes
+giggling
+glosses
+gutting
+guide
+gusher
+gallants
+garrulous
+generally
+goodbye
+goads
+grinner
+globally
+R 10
+Republication
+Repartition
+Rubbished
+Rockfalls
+Raptures
+Resolvent
+Respectively
+Regurgitated
+Regained
+Rhetoricians
+w 15
+warplanes
+witter
+weirdest
+ward
+wreathes
+woman
+wean
+workweek
+waterproofed
+way
+workload
+welsh
+walkways
+wean
+warnings
+fg 0
+Kyz 0
+ky 0
+h 13
+hopefully
+hiker
+herbalist
+hours
+humanitarian
+hitchhikers
+holmes
+harare
+harsh
+hazel
+hydrocarbon
+hurls
+haemorrhagic
+z 0
+p 43
+pronounceable
+platypuses
+patiently
+professes
+performance
+proofing
+pared
+ptolemy
+prospectively
+poked
+pig
+practicabilities
+pinheads
+pupal
+putrefying
+prominence
+pointers
+pixel
+property
+punched
+polluters
+pheasants
+prohibition
+papaw
+phoner
+prevalently
+plaice
+poisonous
+prosecutes
+probity
+puritans
+puzzler
+pixie
+pianistic
+pinpoints
+predictors
+poles
+perambulating
+pamphleteer
+provide
+prairies
+psychotherapists
+perverted
+qwk 0
+qwy 0
+bA 0
+ivv 0
+of 0
+c 35
+cleverly
+contribution
+cranked
+catastrophes
+curricle
+carving
+corneas
+california
+conceits
+considerable
+cookers
+conservative
+clear
+chairmen
+creosote
+concurrency
+cartoonist
+childlessness
+chant
+curtness
+circulant
+crab
+constructs
+compacted
+converted
+counted
+constrains
+conviviality
+collide
+cheery
+curricular
+carthorses
+catalogued
+cannula
+constitutionality
+h 13
+hopefully
+hiker
+herbalist
+hours
+humanitarian
+hitchhikers
+holmes
+harare
+harsh
+hazel
+hydrocarbon
+hurls
+haemorrhagic
+tLt 0
+Tz 0
+gvt 0
+j 3
+juridical
+judgment
+jawbone

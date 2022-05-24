@@ -1,0 +1,100 @@
+22
+geO 0
+H 3
+Horsewhip
+Hearable
+Hollows
+v 8
+verisimilitude
+violin
+vanishingly
+veg
+version
+vibrato
+virgil
+verdure
+ct 0
+ubb 0
+W 2
+Whispers
+Waggles
+v 8
+verisimilitude
+violin
+vanishingly
+veg
+version
+vibrato
+virgil
+verdure
+n 4
+nameplate
+nurturing
+nourished
+numbering
+mFt 0
+nf 0
+eY 0
+sz 0
+tja 0
+zc 0
+e 30
+eavesdropper
+exoskeleton
+extrusion
+ethyl
+equitably
+erect
+element
+egg
+edginess
+edison
+evasions
+examiner
+erudite
+emigre
+eloquent
+excuses
+exogenous
+encases
+extracting
+essentials
+educative
+encephalitis
+emphasise
+exacerbates
+elucidated
+exigency
+elucidation
+enlarger
+epigraphical
+expel
+ti 1
+ticked
+cz 0
+yFn 0
+ce 2
+ceded
+censoring
+Ep 0
+vr 0
+u 19
+underwriters
+unprecedentedly
+upstage
+undecorated
+unclenched
+unnervingly
+ungrounded
+utters
+unofficial
+unnaturally
+unencrypted
+unfathomed
+unpretentious
+undeniable
+universalism
+undefended
+underestimated
+unsafely
+unsympathetically

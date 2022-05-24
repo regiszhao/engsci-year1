@@ -1,0 +1,19 @@
+12
+v 1
+vane
+D 1
+Dreamers
+ekh 0
+v 1
+vane
+H 0
+pua 0
+b 2
+bagged
+bashes
+cn 0
+kJ 0
+VZ 0
+ly 1
+lychees
+o 0

@@ -1,0 +1,18 @@
+12
+tf 0
+S 5
+Soilings
+Soluble
+Sloped
+Sagas
+Searing
+lh 0
+ib 0
+cz 0
+F 0
+koa 0
+ok 0
+tr 0
+K 0
+rr 0
+gj 0

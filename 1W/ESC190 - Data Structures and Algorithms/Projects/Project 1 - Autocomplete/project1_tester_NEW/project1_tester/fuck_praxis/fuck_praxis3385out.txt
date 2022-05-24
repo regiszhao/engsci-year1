@@ -1,0 +1,242 @@
+28
+ekx 0
+yw 0
+nu 1
+numbly
+xd 0
+ol 0
+GI 0
+p 51
+predictive
+putative
+payed
+posterity
+pastor
+pippin
+pliable
+pollen
+parks
+partnership
+providence
+permanence
+preparations
+physiology
+palpable
+poetise
+pairwise
+plough
+potions
+parlourmaid
+pontiffs
+proffers
+prevail
+patchily
+playgroups
+poetically
+pseudo
+proclamation
+playtime
+popularised
+preserve
+paul
+prosperity
+pethidine
+puzzled
+pumped
+pigtailed
+propagandists
+penalisation
+proprietorially
+puzzle
+palliative
+prayers
+planktonic
+parasitised
+patting
+powders
+photogenic
+practicability
+privileged
+proponent
+k 2
+killjoys
+keelhaul
+Vel 0
+mKo 0
+pkX 0
+sy 1
+syndicate
+vr 0
+yrk 0
+f 36
+forgetful
+featured
+focuses
+flaps
+foxhunts
+flurry
+filled
+fanning
+fryers
+forcefulness
+floor
+flapping
+fallibility
+friction
+fluxes
+fundings
+fancied
+floundering
+fiasco
+formulates
+fluidised
+flamboyantly
+foraging
+flints
+foremost
+fetch
+foreshore
+freeholders
+flown
+feedstuffs
+fretwork
+fodder
+finalised
+fingermarks
+foretell
+feebleness
+LeO 0
+h 20
+humbles
+hypersphere
+heaths
+haberdasher
+horribly
+harrowing
+hugged
+herdsman
+hashing
+hesitations
+hulk
+hastily
+hormonal
+hijacks
+helium
+homoeopathy
+homomorphisms
+heirloom
+hugging
+honesty
+c 46
+clefts
+coachload
+coupon
+coercible
+credibly
+chorales
+conceals
+cribbage
+conservativeness
+chill
+cervical
+corrosive
+confront
+captivate
+cadenzas
+chordal
+college
+cabman
+consternation
+cultivated
+connotation
+conformal
+cartwheel
+convalescence
+curl
+convent
+corpses
+corticosteroids
+coped
+cupping
+composites
+chared
+cutout
+condemnable
+calligraphic
+corroboratory
+conductance
+curlier
+covet
+craggy
+coverings
+changeability
+collaboration
+contenders
+celestially
+chinks
+bL 0
+x 0
+ee 0
+p 51
+predictive
+putative
+payed
+posterity
+pastor
+pippin
+pliable
+pollen
+parks
+partnership
+providence
+permanence
+preparations
+physiology
+palpable
+poetise
+pairwise
+plough
+potions
+parlourmaid
+pontiffs
+proffers
+prevail
+patchily
+playgroups
+poetically
+pseudo
+proclamation
+playtime
+popularised
+preserve
+paul
+prosperity
+pethidine
+puzzled
+pumped
+pigtailed
+propagandists
+penalisation
+proprietorially
+puzzle
+palliative
+prayers
+planktonic
+parasitised
+patting
+powders
+photogenic
+practicability
+privileged
+proponent
+gm 0
+vM 0
+ov 2
+overwrite
+oversleep
+DWj 0
+mk 0
+en 3
+entailed
+encores
+enumerate

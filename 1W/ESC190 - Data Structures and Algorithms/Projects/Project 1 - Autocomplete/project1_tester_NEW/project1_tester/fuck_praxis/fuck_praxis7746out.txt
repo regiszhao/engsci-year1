@@ -1,0 +1,109 @@
+28
+vzz 0
+gwj 0
+n 7
+neophyte
+negligent
+noontide
+neurotics
+newlyweds
+notification
+naughty
+cn 0
+vw 0
+m 8
+motif
+malformation
+monarch
+mormon
+misquoted
+mustache
+malingering
+mimeographed
+b 10
+bonds
+biggish
+bulbs
+bedpost
+brittle
+briefly
+boobytrap
+brew
+bookshelf
+beautified
+v 2
+vector
+vestige
+fh 0
+EI 0
+tVE 0
+c 25
+contravene
+crossexamined
+cosmopolitan
+costless
+coachmen
+creole
+cuddles
+casseroles
+clarinettist
+consortium
+channels
+carbohydrate
+chessmen
+coverlet
+composites
+cleavers
+cassock
+crossing
+cesspit
+caldrons
+concession
+catalysis
+cowhand
+cowgirl
+cloths
+vc 0
+LJT 0
+h 9
+herbalists
+homes
+harriers
+hilled
+holds
+haberdashers
+helium
+hauliers
+holy
+bf 0
+Bwm 0
+Wz 0
+os 0
+P 6
+Prejudice
+Prodigies
+Premature
+Proof
+Poorest
+Psychoses
+l 4
+lingerer
+leagues
+luther
+lectures
+ig 0
+h 9
+herbalists
+homes
+harriers
+hilled
+holds
+haberdashers
+helium
+hauliers
+holy
+pNx 0
+kN 0
+Yvi 0
+uw 0
+wn 0

@@ -1,0 +1,150 @@
+18
+hg 0
+rhr 0
+YW 0
+n 8
+niches
+neurosis
+nerd
+narrowly
+nee
+neophytes
+nastily
+newspapermen
+Kf 0
+upd 0
+zo 0
+ys 0
+i 28
+injures
+instant
+imbecility
+incrimination
+indulgently
+imprecations
+insecurity
+interposed
+inflectional
+invigoratingly
+involutions
+inoculates
+inflict
+implementations
+impediment
+inessential
+israeli
+impaling
+isometrically
+impressive
+inhale
+indorses
+impersonating
+irreversibly
+interlocks
+inference
+immaturely
+inuit
+e 27
+exam
+encouragements
+exterminations
+efficacious
+econometric
+ere
+excavators
+extorting
+evergreens
+extrajudicial
+evaluate
+excursus
+elicit
+eelworms
+entirely
+epically
+epoxy
+explode
+elicited
+elitists
+eyed
+extrication
+estuarine
+elaborateness
+expended
+economist
+excavator
+w 9
+warrants
+wast
+wipes
+weal
+woodmen
+wretchedly
+womenfolk
+warred
+whippets
+D 11
+Declamatory
+Draping
+Diplomatically
+Deacons
+Denials
+Demonstrating
+Desecrates
+Decree
+Defection
+Disgraces
+Dissected
+S 20
+Sonora
+Select
+Staring
+Smearing
+Sunned
+Salem
+Supervises
+Sometimes
+Sicily
+Suppurating
+Salving
+Stylisation
+Subjunctive
+Secretariats
+Swill
+Satraps
+Sweetens
+Sampan
+Situational
+Smoker
+Wac 0
+HJ 0
+QpL 0
+i 28
+injures
+instant
+imbecility
+incrimination
+indulgently
+imprecations
+insecurity
+interposed
+inflectional
+invigoratingly
+involutions
+inoculates
+inflict
+implementations
+impediment
+inessential
+israeli
+impaling
+isometrically
+impressive
+inhale
+indorses
+impersonating
+irreversibly
+interlocks
+inference
+immaturely
+inuit
+vg 0

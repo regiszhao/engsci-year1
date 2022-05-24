@@ -1,0 +1,115 @@
+17
+w 12
+weeper
+windswept
+wellmeaning
+wastrel
+walking
+wintriest
+wrinkling
+waxed
+weedkillers
+welldesigned
+wane
+wallpapering
+N 2
+Neuron
+Noun
+t 27
+tremendous
+transmogrifies
+transfusing
+triangle
+trappers
+typographically
+twiddling
+tactless
+transcribe
+teargas
+takeable
+trap
+thicker
+trembles
+tumbles
+themselves
+tenuously
+trampoline
+transposing
+testdrive
+torques
+the
+testaments
+turkey
+thoroughness
+toils
+torched
+gt 0
+a 31
+apparently
+acids
+animates
+alighting
+admittance
+aging
+appealing
+aptest
+abhorred
+anarchists
+amoebae
+attract
+arsenic
+abrogation
+admonition
+amiable
+abscesses
+arouses
+ambassador
+accommodates
+army
+abrogate
+astrolabe
+authors
+abounds
+antedate
+annul
+albeit
+acerbic
+aspires
+acquaintances
+clq 0
+q 1
+qualifications
+eq 0
+iH 0
+gO 0
+ld 0
+q 1
+qualifications
+te 4
+teargas
+tenuously
+testdrive
+testaments
+dv 0
+k 3
+knuckled
+knifed
+kinematics
+n 11
+nieces
+notes
+night
+noiselessly
+nursemaid
+nocturnal
+nutmegs
+numerators
+narration
+numerologists
+nurseryman
+j 5
+jowls
+jape
+jolliest
+jumped
+jerked

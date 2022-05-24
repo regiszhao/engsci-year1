@@ -1,0 +1,186 @@
+28
+T 5
+Taut
+Tolerating
+Transparent
+Tinged
+Trinkets
+KD 0
+af 0
+jWK 0
+ytr 0
+On 0
+gy 0
+cy 1
+cybernetic
+un 18
+unzipping
+unselfconscious
+uncharacteristic
+unearthing
+underestimates
+unnamed
+unwarmed
+undulation
+unresistingly
+unilateral
+uncontrollably
+unobtrusively
+unroll
+underprivileged
+unpopulated
+undefended
+undone
+unimplementable
+w 8
+waspish
+woebegone
+wrings
+warm
+wrest
+woodenly
+washer
+wheatgerm
+sv 0
+hy 0
+o 12
+ore
+overstress
+oil
+ornithologists
+omits
+offertory
+oral
+ordained
+overalls
+outwit
+ontogeny
+outrun
+jy 0
+a 28
+abrasion
+armed
+anyways
+ally
+attended
+alternating
+airlocks
+anatomy
+amorously
+amateurish
+ant
+abscissae
+awkwardest
+agrochemicals
+another
+ajar
+aggravating
+angina
+abbe
+atavism
+ambled
+antiabortionists
+alternators
+antigenic
+adages
+actuators
+agronomy
+abbess
+oRo 0
+LF 0
+Qdq 0
+qwz 0
+ng 0
+d 29
+decimating
+digitally
+demonstrate
+definitively
+dereliction
+disengaged
+drift
+digestion
+dominion
+decimating
+dong
+devalue
+deeply
+dilutes
+discoursing
+detailed
+disproportional
+depriving
+divinity
+digestion
+dynamo
+deep
+disassemble
+devotedness
+detach
+dynamically
+disperser
+dodecahedral
+dehumanising
+a 28
+abrasion
+armed
+anyways
+ally
+attended
+alternating
+airlocks
+anatomy
+amorously
+amateurish
+ant
+abscissae
+awkwardest
+agrochemicals
+another
+ajar
+aggravating
+angina
+abbe
+atavism
+ambled
+antiabortionists
+alternators
+antigenic
+adages
+actuators
+agronomy
+abbess
+L 7
+Limo
+Lockjaw
+Lieu
+Loading
+Lattice
+Lunatic
+Looked
+u 18
+unzipping
+unselfconscious
+uncharacteristic
+unearthing
+underestimates
+unnamed
+unwarmed
+undulation
+unresistingly
+unilateral
+uncontrollably
+unobtrusively
+unroll
+underprivileged
+unpopulated
+undefended
+undone
+unimplementable
+jY 0
+nVw 0
+to 3
+tokyo
+tolerant
+tourist
+xl 0

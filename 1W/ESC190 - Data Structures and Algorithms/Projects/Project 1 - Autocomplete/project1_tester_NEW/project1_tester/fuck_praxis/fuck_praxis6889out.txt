@@ -1,0 +1,208 @@
+21
+nZ 0
+anr 0
+PG 0
+a 48
+accumulating
+advertised
+absolves
+augur
+adapted
+abomb
+aviators
+an
+artefact
+abort
+assassinated
+assimilate
+aced
+angering
+anna
+aider
+assenting
+appearance
+agronomists
+agitation
+agitated
+adaptors
+accountants
+abuzz
+amphibians
+adumbrating
+annoyers
+abutment
+aromatherapist
+acrylics
+aerial
+ascertainable
+artistes
+accenting
+ambient
+alignment
+astringent
+acceptability
+airstrips
+aerodynamics
+amorous
+an
+altercation
+armlets
+among
+acidic
+algeria
+amiableness
+LL 0
+zq 0
+JJ 0
+IZ 0
+NO 0
+ubD 0
+kn 3
+knight
+knell
+knobs
+v 10
+velar
+vanadium
+veld
+velodrome
+vilest
+vestments
+vexes
+venerates
+villain
+vicissitude
+rFR 0
+w 21
+waifs
+waxy
+wallabies
+whitewash
+warlock
+wining
+woollies
+womankind
+weevils
+winches
+wrench
+with
+wittier
+weakened
+washing
+witticism
+waterfront
+whooped
+wolfish
+winging
+wagered
+c 57
+chuckles
+cognition
+carbonate
+cacti
+consorts
+crabby
+cultivar
+calculations
+constitution
+camcorders
+cutlass
+casebook
+cosmically
+cartels
+chiropody
+citrons
+centrefold
+contends
+civilised
+creations
+clotted
+chequered
+cell
+clearway
+caricaturisation
+contorts
+consort
+captaincy
+centralisation
+compatible
+conformist
+comparably
+creatures
+collect
+conceptualising
+chaotically
+comradeship
+cob
+commercials
+cheaters
+confidantes
+choices
+conformance
+crick
+cars
+cup
+curries
+chastely
+creaming
+celandine
+copier
+caking
+commercialisation
+chivalry
+craftier
+carotin
+corrosion
+y 0
+ge 3
+gerbils
+generalists
+gelatin
+nDm 0
+if 0
+t 44
+throwing
+tongue
+trekking
+torchbearer
+transmitted
+throttle
+tearing
+terraform
+tattoos
+toward
+thereof
+tasmania
+translucent
+tacit
+trimmer
+transporting
+tahr
+tricycle
+twanged
+titbits
+tarmacadam
+tearoom
+truculence
+tranquilly
+treachery
+thistle
+temperate
+tangentially
+twill
+theocracies
+tarnish
+tokamak
+termite
+timeless
+technique
+trademarked
+thermodynamically
+trilogies
+treasurers
+tues
+teach
+troublesomeness
+testicular
+teleological
+cD 0

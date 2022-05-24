@@ -1,0 +1,158 @@
+23
+pe 2
+pedestrian
+persecute
+n 1
+necrosis
+rE 0
+l 12
+labourer
+lefthander
+lung
+lurches
+lumberjacks
+labial
+lotus
+largish
+lit
+lake
+lacks
+legislator
+ol 0
+c 32
+coiner
+conceptual
+convenors
+crampons
+cognate
+cranking
+capitate
+corespondent
+collaboratively
+chubby
+cheerleaders
+crumples
+copperplate
+candies
+counterbalancing
+circularly
+councils
+crowding
+concourse
+cousins
+cocked
+cannel
+cardigans
+ceased
+crass
+confederates
+chad
+coaxed
+consorting
+corrigenda
+cleanser
+clayey
+Ila 0
+b 16
+bradawl
+blondes
+bassist
+blockages
+boors
+beauties
+bizarre
+boardrooms
+backgrounds
+blackheads
+budding
+boiled
+belles
+bags
+bedrooms
+bullies
+k 1
+kerb
+c 32
+coiner
+conceptual
+convenors
+crampons
+cognate
+cranking
+capitate
+corespondent
+collaboratively
+chubby
+cheerleaders
+crumples
+copperplate
+candies
+counterbalancing
+circularly
+councils
+crowding
+concourse
+cousins
+cocked
+cannel
+cardigans
+ceased
+crass
+confederates
+chad
+coaxed
+consorting
+corrigenda
+cleanser
+clayey
+wg 0
+kq 0
+al 0
+sE 0
+sb 0
+xR 0
+fWa 0
+o 6
+oversubscribed
+offhand
+observation
+ostracised
+orientate
+oyster
+wH 0
+Yq 0
+c 32
+coiner
+conceptual
+convenors
+crampons
+cognate
+cranking
+capitate
+corespondent
+collaboratively
+chubby
+cheerleaders
+crumples
+copperplate
+candies
+counterbalancing
+circularly
+councils
+crowding
+concourse
+cousins
+cocked
+cannel
+cardigans
+ceased
+crass
+confederates
+chad
+coaxed
+consorting
+corrigenda
+cleanser
+clayey
+si 0
+hd 0

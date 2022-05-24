@@ -1,0 +1,28 @@
+16
+J 1
+Joints
+x 0
+yX 0
+xgc 0
+K 0
+Pnp 0
+sgH 0
+fm 0
+lc 0
+jvc 0
+Nlo 0
+hAm 0
+Tfy 0
+xyd 0
+zA 0
+in 10
+injure
+interactive
+individuation
+interning
+infliction
+index
+inscribed
+inexhaustible
+institutes
+interlacing

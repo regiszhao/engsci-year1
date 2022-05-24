@@ -1,0 +1,160 @@
+27
+UF 0
+j 3
+jungle
+jingo
+joystick
+mp 0
+wmk 0
+Sf 0
+qS 0
+B 7
+Barrage
+Beguiling
+Botanic
+Blossom
+Bathers
+Boxful
+Bluntness
+Pzt 0
+qE 0
+Gt 0
+vjX 0
+dfc 0
+mc 0
+AY 0
+iwt 0
+ms 0
+mN 0
+d 27
+daemonic
+dislocated
+disappearance
+degeneracy
+dextral
+deprave
+deviousness
+dissuaded
+disinherit
+distractedly
+deadlocking
+dominated
+dumbly
+doubts
+deceitfulness
+demists
+doubter
+designates
+denseness
+dowel
+dialogue
+dissuading
+disdained
+disinterestedly
+disarmament
+disillusionment
+disinter
+cxf 0
+cD 0
+i 25
+immigrations
+inconveniences
+invigilate
+interpolatable
+inhumanity
+inertness
+inheritor
+italic
+italicised
+innovating
+infringing
+industry
+inquiries
+inconsiderable
+inventively
+inexhaustible
+instillation
+interventions
+intersect
+immured
+intercollegiate
+isolationist
+inform
+indicants
+inept
+s 36
+shortbread
+sodomise
+specifying
+snowed
+salvo
+snuffed
+scribbling
+snail
+scornfully
+streamline
+sleeker
+solving
+suggestions
+solecism
+slays
+swathe
+sleeper
+serpents
+scruples
+shivering
+stupefying
+subtext
+scrutinise
+solute
+serology
+sociability
+streaked
+stupefyingly
+saxophonist
+sickle
+specification
+sickroom
+signposted
+syllables
+seasonably
+starlight
+l 8
+lessons
+lightening
+laird
+lumpiest
+latecomers
+lied
+leaner
+litchi
+k 2
+kilowatt
+knitter
+zD 0
+r 24
+relined
+refinements
+resettled
+retrace
+retinues
+recharges
+recombines
+rife
+recitals
+rotationally
+racier
+ruminants
+rowdier
+remove
+reintroducing
+repositions
+remember
+regional
+replete
+runts
+raspberry
+redound
+reel
+rug
+dz 0

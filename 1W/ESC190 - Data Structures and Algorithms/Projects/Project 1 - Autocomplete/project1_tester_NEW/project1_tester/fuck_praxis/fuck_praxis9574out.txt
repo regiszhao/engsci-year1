@@ -1,0 +1,52 @@
+14
+qi 0
+Oqw 0
+l 13
+layouts
+lunatic
+landmass
+locking
+levering
+less
+lessening
+lavishing
+lass
+lutes
+lemming
+libation
+labials
+t 4
+topple
+truism
+truncate
+translates
+p 11
+pills
+plateful
+proffering
+purportedly
+procrastinator
+polarising
+prancing
+potting
+piteously
+plotter
+pronominal
+zs 0
+nvi 0
+rl 0
+pqf 0
+Q 1
+Quizzing
+T 3
+Tesseral
+Tepee
+Titular
+z 1
+zipping
+uJ 0
+t 4
+topple
+truism
+truncate
+translates

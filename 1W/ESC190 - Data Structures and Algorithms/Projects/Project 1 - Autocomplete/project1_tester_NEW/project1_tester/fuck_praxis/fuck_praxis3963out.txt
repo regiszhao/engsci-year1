@@ -1,0 +1,18 @@
+15
+tdv 0
+oU 0
+trg 0
+alm 0
+u 0
+sid 0
+l 1
+loose
+us 0
+adq 0
+J 0
+n 0
+rwg 0
+s 1
+scrabble
+xc 0
+ym 0

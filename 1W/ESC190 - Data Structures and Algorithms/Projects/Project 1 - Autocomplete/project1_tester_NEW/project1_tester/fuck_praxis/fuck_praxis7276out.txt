@@ -1,0 +1,58 @@
+9
+fi 5
+fibbers
+fill
+films
+fines
+filling
+mgv 0
+mT 0
+B 11
+Brains
+Baleful
+Bounder
+Befell
+Bustard
+Bradawl
+Braking
+Buzzed
+Backer
+Bulging
+Banning
+G 4
+Grovels
+Gnarling
+Garages
+Gnawed
+p 26
+prospectively
+pressed
+pray
+paddings
+ponce
+postcard
+panics
+pinched
+pianola
+plasma
+portmanteaus
+pleura
+parking
+peach
+pop
+parenthetical
+pardoning
+presbytery
+peoples
+patches
+parcelling
+puffs
+pendulous
+presuppose
+promoters
+priest
+RZ 0
+ln 0
+z 2
+zone
+zeppelin

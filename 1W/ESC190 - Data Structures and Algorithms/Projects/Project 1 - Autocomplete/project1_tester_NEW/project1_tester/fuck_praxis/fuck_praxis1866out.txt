@@ -1,0 +1,94 @@
+8
+KoV 0
+i 24
+irrelevancy
+insidious
+internationalist
+irregularly
+inexpedient
+incongruously
+inhalers
+incubation
+imperturbably
+interment
+iridescence
+incremental
+incapacitate
+incoming
+interpreting
+imitate
+insinuation
+inclined
+illegitimate
+impacting
+insufferable
+incontinently
+improvisation
+interminably
+N 4
+Negation
+New
+Neatly
+Nuzzled
+t 32
+tinsels
+tackiness
+trickiest
+tennis
+tombola
+this
+tragedians
+thou
+toeless
+thatched
+trunnions
+teething
+transmittable
+traversed
+technocracies
+tenser
+tendencies
+tensor
+turbid
+trademark
+triumphal
+trenched
+torturing
+tarns
+tripped
+tobacco
+tenanted
+twirls
+truncheons
+touristic
+tenants
+totems
+Ey 0
+h 18
+huskiest
+headline
+ha
+hiss
+hunchbacked
+hirings
+hellish
+homewards
+humbug
+housed
+homogenise
+hate
+hurries
+hobby
+harmony
+hermaphrodites
+hacks
+handshakes
+rr 0
+v 7
+voltages
+valuable
+vowels
+venomously
+voracity
+venerate
+vouchsafe

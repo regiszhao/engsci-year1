@@ -1,0 +1,14 @@
+5
+t 2
+terror
+theorised
+a 3
+arrival
+author
+announces
+nw 0
+w 3
+willow
+weatherbeaten
+warehouseman
+m 0

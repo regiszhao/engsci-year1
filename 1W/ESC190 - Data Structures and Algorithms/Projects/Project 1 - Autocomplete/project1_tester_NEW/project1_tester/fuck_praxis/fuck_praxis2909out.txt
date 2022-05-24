@@ -1,0 +1,274 @@
+29
+mf 0
+u 26
+usurp
+unveil
+unification
+unmissable
+unsolved
+unsuitable
+uncontainable
+undesirable
+unexacting
+unpoetical
+unspeakable
+unobstructed
+undermined
+uprise
+underwear
+unbeknown
+unchristian
+unhealthily
+unspanned
+unexacting
+unhesitating
+unbidden
+upsurge
+unrestrained
+underwriters
+unreceived
+x 0
+k 5
+kaolin
+keystones
+known
+keyword
+kiosk
+gec 0
+j 7
+justice
+jumping
+jiffy
+jolting
+javelin
+jests
+jury
+pqs 0
+gw 0
+d 55
+discouragingly
+diagnostics
+dictating
+dimples
+didnt
+dendrochronology
+distinctiveness
+diskettes
+delicatessens
+distempers
+disporting
+despondent
+drowns
+disgusts
+deadly
+dumfound
+diversions
+dyestuffs
+dirges
+deterioration
+disappeared
+dissipating
+desolation
+draped
+deafness
+duds
+distal
+demise
+demeaned
+declined
+dislocations
+dinner
+disqualifies
+despaired
+devourer
+designable
+distraction
+degeneracy
+dullard
+detainee
+disowning
+duckpond
+drapes
+deck
+draft
+diabolical
+dole
+diver
+discretion
+downsized
+debonair
+docility
+denseness
+differentiable
+deeprooted
+g 21
+glowworms
+gamy
+greatly
+greece
+grumps
+guilelessness
+goodnaturedly
+gout
+golfing
+glimpsing
+garlands
+gift
+grabbed
+grating
+guilty
+goad
+gushes
+grossed
+grouper
+guardhouse
+grown
+vrG 0
+Sc 1
+Scatterers
+eq 1
+equilibrium
+y 1
+yankee
+H 4
+Heave
+Herbivorous
+Heavier
+Hummingbird
+gc 0
+Jy 0
+p 51
+poseidon
+physiologist
+platonic
+proprietors
+prospecting
+pet
+prizewinner
+prevalent
+paranormal
+perplexedly
+pyromaniacs
+plovers
+proscenium
+promenades
+papering
+pups
+prosecutes
+pontoons
+parader
+prevalent
+prostitute
+poisoning
+postboxes
+participates
+poorspirited
+phylactery
+plunging
+puerperal
+progeny
+perpetrated
+pinhead
+presides
+probe
+particular
+primaries
+proximal
+prototyped
+presentiments
+patina
+plainly
+possessively
+pacification
+polycrystalline
+pit
+paradise
+pampers
+pronto
+podium
+precooked
+puffed
+psychosocial
+og 0
+q 5
+queues
+quick
+quizzically
+quenchers
+quay
+o 12
+obscureness
+outbuildings
+oilmen
+overhaul
+outliers
+outcasts
+ordnance
+orientations
+otherwise
+oceans
+ow
+orimulsion
+utn 0
+b 38
+brothel
+boardings
+burdening
+battlers
+bivouacs
+boardings
+blinded
+brabbles
+basque
+blissfully
+buccaneering
+bern
+blacked
+blasphemers
+butchering
+bitten
+bowmen
+barbiturates
+bearings
+bearskins
+blaming
+badminton
+bivouacked
+bands
+bulk
+brasiers
+boutiques
+babbled
+beard
+businessman
+baldness
+bought
+blackening
+bushing
+belgium
+bluesy
+benevolent
+baptist
+NU 0
+ye 0
+N 1
+Ndebele
+o 12
+obscureness
+outbuildings
+oilmen
+overhaul
+outliers
+outcasts
+ordnance
+orientations
+otherwise
+oceans
+ow
+orimulsion
+sl 4
+slighting
+slopes
+sleepiness
+slouched
+Mhm 0

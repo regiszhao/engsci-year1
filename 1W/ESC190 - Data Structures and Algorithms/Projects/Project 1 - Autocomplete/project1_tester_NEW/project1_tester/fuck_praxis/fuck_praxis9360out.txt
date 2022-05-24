@@ -1,0 +1,162 @@
+23
+vm 0
+di 18
+disambiguation
+difficult
+dieting
+dictatorially
+disparagingly
+dissensions
+dialectal
+diphthong
+dip
+disperse
+disbelievers
+discouraging
+dispensations
+dispassionate
+disaster
+disprove
+disbelieving
+distrustfully
+nf 0
+st 9
+static
+striation
+startled
+strewn
+stronghold
+stagflation
+stale
+stridency
+starlike
+sw 1
+sweeter
+p 30
+pride
+ploughshares
+pastors
+pornographers
+previews
+plankton
+pion
+plans
+participates
+petted
+previewed
+participles
+philatelic
+pies
+pascals
+presidential
+propagandist
+plagiarists
+potato
+pikes
+pornographers
+pleasantest
+pincher
+pall
+praiseworthy
+papal
+persuasive
+pollutant
+putative
+parasitology
+h 13
+hauling
+homogenisation
+harboured
+hyperspace
+heap
+haggling
+hedges
+heartily
+halogen
+hellishly
+hypothesiser
+hornpipes
+householder
+o 8
+operas
+orderliness
+oversubscribed
+overvalued
+ornamented
+omnidirectional
+opened
+opaque
+b 13
+battering
+bouts
+barn
+brimstone
+befuddle
+bilge
+bullets
+button
+blacklisting
+bones
+bewilders
+bath
+backyard
+ws 0
+p 30
+pride
+ploughshares
+pastors
+pornographers
+previews
+plankton
+pion
+plans
+participates
+petted
+previewed
+participles
+philatelic
+pies
+pascals
+presidential
+propagandist
+plagiarists
+potato
+pikes
+pornographers
+pleasantest
+pincher
+pall
+praiseworthy
+papal
+persuasive
+pollutant
+putative
+parasitology
+l 16
+laboratories
+linings
+loincloth
+legislatures
+leitmotivs
+lest
+loaves
+lark
+lash
+leat
+lunching
+logically
+lapse
+listens
+looters
+luckier
+pf 0
+pKn 0
+nA 0
+erq 0
+vH 0
+ij 0
+xvo 0
+fy 0
+ek 0
+Tzn 0
+wj 0

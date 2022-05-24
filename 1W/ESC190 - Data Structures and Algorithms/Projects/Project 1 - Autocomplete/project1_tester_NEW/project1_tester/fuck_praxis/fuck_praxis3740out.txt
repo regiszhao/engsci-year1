@@ -1,0 +1,10 @@
+6
+z 0
+io 0
+jk 0
+fb 0
+Im 0
+t 3
+tracheotomy
+transaction
+tech

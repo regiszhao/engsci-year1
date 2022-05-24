@@ -1,0 +1,9 @@
+6
+n 0
+S 2
+Superficially
+Spotted
+n 0
+kb 0
+nk 0
+n 0

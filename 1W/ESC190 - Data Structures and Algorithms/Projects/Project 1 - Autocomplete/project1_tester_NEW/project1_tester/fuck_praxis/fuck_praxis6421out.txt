@@ -1,0 +1,79 @@
+18
+pfk 0
+ai 1
+airlift
+Lys 0
+I 5
+Inform
+Intern
+Inconspicuously
+Incessantly
+Inhibitor
+xp 0
+a 17
+armada
+anaesthetics
+antiseptic
+archdiocese
+apprised
+alleges
+able
+agnostic
+assigning
+acclaimed
+antagonistic
+arab
+affiliated
+alien
+airlift
+aspirin
+appreciable
+va 1
+vampire
+pv 0
+h 5
+huffily
+highly
+harem
+hock
+horizontally
+dJU 0
+i 9
+impermanent
+indenting
+indicators
+interstitially
+iniquitous
+indexers
+intimately
+inclines
+immeasurably
+s 21
+stock
+stylisation
+seasick
+sportive
+scalps
+starring
+slogging
+strand
+stockpiling
+scything
+strengthen
+spectrophotometry
+standpoint
+sustain
+subzero
+symphonies
+satirises
+supports
+storehouses
+stays
+shopkeeper
+dZ 0
+dfP 0
+rOp 0
+do 1
+donates
+jv 0
+MV 0

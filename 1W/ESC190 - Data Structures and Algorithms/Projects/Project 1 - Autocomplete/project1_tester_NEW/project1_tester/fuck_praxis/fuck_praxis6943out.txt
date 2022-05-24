@@ -1,0 +1,261 @@
+29
+py 1
+pyrolyse
+em 1
+emirs
+g 24
+genome
+grouchy
+grandiose
+guest
+grapple
+greatness
+gimmick
+gratuitousness
+grimly
+glob
+groupies
+gimcrack
+glints
+generating
+gerontologist
+gulley
+giddier
+girlie
+gables
+grisly
+grittiest
+gouda
+ghosted
+gangly
+bsv 0
+vla 0
+wlm 0
+XuA 0
+wsu 0
+t 19
+torpid
+turnpike
+trafficked
+tobacconist
+thievery
+theoreticians
+terrorise
+toddler
+trilled
+therefrom
+triggering
+tarn
+tweaks
+traditional
+teenagers
+twigged
+tone
+textured
+topnotch
+w 20
+weasel
+wholesale
+wallow
+wacky
+winery
+winds
+wickedly
+wench
+woodworm
+wheelchair
+wodan
+waning
+wellorganised
+wholeness
+wining
+warns
+writing
+waive
+whipped
+winks
+j 4
+juggled
+joint
+journalistic
+jabbing
+pj 0
+xy 0
+vq 0
+p 61
+pollens
+prescribing
+pilfering
+patriot
+pelmet
+padlocked
+passed
+punctuating
+papilla
+perches
+pandemic
+placements
+preterite
+pearls
+pejorative
+peckers
+patch
+paddock
+persistently
+patina
+pepper
+prophylaxis
+presumptuously
+populous
+psaltery
+pinned
+plasterer
+placings
+payslips
+pyrolyse
+prevent
+paddled
+profitless
+pubic
+poky
+patronisation
+persuaders
+payload
+pointers
+pat
+pillaged
+penetrating
+punchbowl
+photolytic
+pillows
+potter
+preamplifier
+precautionary
+parchment
+primeval
+palpitations
+probabilistic
+pies
+pulsar
+proposing
+patents
+pruning
+pigtailed
+phenylalanine
+preservatives
+predestination
+hs 0
+ra 6
+ravens
+rattier
+radiator
+rattles
+rankle
+ranching
+a 43
+anticoagulants
+absentminded
+armchair
+aspirins
+attain
+awkwardest
+accolades
+averting
+aster
+annoyances
+axiomatically
+arc
+astraddle
+awning
+apologetic
+abeyance
+afterlife
+autumnal
+abnormalities
+architectural
+amber
+analogues
+abutment
+apex
+attender
+amp
+agonising
+agendums
+aliening
+arced
+antelopes
+allergy
+allowing
+aperiodic
+advertisements
+allegorically
+abrasions
+aquiline
+aestheticism
+ankles
+appeasement
+awnings
+aberrations
+e 29
+epileptics
+enslaves
+examiners
+elm
+extraordinary
+eon
+eludes
+encircled
+eerily
+equate
+exactly
+etui
+exacerbate
+exacted
+engendered
+erosion
+envisioned
+elicits
+eyesight
+extendability
+eclipsed
+exclaimed
+executable
+excelled
+evaders
+emirs
+eritrea
+etymologist
+erica
+w 20
+weasel
+wholesale
+wallow
+wacky
+winery
+winds
+wickedly
+wench
+woodworm
+wheelchair
+wodan
+waning
+wellorganised
+wholeness
+wining
+warns
+writing
+waive
+whipped
+winks
+DB 0
+sq 1
+squalid
+es 0
+k 2
+kickstarts
+klick
+soJ 0
+px 0
+xm 0
+Kz 0
+jU 0

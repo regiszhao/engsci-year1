@@ -1,0 +1,80 @@
+16
+P 9
+Palatal
+Powerhouses
+Preventable
+Pyramidal
+Play
+Prettify
+Peruse
+Punctuates
+Portion
+nTH 0
+lb 0
+b 22
+bludgeons
+board
+bereft
+broach
+brainstorming
+biographer
+blacking
+beads
+burdening
+birdbath
+bluecollar
+bigot
+bargain
+bleacher
+befall
+bogglingly
+bleach
+braying
+bandit
+bombings
+boxes
+bind
+q 3
+quiff
+quisling
+quells
+Bm 0
+co 20
+cohabit
+commute
+coverings
+commencement
+coldly
+convinced
+cockatoos
+colander
+conscripted
+coastguard
+consecrate
+cockiest
+consulted
+coalescence
+colloids
+comedian
+confers
+confidantes
+control
+codification
+w 7
+watermark
+wristwatch
+windsurfing
+wheeled
+wasteland
+wicked
+windsurf
+et 0
+zoR 0
+ep 0
+jww 0
+k 2
+kit
+karate
+xj 0
+y 0
+nS 0

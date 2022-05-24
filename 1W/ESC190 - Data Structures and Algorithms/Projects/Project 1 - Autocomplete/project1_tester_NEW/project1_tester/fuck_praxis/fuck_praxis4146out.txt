@@ -1,0 +1,10 @@
+5
+ite 0
+y 0
+gFi 0
+S 4
+Steeplechase
+Scalding
+Stabiliser
+Secularism
+lp 0

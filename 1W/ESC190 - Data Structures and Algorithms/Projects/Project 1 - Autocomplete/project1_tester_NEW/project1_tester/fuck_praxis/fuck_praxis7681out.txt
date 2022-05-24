@@ -1,0 +1,9 @@
+5
+N 0
+EY 0
+K 0
+bn 0
+f 3
+frail
+flying
+funnier

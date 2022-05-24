@@ -1,0 +1,17 @@
+11
+g 5
+genets
+gaberdine
+gust
+gradients
+grievous
+Nk 0
+ws 0
+Ih 0
+ed 0
+Nb 0
+Ko 0
+kj 0
+eTa 0
+Fbr 0
+vm 0

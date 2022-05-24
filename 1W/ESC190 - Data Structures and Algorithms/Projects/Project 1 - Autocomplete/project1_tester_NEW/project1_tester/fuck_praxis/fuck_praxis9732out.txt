@@ -1,0 +1,111 @@
+20
+cs 0
+heu 0
+zx 0
+GE 0
+oj 0
+o 5
+overwritten
+opted
+ozone
+operating
+override
+m 18
+mellower
+misnomers
+mouthing
+minings
+middle
+misanthropic
+magnificent
+merman
+mistranslations
+marrying
+motives
+marriages
+metabolisms
+moribund
+molesters
+medieval
+meditates
+mouthed
+wz 0
+z 1
+zooming
+Sh 1
+Shiftiness
+B 3
+Bleeps
+Bureaucratisation
+Blackmailers
+c 33
+claiming
+cornice
+concert
+concordat
+corrugated
+centreing
+compulsions
+corridors
+cordon
+carcinogenesis
+cryptanalytic
+convulsion
+carting
+child
+circulant
+cannabis
+canon
+characterised
+cleanest
+collections
+condone
+collecting
+communions
+columnist
+cystic
+couched
+coherence
+conceivable
+composites
+cease
+certificated
+cutback
+called
+w 9
+wellearned
+wellmannered
+worded
+woodworking
+wriggled
+wrestled
+wickerwork
+wires
+wiser
+dJ 0
+q 3
+quotations
+questionings
+quagga
+b 16
+bureaus
+babysitter
+beardless
+bookers
+bombastic
+bookmarks
+bleep
+begged
+banshee
+bounced
+bluecollar
+bonsai
+billeted
+believe
+breakwater
+bittiness
+At 0
+dc 0
+Pmt 0
+V 1
+Visitations

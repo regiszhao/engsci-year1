@@ -1,0 +1,225 @@
+22
+ig 0
+SfR 0
+e 24
+extenders
+empty
+earphones
+emigrants
+esprit
+enriches
+eight
+expunges
+encumber
+entertainer
+evangelicals
+entertainment
+erudite
+extraterrestrial
+ennui
+elides
+executes
+endorsement
+entwining
+exclamation
+employee
+emphatically
+entities
+ems
+H 6
+Heartstrings
+Harp
+Humbly
+Hooked
+Horn
+Hauler
+Q 1
+Quarrel
+qc 0
+w 14
+wildlife
+windsurfing
+weakling
+watt
+whirlwind
+waft
+waterloo
+woodcut
+wholesomely
+western
+woodsman
+wearier
+worsened
+wetting
+z 0
+scP 0
+qo 0
+H 6
+Heartstrings
+Harp
+Humbly
+Hooked
+Horn
+Hauler
+g 20
+girl
+girlie
+girlhood
+gavials
+gramophone
+gastritis
+grubbier
+girlhood
+grazes
+ghanian
+glibness
+grit
+gaiter
+gruffly
+guiltiness
+goddess
+guiltier
+gating
+grunter
+granule
+b 35
+blink
+browsed
+biased
+boomed
+bibliophile
+ballistic
+bicentenary
+blunting
+bypass
+bevel
+bolivia
+bloomers
+brightly
+belles
+biters
+bathe
+blinkering
+borne
+bates
+bald
+bather
+breezily
+bier
+beautifiers
+budged
+biogeographical
+blackhead
+brazenness
+brunch
+briar
+burlesquing
+batter
+bordered
+bite
+blacksea
+z 0
+r 27
+radiated
+royalists
+ribbing
+ripped
+rover
+reusing
+reefing
+rejected
+runniest
+romanticises
+rodent
+reconsideration
+rekindled
+radiographs
+ruinous
+rehydrate
+referees
+raid
+readmitted
+repudiate
+ranging
+racism
+ruffs
+roast
+rattlesnake
+reuse
+rankings
+m 30
+monarchies
+magnums
+misdealing
+mantel
+modulate
+mountaineers
+maestro
+mindboggling
+monotonous
+muddling
+migrant
+mores
+menaced
+marginal
+militancy
+mesosphere
+murdered
+merry
+meddled
+mobilise
+miscasting
+morpheus
+metabolism
+multipliers
+mixups
+midfielder
+macrobiotic
+minim
+modems
+mummify
+m 30
+monarchies
+magnums
+misdealing
+mantel
+modulate
+mountaineers
+maestro
+mindboggling
+monotonous
+muddling
+migrant
+mores
+menaced
+marginal
+militancy
+mesosphere
+murdered
+merry
+meddled
+mobilise
+miscasting
+morpheus
+metabolism
+multipliers
+mixups
+midfielder
+macrobiotic
+minim
+modems
+mummify
+nJ 0
+D 8
+Delegation
+Dwarves
+Delate
+Deuced
+Diacriticals
+Diabetic
+Disarray
+Depart
+ecm 0
+x 1
+xrays
+ix 0

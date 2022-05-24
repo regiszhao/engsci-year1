@@ -1,0 +1,11 @@
+7
+b 1
+buy
+nR 0
+aa 0
+q 0
+o 1
+ointments
+A 1
+Amputee
+Jb 0

@@ -1,0 +1,11 @@
+3
+c 7
+crowding
+contend
+congruences
+colourings
+compromised
+colobus
+carts
+zn 0
+ES 0

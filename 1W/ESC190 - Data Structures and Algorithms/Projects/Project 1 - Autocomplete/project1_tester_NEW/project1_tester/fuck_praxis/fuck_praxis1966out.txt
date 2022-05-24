@@ -1,0 +1,194 @@
+21
+xAx 0
+ch 7
+charging
+chances
+chug
+chops
+charioteer
+chauvinist
+chewed
+d 34
+dialogue
+davinci
+demotes
+distributions
+doughnuts
+drags
+dinginess
+disgorge
+disenfranchisement
+defers
+doorsteps
+dumbly
+dose
+discontinuous
+database
+disposes
+detrimentally
+disenchantment
+disobedience
+dreamiest
+dyspeptic
+dye
+dons
+detour
+desisting
+depressed
+docked
+divergence
+doom
+decentralised
+defeatist
+destroyers
+deflating
+dudgeon
+pA 0
+w 20
+weakling
+waiting
+wondrously
+weathers
+withdrew
+wherewithal
+wooden
+warbled
+wolfishly
+weightier
+wallpapers
+wool
+warmblooded
+weakly
+waterfront
+waggish
+waxwork
+wrench
+worship
+watersheds
+q 5
+quota
+quintessential
+queued
+quarters
+quince
+xOr 0
+ad 3
+advocates
+administratively
+additively
+B 6
+Baobab
+Booms
+Bespectacled
+Blare
+Breakins
+Blasphemies
+q 5
+quota
+quintessential
+queued
+quarters
+quince
+xi 0
+t 29
+transcendent
+tersely
+trial
+thor
+trickiest
+tracks
+terrazzo
+teletext
+truncheon
+therms
+truculence
+theoretic
+trombonist
+tapeworms
+transferee
+troublesome
+truculently
+truculence
+tachyons
+tectonically
+translate
+tags
+thai
+takeaways
+tantalising
+talismans
+truss
+translated
+tidying
+h 21
+hindsight
+hub
+hoodwinked
+hawking
+helpings
+helpings
+hailstone
+hybridised
+hauteur
+horrifyingly
+hunching
+haitian
+heist
+hoofs
+homemade
+handicrafts
+heathen
+healer
+handicaps
+handbook
+hypocrites
+ec 0
+nT 0
+exb 0
+A 15
+Assignments
+Appellation
+American
+Amoebic
+Arguable
+Alimony
+Aspirated
+Assembled
+Aquanaut
+Anklet
+Altarpieces
+Ascetics
+Alleviations
+Abrogations
+Auger
+B 6
+Baobab
+Booms
+Bespectacled
+Blare
+Breakins
+Blasphemies
+R 20
+Ruptured
+Reformulated
+Reining
+Reverberating
+Reputation
+Resubmits
+Raucously
+Repossessing
+Reformists
+Relived
+Reveille
+Regimented
+Rehearing
+Rear
+Restated
+Rueful
+Reimbursement
+Receipt
+Retelling
+Revised
+LW 0
+z 1
+zionist

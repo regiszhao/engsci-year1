@@ -1,0 +1,97 @@
+15
+mlq 0
+u 14
+unregarded
+unchronicled
+undermine
+unconnected
+unconditioned
+undrinkability
+unclasping
+unfancied
+uplink
+uncreated
+unmentionable
+unconventionally
+unseemly
+unwelcome
+X 0
+ER 0
+u 14
+unregarded
+unchronicled
+undermine
+unconnected
+unconditioned
+undrinkability
+unclasping
+unfancied
+uplink
+uncreated
+unmentionable
+unconventionally
+unseemly
+unwelcome
+S 16
+Shaky
+Sweet
+Subways
+Shredded
+Sit
+Strifes
+Sterilised
+Subscribe
+Seduce
+Swilling
+Suitable
+Sane
+Scotches
+Sublimated
+Stuffiness
+Significance
+cv 0
+R 10
+Revitalised
+Reducer
+Rectory
+Remembered
+Rubbished
+Rail
+Restful
+Respond
+Recreational
+Ridges
+ci 0
+eZl 0
+n 10
+nomenclature
+neologism
+nostrils
+naphtha
+necessary
+nimble
+neutrals
+noah
+needles
+narrating
+f 16
+fen
+freaks
+flogging
+flouted
+fantasia
+frogman
+focused
+fouling
+facade
+fulminating
+fallacies
+friendlessness
+faller
+fullscale
+flutter
+foyers
+Rhl 0
+gi 0
+Y 1
+Yeaned

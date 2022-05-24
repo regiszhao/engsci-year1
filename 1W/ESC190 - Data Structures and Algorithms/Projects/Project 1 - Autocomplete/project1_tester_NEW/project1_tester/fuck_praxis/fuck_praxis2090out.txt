@@ -1,0 +1,10 @@
+7
+g 1
+gantry
+ytF 0
+E 1
+Epoxy
+BZ 0
+R 0
+nap 0
+u 0

@@ -1,0 +1,12 @@
+8
+z 1
+zonation
+Pk 0
+gh 0
+fc 0
+Ov 1
+Overoptimistic
+vs 0
+sO 0
+q 1
+qualms

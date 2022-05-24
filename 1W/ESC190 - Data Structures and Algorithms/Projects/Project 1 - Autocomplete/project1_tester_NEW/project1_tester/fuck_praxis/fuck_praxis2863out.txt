@@ -1,0 +1,8 @@
+3
+lt 0
+cr 4
+criminality
+crispness
+credited
+cryings
+vx 0

@@ -1,0 +1,53 @@
+9
+q 2
+quills
+quavers
+B 9
+Bubbled
+Baronet
+Bedsteads
+Bounced
+Blossoms
+Balder
+Budgeted
+Bloodstains
+Believe
+P 22
+Pluralistic
+Propitious
+Plaza
+Pressman
+Professionalised
+Plummet
+Pianoforte
+Pardonable
+Pomp
+Pyrite
+Persian
+Pantograph
+Pale
+Pouts
+Pugilistic
+Penalise
+Permeability
+Purposeful
+Politesse
+Picturesqueness
+Petrol
+Pout
+ANd 0
+qa 0
+gsC 0
+gq 0
+JU 0
+E 10
+Earthing
+Enjoyed
+Escape
+Epsilon
+Exposure
+Exertion
+Evaluations
+Elementally
+Exhausting
+Eavesdrop

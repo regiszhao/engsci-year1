@@ -1,0 +1,10 @@
+4
+kd 0
+h 5
+hurdler
+hireling
+hoods
+headmasters
+hoard
+dwr 0
+ubT 0

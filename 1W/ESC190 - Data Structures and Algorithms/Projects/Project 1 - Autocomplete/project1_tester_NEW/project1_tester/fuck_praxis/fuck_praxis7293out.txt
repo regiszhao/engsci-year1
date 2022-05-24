@@ -1,0 +1,73 @@
+6
+f 27
+floozy
+fortunate
+forerunner
+fawning
+file
+fugue
+firemen
+forbearance
+friars
+fustian
+found
+feudalism
+feeder
+fax
+funnels
+furs
+forepaw
+frolicked
+friars
+france
+frailer
+frailest
+fogs
+fallacy
+flukier
+flyover
+fertile
+u 32
+unvisited
+ungainly
+unproven
+unemployable
+unengaged
+uncrowded
+uncharacteristically
+unfeigned
+unpopular
+uncoiling
+untaxed
+uncorked
+unluckiest
+unidentified
+unburden
+uninjured
+undirected
+uploaded
+unsuspected
+unsubtly
+unbuttoning
+ungrateful
+unbreakability
+unflinchingly
+unloads
+unmodified
+ureter
+undeliverable
+untrained
+unstoppably
+untruths
+unoccupied
+O 6
+Overworked
+Olives
+Overcapacity
+Obesity
+Operationally
+Opinion
+tz 0
+tM 0
+unm 1
+unmodified

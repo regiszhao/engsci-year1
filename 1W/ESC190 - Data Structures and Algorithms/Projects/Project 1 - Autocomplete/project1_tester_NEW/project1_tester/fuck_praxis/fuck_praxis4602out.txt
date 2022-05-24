@@ -1,0 +1,193 @@
+24
+kE 0
+sk 0
+kt 0
+qvZ 0
+H 6
+Handgun
+Handbills
+Hurting
+Harmonise
+Hustling
+Headwind
+wB 0
+fi 2
+fizzles
+firefighting
+xE 0
+cr 3
+crumbled
+cryptographic
+crete
+q 3
+quit
+quasar
+queasiness
+pI 0
+ft 0
+b 44
+bear
+brutalities
+birched
+beelines
+balance
+backwards
+breathe
+beseeches
+buoy
+building
+biz
+beset
+bedouin
+batsmen
+bureaucratic
+brakes
+bothersome
+burg
+blanched
+businesses
+barleycorns
+billboard
+bootprints
+boldly
+battled
+bach
+blotchy
+batters
+businesses
+bimodal
+beckoning
+branches
+butchering
+bridesmaids
+burps
+buffing
+bishopric
+babyish
+billiards
+believably
+busman
+blanking
+blackjack
+blueberries
+b 44
+bear
+brutalities
+birched
+beelines
+balance
+backwards
+breathe
+beseeches
+buoy
+building
+biz
+beset
+bedouin
+batsmen
+bureaucratic
+brakes
+bothersome
+burg
+blanched
+businesses
+barleycorns
+billboard
+bootprints
+boldly
+battled
+bach
+blotchy
+batters
+businesses
+bimodal
+beckoning
+branches
+butchering
+bridesmaids
+burps
+buffing
+bishopric
+babyish
+billiards
+believably
+busman
+blanking
+blackjack
+blueberries
+eNk 0
+a 44
+altered
+aims
+accountant
+apprehensive
+affectations
+assists
+anthem
+alliterating
+adore
+annuls
+aristocratic
+agreeable
+anglian
+aggravated
+abilities
+acquits
+auriculas
+asymmetrical
+algebras
+accused
+activity
+afire
+accumulated
+admin
+aerating
+atomicity
+accompanies
+anomalies
+accelerates
+aggrieved
+auk
+anatomically
+anthropology
+alternative
+adherence
+afforded
+adversities
+authorised
+aslant
+audible
+acrobats
+agora
+autobiographically
+atherosclerosis
+bii 0
+gE 0
+H 6
+Handgun
+Handbills
+Hurting
+Harmonise
+Hustling
+Headwind
+cv 0
+bc 0
+U 12
+Unselfishness
+Unsealing
+Unreceptive
+Uneconomic
+Unhappily
+Ungraceful
+Unfaithfulness
+Untimely
+Unjustifiably
+Unguarded
+Upsetting
+Unselfconscious
+qp 0
+y 4
+yelped
+yarn
+yuletide
+yoga

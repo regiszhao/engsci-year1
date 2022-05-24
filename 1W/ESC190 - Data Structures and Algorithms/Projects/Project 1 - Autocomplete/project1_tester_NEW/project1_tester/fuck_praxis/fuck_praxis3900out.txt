@@ -1,0 +1,8 @@
+5
+prw 0
+Lo 0
+VG 0
+v 2
+videophone
+vibrato
+aD 0

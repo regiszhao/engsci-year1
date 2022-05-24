@@ -1,0 +1,16 @@
+13
+eVn 0
+fz 0
+e 2
+endogenous
+extracellular
+r 0
+tX 0
+L 0
+maq 0
+uam 0
+a 0
+zna 0
+Kx 0
+Tg 0
+g 0

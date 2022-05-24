@@ -1,0 +1,216 @@
+20
+jp 0
+k 1
+kaftan
+f 22
+fording
+formalistic
+foment
+feathering
+fanatical
+folklorist
+financiers
+feathers
+fearful
+foragers
+farm
+fedora
+forgave
+flattens
+fairies
+follow
+fizzed
+focussing
+fasteners
+footstool
+failings
+filled
+pd 0
+qs 0
+k 1
+kaftan
+T 11
+Tenanted
+Thoroughfare
+Testy
+Tasks
+Teenaged
+Tideway
+Temperamentally
+Touristic
+Thoughtfulness
+Thunders
+Times
+Ef 0
+ig 1
+ignominiously
+q 5
+qualification
+quincentenary
+quests
+quickening
+quern
+p 42
+personnel
+prescribing
+paraboloid
+positives
+peptic
+pundit
+pressured
+paleness
+plaque
+principle
+parameters
+parenthetic
+pamper
+proposers
+personified
+proletarian
+platypus
+parentheses
+perms
+presiding
+pyracantha
+precepts
+probationary
+procreated
+priesthood
+panels
+peeped
+peatland
+populism
+putter
+peptides
+penurious
+pressure
+protectionist
+palisade
+predating
+prowess
+pointedness
+polyphony
+punishing
+penetrations
+phrenology
+a 30
+agoraphobia
+appellants
+agonise
+adiabatic
+assimilating
+ambiguously
+ale
+accept
+abele
+adaptable
+attendant
+accuses
+accomplishing
+attributing
+albatrosses
+audibility
+autobahn
+antenatal
+askers
+aspersions
+amputating
+atropine
+apple
+attributed
+appease
+accomplishments
+amputate
+ascertainment
+associatively
+angry
+r 29
+rivetingly
+recompile
+reinsert
+rinses
+residual
+roughing
+rationale
+richly
+raid
+regulating
+recirculating
+repulsed
+retentive
+ridiculing
+reloaded
+rasped
+remarriage
+risking
+rankness
+represents
+regionalism
+reconsider
+releasing
+reformist
+roadhouse
+renormalisation
+repetitive
+reciprocally
+rota
+ys 0
+ua 0
+tuf 0
+is 0
+i 35
+ignominiously
+initialised
+inanely
+inequalities
+impede
+interpretive
+inextinguishable
+ingredient
+infuriates
+impostors
+invalidation
+impartial
+invisibly
+impatient
+impermeability
+imp
+impersonality
+infringed
+intimidate
+incumbency
+improves
+irrecoverably
+indefinitely
+injected
+instantaneous
+incisiveness
+instinctual
+intercession
+insteps
+irruption
+inebriation
+inclusion
+inflecting
+incognito
+interjections
+d 18
+diffusion
+delinquents
+disarmingly
+drawing
+dissatisfactions
+distressingly
+dauber
+disposals
+doorkeeper
+dieter
+direst
+dismemberment
+dulcimer
+demonic
+discrepancies
+dieter
+deflections
+dish
+dut 0

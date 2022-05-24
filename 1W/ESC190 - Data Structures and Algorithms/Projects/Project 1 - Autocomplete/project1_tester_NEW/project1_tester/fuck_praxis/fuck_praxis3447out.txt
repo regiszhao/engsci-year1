@@ -1,0 +1,145 @@
+28
+dx 0
+eUt 0
+Drm 0
+Ppu 0
+vd 0
+q 5
+quid
+quadrants
+quipped
+questionnaires
+quitted
+tu 1
+turmoil
+njy 0
+xSt 0
+gLd 0
+x 0
+nh 0
+R 13
+Recital
+Retention
+Remix
+Rifleman
+Rehousing
+Retry
+Rotatable
+Refrigerant
+Revises
+Refolding
+Remedy
+Residuals
+Regatta
+tt 0
+aZ 0
+h 18
+hardliners
+hashish
+hieratic
+hoist
+halons
+hex
+hoping
+haggardness
+hemline
+hatters
+hairstyling
+headwinds
+handiwork
+halitosis
+home
+healers
+houston
+handbell
+r 49
+remembering
+resiting
+reproof
+remastering
+reggae
+ranchers
+retinitis
+regions
+railway
+revoking
+radar
+remix
+rephrases
+reinstates
+recopied
+regressions
+replugged
+repugnance
+rhino
+rescinding
+rouses
+rewritten
+rarities
+recording
+reused
+reinvestment
+receptionists
+reclines
+revokes
+router
+rendezvous
+revitalised
+remonstrating
+redhanded
+roamed
+roundest
+relocation
+rethink
+recharging
+ruining
+regrow
+retinas
+rearguard
+removers
+redoing
+racists
+retaining
+responsibilities
+refluxing
+R 13
+Recital
+Retention
+Remix
+Rifleman
+Rehousing
+Retry
+Rotatable
+Refrigerant
+Revises
+Refolding
+Remedy
+Residuals
+Regatta
+db 0
+bp 0
+Bzs 0
+G 9
+Gingerly
+Gritting
+Galvanometric
+Glossy
+Gateaux
+Gelding
+Gaped
+Gauntlets
+Gateposts
+Q 0
+wx 0
+LW 0
+Hw 0
+gC 0
+be 8
+beetle
+beeps
+bereavement
+beanery
+bedouins
+bearably
+beachhead
+bent
